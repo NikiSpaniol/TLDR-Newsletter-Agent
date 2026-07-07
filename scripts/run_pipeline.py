@@ -18,6 +18,7 @@ from pathlib import Path
 
 import extract
 import fetch
+import generate_digest
 import summarize
 import write_episode
 from dedupe_pool import pool
@@ -43,8 +44,10 @@ def run_for_newsletter(newsletter: str, eml_paths: list, run_date: date):
     fetched_path = fetch.main(str(pooled_path))
     summaries_path = summarize.main(str(fetched_path))
     episode_path = write_episode.main(str(summaries_path))
+    digest_path = generate_digest.main(str(summaries_path))
 
     print(f"\nTLDR {newsletter} episode script ready: {episode_path}")
+    print(f"TLDR {newsletter} digest page ready: {digest_path}")
     return episode_path
 
 
