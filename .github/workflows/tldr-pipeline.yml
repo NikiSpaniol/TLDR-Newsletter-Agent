@@ -1,0 +1,67 @@
+name: TLDR Pipeline
+
+# GitHub Actions cron is UTC-only, but the schedule in the build brief is
+# Australia/Sydney local time, which shifts between UTC+10 (AEST) and
+# UTC+11 (AEDT) with daylight saving. Rather than track DST manually, we
+# fire at both possible UTC times for 6am Sydney and let the first job
+# step figure out which firing is the real one right now, skipping the
+# other silently.
+on:
+  schedule:
+    - cron: '0 19 * * 1,4'  # 6am Sydney during AEDT (roughly Oct-Apr)
+    - cron: '0 20 * * 1,4'  # 6am Sydney during AEST (roughly Apr-Oct)
+  workflow_dispatch: {}  # allows manually triggering a run from the Actions tab
+
+permissions:
+  contents: write  # needed to commit the generated episode scripts back to the repo
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if it's actually 6am Sydney time right now
+        id: check
+        run: |
+          HOUR=$(TZ='Australia/Sydney' date +%H)
+          DOW=$(TZ='Australia/Sydney' date +%u)  # 1=Monday ... 7=Sunday
+          echo "Sydney local time check -- hour: $HOUR, day-of-week: $DOW"
+          if [ "$HOUR" = "06" ] && { [ "$DOW" = "2" ] || [ "$DOW" = "5" ]; }; then
+            echo "proceed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "proceed=false" >> "$GITHUB_OUTPUT"
+            echo "Not actually 6am Sydney time on a Tuesday/Friday -- skipping this firing."
+          fi
+
+      - name: Checkout
+        if: steps.check.outputs.proceed == 'true'
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        if: steps.check.outputs.proceed == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        if: steps.check.outputs.proceed == 'true'
+        run: pip install anthropic google-auth-oauthlib google-api-python-client google-auth google-auth-httplib2
+
+      - name: Restore secrets to local files
+        if: steps.check.outputs.proceed == 'true'
+        run: |
+          echo "JINA_API_KEY=${{ secrets.JINA_API_KEY }}" >> .env
+          echo "ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}" >> .env
+          printf '%s' '${{ secrets.GMAIL_TOKEN_JSON }}' > token.json
+
+      - name: Run pipeline
+        if: steps.check.outputs.proceed == 'true'
+        run: python3 scripts/run_pipeline.py
+
+      - name: Commit and push results
+        if: steps.check.outputs.proceed == 'true'
+        run: |
+          git config user.name "TLDR Agent Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add output/
+          git diff --cached --quiet || git commit -m "Automated run: $(TZ='Australia/Sydney' date +%Y-%m-%d)"
+          git push
