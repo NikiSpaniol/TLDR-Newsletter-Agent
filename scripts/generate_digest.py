@@ -35,81 +35,81 @@ CATEGORY_RULES = [
 DEFAULT_CATEGORY = "product"
 
 CATEGORY_COLORS = {
-    "regulation": "#E2574C",
-    "business": "#E0A639",
-    "research": "#8B7FE8",
-    "product": "#4FBF9A",
+    "regulation": "#3B82C4",
+    "business": "#2FA37A",
+    "research": "#5B8DEF",
+    "product": "#3ECF8E",
 }
+ACCENT = "#2DD4BF"
 
 STYLE_CSS = """
 * { box-sizing: border-box; }
 body {
-  margin: 0; padding: 24px 16px 64px; background: #14100D; color: #F3EEE7;
+  margin: 0; padding: 24px 16px 64px; background: #0E1416; color: #EAF3F1;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
-.wrap { max-width: 700px; margin: 0 auto; }
-a.back { color: #9C8F84; text-decoration: none; font-size: 13px; }
+.wrap { max-width: 1040px; margin: 0 auto; }
+a.back { color: #7E9694; text-decoration: none; font-size: 13px; }
 .hero {
-  background: #1B1512; border-radius: 20px; padding: 28px; position: relative;
+  background: #121C1F; border-radius: 20px; padding: 28px; position: relative;
   overflow: hidden; margin: 16px 0 20px;
 }
 .hero-arc { position: absolute; top: -40px; right: -60px; opacity: 0.35; }
 .hero-top { position: relative; display: flex; justify-content: space-between;
   align-items: flex-start; flex-wrap: wrap; gap: 16px; }
 .hero-title { font-size: 28px; line-height: 1.15; }
-.hero-title .accent { font-family: Georgia, "Times New Roman", serif; font-style: italic; color: #E8734A; }
-.hero-sub { font-size: 13px; color: #9C8F84; margin: 6px 0 0; }
+.hero-title .accent { font-family: Georgia, "Times New Roman", serif; font-style: italic; color: #2DD4BF; }
+.hero-sub { font-size: 13px; color: #7E9694; margin: 6px 0 0; }
 .stats { position: relative; display: flex; gap: 10px; }
-.stat { border-radius: 12px; padding: 10px 18px; background: #2A211C; }
-.stat.hook { background: #3A251A; }
+.stat { border-radius: 12px; padding: 10px 18px; background: #1A2629; }
+.stat.hook { background: #12312E; }
 .stat .num { font-size: 20px; font-weight: 600; }
-.stat.hook .num { color: #E8734A; }
-.stat .label { font-size: 11px; color: #9C8F84; }
-.stat.hook .label { color: #C99074; }
-.list { display: flex; flex-direction: column; gap: 1px; background: #2A211C;
-  border-radius: 14px; overflow: hidden; }
-.row { background: #1F1815; padding: 16px 18px; display: flex; gap: 14px;
-  align-items: flex-start; cursor: pointer; }
-.row .bar { width: 3px; align-self: stretch; border-radius: 2px; flex-shrink: 0; }
-.row .body { flex: 1; min-width: 0; }
-.row-top { display: flex; justify-content: space-between; gap: 10px; align-items: flex-start; }
-.row-top h3 { flex: 1; margin: 0; }
-.row h3 { font-size: 15px; font-weight: 500; }
-.row h3 a { color: inherit; text-decoration: none; }
-.row h3 a:hover { text-decoration: underline; }
+.stat.hook .num { color: #2DD4BF; }
+.stat .label { font-size: 11px; color: #7E9694; }
+.stat.hook .label { color: #6BB8AC; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+.card { background: #1A2427; border-radius: 14px; overflow: hidden; cursor: pointer;
+  display: flex; flex-direction: column; }
+.card-bar { height: 4px; }
+.card-body { padding: 14px 16px 16px; flex: 1; }
+.card-top { display: flex; justify-content: space-between; gap: 10px; align-items: flex-start; }
+.card-top h3 { flex: 1; margin: 0; }
+.card h3 { font-size: 15px; font-weight: 500; }
+.card h3 a { color: inherit; text-decoration: none; }
+.card h3 a:hover { text-decoration: underline; }
 .badge { flex-shrink: 0; font-size: 10px; font-weight: 600; letter-spacing: 0.04em;
-  text-transform: uppercase; color: #3A251A; background: #E8734A; border-radius: 20px;
+  text-transform: uppercase; color: #0E2E29; background: #2DD4BF; border-radius: 20px;
   padding: 3px 10px; }
-.teaser { font-size: 13px; color: #9C8F84; margin: 4px 0 0; }
-.detail { display: none; margin-top: 10px; font-size: 13px; color: #C7BBAF; line-height: 1.55; }
+.teaser { font-size: 13px; color: #8FA6A3; margin: 4px 0 0; }
+.detail { display: none; margin-top: 10px; font-size: 13px; color: #C4D3D1; line-height: 1.55; }
 .detail.open { display: block; }
 .detail p { margin: 0; }
-.detail .hook-box { background: #2A1B12; border-radius: 10px; padding: 10px 12px; margin-top: 10px; }
+.detail .hook-box { background: #10302B; border-radius: 10px; padding: 10px 12px; margin-top: 10px; }
 .detail .hook-label { font-size: 10px; font-weight: 600; letter-spacing: 0.05em;
-  text-transform: uppercase; color: #E8734A; margin-bottom: 4px; display: block; }
-.detail .note { font-style: italic; color: #8A7F76; margin-top: 8px; }
-.foot-hint { font-size: 12px; color: #6B615A; margin: 14px 4px 0; }
+  text-transform: uppercase; color: #2DD4BF; margin-bottom: 4px; display: block; }
+.detail .note { font-style: italic; color: #6E827F; margin-top: 8px; }
+.foot-hint { font-size: 12px; color: #5C7472; margin: 14px 4px 0; }
 h2.section { font-size: 13px; text-transform: uppercase; letter-spacing: 0.06em;
-  color: #9C8F84; margin: 28px 4px 10px; }
-.runs a { color: #E8734A; text-decoration: none; }
+  color: #7E9694; margin: 28px 4px 10px; }
+.runs a { color: #2DD4BF; text-decoration: none; }
 .runs a:hover { text-decoration: underline; }
 .runs ul { list-style: none; margin: 0 0 8px; padding: 0; }
-.runs li { padding: 10px 4px; border-bottom: 1px solid #2A211C; font-size: 14px; color: #C7BBAF; }
+.runs li { padding: 10px 4px; border-bottom: 1px solid #1A2629; font-size: 14px; color: #C4D3D1; }
 .runs li:last-child { border-bottom: none; }
 """
 
 SCRIPT_JS = """
-document.querySelectorAll('.row').forEach(function (row) {
-  row.addEventListener('click', function () {
-    var detail = row.querySelector('.detail');
+document.querySelectorAll('.card').forEach(function (card) {
+  card.addEventListener('click', function () {
+    var detail = card.querySelector('.detail');
     if (detail) { detail.classList.toggle('open'); }
   });
 });
 """
 
 HERO_ARC_SVG = """<svg class="hero-arc" width="280" height="280" viewBox="0 0 280 280" fill="none">
-  <circle cx="140" cy="140" r="139" stroke="#E8734A" stroke-width="0.5"/>
-  <circle cx="140" cy="140" r="100" stroke="#E8734A" stroke-width="0.5"/>
+  <circle cx="140" cy="140" r="139" stroke="#2DD4BF" stroke-width="0.5"/>
+  <circle cx="140" cy="140" r="100" stroke="#2DD4BF" stroke-width="0.5"/>
 </svg>"""
 
 PAGE_TEMPLATE = """<!DOCTYPE html>
@@ -137,7 +137,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     </div>
   </div>
 
-  <div class="list">
+  <div class="grid">
     {rows}
   </div>
   <p class="foot-hint">Click a story to expand the full summary and strategic hook.</p>
@@ -203,10 +203,10 @@ def render_row(story: dict) -> str:
         f'<div class="hook-box"><span class="hook-label">Strategic hook</span>{hook}</div>'
         if has_hook else ""
     )
-    return f"""<div class="row">
-      <div class="bar" style="background:{color};"></div>
-      <div class="body">
-        <div class="row-top">
+    return f"""<div class="card">
+      <div class="card-bar" style="background:{color};"></div>
+      <div class="card-body">
+        <div class="card-top">
           <h3><a href="{story['url']}" target="_blank" rel="noopener" onclick="event.stopPropagation()">{story['heading']}</a></h3>
           {badge_html}
         </div>
