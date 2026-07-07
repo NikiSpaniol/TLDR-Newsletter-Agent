@@ -74,9 +74,18 @@ a.back { color: #7FA093; text-decoration: none; font-size: 13px; }
 .stat.hook .num { color: #4ADE80; }
 .stat .label { font-size: 11px; color: #7FA093; }
 .stat.hook .label { color: #6FBF95; }
-.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+.grid { display: grid; grid-template-columns: repeat(4, 1fr); grid-auto-flow: dense; gap: 12px; }
+.card.span-2 { grid-column: span 2; }
+@media (max-width: 720px) {
+  .grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 480px) {
+  .grid { grid-template-columns: 1fr; }
+  .card.span-2 { grid-column: span 1; }
+}
 .card { background: #142019; border-radius: 14px; overflow: hidden; cursor: pointer;
-  display: flex; flex-direction: column; }
+  display: flex; flex-direction: column; transition: background-color 0.15s ease, transform 0.15s ease; }
+.card:hover { background: #1C2E23; transform: translateY(-2px); }
 .card-bar { height: 4px; }
 .card-body { padding: 14px 16px 16px; flex: 1; }
 .card-top { display: flex; justify-content: space-between; gap: 10px; align-items: flex-start; }
@@ -194,7 +203,7 @@ def categorize(heading: str, summary: str) -> str:
     return DEFAULT_CATEGORY
 
 
-def render_row(story: dict) -> str:
+def render_row(story: dict, wide: bool) -> str:
     category = categorize(story["heading"], story["summary"])
     color = CATEGORY_COLORS[category]
     hook = story.get("strategic_hook", "")
@@ -205,7 +214,8 @@ def render_row(story: dict) -> str:
         f'<div class="hook-box"><span class="hook-label">Strategic hook</span>{hook}</div>'
         if has_hook else ""
     )
-    return f"""<div class="card">
+    card_class = "card span-2" if wide else "card"
+    return f"""<div class="{card_class}">
       <div class="card-bar" style="background:{color};"></div>
       <div class="card-body">
         <div class="card-top">
@@ -224,7 +234,20 @@ def render_row(story: dict) -> str:
 
 def render_page(newsletter: str, edition_label: str, summaries: list) -> str:
     hook_count = sum(1 for s in summaries if hook_is_real(s.get("strategic_hook", "")))
-    rows = "\n".join(render_row(s) for s in summaries)
+    # A hook story always gets the wider "featured" card. Among the rest,
+    # every 4th one also goes wide, just to break up an otherwise uniform
+    # grid of same-sized tiles.
+    non_hook_index = 0
+    rows_html = []
+    for story in summaries:
+        has_hook = hook_is_real(story.get("strategic_hook", ""))
+        if has_hook:
+            wide = True
+        else:
+            wide = non_hook_index % 4 == 3
+            non_hook_index += 1
+        rows_html.append(render_row(story, wide))
+    rows = "\n".join(rows_html)
     return PAGE_TEMPLATE.format(
         newsletter=newsletter,
         edition_label=edition_label,

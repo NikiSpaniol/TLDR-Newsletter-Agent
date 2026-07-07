@@ -23,9 +23,18 @@ a.back { color: #7FA093; text-decoration: none; font-size: 13px; }
 .stat.hook .num { color: #4ADE80; }
 .stat .label { font-size: 11px; color: #7FA093; }
 .stat.hook .label { color: #6FBF95; }
-.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+.grid { display: grid; grid-template-columns: repeat(4, 1fr); grid-auto-flow: dense; gap: 12px; }
+.card.span-2 { grid-column: span 2; }
+@media (max-width: 720px) {
+  .grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 480px) {
+  .grid { grid-template-columns: 1fr; }
+  .card.span-2 { grid-column: span 1; }
+}
 .card { background: #142019; border-radius: 14px; overflow: hidden; cursor: pointer;
-  display: flex; flex-direction: column; }
+  display: flex; flex-direction: column; transition: background-color 0.15s ease, transform 0.15s ease; }
+.card:hover { background: #1C2E23; transform: translateY(-2px); }
 .card-bar { height: 4px; }
 .card-body { padding: 14px 16px 16px; flex: 1; }
 .card-top { display: flex; justify-content: space-between; gap: 10px; align-items: flex-start; }
