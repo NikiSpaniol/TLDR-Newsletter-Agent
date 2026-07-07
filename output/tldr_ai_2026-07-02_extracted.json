@@ -1,0 +1,113 @@
+{
+  "kept": [
+    {
+      "ref": 7,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GOOGLE MIGHT BE TESTING GEMINI FLASH UPGRADE ON LM ARENA (2 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/google-might-be-testing-gemini-flash-upgrade-on-lm-arena/?utm_source=tldrai",
+      "blurb": "Google is testing a new Gemini Flash upgrade on LM Arena, reportedly offering incremental improvements over the current Flash version. Despite no official confirmation, past Arena tests have often preceded public launches, drawing attention to potential new labels like \"Gemini 3.6 Flash\" or \"Gemini 4 Flash.\" The Flash tier attracts interest due to its importance for everyday users and cost-conscious developers, handling most free and pay-as-you-go traffic faster than pricier Pro models."
+    },
+    {
+      "ref": 8,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "META IS PLANNING A CLOUD BUSINESS TO SELL AI COMPUTING POWER (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/r6UqJ5",
+      "blurb": "Meta Platforms is developing an internal cloud infrastructure initiative to sell access to its surplus AI computing power and hosted models to external developers. This strategic pivot aims to generate a new revenue stream from the company's massive multi-billion-dollar investments in data centers and chips, directly challenging dominant hyperscalers like Amazon Web Services, Microsoft Azure, and Google Cloud."
+    },
+    {
+      "ref": 9,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "THE WINNING ESSAYS FOR THE BIG QUESTIONS ABOUT AI (23 MINUTE READ)",
+      "url": "https://www.dwarkesh.com/p/blog-prize-winners?utm_source=tldrai",
+      "blurb": "Dwarkesh Patel posted some big questions about AI a couple of months ago and received 600 essay submissions for the contest. The three winners of the competition were Jassi Pannu, an Assistant Professor at Johns Hopkins University; Ege Erdil, the co-founder of Mechanize; and Michael Li, a Master of Public Policy candidate at Harvard Kennedy School. The full essays are available in the post."
+    },
+    {
+      "ref": 10,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "AUTORESEARCH: THE FEEDBACK LOOP BEHIND SELF-IMPROVING AGENTS (11 MINUTE READ)",
+      "url": "https://www.latent.space/p/autoresearch-introspection?utm_source=tldrai",
+      "blurb": "Autoresearch involves building an 'outer loop' where agents help maintain and improve the primary system using feedback signals, evals, and human input to make progress over time. One of the startups building infrastructure for these self-improving systems is Introspection. This post features an interview with Introspection's co-founder and CEO, Roland Gavrilescu. The discussion covers the shift from agent harnesses to feedback loops, the role of the open-source Pi framework, and why autonomous software factories must first learn from humans."
+    },
+    {
+      "ref": 11,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "CONTINUAL HARNESS: AN EFFICIENT SELF-IMPROVING AGENT ON ARC-AGI-3 (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/4xSPdq",
+      "blurb": "The ARC-AGI-3 benchmark tests agents' ability to form and update an internal world model through ongoing learning. Continual Harness aims to efficiently enhance agents' self-improvement capabilities on this challenging IQ test."
+    },
+    {
+      "ref": 12,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "LEARNING TO REPLICATE EXPERT JUDGMENT IN FINANCIAL TASKS (14 MINUTE READ)",
+      "url": "https://thinkingmachines.ai/news/learning-to-replicate-expert-judgment-in-financial-tasks/?utm_source=tldrai",
+      "blurb": "Frontier models struggle with relatively simple financial tasks. Custom models fine-tuned on high-quality proprietary datasets labeled by expert investors perform better. They are also substantially cheaper. Models of the future will probably feature differentiated intelligence - organizations will have custom models tuned to their specific needs that outperform frontier models."
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "ZCODE (1 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/BIh4I1",
+      "blurb": "ZCode is now available on macOS, Windows, and Linux. It combines the best AI agents with existing tools so developers can plan, code, review, and deploy without friction. GLM-5.2 is tuned for ZCode, making agentic coding faster and steadier. GLM Coding Plan subscribers now have 1.5x usage quota in ZCode."
+    },
+    {
+      "ref": 14,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "PORTAL: PORTABLE TASK ADAPTERS FOR LLMS (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/lJdujU",
+      "blurb": "PorTAL is an innovative architecture designed to decouple task fine-tuning from specific base model weights. As the accelerating cadence of foundation model releases creates a compounding financial and engineering burden to re-tune capabilities from scratch, PorTAL offers a way to pay for task adaptation once and amortize it across all future models."
+    },
+    {
+      "ref": 15,
+      "section": "MISCELLANEOUS",
+      "heading": "REDEPLOYING FABLE 5 (18 MINUTE READ)",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5?utm_source=tldrai",
+      "blurb": "Claude Fable 5 and Mythos 5 have been redeployed. Fable 5 will be included for up to 50% of weekly usage limits until July 7, after which it will be available via usage credits. Mythos 5 has been restored for some organizations in the US. Anthropic is continuing to coordinate with the US government to expand Mythos access to the broader set of domestic and international partners in the Glasswing program."
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "A NEW LOOK AT AI'S IMPACT ON JOBS: FIRM-LEVEL AI SPENDING AND WORKFORCE ADJUSTMENT (4 MINUTE READ)",
+      "url": "https://ramp.com/data/ai-jobs-impact?utm_source=tldrai",
+      "blurb": "A joint study by Ramp and Revelio Labs analyzed the relationship between firm-level generative AI investments and employment outcomes across over 21,000 companies in the US. The research reveals that companies with high-intensity AI spending grew their overall headcount by 10.2 percent and entry-level positions by 12 percent over the two years following adoption."
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "HOW OPENAI DELIVERS LOW-LATENCY VOICE AI FOR 900M USERS (17 MINUTE READ)",
+      "url": "https://blog.bytebytego.com/p/how-openai-delivers-low-latency-voice?utm_source=tldrai",
+      "blurb": "This article looks at how OpenAI uses WebRTC to run voice for its 900 million users."
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "PRODUCT SHAPE IS THE MOAT (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/5daURA",
+      "blurb": "Application layer AI companies cannot build sustainable moats against model providers through simple technical adjustments like fine tuning or model routing."
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "OPENAI PROPOSES 5% STAKE TO TRUMP ADMINISTRATION TO EASE WASHINGTON PRESSURE (5 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html?utm_source=tldrai",
+      "blurb": "The proposal is part of a larger arrangement under which the US government would hold 5% of each of the leading US AI developers through a sovereign wealth fund vehicle."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "THE INFERENCE LAYER YOUR CODING AGENTS HAVE BEEN WAITING FOR (SPONSOR)",
+      "url": "https://friendli.ai/?utm_source=tldr&utm_medium=newsletter&utm_campaign=sponsorship&utm_content=tldr_primary_header_inference_layer_coding",
+      "blurb": "Coding agents only move as fast as the inference behind them. FriendliAI is the FRONTIER INFERENCE CLOUD FOR AGENTS \u2014 serving frontier open-weight models with the speed, reliability, and cost efficiency agents need in production.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 17,
+      "section": "QUICK LINKS",
+      "heading": "DO YOU KNOW WHAT YOUR AI AGENT IS DOING? (SPONSOR)",
+      "url": "https://luma.com/what-is-your-agent-doing?utm_source=tldr-ai&utm_medium=sponsorship&utm_campaign=whatyouragentisdoing",
+      "blurb": "Most teams find out their AI agent is hallucinating or breaking guardrails from a customer complaint, not a dashboard. Regal's product and FDE team show you how to catch it first. Sign up for the Webinar [17]",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

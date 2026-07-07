@@ -1,0 +1,106 @@
+{
+  "kept": [
+    {
+      "ref": 7,
+      "section": null,
+      "heading": "AMERICANS AND AI 2026: CHATBOTS, SMART DEVICES, AND VIEWS ON IMPACT (8 MINUTE READ)",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/?utm_source=tldrmarketing",
+      "blurb": "About half of US adults now use AI chatbots, up from one-third in 2024. Search and work are the leading use cases, while 60% of adults also report reading AI-generated summaries in search results. People see clear benefits in productivity and staying informed, yet about two-thirds believe AI is advancing too quickly and 70% think it will make personal information less secure."
+    },
+    {
+      "ref": 8,
+      "section": null,
+      "heading": "44% OF SOCIAL MARKETERS FEEL LIKE THEIR BOSS DOESN'T UNDERSTAND SOCIAL MEDIA (8 MINUTE READ)",
+      "url": "https://www.linkinbio.news/p/social-media-survey?utm_source=tldrmarketing",
+      "blurb": "Social marketers are split between momentum and burnout. Instagram still dominates, with 59% saying it's their top priority, while platforms like YouTube Shorts and Reddit are gaining traction as teams experiment and diversify. At the same time, 56% are actively moving away from platforms like X, citing brand safety and audience shifts. Performance is shifting toward carousels and original, serialized content over trend-chasing formats, but 44% still say their boss doesn't understand social, and most teams are stretched thin with limited time and resources holding back execution."
+    },
+    {
+      "ref": 9,
+      "section": null,
+      "heading": "AI SEARCH TACTICS THAT WILL BITE YOU LATER (10 MINUTE READ)",
+      "url": "https://www.buzzstream.com/blog/lily-ray-podcast/?utm_source=tldrmarketing",
+      "blurb": "Tactics like self-promotional listicles, prompt injections, paid mentions, and scaled comparison pages are already showing cracks. Google's starting to reduce visibility and history, suggesting broader crackdowns ahead. While these hacks can work short-term, they tend to get penalized once overused. It's better to build real authority through original research and credible voices, with digital PR focused on consistent, high-quality insights. In the long run, unique data and genuine perspective are what stick since AI can't replicate them."
+    },
+    {
+      "ref": 10,
+      "section": null,
+      "heading": "USE AI TO PRIORITIZE YOUR ACCOUNT LIST WITH SIGNALS (5 MINUTE READ)",
+      "url": "https://gtm.stage2.capital/p/use-ai-to-prioritize-your-account?utm_source=tldrmarketing",
+      "blurb": "The signal problem in GTM isn't a lack of data. It's the absence of reasoning about why each signal matters for a specific business and what action it should trigger. Before buying intent tools or building composite scores, the foundational work is mapping what data already exists, sorting each signal by what it tells you about fit, timing, or competitive movement, and designing one focused play per signal rather than assigning numerical weights that cannot be explained to a rep when the list breaks down. Weekly digests outperform real-time Slack alerts because continuous notifications overwhelm reps and get ignored. First-party signals are the right starting point because they're the only ones competitors cannot replicate."
+    },
+    {
+      "ref": 11,
+      "section": null,
+      "heading": "NEW AI VISIBILITY INSIGHTS IN BING WEBMASTER TOOLS: INTENTS, TOPICS, CITATION SHARE, COMPARE (4 MINUTE READ)",
+      "url": "https://blogs.bing.com/search/June-2026/New-AI-Visibility-Insights-in-Bing-Webmaster-Tools-Intents-Topics-Citation-Share-Compare?utm_source=tldrmarketing",
+      "blurb": "Bing launched new AI visibility tools to help publishers understand how their content shows up in AI responses. Intents and Topics reports highlight which user needs and themes drive citations, shifting focus beyond keywords. Citation Share shows how much visibility a site captures across results, while Compare tracks changes over time to tie performance to content updates, demand shifts, or model changes."
+    },
+    {
+      "ref": 12,
+      "section": null,
+      "heading": "DO AI ASSISTANTS ACTUALLY RENDER YOUR JAVASCRIPT WHEN GROUNDING? WE PUT IT TO THE TEST (8 MINUTE READ)",
+      "url": "https://www.searchengineworld.com/do-ai-assistants-actually-render-your-javascript-when-grounding-we-put-it-to-the-test?utm_source=tldrmarketing",
+      "blurb": "A test of 12 AI assistants found that most US models don't execute JavaScript when reading webpages. This means they only see raw HTML and can miss key content on modern sites. Researchers created pages where the real data appeared only after JS ran, and US assistants consistently returned fake placeholder values, while Chinese models and Mistral correctly executed the code and surfaced the real data. If important content isn't in the initial HTML, major assistants likely won't see it, and chatbot claims about what they can access aren't always reliable compared to server logs."
+    },
+    {
+      "ref": 15,
+      "section": "MISCELLANEOUS",
+      "heading": "EMMA HAYES VS THE INTERNET: WHAT DID REDDIT MAKE OF 'KITCHENGATE'? (5 MINUTE READ)",
+      "url": "https://www.standingongiants.com/blog/emma-hayes-vs-the-internet-what-did-reddit-make-of-kitchengate/?utm_source=tldrmarketing",
+      "blurb": "Emma Hayes' in-game tactical breakdowns during England's World Cup match stood out as the most insightful analysis on the broadcast. Viewers said her 70-second segments explained more than the full panel. Criticisms focused on presentation - her kitchen-like setup drew backlash and raised questions about why the most qualified pundit was separated from the main desk. The chalkboard also split opinion, seen as either refreshingly simple or underwhelming."
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "HOW TO BUILD A CULT BRAND (4 MINUTE READ)",
+      "url": "https://www.marketergems.com/p/how-to-build-a-cult-brand?utm_source=tldrmarketing",
+      "blurb": "Cult brands build loyalty by selling identity, not products. They create insider rituals and tell stories that customers repeat to other people. Patagonia turned a controversial \"Don't Buy This Jacket\" message into a 30% revenue increase the next year because supporters rallied around its values. Glossier built community into product development and generated 70% of sales through peer referrals. The strongest brands give members a sense of belonging and reflect the person customers want to become."
+    },
+    {
+      "ref": 17,
+      "section": "QUICK LINKS",
+      "heading": "ONE METRIC FOR TOTAL MARKETING SPEND (2 MINUTE READ)",
+      "url": "https://www.practicalecommerce.com/one-metric-for-total-marketing-payoff?utm_source=tldrmarketing",
+      "blurb": "The marketing efficiency ratio (MER) compares total revenue to total marketing spend."
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "BRANDS USING AI-GENERATED INFLUENCERS TO PROMOTE PRODUCTS ON SOCIAL MEDIA (5 MINUTE READ)",
+      "url": "https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media?utm_source=tldrmarketing",
+      "blurb": "70% of people are unable to correctly identify real vs. fake videos."
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "UBER ADVERTISING EXPANDS BEYOND OWNED APPS IN PLAY FOR MORE AD DOLLARS (2 MINUTE READ)",
+      "url": "https://www.marketingdive.com/news/uber-advertising-expands-beyond-owned-apps-in-play-for-more-ad-dollars/823164/?utm_source=tldrmarketing",
+      "blurb": "Uber Advertising is now expanding campaign reach beyond its own apps for the first time."
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "HOW KENDALL JENNER, ROS\u00c9, AND MRBEAST CREATE CONSUMER OBSESSIONS (18 MINUTE READ)",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/top-hollywood-marketers-2026-1236622626/?utm_source=tldrmarketing",
+      "blurb": "A list of Hollywood's 26 top marketing masterminds."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "IS OPTIMIZING FOR AI OVERVIEWS EVEN WORTH YOUR TIME? (SPONSOR)",
+      "url": "https://www.wordstream.com/blog/ai-overviews-stability-study?utm_source=tldr_marketing&utm_medium=newsletter&utm_campaign=2026-06-20_Primary_LocalIQ&utm_content=header_optimizing_ai_overviews",
+      "blurb": "Everybody's talking about optimizing for AI search, but AI isn't like traditional search. For one, the answers are far less stable.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 13,
+      "section": "MISCELLANEOUS",
+      "heading": "TLDR IS HIRING A SENIOR PMM ($180K-$225K BASE + $40-50K ANNUAL TARGET BONUS, FULLY REMOTE)",
+      "url": "https://jobs.ashbyhq.com/tldr.tech/4028e55e-b0f0-433c-8f61-8886d7e07c29?utm_source=tldrmarketing",
+      "blurb": "We're hiring a senior PMM to own product marketing at TLDR. You'll define our positioning, build out sales enablement, and lead every launch. Learn more [14].",
+      "drop_reason": "drop-list domain (jobs.ashbyhq.com)"
+    }
+  ]
+}

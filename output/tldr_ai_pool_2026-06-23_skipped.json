@@ -1,0 +1,32 @@
+[
+  {
+    "ref": 10,
+    "section": "MISCELLANEOUS",
+    "heading": "GOOGLE IS USING NVIDIA'S PLAYBOOK TO BUILD A RIVAL AI CHIP BUSINESS (11 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/jyH9oA",
+    "blurb": "Google is renting computing power from thousands of its microprocessors at an AI data center in Western New York to AI giant Anthropic. The move will help data centers raise cheaper debt. Google realized the commercial potential for its TPUs about two years ago and started investing in their inference capabilities. Its AI infrastructure team is now hyper-focused on improving chip performance.",
+    "source_email": "tldr_ai_2026-06-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 13,
+    "section": "QUICK LINKS",
+    "heading": "THE $13 BILLION AI STARTUP BETTING ON CHEAPER ALTERNATIVES TO OPENAI, ANTHROPIC (4 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/UVgEMm",
+    "blurb": "Baseten specializes in providing software and computing capacity to companies tapping into lower-cost AI models.",
+    "source_email": "tldr_ai_2026-06-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 21,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "OPTIMIZING MODELS TO BE FAST AT CODEGEN (8 MINUTE READ)",
+    "url": "https://www.morphllm.com/blog/codegen-inference-research?utm_source=tldrai",
+    "blurb": "Morph LLM optimizes open coding models by training a drafter on coding output, not the internet, for faster speculative decoding, achieving a 3.07x speedup. Autoresearch automates kernel tuning for low-demand GPUs like NVIDIA and AMD, enhancing warp-decode kernels to reach 162 tok/s on affordable hardware. Interconnect over PCIe replaces expensive NVLink using custom kernels, maintaining performance by sharing caches via TCP, cutting time-to-first-token by 84%.",
+    "source_email": "tldr_ai_2026-06-22_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  }
+]
