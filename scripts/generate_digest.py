@@ -34,41 +34,48 @@ CATEGORY_RULES = [
 ]
 DEFAULT_CATEGORY = "product"
 
+# Strictly green/dark-green/white -- a tonal ramp within one hue family
+# rather than separate hues, per the site's color direction.
 CATEGORY_COLORS = {
-    "regulation": "#3B82C4",
-    "business": "#2FA37A",
-    "research": "#5B8DEF",
-    "product": "#3ECF8E",
+    "regulation": "#2D6A4F",
+    "business": "#40916C",
+    "research": "#52B788",
+    "product": "#95D5B2",
 }
-ACCENT = "#2DD4BF"
+ACCENT = "#4ADE80"
+
+NEWSLETTER_COLORS = {
+    "AI": "#2D6A4F",
+    "Marketing": "#52B788",
+}
 
 STYLE_CSS = """
 * { box-sizing: border-box; }
 body {
-  margin: 0; padding: 24px 16px 64px; background: #0E1416; color: #EAF3F1;
+  margin: 0; padding: 24px 16px 64px; background: #0A120D; color: #F3F7F4;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
 .wrap { max-width: 1040px; margin: 0 auto; }
-a.back { color: #7E9694; text-decoration: none; font-size: 13px; }
+a.back { color: #7FA093; text-decoration: none; font-size: 13px; }
 .hero {
-  background: #121C1F; border-radius: 20px; padding: 28px; position: relative;
+  background: #101E16; border-radius: 20px; padding: 28px; position: relative;
   overflow: hidden; margin: 16px 0 20px;
 }
 .hero-arc { position: absolute; top: -40px; right: -60px; opacity: 0.35; }
 .hero-top { position: relative; display: flex; justify-content: space-between;
   align-items: flex-start; flex-wrap: wrap; gap: 16px; }
 .hero-title { font-size: 28px; line-height: 1.15; }
-.hero-title .accent { font-family: Georgia, "Times New Roman", serif; font-style: italic; color: #2DD4BF; }
-.hero-sub { font-size: 13px; color: #7E9694; margin: 6px 0 0; }
+.hero-title .accent { font-family: Georgia, "Times New Roman", serif; font-style: italic; color: #4ADE80; }
+.hero-sub { font-size: 13px; color: #7FA093; margin: 6px 0 0; }
 .stats { position: relative; display: flex; gap: 10px; }
-.stat { border-radius: 12px; padding: 10px 18px; background: #1A2629; }
-.stat.hook { background: #12312E; }
+.stat { border-radius: 12px; padding: 10px 18px; background: #16281F; }
+.stat.hook { background: #143323; }
 .stat .num { font-size: 20px; font-weight: 600; }
-.stat.hook .num { color: #2DD4BF; }
-.stat .label { font-size: 11px; color: #7E9694; }
-.stat.hook .label { color: #6BB8AC; }
+.stat.hook .num { color: #4ADE80; }
+.stat .label { font-size: 11px; color: #7FA093; }
+.stat.hook .label { color: #6FBF95; }
 .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
-.card { background: #1A2427; border-radius: 14px; overflow: hidden; cursor: pointer;
+.card { background: #142019; border-radius: 14px; overflow: hidden; cursor: pointer;
   display: flex; flex-direction: column; }
 .card-bar { height: 4px; }
 .card-body { padding: 14px 16px 16px; flex: 1; }
@@ -78,24 +85,21 @@ a.back { color: #7E9694; text-decoration: none; font-size: 13px; }
 .card h3 a { color: inherit; text-decoration: none; }
 .card h3 a:hover { text-decoration: underline; }
 .badge { flex-shrink: 0; font-size: 10px; font-weight: 600; letter-spacing: 0.04em;
-  text-transform: uppercase; color: #0E2E29; background: #2DD4BF; border-radius: 20px;
+  text-transform: uppercase; color: #0C2415; background: #4ADE80; border-radius: 20px;
   padding: 3px 10px; }
-.teaser { font-size: 13px; color: #8FA6A3; margin: 4px 0 0; }
-.detail { display: none; margin-top: 10px; font-size: 13px; color: #C4D3D1; line-height: 1.55; }
+.teaser { font-size: 13px; color: #85A093; margin: 4px 0 0; }
+.detail { display: none; margin-top: 10px; font-size: 13px; color: #C4D6CB; line-height: 1.55; }
 .detail.open { display: block; }
 .detail p { margin: 0; }
-.detail .hook-box { background: #10302B; border-radius: 10px; padding: 10px 12px; margin-top: 10px; }
+.detail .hook-box { background: #0F2E1C; border-radius: 10px; padding: 10px 12px; margin-top: 10px; }
 .detail .hook-label { font-size: 10px; font-weight: 600; letter-spacing: 0.05em;
-  text-transform: uppercase; color: #2DD4BF; margin-bottom: 4px; display: block; }
-.detail .note { font-style: italic; color: #6E827F; margin-top: 8px; }
-.foot-hint { font-size: 12px; color: #5C7472; margin: 14px 4px 0; }
+  text-transform: uppercase; color: #4ADE80; margin-bottom: 4px; display: block; }
+.detail .note { font-style: italic; color: #6B8578; margin-top: 8px; }
+.foot-hint { font-size: 12px; color: #587065; margin: 14px 4px 0; }
 h2.section { font-size: 13px; text-transform: uppercase; letter-spacing: 0.06em;
-  color: #7E9694; margin: 28px 4px 10px; }
-.runs a { color: #2DD4BF; text-decoration: none; }
-.runs a:hover { text-decoration: underline; }
-.runs ul { list-style: none; margin: 0 0 8px; padding: 0; }
-.runs li { padding: 10px 4px; border-bottom: 1px solid #1A2629; font-size: 14px; color: #C4D3D1; }
-.runs li:last-child { border-bottom: none; }
+  color: #7FA093; margin: 28px 4px 10px; }
+.pick-title { font-size: 15px; font-weight: 500; margin: 0; }
+.pick-sub { font-size: 13px; color: #85A093; margin: 4px 0 0; }
 """
 
 SCRIPT_JS = """
@@ -108,8 +112,8 @@ document.querySelectorAll('.card').forEach(function (card) {
 """
 
 HERO_ARC_SVG = """<svg class="hero-arc" width="280" height="280" viewBox="0 0 280 280" fill="none">
-  <circle cx="140" cy="140" r="139" stroke="#2DD4BF" stroke-width="0.5"/>
-  <circle cx="140" cy="140" r="100" stroke="#2DD4BF" stroke-width="0.5"/>
+  <circle cx="140" cy="140" r="139" stroke="#4ADE80" stroke-width="0.5"/>
+  <circle cx="140" cy="140" r="100" stroke="#4ADE80" stroke-width="0.5"/>
 </svg>"""
 
 PAGE_TEMPLATE = """<!DOCTYPE html>
@@ -166,9 +170,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
       </div>
     </div>
   </div>
-  <div class="runs">
-    {runs}
-  </div>
+  {runs}
 </div>
 </body>
 </html>
@@ -252,6 +254,17 @@ def update_manifest(entry: dict) -> list:
     return manifest
 
 
+def render_pick_card(entry: dict) -> str:
+    color = NEWSLETTER_COLORS.get(entry["newsletter"], ACCENT)
+    return f"""<a class="card" style="text-decoration:none;color:inherit;" href="{entry['filename']}">
+      <div class="card-bar" style="background:{color};"></div>
+      <div class="card-body">
+        <p class="pick-title">TLDR {entry['newsletter']}</p>
+        <p class="pick-sub">{entry['edition_label']}</p>
+      </div>
+    </a>"""
+
+
 def render_index(manifest: list) -> str:
     by_run_date = {}
     for entry in manifest:
@@ -260,11 +273,8 @@ def render_index(manifest: list) -> str:
     blocks = []
     for run_date in sorted(by_run_date.keys(), reverse=True):
         entries = sorted(by_run_date[run_date], key=lambda e: e["newsletter"])
-        links = "\n".join(
-            f'<li><a href="{e["filename"]}">TLDR {e["newsletter"]}</a> -- {e["edition_label"]}</li>'
-            for e in entries
-        )
-        blocks.append(f'<h2 class="section">{run_date}</h2>\n<ul>{links}</ul>')
+        cards = "\n".join(render_pick_card(e) for e in entries)
+        blocks.append(f'<h2 class="section">{run_date}</h2>\n<div class="grid">{cards}</div>')
 
     return INDEX_TEMPLATE.format(arc=HERO_ARC_SVG, runs="\n".join(blocks))
 
