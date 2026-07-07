@@ -87,6 +87,6 @@ jobs:
         run: |
           git config user.name "TLDR Agent Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add output/
+          git add output/ docs/
           git diff --cached --quiet || git commit -m "Automated run: ${{ steps.rundate.outputs.run_date }}"
           git push
