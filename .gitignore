@@ -7,3 +7,4 @@ venv/
 emails/
 .DS_Store
 .claude/
+output/*.mp3

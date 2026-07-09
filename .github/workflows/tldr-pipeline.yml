@@ -69,13 +69,15 @@ jobs:
 
       - name: Install dependencies
         if: steps.check.outputs.proceed == 'true'
-        run: pip install anthropic google-auth-oauthlib google-api-python-client google-auth google-auth-httplib2
+        run: pip install anthropic google-auth-oauthlib google-api-python-client google-auth google-auth-httplib2 requests
 
       - name: Restore secrets to local files
         if: steps.check.outputs.proceed == 'true'
         run: |
           echo "JINA_API_KEY=${{ secrets.JINA_API_KEY }}" >> .env
           echo "ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}" >> .env
+          echo "ELEVENLABS_API_KEY=${{ secrets.ELEVENLABS_API_KEY }}" >> .env
+          echo "GMAIL_APP_PASSWORD=${{ secrets.GMAIL_APP_PASSWORD }}" >> .env
           printf '%s' '${{ secrets.GMAIL_TOKEN_JSON }}' > token.json
 
       - name: Run pipeline

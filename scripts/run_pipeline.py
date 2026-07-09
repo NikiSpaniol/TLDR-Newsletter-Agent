@@ -18,7 +18,9 @@ from pathlib import Path
 
 import extract
 import fetch
+import generate_audio
 import generate_digest
+import send_email
 import summarize
 import write_episode
 from dedupe_pool import pool
@@ -48,6 +50,10 @@ def run_for_newsletter(newsletter: str, eml_paths: list, run_date: date):
 
     print(f"\nTLDR {newsletter} episode script ready: {episode_path}")
     print(f"TLDR {newsletter} digest page ready: {digest_path}")
+
+    audio_path = generate_audio.main(str(episode_path))
+    send_email.main(str(audio_path), subject=f"TLDR {newsletter} audio briefing -- {run_date.isoformat()}")
+
     return episode_path
 
 
