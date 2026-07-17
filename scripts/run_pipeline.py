@@ -12,6 +12,8 @@ Friday + Monday editions; a Friday run processes that week's
 Tuesday/Wednesday/Thursday editions.
 """
 
+import json
+import re
 import sys
 from datetime import date
 from pathlib import Path
@@ -28,6 +30,35 @@ from gmail_pull import pull_editions
 
 NEWSLETTERS = ("AI", "Marketing")
 SLUG = {"AI": "tldr_ai", "Marketing": "tldr_marketing"}
+
+# Persistent per-newsletter episode counter, committed back to the repo each
+# run (like output/ and docs/ already are) so numbering survives across
+# separate GitHub Actions runs -- each run is a fresh container with no
+# memory of prior ones.
+COUNTER_PATH = Path("output/episode_counter.json")
+
+
+def next_episode_number(newsletter: str) -> int:
+    counters = json.loads(COUNTER_PATH.read_text()) if COUNTER_PATH.exists() else {}
+    counters[newsletter] = counters.get(newsletter, 0) + 1
+    COUNTER_PATH.write_text(json.dumps(counters, indent=2) + "\n")
+    return counters[newsletter]
+
+
+def short_date_range(summaries_json_path: str) -> str:
+    """DD.MM or DD.MM - DD.MM spanning the real source-edition dates (not the pool/run date)."""
+    summaries = json.loads(Path(summaries_json_path).read_text())
+    source_dates = set()
+    for s in summaries:
+        match = re.search(r"(\d{4}-\d{2}-\d{2})", s.get("source_email", ""))
+        if match:
+            source_dates.add(date.fromisoformat(match.group(1)))
+    if not source_dates:
+        return ""
+    lo, hi = min(source_dates), max(source_dates)
+    if lo == hi:
+        return f"{lo.day:02d}.{lo.month:02d}"
+    return f"{lo.day:02d}.{lo.month:02d} - {hi.day:02d}.{hi.month:02d}"
 
 
 def run_for_newsletter(newsletter: str, eml_paths: list, run_date: date):
@@ -51,8 +82,11 @@ def run_for_newsletter(newsletter: str, eml_paths: list, run_date: date):
     print(f"\nTLDR {newsletter} episode script ready: {episode_path}")
     print(f"TLDR {newsletter} digest page ready: {digest_path}")
 
-    audio_path = generate_audio.main(str(episode_path))
-    send_email.main(str(audio_path), subject=f"TLDR {newsletter} audio briefing -- {run_date.isoformat()}")
+    episode_number = next_episode_number(newsletter)
+    title = f"TLDR {newsletter} Newsletter {short_date_range(str(summaries_path))} - Episode {episode_number}"
+
+    audio_path = generate_audio.main(str(episode_path), title=title)
+    send_email.main(str(audio_path), subject=title)
 
     return episode_path
 
