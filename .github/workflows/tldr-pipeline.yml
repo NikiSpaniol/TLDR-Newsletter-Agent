@@ -3,12 +3,18 @@ name: TLDR Pipeline
 # GitHub Actions cron is UTC-only, but the schedule in the build brief is
 # Australia/Sydney local time, which shifts between UTC+10 (AEST) and
 # UTC+11 (AEDT) with daylight saving. Rather than track DST manually, we
-# fire at both possible UTC times for 6am Sydney and let the first job
-# step figure out which firing is the real one right now, skipping the
-# other silently. Separately, the runner's own system date is UTC, which
-# is still the previous day at 6am Sydney -- so the run date used by the
-# pipeline is always computed explicitly from Sydney's local calendar
-# date, never from the runner's default "today".
+# fire at both possible UTC times for 6am Sydney and let the day-of-week
+# check (Tuesday/Friday, Sydney local) decide whether either firing should
+# do real work. We do NOT gate on the hour being exactly 6am -- GitHub
+# routinely delays scheduled firings by hours, so a strict hour check
+# caused every real firing to be silently skipped. Instead, a dedup step
+# keyed off the computed run_date (checking git history for an existing
+# "Automated run: <date>" commit) ensures only one of the two firings
+# actually runs the pipeline, however late either one lands. Separately,
+# the runner's own system date is UTC, which is still the previous day at
+# 6am Sydney -- so the run date used by the pipeline is always computed
+# explicitly from Sydney's local calendar date, never from the runner's
+# default "today".
 on:
   schedule:
     - cron: '0 19 * * 1,4'  # 6am Sydney during AEDT (roughly Oct-Apr)
@@ -34,17 +40,21 @@ jobs:
             echo "Manually triggered -- proceeding regardless of time."
             echo "proceed=true" >> "$GITHUB_OUTPUT"
           else
-            HOUR=$(TZ='Australia/Sydney' date +%H)
             DOW=$(TZ='Australia/Sydney' date +%u)  # 1=Monday ... 7=Sunday
-            echo "Sydney local time check -- hour: $HOUR, day-of-week: $DOW"
-            if [ "$HOUR" = "06" ] && { [ "$DOW" = "2" ] || [ "$DOW" = "5" ]; }; then
+            echo "Sydney local day-of-week: $DOW"
+            if [ "$DOW" = "2" ] || [ "$DOW" = "5" ]; then
               echo "proceed=true" >> "$GITHUB_OUTPUT"
             else
               echo "proceed=false" >> "$GITHUB_OUTPUT"
-              echo "Not actually 6am Sydney time on a Tuesday/Friday -- skipping this firing."
+              echo "Not Tuesday/Friday in Sydney -- skipping this firing."
             fi
           fi
 
+      # No longer gated on hour==06: GitHub routinely delays scheduled
+      # firings by hours, so by the time the job actually starts it's often
+      # well past 6am Sydney. We fire twice (AEST/AEDT cron pair) and rely
+      # on the dedup check below -- keyed off run_date, not wall-clock time
+      # -- to make sure only one of the two firings does real work.
       - name: Determine run date
         if: steps.check.outputs.proceed == 'true'
         id: rundate
@@ -61,18 +71,35 @@ jobs:
         if: steps.check.outputs.proceed == 'true'
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Check for duplicate run today
         if: steps.check.outputs.proceed == 'true'
+        id: dedup
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Manually triggered -- proceeding regardless of prior runs."
+            echo "proceed=true" >> "$GITHUB_OUTPUT"
+          else
+            RUN_DATE="${{ steps.rundate.outputs.run_date }}"
+            if git log --oneline --grep="Automated run: $RUN_DATE" | grep -q .; then
+              echo "Already ran for $RUN_DATE -- skipping this duplicate firing."
+              echo "proceed=false" >> "$GITHUB_OUTPUT"
+            else
+              echo "proceed=true" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
+      - name: Set up Python
+        if: steps.check.outputs.proceed == 'true' && steps.dedup.outputs.proceed == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: Install dependencies
-        if: steps.check.outputs.proceed == 'true'
+        if: steps.check.outputs.proceed == 'true' && steps.dedup.outputs.proceed == 'true'
         run: pip install anthropic google-auth-oauthlib google-api-python-client google-auth google-auth-httplib2 requests
 
       - name: Restore secrets to local files
-        if: steps.check.outputs.proceed == 'true'
+        if: steps.check.outputs.proceed == 'true' && steps.dedup.outputs.proceed == 'true'
         run: |
           echo "JINA_API_KEY=${{ secrets.JINA_API_KEY }}" >> .env
           echo "ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}" >> .env
@@ -81,11 +108,11 @@ jobs:
           printf '%s' '${{ secrets.GMAIL_TOKEN_JSON }}' > token.json
 
       - name: Run pipeline
-        if: steps.check.outputs.proceed == 'true'
+        if: steps.check.outputs.proceed == 'true' && steps.dedup.outputs.proceed == 'true'
         run: python3 scripts/run_pipeline.py "${{ steps.rundate.outputs.run_date }}"
 
       - name: Commit and push results
-        if: steps.check.outputs.proceed == 'true'
+        if: steps.check.outputs.proceed == 'true' && steps.dedup.outputs.proceed == 'true'
         run: |
           git config user.name "TLDR Agent Bot"
           git config user.email "actions@users.noreply.github.com"
