@@ -10,5 +10,17 @@
     "newsletter": "Marketing",
     "edition_label": "Friday the 19th and Monday the 22nd of June",
     "run_date": "2026-06-23"
+  },
+  {
+    "filename": "tldr_ai_pool_2026-07-21_digest.html",
+    "newsletter": "AI",
+    "edition_label": "Friday the 17th and Monday the 20th of July",
+    "run_date": "2026-07-21"
+  },
+  {
+    "filename": "tldr_marketing_pool_2026-07-21_digest.html",
+    "newsletter": "Marketing",
+    "edition_label": "Friday the 17th and Monday the 20th of July",
+    "run_date": "2026-07-21"
   }
 ]

@@ -1,0 +1,245 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "KIMI K3 (1 MINUTE READ)",
+      "url": "https://www.kimi.com/blog/kimi-k3?utm_source=tldrai",
+      "blurb": "Moonshot has launched Kimi K3, a 2.8-trillion-parameter multimodal model with a 1-million-token context window and optimizations for faster long-context decoding and agentic coding. The model is available through Kimi's products and API, with open weights scheduled for release on July 27.",
+      "source_email": "tldr_ai_2026-07-17_extracted.json"
+    },
+    {
+      "ref": 2,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GEMINI 3.5 PRO REPORTEDLY FACED DELAYS (2 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html?utm_source=tldrai",
+      "blurb": "Alphabet shares fell 4% after a report said Google had delayed Gemini 3.5 Pro while working to improve its performance, particularly for coding. Google said the model remained in partner testing alongside an upgraded Flash model and other releases.",
+      "source_email": "tldr_ai_2026-07-17_extracted.json"
+    },
+    {
+      "ref": 3,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INTRODUCING LM STUDIO BIONIC: THE AI AGENT FOR OPEN MODELS (4 MINUTE READ)",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic?utm_source=tldrai",
+      "blurb": "Bionic is an AI agent for coding, research, and document management with open models, offering local and cloud options for privacy and cost control. It supports offline voice transcription with Voxtral by Mistral AI and excels at coding by inspecting codebases and solving issues with models like GLM 5.2. Bionic enhances productivity by working with various documents while ensuring security with sandbox environments and native web search integration.",
+      "source_email": "tldr_ai_2026-07-17_extracted.json"
+    },
+    {
+      "ref": 4,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HARNESS HANDBOOK TO MAP AGENT BEHAVIOR TO CODE (28 MINUTE READ)",
+      "url": "https://ruhan-wang.github.io/Harness-Handbook/?utm_source=tldrai",
+      "blurb": "Harness Handbook is a behavior-level map for coding-agent harnesses, connecting plain-language questions about execution, permissions, and safety to the exact prompts, tools, state logic, configuration, and telemetry that implement them.",
+      "source_email": "tldr_ai_2026-07-17_extracted.json"
+    },
+    {
+      "ref": 5,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOW ANTHROPIC RUNS LARGE-SCALE CODE MIGRATIONS WITH CLAUDE CODE (11 MINUTE READ)",
+      "url": "https://claude.com/blog/ai-code-migration?utm_source=tldrai",
+      "blurb": "Anthropic uses a six-step process with Claude Code for large-scale code migrations, focusing on creating a rulebook, analyzing dependencies, and stress-testing translation rules. It deploys multiple agents to translate, review, and fix code iteratively, and emphasizes using adversarial reviewers and mechanical verification for efficient migration.",
+      "source_email": "tldr_ai_2026-07-17_extracted.json"
+    },
+    {
+      "ref": 6,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "CHOOSING GPT-5.6 SOL, TERRA, OR LUNA IN CODEX (5 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/1UKdwv",
+      "blurb": "GPT-5.6 splits Codex work across Sol for ambiguous, high-value problems, Terra for everyday implementation, and Luna for fast, bounded tasks. Sol Ultra adds deeper reasoning and multi-agent coordination, while clear prompts should specify goals, context, boundaries, and completion checks.",
+      "source_email": "tldr_ai_2026-07-17_extracted.json"
+    },
+    {
+      "ref": 7,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "SCHEMA (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/jIc5zm",
+      "blurb": "Schema is a harness that makes frontier models play like physicists. It can help frontier models achieve 99% on ARC-AGI-3 Public. ARC\u2011AGI\u20113 gives agents a game environment without an explanation of what it is seeing. Schema makes agents write each game's mechanism as an executable program, test it against reality, and plan inside it. It controls how observations are turned into a working model of a game, how predictions are tested against the interaction history, and how plans are executed and revised.",
+      "source_email": "tldr_ai_2026-07-17_extracted.json"
+    },
+    {
+      "ref": 8,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "NVIDIA NEMOTRON 3 EMBED (9 MINUTE READ)",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb?utm_source=tldrai",
+      "blurb": "NVIDIA released three open embedding models for RAG, agentic retrieval, code search, and memory, led by an 8B model that ranked first overall on RTEB.",
+      "source_email": "tldr_ai_2026-07-17_extracted.json"
+    },
+    {
+      "ref": 9,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "COPILOT SDK (GITHUB REPO)",
+      "url": "https://github.com/github/copilot-sdk?utm_source=tldrai",
+      "blurb": "Embeds GitHub Copilot agents into custom applications and developer tools.",
+      "source_email": "tldr_ai_2026-07-17_extracted.json"
+    },
+    {
+      "ref": 10,
+      "section": "MISCELLANEOUS",
+      "heading": "THE BEST MODEL ROUTING IS TASK SPECIFIC (6 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/RPTYmo",
+      "blurb": "Model routing is a hot topic because nobody wants to pay frontier prices for every token. The best routing is deeply task-specific. The more narrowly you focus on a single workflow, the more alpha there is to exploit in terms of both accuracy and cost. The problem is figuring out which model clears the bar for which task, subject to cost/latency constraints.",
+      "source_email": "tldr_ai_2026-07-17_extracted.json"
+    },
+    {
+      "ref": 11,
+      "section": "MISCELLANEOUS",
+      "heading": "THE SELF-DRIVING COMPANY (10 MINUTE READ)",
+      "url": "https://replit.com/blog/self-driving-company?utm_source=tldrai",
+      "blurb": "Replit engineers have tripled code output without sacrificing quality, thanks to an innovative system of AI agents. These agents handle tasks like reviewing pull requests, investigating incidents, and analyzing data, enabling engineers to focus on strategic initiatives.",
+      "source_email": "tldr_ai_2026-07-17_extracted.json"
+    },
+    {
+      "ref": 12,
+      "section": "QUICK LINKS",
+      "heading": "NVIDIA-BACKED FIREWORKS HITS $17.5 BILLION VALUATION AS COMPANIES PURSUE CHEAPER AI MODELS (5 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html?utm_source=tldrai",
+      "blurb": "Nvidia-backed Fireworks secured a $17.5 billion valuation, driven by demand for cheaper AI models as companies explore open-source options.",
+      "source_email": "tldr_ai_2026-07-17_extracted.json"
+    },
+    {
+      "ref": 13,
+      "section": "QUICK LINKS",
+      "heading": "CONNECTED APPS IN GOOGLE AI MODE (3 MINUTE READ)",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/?utm_source=tldrai",
+      "blurb": "Google added integrations with Instacart, Canva, and YouTube to AI Mode, allowing users to complete tasks across supported apps from its conversational search experience.",
+      "source_email": "tldr_ai_2026-07-17_extracted.json"
+    },
+    {
+      "ref": 14,
+      "section": "QUICK LINKS",
+      "heading": "RAMP TARGETS AI'S FASTEST-GROWING COST WITH EXPANDED TOKEN SPEND TRACKING (4 MINUTE READ)",
+      "url": "https://siliconangle.com/2026/07/16/ramp-targets-ais-fastest-growing-cost-expanded-token-spend-tracking/?utm_source=tldrai",
+      "blurb": "Ramp has expanded its AI Token Spend Management product to give finance teams clear insights into AI spending across providers like OpenAI, Anthropic, and Google's Gemini.",
+      "source_email": "tldr_ai_2026-07-17_extracted.json"
+    },
+    {
+      "ref": 15,
+      "section": "QUICK LINKS",
+      "heading": "NOTEBOOKLM IS NOW GEMINI NOTEBOOK (2 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/?utm_source=tldrai",
+      "blurb": "Google has rebranded NotebookLM as Gemini Notebook, expanding its integration across the Google ecosystem, including the Gemini app and Google Search.",
+      "source_email": "tldr_ai_2026-07-17_extracted.json"
+    },
+    {
+      "ref": 16,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "QWEN3.8 IS GOING OPEN-WEIGHT (1 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/Iybxpo",
+      "blurb": "Alibaba announced Qwen3.8, a 2.4-trillion-parameter model slated for an open-weight release. A preview version is available through Alibaba's Token Plan, Qoder, and QoderWork.",
+      "source_email": "tldr_ai_2026-07-20_extracted.json"
+    },
+    {
+      "ref": 17,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "APPLE SENDS LEGAL LETTERS TO DOZENS OF OPENAI EMPLOYEES (2 MINUTE READ)",
+      "url": "https://www.macrumors.com/2026/07/17/apple-sends-legal-letters-openai/?utm_source=tldrai",
+      "blurb": "Apple has reportedly sent legal letters to dozens of former Apple employees now working at OpenAI. The letters instruct the employees to preserve potentially relevant documents and communications related to Apple's trade secret lawsuit against OpenAI. Apple claims that OpenAI recruited key engineers and benefited from proprietary designs, manufacturing processes, and other trade secrets. More than 400 former Apple employees now work at OpenAI. OpenAI has denied the allegations, saying it is not aware of any evidence that the complaint has merit.",
+      "source_email": "tldr_ai_2026-07-20_extracted.json"
+    },
+    {
+      "ref": 18,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "FABLE 5 VS. GPT-5.6 SOL ON AN NP-HARD PROBLEM: DOES /GOAL HELP? (6 MINUTE READ)",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/?utm_source=tldrai",
+      "blurb": "Claude Code and Codex both have a /goal option, but their implementations are fundamentally different. Claude Code implements /goal as a session-scoped Stop hook, so it can catch an early exit, but it doesn't know whether another ten million solver iterations are worthwhile. Codex treats a goal as a persisted thread state. It sees the files and tools, but effectively grades its own work. Using /goal can be a bad default as it can amplify bad decisions as much as good ones.",
+      "source_email": "tldr_ai_2026-07-20_extracted.json"
+    },
+    {
+      "ref": 19,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOW NETFLIX BUILT ITS LLM SERVING STACK (18 MINUTE READ)",
+      "url": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?utm_source=tldrai",
+      "blurb": "Netflix details how it deployed and operated LLM inference within its existing production infrastructure. The article covers engine selection, model packaging, API design, deployment strategy, output constraints, and trade-offs that emerged under real workloads.",
+      "source_email": "tldr_ai_2026-07-20_extracted.json"
+    },
+    {
+      "ref": 20,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "DEMIS HASSABIS AND GOOGLE'S AI COMMITMENTS (18 MINUTE READ)",
+      "url": "https://thezvi.substack.com/p/demis-hassabis-on-the-new-coming?utm_source=tldrai",
+      "blurb": "This post examines Demis Hassabis's framework for frontier AI alongside criticism of Google's military agreements. It also covers Alex Turner's resignation after unsuccessfully opposing broad government use of Google's models, including for autonomous weapons.",
+      "source_email": "tldr_ai_2026-07-20_extracted.json"
+    },
+    {
+      "ref": 21,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "DIFFUSING BLAME: DALE-CONSTRAINED LEARNING WITHOUT WEIGHT TRANSPORT (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/9VQbmE",
+      "blurb": "Sakana AI's \"Diffusing Blame\" is a neural network technique that enforces Dale's principle while enabling effective learning in image classification and reinforcement learning tasks. Their approach, based on Error Diffusion, uses non-negative weight matrices to maintain separate excitatory and inhibitory streams, eliminating the need for weight transport. Results show strong alignment with true gradients, indicating a step toward biologically plausible learning rules.",
+      "source_email": "tldr_ai_2026-07-20_extracted.json"
+    },
+    {
+      "ref": 22,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "KIMI CODE CLI (GITHUB REPO)",
+      "url": "https://github.com/MoonshotAI/kimi-code?utm_source=tldrai",
+      "blurb": "Kimi Code CLI is an AI coding agent that runs in the terminal. It can read and edit code, run shell commands, search files, fetch web pages, and choose the next step based on feedback. The CLI works with Moonshot AI's Kimi models and can be configured to use other compatible providers. Its compatibilities can be extended through agent skills, hooks, sub-agents, and MCPs.",
+      "source_email": "tldr_ai_2026-07-20_extracted.json"
+    },
+    {
+      "ref": 23,
+      "section": "MISCELLANEOUS",
+      "heading": "CLAUDE FABLE 5 WILL BE INCLUDED IN ALL MAX AND TEAM PREMIUM PLANS (1 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/P1nvwj",
+      "blurb": "Claude Fable 5 will be included in all Max and Team Premium plans at 50% of limits starting July 20. Pro and Team Standard users will continue to have access to Fable via usage credits. They will receive a one-time $100 credit. Fable is being rolled out in stages as demand for the model has been challenging to predict.",
+      "source_email": "tldr_ai_2026-07-20_extracted.json"
+    },
+    {
+      "ref": 24,
+      "section": "MISCELLANEOUS",
+      "heading": "ALIBABA OPEN-SOURCES ITS AI CHIP SOFTWARE STACK AT WAIC, TARGETING NVIDIA'S CUDA LOCK-IN (3 MINUTE READ)",
+      "url": "https://thenextweb.com/news/alibaba-t-head-sail-open-source-nvidia-cuda-alternative?utm_source=tldrai",
+      "blurb": "Alibaba is open sourcing the software stack for its Zhenwu series of AI chips. The move will lower migration barriers for developers currently locked into Nvidia's CUDA ecosystem. If China wants AI independence, it needs to break the CUDA lock-in at the software layer, not just build alternative chips. The Pentagon recently added Alibaba to its Chinese military companies blacklist. Open sourcing SAIL will make its ecosystem stickier and harder for any single government to shut down.",
+      "source_email": "tldr_ai_2026-07-20_extracted.json"
+    },
+    {
+      "ref": 25,
+      "section": "QUICK LINKS",
+      "heading": "KIMI K3 HAS RECEIVED FAR MORE LOVE THAN EXPECTED (1 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/Ncpih8",
+      "blurb": "Kimi is temporarily pausing new subscriptions and prioritizing compute for current members.",
+      "source_email": "tldr_ai_2026-07-20_extracted.json"
+    },
+    {
+      "ref": 26,
+      "section": "QUICK LINKS",
+      "heading": "GOOGLE PREPARING SKILLS AND GEMINI LIVE FOR WEB ROLLOUT (2 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/google-preparing-skills-and-gemini-live-for-web-rollout/?utm_source=tldrai",
+      "blurb": "Google plans to introduce Gemini Live to desktop and web, extending real-time voice capabilities beyond mobile.",
+      "source_email": "tldr_ai_2026-07-20_extracted.json"
+    },
+    {
+      "ref": 27,
+      "section": "QUICK LINKS",
+      "heading": "I BURNED ALL MY TOKENS RESEARCHING HOW TO SAVE TOKENS (12 MINUTE READ)",
+      "url": "https://quesma.com/blog/custom-deep-research-pipeline/?utm_source=tldrai",
+      "blurb": "Use cheap models to find information, accurate models to verify it, and then use deep research last.",
+      "source_email": "tldr_ai_2026-07-20_extracted.json"
+    },
+    {
+      "ref": 28,
+      "section": "QUICK LINKS",
+      "heading": "A CHINESE AI STARTUP IS ABOUT TO HIT $1BN IN SALES WHILE GIVING ITS BEST MODELS AWAY FOR FREE (3 MINUTE READ)",
+      "url": "https://thenextweb.com/news/a-chinese-ai-startup-is-about-to-hit-1bn-in-sales-while-giving-its-best-models-away-for-free?utm_source=tldrai",
+      "blurb": "A large share of Z.ai's income comes from on-premises deployments for state-owned enterprises and financial institutions, as well as its fast-growing cloud business.",
+      "source_email": "tldr_ai_2026-07-20_extracted.json"
+    },
+    {
+      "ref": 29,
+      "section": "QUICK LINKS",
+      "heading": "MOONSHOT AI PLANS HONG KONG IPO AFTER KIMI K3 MODEL DEBUT (3 MINUTE READ)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/moonshot-ai-plans-hong-kong-123000193.html?utm_source=tldrai",
+      "blurb": "Moonshot AI plans to list on the Hong Kong Stock Exchange within six months.",
+      "source_email": "tldr_ai_2026-07-20_extracted.json"
+    },
+    {
+      "ref": 30,
+      "section": "QUICK LINKS",
+      "heading": "WHY THE FIRST GPU FINANCIERS ARE TURNING TO INFERENCE CHIPS IN A $400 MILLION DEAL (4 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/?utm_source=tldrai",
+      "blurb": "General Compute, an AI inference cloud startup, is using inference-specific chips as collateral for a $400 million loan.",
+      "source_email": "tldr_ai_2026-07-20_extracted.json"
+    }
+  ],
+  "dropped": []
+}
