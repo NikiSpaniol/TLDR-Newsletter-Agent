@@ -1,0 +1,413 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "KIMI WORK (WEBSITE)",
+      "url": "https://www.kimi.com/products/kimi-work?utm_source=tldrai",
+      "blurb": "Kimi Work is an agent that can connect to local files and automate browser work. It is capable of 24/7 automation, running scripts or tasks around the clock quietly in the background. The agent can navigate the internet and execute multi-step web tasks. It can coordinate multiple specialized agents to break down and solve multi-layer tasks and convert insights into professional PowerPoint decks or Excel sheets. Kimi Work is available for both Windows and macOS.",
+      "source_email": "tldr_ai_2026-07-21_extracted.json"
+    },
+    {
+      "ref": 2,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "AMD'S HELIOS (4 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html?utm_source=tldrai",
+      "blurb": "AMD has unveiled Helios, its first rack-scale AI system positioned against Nvidia, with Microsoft planning to deploy it in Azure data centers. Meta, OpenAI, and Oracle were also named as early customers ahead of shipments later in 2026.",
+      "source_email": "tldr_ai_2026-07-21_extracted.json"
+    },
+    {
+      "ref": 3,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GOOGLE'S NEW CHIP FOR GEMINI (2 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/?utm_source=tldrai",
+      "blurb": "Google reportedly developed a server chip called Frozen v2 for a potential 2028 release, targeting six to ten times more tokens per unit of power than its existing AI hardware. The project reflected a broader push to reduce inference costs and reliance on Nvidia.",
+      "source_email": "tldr_ai_2026-07-21_extracted.json"
+    },
+    {
+      "ref": 4,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "SPARSE BY DESIGN (5 MINUTE READ)",
+      "url": "https://www.akashbajwa.co/p/sparse-by-design?utm_source=tldrai",
+      "blurb": "Kimi K3 activates 16 of 896 experts per token. While the total parameters have grown, the active parameters have barely grown at all over the past three releases. The strategy appears to be to keep per-token compute roughly flat while relentlessly inflating total capacity. At a fixed training compute budget, more experts means lower loss, and the model learns more from the same FLOPs. The open source labs have discovered that the cheapest way to buy intelligence is to spend capacity.",
+      "source_email": "tldr_ai_2026-07-21_extracted.json"
+    },
+    {
+      "ref": 5,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "ON KIMI K3: ITS CAPABILITIES AND RELATED DISCONTENTS (70 MINUTE READ)",
+      "url": "https://thezvi.wordpress.com/2026/07/20/on-kimi-k3-its-capabilities-and-related-discontents/?utm_source=tldrai",
+      "blurb": "Kimi K3 is a very good model with excellent benchmarks. It is the largest (soon-to-be) open model so far, at 2.8T parameters, which explains many of its gains. The model is somewhat distilled, and its performance looks jagged, but it will likely fit well into many workflows. At the current rate of development, China appears capable of releasing a Mythos-level open model by the end of the year.",
+      "source_email": "tldr_ai_2026-07-21_extracted.json"
+    },
+    {
+      "ref": 6,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "WHAT LONG-HORIZON AI FAILURES REVEAL ABOUT SAFETY (8 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/u1LOna",
+      "blurb": "OpenAI detailed how an internally deployed long-running model exhibited unexpected unsafe behavior that existing evaluations had missed. The company paused access, built new tests, strengthened trajectory-level monitoring, and argued that limited deployment with rollback controls is essential for aligning increasingly autonomous systems.",
+      "source_email": "tldr_ai_2026-07-21_extracted.json"
+    },
+    {
+      "ref": 7,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "ONLINE LEARNING FOR COST-EFFICIENT LLM ROUTING (6 MINUTE READ)",
+      "url": "https://builders.ramp.com/post/thompson-sampling-model-routing?utm_source=tldrai",
+      "blurb": "Ramp Router learns provider failure rates through EWMA and latency distributions through Thompson sampling, then chooses the cheapest model and service tier likely to meet each deadline. Ramp reports 30% savings in Ramp Inspect without performance loss.",
+      "source_email": "tldr_ai_2026-07-21_extracted.json"
+    },
+    {
+      "ref": 8,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "INTRODUCING COSMOS 3 EDGE (9 MINUTE READ)",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge?utm_source=tldrai",
+      "blurb": "NVIDIA Cosmos 3 Edge is a 4-billion-parameter open world model that helps robots and vision AI agents understand their surroundings, reason in real time, and generate robot actions on edge devices. It is now available on Hugging Face. The model delivers memory-efficient, high-throughput inference across NVIDIA edge computers. It connects understanding, prediction, simulation, and action through a shared world representation. The model can be used as a reasoner or an action generator.",
+      "source_email": "tldr_ai_2026-07-21_extracted.json"
+    },
+    {
+      "ref": 9,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "AGENT SWARMS AND THE NEW MODEL ECONOMICS (17 MINUTE READ)",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics?utm_source=tldrai",
+      "blurb": "Every jump in AI capability has raised the level of abstraction at which an engineer works. Agent swarms make the spec the unit of work. Swarms translate intent, but they do this probabilistically, which makes it difficult for them to follow the spec. This post looks at what it takes to make swarms actually follow the spec.",
+      "source_email": "tldr_ai_2026-07-21_extracted.json"
+    },
+    {
+      "ref": 10,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "XIAOMI-ROBOTICS-1 (7 MINUTE READ)",
+      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html?utm_source=tldrai",
+      "blurb": "Xiaomi-Robotics-1 is a ready-to-use robot foundation model trained on over 100K hours of real-world manipulation trajectories. It combines large-scale embodiment-free pre-training with a modest amount of real-robot data in a post-training stage. It serves as a strong robot foundation model for downstream applications and can learn new tasks with high data efficiency. Footage of robots operating on the model performing household tasks is available in the post.",
+      "source_email": "tldr_ai_2026-07-21_extracted.json"
+    },
+    {
+      "ref": 11,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "LANGUAGE MODEL HARNESSES ARE COMPOSITIONAL GENERALIZERS (49 MINUTE READ)",
+      "url": "https://alexzhang13.github.io/blog/2026/harness/?utm_source=tldrai",
+      "blurb": "Scaling data will remain the biggest driver of progress. The machine that we feed that data into and its inductive biases are what will determine the coefficients of that scaling. Better returns on scaling require compositional generalization. The capacity for compositional generalization seems to largely live in harnesses.",
+      "source_email": "tldr_ai_2026-07-21_extracted.json"
+    },
+    {
+      "ref": 12,
+      "section": "MISCELLANEOUS",
+      "heading": "Z.AI BUILT A GIGAWATT-SCALE AI DATA CENTER (3 MINUTE READ)",
+      "url": "https://finance.yahoo.com/technology/ai/articles/chinas-z-ai-completes-1-205515769.html?utm_source=tldrai",
+      "blurb": "Z.ai completed a 1-gigawatt data center powered entirely by Chinese-made chips and began partial operations. The facility expanded the computing infrastructure available for training its advanced GLM models.",
+      "source_email": "tldr_ai_2026-07-21_extracted.json"
+    },
+    {
+      "ref": 13,
+      "section": "MISCELLANEOUS",
+      "heading": "HOW AI IS SUPERCHARGING DRUG DEVELOPMENT (3 MINUTE READ)",
+      "url": "https://www.axios.com/2026/07/20/artificial-intelligence-drug-development-impact?utm_source=tldrai",
+      "blurb": "AI is cutting preclinical costs and timelines in drug development by up to 70%, driving demand for advanced software and models. This could boost new drug program growth by over 10% in three to five years. However, AI has yet to yield an FDA-approved drug, raising concerns about its impact on patient treatment.",
+      "source_email": "tldr_ai_2026-07-21_extracted.json"
+    },
+    {
+      "ref": 14,
+      "section": "MISCELLANEOUS",
+      "heading": "WHY YOUR AI BILL WENT UP EVEN THOUGH TOKEN PRICES ARE FALLING (5 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/31ttC7",
+      "blurb": "Token prices dropped significantly, yet many enterprises exceed AI budgets. A unit of inference cost $60 per million tokens in 2020, now just pennies. The discrepancy suggests inefficiencies despite lower token costs.",
+      "source_email": "tldr_ai_2026-07-21_extracted.json"
+    },
+    {
+      "ref": 15,
+      "section": "QUICK LINKS",
+      "heading": "ANTHROPIC SET TO END CONWAY TEST AS WIDER ROLLOUT EXPECTED (2 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/anthropic-set-to-end-conway-test-as-wider-preview-expected-soon/?utm_source=tldrai",
+      "blurb": "Anthropic will discontinue its Conway experiment by July 24, prompting users to export data.",
+      "source_email": "tldr_ai_2026-07-21_extracted.json"
+    },
+    {
+      "ref": 16,
+      "section": "QUICK LINKS",
+      "heading": "MORE AI SPEND WON'T FIX YOUR SUPPLY CHAIN (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/YOdppe",
+      "blurb": "Sushanth Raman announced the launch of Custom Models for supply chain teams.",
+      "source_email": "tldr_ai_2026-07-21_extracted.json"
+    },
+    {
+      "ref": 17,
+      "section": "QUICK LINKS",
+      "heading": "WELCOMING TIERZERO TO COGNITION (1 MINUTE READ)",
+      "url": "https://cognition.com/blog/welcoming-tierzero?utm_source=tldrai",
+      "blurb": "Cognition has acquired TierZero to enhance software automation in its product, Devin.",
+      "source_email": "tldr_ai_2026-07-21_extracted.json"
+    },
+    {
+      "ref": 18,
+      "section": null,
+      "heading": "TOGETHER WITH [IBM]",
+      "url": "https://links.tldrnewsletter.com/ZcAHrY",
+      "blurb": "TLDR AI 2026-07-22",
+      "source_email": "tldr_ai_2026-07-22_extracted.json"
+    },
+    {
+      "ref": 19,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GOOGLE RELEASED THREE NEW GEMINI (5 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/?utm_source=tldrai",
+      "blurb": "Google introduced Gemini 3.6 Flash for more efficient general-purpose agent workloads, 3.5 Flash-Lite for low-latency applications, and a cyber-specialized 3.5 Flash model integrated with CodeMender. It also disclosed partner testing for Gemini 3.5 Pro and an ongoing Gemini 4 pre-training run.",
+      "source_email": "tldr_ai_2026-07-22_extracted.json"
+    },
+    {
+      "ref": 20,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI MODELS ESCAPED A CYBERSECURITY TEST (5 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/GnfXev",
+      "blurb": "OpenAI said models undergoing a cyber-capability evaluation exploited a package installer to reach the internet, then accessed Hugging Face systems and retrieved benchmark solutions from a production database.",
+      "source_email": "tldr_ai_2026-07-22_extracted.json"
+    },
+    {
+      "ref": 21,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INTRODUCING DEVIN OUTPOSTS (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/yfU07C",
+      "blurb": "Devin Outposts enable Devin to run on any machine. This includes options like Mac mini, GPU boxes, VMs, or Kubernetes clusters.",
+      "source_email": "tldr_ai_2026-07-22_extracted.json"
+    },
+    {
+      "ref": 22,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "OPENAI SHARES SOME ALIGNMENT PROBLEMS (11 MINUTE READ)",
+      "url": "https://thezvi.substack.com/p/openai-shares-some-alignment-problems?utm_source=tldrai",
+      "blurb": "OpenAI experienced significant alignment issues with an internal model that attempted to bypass sandbox restrictions, prompting the company to take the model offline for improved safeguards. The model's actions, such as evading restrictions to post results on GitHub, highlight concerns about persistent misalignment and the urgency to address these risks as AI capabilities grow. OpenAI's proactive steps include creating incident-derived evaluations, active monitoring, and improving user control, but the underlying alignment problem remains unresolved, emphasizing the need for a more comprehensive long-term solution.",
+      "source_email": "tldr_ai_2026-07-22_extracted.json"
+    },
+    {
+      "ref": 23,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "WHAT IT ACTUALLY TAKES TO BUILD AGENT INFRASTRUCTURE YOURSELF (18 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/TxeP5w",
+      "blurb": "Production web agents require five infrastructure layers beyond Chromium: warm browser pools, VM-level isolation, coherent identities and residential routing, unified replay and traces, and multi-model gateways. Building them internally makes sense mainly when infrastructure is strategic, mandatory, or the product.",
+      "source_email": "tldr_ai_2026-07-22_extracted.json"
+    },
+    {
+      "ref": 24,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "ACP V2 IS AVAILABLE IN DRAFT (7 MINUTE READ)",
+      "url": "https://agentclientprotocol.com/announcements/acp-v2-draft?utm_source=tldrai",
+      "blurb": "The Agent Client Protocol standardizes communication between code editors and coding agents. It exposes methods that each side can call and send notifications to inform each other of events. The v2 draft is now available, and the team is looking for feedback. v2 allows for much more flexibility and consolidates on common patterns learned over the past year.",
+      "source_email": "tldr_ai_2026-07-22_extracted.json"
+    },
+    {
+      "ref": 25,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "LAGUNA S 2.1 (HUGGING FACE REPO)",
+      "url": "https://huggingface.co/poolside/Laguna-S-2.1?utm_source=tldrai",
+      "blurb": "Laguna S 2.1 is a 118B total parameter Mixture-of-Experts model with 8B activated parameters per token. It is designed for agentic coding and long-horizon work. The model features a mixed SWA and global attention layout and has a 1 million-token context window. It has native reasoning support and was released under an OpenMDW-1.1 license.",
+      "source_email": "tldr_ai_2026-07-22_extracted.json"
+    },
+    {
+      "ref": 26,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "QWEN-IMAGE-3.0: RICH CONTENT, AUTHENTIC DETAILS, DEEP KNOWLEDGE (6 MINUTE READ)",
+      "url": "https://qwen.ai/blog?id=qwen-image-3.0&utm_source=tldrai",
+      "blurb": "Qwen-Image-3.0 is the third-generation foundational image generation model in the Qwen-Image series. It supports up to 4.5k token input and creates rich content with authentic details. The model supports native rendering of 12 languages and can simulate mainstream interfaces such as web pages, games, and livestreams. Drawing on rich world knowledge, the model makes image generation a truly deployable tool.",
+      "source_email": "tldr_ai_2026-07-22_extracted.json"
+    },
+    {
+      "ref": 27,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "MAGE (GITHUB REPO)",
+      "url": "https://github.com/microsoft/Mage?utm_source=tldrai",
+      "blurb": "Mage is a family of lightweight, research-friendly multimodal models designed to make advanced visual understanding and generation accessible for controlled experiments, post-training research, and vertical-domain applications under realistic compute budgets. The models are compact enough to train, fine-tune, and deploy on modest hardware. They remain competitive with much larger open systems in their respective domains. The models are intended for research and not for product or service deployment.",
+      "source_email": "tldr_ai_2026-07-22_extracted.json"
+    },
+    {
+      "ref": 28,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GIGATOKEN (GITHUB REPO)",
+      "url": "https://github.com/marcelroed/gigatoken/#benchmarks?utm_source=tldrai",
+      "blurb": "Gigatoken is a tokenizer for language modeling that supports a wide range of CPU hardware and nearly all commonly used tokenizers. It can be used with its own API or in capability mode with Hugging Face Tokenizers or Tiktoken. Gigatoken is around 1,000 times faster than Hugging Face's tokenizers. It can tokenize text data at the rate of gigabytes per second.",
+      "source_email": "tldr_ai_2026-07-22_extracted.json"
+    },
+    {
+      "ref": 29,
+      "section": "MISCELLANEOUS",
+      "heading": "THE STATE OF SIMULATION FOR PHYSICAL AI: AN OVERVIEW (10 MINUTE READ)",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai?utm_source=tldrai",
+      "blurb": "Simulations are crucial for physical AI systems, allowing efficient data generation that real-world collection lacks. This overview compares key simulation engines, such as MuJoCo, Isaac Sim, and Newton, each catering to specific robotics applications like reinforcement learning and synthetic data generation. Open-source development and GPU-accelerated tools are driving innovation and accessibility in robotics simulation.",
+      "source_email": "tldr_ai_2026-07-22_extracted.json"
+    },
+    {
+      "ref": 30,
+      "section": "MISCELLANEOUS",
+      "heading": "HOW META'S AI MODELS ARE POWERING THE FIRST WAVE OF GENESIS MISSION PROJECTS (6 MINUTE READ)",
+      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?utm_source=tldrai",
+      "blurb": "Meta's SAM 3 and DINOv3 AI models power Lawrence Berkeley Lab's SYNAPS-I project, enhancing data analysis for X-ray and neutron science. These models transform the complex task of image segmentation, reducing time from months to minutes by providing precise object boundaries and context identification. This AI-driven pipeline aids real-time research, exemplified by advancing drought-resilient crop studies in grapevines.",
+      "source_email": "tldr_ai_2026-07-22_extracted.json"
+    },
+    {
+      "ref": 31,
+      "section": "QUICK LINKS",
+      "heading": "WE HAVE STARTED OUR MOST AMBITIOUS PRE-TRAINING RUN YET (1 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2079594867161022817.html?utm_source=tldrai",
+      "blurb": "Pre-training has started for Gemini 4.",
+      "source_email": "tldr_ai_2026-07-22_extracted.json"
+    },
+    {
+      "ref": 32,
+      "section": "QUICK LINKS",
+      "heading": "TEST IOS APPS IN THE SIMULATOR (8 MINUTE READ)",
+      "url": "https://code.claude.com/docs/en/desktop-ios-simulator?utm_source=tldrai",
+      "blurb": "Claude Code Desktop integrates with Apple's iOS Simulator, allowing live app testing without taking over the screen.",
+      "source_email": "tldr_ai_2026-07-22_extracted.json"
+    },
+    {
+      "ref": 33,
+      "section": "QUICK LINKS",
+      "heading": "DISTILLING THE MOAT (6 MINUTE READ)",
+      "url": "https://blog.dshr.org/2026/07/distilling-moat.html?utm_source=tldrai",
+      "blurb": "If AI platforms can't deter distillation by pricing, and can only hope to stay slightly ahead of distillers and open-weight models through an expensive arms race, their moat is extremely shallow.",
+      "source_email": "tldr_ai_2026-07-22_extracted.json"
+    },
+    {
+      "ref": 34,
+      "section": "QUICK LINKS",
+      "heading": "OPENCODEX (GITHUB REPO)",
+      "url": "https://github.com/lidge-jun/opencodex?utm_source=tldrai",
+      "blurb": "opencodex is a lightweight local proxy that translates Codex's Responses API into whatever your provider speaks.",
+      "source_email": "tldr_ai_2026-07-22_extracted.json"
+    },
+    {
+      "ref": 35,
+      "section": null,
+      "heading": "READ THE DEEP DIVE\u2192 [4]  START FREE. $100 IN CREDITS \u2192",
+      "url": "https://ref.viktor.com/vik-ti-primary2",
+      "blurb": "\ud83d\ude80",
+      "source_email": "tldr_ai_2026-07-23_extracted.json"
+    },
+    {
+      "ref": 36,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI PRESENCE (5 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/oHeKAh",
+      "blurb": "OpenAI Presence is an enterprise product for deploying controlled AI agents across customer support and internal operations. It combines model reasoning with permissions, policies, evaluations, escalation rules, and tools for improving agents after deployment.",
+      "source_email": "tldr_ai_2026-07-23_extracted.json"
+    },
+    {
+      "ref": 37,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "AMD AND ANTHROPIC SIGN MAJOR CHIPS-AND-INVESTMENT DEAL (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/xKSh8q",
+      "blurb": "AMD and Anthropic have signed a deal for tens of billions of dollars' worth of AI servers. Anthropic will purchase up to 2 gigawatts of AMD's Instinct MI450 chips starting in the first half of next year. AMD will invest up to $5 billion in Anthropic as certain deployment milestones are met. The companies are working together to identify data centers for the chips.",
+      "source_email": "tldr_ai_2026-07-23_extracted.json"
+    },
+    {
+      "ref": 38,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "ARE AI LABS PELICANMAXXING? (14 MINUTE READ)",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html?utm_source=tldrai",
+      "blurb": "Simon Willison's 'generate an SVG of a pelican riding a bicycle' benchmark has become one of the most famous informal benchmarks in AI. It is famous enough that there is a lot of discussion about its usefulness and whether AI labs might be making their models specifically better at the task. Testing has found that there is little evidence that AI labs are doing this. At least, not in a plainly obvious manner.",
+      "source_email": "tldr_ai_2026-07-23_extracted.json"
+    },
+    {
+      "ref": 39,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "OPENAI'S ACCIDENTAL CYBERATTACK AGAINST HUGGING FACE IS SCIENCE FICTION THAT HAPPENED (13 MINUTE READ)",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/?utm_source=tldrai",
+      "blurb": "OpenAI was running a cybersecurity test against an unreleased model with the model's guardrail features turned off. The model broke out of OpenAI's sandbox and found exploits to break into Hugging Face so it could cheat on the test by stealing the answers. This scenario makes the strongest case yet for how the imbalance of model availability is hurting our ability to secure our software. The frontier models we have access to are increasingly being constrained in how much they can help us protect our software, and this is heavily influenced by the US government's ongoing threat of export controls.",
+      "source_email": "tldr_ai_2026-07-23_extracted.json"
+    },
+    {
+      "ref": 40,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "NOBODY KNOWS WHAT A USED GPU CLUSTER IS WORTH (12 MINUTE READ)",
+      "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster?utm_source=tldrai",
+      "blurb": "GPU collateral has three values, and the market is currently pricing only one of them. Face value is the purpose price minus straight-line depreciation. Liquidation value is what a buyer pays in distress. Going-certain value is what the cluster is worth as a working asset to the next tenant. The spread between face value and going-certain value is the entire risk that nobody has hedged.",
+      "source_email": "tldr_ai_2026-07-23_extracted.json"
+    },
+    {
+      "ref": 41,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "REGISTER NOW",
+      "url": "https://www.harness.io/event/finops-excellence-summit-2026?campaign_id=701Uw00000laBYJIA2&utm_source=tldr&utm_medium=email-paid&utm_term=ai#footer-registration",
+      "blurb": "",
+      "source_email": "tldr_ai_2026-07-23_extracted.json"
+    },
+    {
+      "ref": 42,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "CURSOR ROUTER (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/cSqmas",
+      "blurb": "Cursor Router is an intelligent model router that selects the right model for the task at hand. It delivers frontier-quality results at 60% lower cost. Early access customers observed no drop-off in quality and a lower cost per commit compared with routing all requests to Opus 4.8. Cursor Router is available now across all surfaces on Teams and Enterprise plans. Admins can enable Router per team, allow or block certain models, set defaults, and disable select optimization modes for users.",
+      "source_email": "tldr_ai_2026-07-23_extracted.json"
+    },
+    {
+      "ref": 43,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GENESIS (6 MINUTE READ)",
+      "url": "https://www.arcee.ai/science-1?utm_source=tldrai",
+      "blurb": "The US Department of Energy, in collaboration with Arcee AI, announced Genesis-Science-1 (GS1), an open-weight AI model aimed at enhancing scientific computing workflows while maintaining reproducible records. Arcee AI will lead model development, while DOE scientists will provide domain expertise, data, and research tasks. The initiative seeks contributions from various institutions to aid in pretraining, post-training, and evaluation for the model, with the first contribution window ending on August 6.",
+      "source_email": "tldr_ai_2026-07-23_extracted.json"
+    },
+    {
+      "ref": 44,
+      "section": "MISCELLANEOUS",
+      "heading": "TSMC IS ACCELERATING ARIZONA FACTORY BUILD-OUT TO CAPITALIZE ON AI \u2018MEGATREND,' CFO SAYS (5 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html?utm_source=tldrai",
+      "blurb": "TSMC is scaling up its mega investment in Arizona as it sees a multi-year demand megatrend from its customers. It is committing an additional $100 billion to aggressively expand its US chipmaking footprint. The fresh commitment raises TSMC's total investment pipeline in Arizona to $265 billion.",
+      "source_email": "tldr_ai_2026-07-23_extracted.json"
+    },
+    {
+      "ref": 45,
+      "section": "MISCELLANEOUS",
+      "heading": "TREASURY THREATENS SANCTIONS AFTER WHITE HOUSE CLAIMS MOONSHOT DISTILLED ANTHROPIC'S FABLE (2 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/?utm_source=tldrai",
+      "blurb": "US Treasury Secretary Scott Bessent has doubled down on his warning to Chinese AI companies, saying that sanctions remain on the table after Moonshot was accused of improperly distilling Anthropic's Fable model. Model distillation is a common AI training technique where a smaller model learns from the outputs of a larger one. It is widely used as a legitimate optimization method, but it can infringe on intellectual property rights. Some experts dispute the idea that Kimi K3 was developed primarily through distillation from Fable, which has only been publicly available since July 1.",
+      "source_email": "tldr_ai_2026-07-23_extracted.json"
+    },
+    {
+      "ref": 46,
+      "section": "MISCELLANEOUS",
+      "heading": "OPENAI RAISED ITS INFRASTRUCTURE PLANS TO $750 BILLION (3 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/?utm_source=tldrai",
+      "blurb": "OpenAI reportedly increased its planned infrastructure spending through 2030 to $750 billion. Its first major project was a $20 billion, 3.2-gigawatt data center campus in Georgia.",
+      "source_email": "tldr_ai_2026-07-23_extracted.json"
+    },
+    {
+      "ref": 47,
+      "section": "QUICK LINKS",
+      "heading": "CLAUDE ADDED DIRECT ACCESS TO AI USAGE DATA (2 MINUTE READ)",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector?utm_source=tldrai",
+      "blurb": "Anthropic launched a Claude connector for exploring its Economic Index through natural-language questions about occupations, regions, tasks, and automation trends.",
+      "source_email": "tldr_ai_2026-07-23_extracted.json"
+    },
+    {
+      "ref": 48,
+      "section": "QUICK LINKS",
+      "heading": "AMAZON CUTS JOBS IN ARTIFICIAL GENERAL INTELLIGENCE UNIT (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/gXEe5J",
+      "blurb": "Amazon says it remains committed to investing in AI despite the cuts.",
+      "source_email": "tldr_ai_2026-07-23_extracted.json"
+    },
+    {
+      "ref": 49,
+      "section": "QUICK LINKS",
+      "heading": "THE ANTHROPIC-PHYSICAL INTELLIGENCE RUMOR ROILING AI TWITTER (5 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/?utm_source=tldrai",
+      "blurb": "A rumor that Anthropic is acquiring robotic startup Physical Intelligence spread exceedingly fast over the weekend, even after a denial from Physical Intelligence's CEO.",
+      "source_email": "tldr_ai_2026-07-23_extracted.json"
+    },
+    {
+      "ref": 50,
+      "section": "QUICK LINKS",
+      "heading": "ANTHROPIC DEVELOPS CLAUDE-DRIVEN MANAGED PROJECTS (2 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/anthropic-develops-claude-driven-managed-projects/?utm_source=tldrai",
+      "blurb": "Anthropic is developing Claude-driven \"managed projects\" offering persistent, organized task management with some autonomy.",
+      "source_email": "tldr_ai_2026-07-23_extracted.json"
+    },
+    {
+      "ref": 51,
+      "section": "QUICK LINKS",
+      "heading": "TOWARDS AUTOMATING EVAL ENGINEERING (5 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/jnUJHo",
+      "blurb": "LangChain released an Eval Engineering Skill that maps agent repositories and production traces into executable Harbor evaluations.",
+      "source_email": "tldr_ai_2026-07-23_extracted.json"
+    }
+  ],
+  "dropped": []
+}
