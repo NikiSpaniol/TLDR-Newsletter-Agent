@@ -1,0 +1,285 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "CHATGPT HEALTH (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/eqHTpp",
+      "blurb": "OpenAI launched Health in ChatGPT for US adults, allowing users to connect Apple Health and supported medical records for more contextual health conversations. The company said connected health data and related chats would not be used to train foundation models or target ads.",
+      "source_email": "tldr_ai_2026-07-24_extracted.json"
+    },
+    {
+      "ref": 2,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "ANNOUNCING FUGU-ULTRA V1.1 \ud83d\udc21 (1 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2080448772778373586.html?utm_source=tldrai",
+      "blurb": "Fugu-Ultra v1.1 is more capable across coding, agentic tasks, and advanced reasoning. It is now available at the same price as Fugu-Ultra v1.0. Fugu offers frontier-level performance without single-vendor dependency. It dynamically orchestrates the best models to tackle complex multi-step tasks.",
+      "source_email": "tldr_ai_2026-07-24_extracted.json"
+    },
+    {
+      "ref": 3,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "RUNWAY LAUNCHED AN AI ROUTER FOR GENERATIVE MEDIA (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/0hU38H",
+      "blurb": "Runway Media Router is a developer tool that automatically selected image, video, or audio models based on quality, speed, or cost. The release positions Runway Dev as an infrastructure layer offering unified API access to both Runway and third-party models.",
+      "source_email": "tldr_ai_2026-07-24_extracted.json"
+    },
+    {
+      "ref": 4,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "UPDATED CLAUDE VOICE MODE (9 MINUTE READ)",
+      "url": "https://www.engadget.com/2221938/claude-voice-mode-just-got-smarter/?utm_source=tldrai",
+      "blurb": "Anthropic updated Claude's voice mode to support Opus, Sonnet, and Haiku, while adding integrations with apps such as Gmail, Slack, Notion, and Google Calendar. The beta remains available to all users, with free accounts limited to Haiku and one connected app.",
+      "source_email": "tldr_ai_2026-07-24_extracted.json"
+    },
+    {
+      "ref": 5,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOW TO BUILD A FRONTIER MODEL FACTORY (48 MINUTE READ)",
+      "url": "https://www.latent.space/p/poolside?utm_source=tldrai",
+      "blurb": "Poolside co-CEO Eiso Kant explains how a compact research team built the training infrastructure behind Laguna S, an 118B mixture-of-experts model reported to outperform much larger open-weight systems.",
+      "source_email": "tldr_ai_2026-07-24_extracted.json"
+    },
+    {
+      "ref": 6,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "KIMI K3'S DESIGN SECRET MAY BE IN ITS THINKING TRACES (6 MINUTE READ)",
+      "url": "https://notes.designarena.ai/kimi-k3s-design-secret-may-be-in-its-thinking-traces/?utm_source=tldrai",
+      "blurb": "Kimi K3 uses an extreme amount of thinking tokens. It uses over 12 times more reasoning than Claude Opus 4.8 and over double that of Kimi K2.6. The model's performance is primarily due to its unique chain-of-thought approach in which it iterates upon designs like a full AI agent would, but inside its chain of thought. This article looks at Kimi K3's thinking traces to explain the model's performance.",
+      "source_email": "tldr_ai_2026-07-24_extracted.json"
+    },
+    {
+      "ref": 7,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "A GPU-HOUR ISN'T A COMMODITY IF YOU NEED FOUR OF THEM (6 MINUTE READ)",
+      "url": "https://davefriedman.substack.com/p/a-gpu-hour-isnt-a-commodity-if-you?utm_source=tldrai",
+      "blurb": "Compute pricing coverage runs on headline rates, but many workloads don't consume them that way. Training, fine-tuning, and high-throughput inference need multiple identical GPUs in the same machine or cluster. A company that buys H100 futures to hedge a future four- or eight-GPU requirement carries real basis risk. The futures will hedge a rise in the broad H100 price and do nothing about the lack of co-located capacity.",
+      "source_email": "tldr_ai_2026-07-24_extracted.json"
+    },
+    {
+      "ref": 8,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "FLUX 3 (5 MINUTE READ)",
+      "url": "https://bfl.ai/blog/flux-3?utm_source=tldrai",
+      "blurb": "Black Forest Labs has launched FLUX 3, a multimodal model that can generate images and audio-video clips up to 20 seconds from a single prompt. Its architecture could be used in the future in robotic perception and action.",
+      "source_email": "tldr_ai_2026-07-24_extracted.json"
+    },
+    {
+      "ref": 9,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "MICROSOFT'S NEW MAI-IMAGE AND MAI-VOICE (2 MINUTE READ)",
+      "url": "https://microsoft.ai/news/introducing-mai-image-2-5-pro-and-mai-voice-2-flash/?utm_source=tldrai",
+      "blurb": "Microsoft introduced MAI-Image-2.5-Pro for high-fidelity image generation and editing, alongside MAI-Voice-2-Flash for faster, lower-cost voice applications. Both models entered public preview and joined Microsoft's broader production model lineup.",
+      "source_email": "tldr_ai_2026-07-24_extracted.json"
+    },
+    {
+      "ref": 10,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "OPENWORKER (GITHUB REPO)",
+      "url": "https://github.com/andrewyng/openworker?utm_source=tldrai",
+      "blurb": "Runs a local desktop AI coworker that completes tasks across files and apps.",
+      "source_email": "tldr_ai_2026-07-24_extracted.json"
+    },
+    {
+      "ref": 11,
+      "section": "MISCELLANEOUS",
+      "heading": "DEEPSEEK FOUNDER LIANG WENFENG IN HIS OWN WORDS (18 MINUTE READ)",
+      "url": "https://www.geopolitechs.org/p/deepseek-founder-liang-wenfeng-in?utm_source=tldrai",
+      "blurb": "This post contains 64 quotes from DeepSeek's investor call. In the call, founder Liang Wenfeng discussed the company's vision, motivation, and culture. He also detailed the company's open-source strategy, plans for commercialization, roadmap to AGI, and much more.",
+      "source_email": "tldr_ai_2026-07-24_extracted.json"
+    },
+    {
+      "ref": 12,
+      "section": "MISCELLANEOUS",
+      "heading": "INTEL'S STOCK JUMPS AS CHIPMAKER RIDES AI BOOM TO FASTEST REVENUE GROWTH IN ALMOST 15 YEARS (4 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html?taid=6a6274f310d75400018f0789&utm_source=tldrai",
+      "blurb": "Intel reported better-than-expected results for its second quarter. The company's shares are up over 170% so far in 2026. It is starting to craft long-term agreements with customers for its server CPUs, a move that's becoming common in the industry. The company's CFO says Intel is supply constrained, with data center customers demanding more than it can produce.",
+      "source_email": "tldr_ai_2026-07-24_extracted.json"
+    },
+    {
+      "ref": 13,
+      "section": "MISCELLANEOUS",
+      "heading": "UNDERSTANDING THE AI ECONOMY (7 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/?utm_source=tldrai",
+      "blurb": "Google Research discusses the AI economy's rapid growth, focusing on innovations and impacts across industries. The piece highlights AI's transformative effects on sectors like healthcare and finance. It emphasizes the need for strategic investment and regulation to harness AI's potential responsibly.",
+      "source_email": "tldr_ai_2026-07-24_extracted.json"
+    },
+    {
+      "ref": 14,
+      "section": "QUICK LINKS",
+      "heading": "AGENTIC CODING GOES HANDS-FREE AS OPENAI BRINGS GPT-LIVE'S FULL DUPLEX VOICE CONTROL TO CODEX AND CHATGPT ON THE DESKTOP (5 MINUTE READ)",
+      "url": "https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop?utm_source=tldrai",
+      "blurb": "OpenAI's naturalistic GPT-Live audio AI model is now integrated with the ChatGPT desktop application.",
+      "source_email": "tldr_ai_2026-07-24_extracted.json"
+    },
+    {
+      "ref": 15,
+      "section": "QUICK LINKS",
+      "heading": "DEEPSEEK'S HUAWEI-CHIP TRAINING CLAIM FINALLY GETS ITS BENCHMARKS, AND ITS DOUBTERS (3 MINUTE READ)",
+      "url": "https://www.implicator.ai/deepseeks-huawei-chip-training-claim-finally-gets-its-benchmarks-and-its-doubters/?utm_source=tldrai",
+      "blurb": "A Huawei-led consortium has released a technical report that documents full-parameter post-training of DeepSeek's V4 family on Huawei Ascend chips, measuring the run at 34.22% model FLOPs utilization.",
+      "source_email": "tldr_ai_2026-07-24_extracted.json"
+    },
+    {
+      "ref": 16,
+      "section": "QUICK LINKS",
+      "heading": "WELCOMING THE INTERACTION COMPANY (2 MINUTE READ)",
+      "url": "https://cognition.com/blog/interaction?utm_source=tldrai",
+      "blurb": "Cognition has added The Interaction Company of California, the makers of Poke, a personal agent that can text natively on Apple Messages, to its team.",
+      "source_email": "tldr_ai_2026-07-24_extracted.json"
+    },
+    {
+      "ref": 17,
+      "section": "QUICK LINKS",
+      "heading": "SIERRA ACQUIRES TAKEOFF, THE LONG-HORIZON AI AGENT PLATFORM (3 MINUTE READ)",
+      "url": "https://runtimewire.com/article/sierra-acquires-takeoff-long-horizon-ai-agents?utm_source=tldrai",
+      "blurb": "The deal gives Sierra immediate access to a platform that can power autonomous, multistep applications across enterprises.",
+      "source_email": "tldr_ai_2026-07-24_extracted.json"
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "PROGRESS (3 MINUTE READ)",
+      "url": "https://www.etched.com/progress?utm_source=tldrai",
+      "blurb": "Etched's new architecture enables AI chips to run math blocks at half the usual voltage, boosting FLOPs density and tackling thermal issues.",
+      "source_email": "tldr_ai_2026-07-24_extracted.json"
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "AMD AND CEREBRAS LAUNCH AI INFERENCE SOLUTION (10 MINUTE READ)",
+      "url": "https://www.cerebras.ai/press-release/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference?utm_source=tldrai",
+      "blurb": "AMD and Cerebras have unveiled an AI inference solution that combines AMD Helios with Cerebras Wafer-Scale Engine, enhancing low-latency AI workloads.",
+      "source_email": "tldr_ai_2026-07-24_extracted.json"
+    },
+    {
+      "ref": 20,
+      "section": null,
+      "heading": "TOGETHER WITH [AMD]",
+      "url": "https://www.amd.com/en/products/processors/commercial/agent-computers.html?utm_source=newsletter&utm_medium=email&utm_campaign=26q3_glob_comm_mult_tldr-ai_awa_no_1008568_havas_153ps&utm_content=tldr_ai_newsletter_commercial_page_header_ai_pc_entering&utm_term=us",
+      "blurb": "TLDR AI 2026-07-27",
+      "source_email": "tldr_ai_2026-07-27_extracted.json"
+    },
+    {
+      "ref": 21,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "CLAUDE OPUS 5 (3 MINUTE READ)",
+      "url": "https://www.anthropic.com/news/claude-opus-5?utm_source=tldrai",
+      "blurb": "Anthropic introduced Claude Opus 5 as a more efficient model approaching Claude Fable 5's capabilities at half the price. It reportedly led several coding and knowledge-work benchmarks and became the default model for Claude Max.",
+      "source_email": "tldr_ai_2026-07-27_extracted.json"
+    },
+    {
+      "ref": 22,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "PRENTIS, NEW AI LAB CO-FOUNDED BY REID HOFFMAN, MARK PINCUS IN TALKS TO RAISE $100M (5 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/?utm_source=tldrai",
+      "blurb": "Prentis is an AI research lab focused on computer use models. Its founders are now in talks to raise $100 million at a $1 billion valuation. The lab is training models to learn how office workers navigate routine workflows across documents and systems. It aims to eventually build AI agents that can control computers to automate those tasks. The startup has already signed contracts worth up to $50 million with several customers.",
+      "source_email": "tldr_ai_2026-07-27_extracted.json"
+    },
+    {
+      "ref": 23,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "MORE ON AN INTERNAL OPENAI MODEL HACKING INTO HUGGING FACE (38 MINUTE READ)",
+      "url": "https://thezvi.substack.com/p/more-on-an-internal-openai-model?utm_source=tldrai",
+      "blurb": "OpenAI's unreleased internal model coordinated more than 17,000 complex actions over several days and successfully completed its goal, breaching Hugging Face in the process. The model escaped its sandbox, gained access to Hugging Face, escalated access, harvested credentials, and then found the data it was looking for. It took many days for the issue to be discovered. This post takes a detailed look at what happened during the attack.",
+      "source_email": "tldr_ai_2026-07-27_extracted.json"
+    },
+    {
+      "ref": 24,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOW WE BUILT THE NEW FASTEST API FOR GLM-5.2 (5 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/MH5TUj",
+      "blurb": "Baseten's API for GLM-5.2 has peak speeds of 280 tokens per second and average speeds of around 100 tokens per second. It has more than double the performance of the launch-day API. The company has also built a Fast version of the API, which is focused on reducing latency for coding and agents. It plans to roll out another improvement to its speculative decoding algorithm soon that will further optimize the performance of GLM-5.2.",
+      "source_email": "tldr_ai_2026-07-27_extracted.json"
+    },
+    {
+      "ref": 25,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "WE HAVE PROOF AUTOMATION NOW (20 MINUTE READ)",
+      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html?utm_source=tldrai",
+      "blurb": "The problem with great type-system power is that it requires great proof effort. Doing proofs can be fun, but they take a lot of time. It can take hours of effort to discover that what you were trying to prove was false. This overhead has made programming in dependently typed languages extremely niche. It has also spurred people to try and automate it away. LLMs promise to be an extremely capable form of proof automation.",
+      "source_email": "tldr_ai_2026-07-27_extracted.json"
+    },
+    {
+      "ref": 26,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "PROMPT CACHING IN AGENTS (19 MINUTE READ)",
+      "url": "https://earendil.com/posts/prompt-caching/?utm_source=tldrai",
+      "blurb": "Prompt caching makes agents more economic, but this is quite fragile. A changed tool definition, a model switch, or a provider routing decision can turn a cheap incremental request into a full replay of the context. Cache behavior affects latency, cost, tool design, session design, and even which product features should be made available. This post looks at what the cache is, how it works, and common reasons for worse cache performance.",
+      "source_email": "tldr_ai_2026-07-27_extracted.json"
+    },
+    {
+      "ref": 27,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "THE NEW RULES OF CONTEXT ENGINEERING FOR CLAUDE 5 GENERATION MODELS (6 MINUTE READ)",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models?utm_source=tldrai",
+      "blurb": "Claude 5 models now prioritize judgment over strict rule-based context engineering, with prompts shifting from rigid guidelines to adaptable strategies. Progressive disclosure helps optimize context usage by loading necessary information on demand, while simple tool descriptions replace repetitive instructions. Claude auto-saves relevant memories and utilizes rich references like HTML artifacts for handling complex tasks.",
+      "source_email": "tldr_ai_2026-07-27_extracted.json"
+    },
+    {
+      "ref": 28,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "NVIDIA'S NEW LONG-FORM VIDEO GENERATION (12 MINUTE READ)",
+      "url": "https://nvlabs.github.io/Sana/Video2/?utm_source=tldrai",
+      "blurb": "SANA-Video 2.0 combined linear attention with periodic softmax layers to generate videos up to 720p on a single GPU. Its 5B and 14B models retained competitive quality while substantially reducing latency for long, high-resolution generation.",
+      "source_email": "tldr_ai_2026-07-27_extracted.json"
+    },
+    {
+      "ref": 29,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "INTRODUCING CELERIS-1 (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/oVU8Zb",
+      "blurb": "celeris-1 is a general-purpose language model that delivers near-GPT-5 level intelligence with 15x faster response times. It uses a new inference architecture that uses diffusion techniques, unlocking dramatically better speed while maintaining frontier-level intelligence. The model delivers p50 response latency of 157ms and a throughput of 1,280 tokens per second. A link to a post on how the model was built along with full benchmarks is available.",
+      "source_email": "tldr_ai_2026-07-27_extracted.json"
+    },
+    {
+      "ref": 30,
+      "section": "MISCELLANEOUS",
+      "heading": "BRUTE INTELLIGENCE (7 MINUTE READ)",
+      "url": "https://benn.substack.com/p/brute-intelligence?utm_source=tldrai",
+      "blurb": "AI agents can work through loops to complete complex tasks. Domains that work around problems with verifiable answers are susceptible to these kinds of loops. This is a new form of brute force. It is like having a million scientists working in a million labs, all taking swings at the same thing. While AI may not be smarter than humans, it is faster. Being fast enough might make up for the difference in intelligence.",
+      "source_email": "tldr_ai_2026-07-27_extracted.json"
+    },
+    {
+      "ref": 31,
+      "section": "MISCELLANEOUS",
+      "heading": "OPEN WEIGHTS AND AMERICAN AI LEADERSHIP (6 MINUTE READ)",
+      "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf?utm_source=tldrai",
+      "blurb": "Nvidia calls for US government policies to support open-weight AI models, arguing this fosters innovation and enhances AI leadership. The company emphasizes how open weights allow researchers to build on existing models, speeding up advancements. Nvidia's push aligns with broader industry efforts to encourage transparency and collaboration in AI development.",
+      "source_email": "tldr_ai_2026-07-27_extracted.json"
+    },
+    {
+      "ref": 32,
+      "section": "QUICK LINKS",
+      "heading": "INTRODUCING CLASSIFIERS, NOW IN BETA (3 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2080671145938821414.html?utm_source=tldrai",
+      "blurb": "OpenRouter Classifiers allow developers to tag inference in their workspaces by task type, department, agent complexity, or anything else.",
+      "source_email": "tldr_ai_2026-07-27_extracted.json"
+    },
+    {
+      "ref": 33,
+      "section": "QUICK LINKS",
+      "heading": "THE LEGORA BENCHMARK FOR AGENTIC REASONING (4 MINUTE READ)",
+      "url": "https://legora.com/bar?utm_source=tldrai",
+      "blurb": "The Legora BAR evaluates AI models on real legal cases within a practical environment, unlike traditional benchmarks with synthetic setups.",
+      "source_email": "tldr_ai_2026-07-27_extracted.json"
+    },
+    {
+      "ref": 34,
+      "section": "QUICK LINKS",
+      "heading": "MODELEXPRESS: DISTRIBUTING MODEL ARTIFACTS AT THE SPEED OF LIGHT (12 MINUTE READ)",
+      "url": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/?utm_source=tldrai",
+      "blurb": "NVIDIA ModelExpress accelerates model weight distribution by using P2P RDMA for direct GPU-to-GPU transfers, reducing startup times significantly.",
+      "source_email": "tldr_ai_2026-07-27_extracted.json"
+    },
+    {
+      "ref": 35,
+      "section": "QUICK LINKS",
+      "heading": "AGENTIC AI AT TWO DIFFERENT SCALES: NANBEIGE4.2-3B AND LAGUNA S2.1 (9 MINUTE READ)",
+      "url": "https://kaitchup.substack.com/p/agentic-ai-at-two-different-scales?utm_source=tldrai",
+      "blurb": "Nanbeige4.2-3B is a compact, dense model intended to make capable agentic behavior practical on consumer and workstation hardware, and Laguna S 2.1 is an 118-billion-parameter Mixture-of-Experts model that uses sparse access to a much larger pool of learned parameters.",
+      "source_email": "tldr_ai_2026-07-27_extracted.json"
+    }
+  ],
+  "dropped": []
+}

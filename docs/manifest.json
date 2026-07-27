@@ -34,5 +34,17 @@
     "newsletter": "Marketing",
     "edition_label": "Tuesday the 21st and Wednesday the 22nd and Thursday the 23rd of July",
     "run_date": "2026-07-24"
+  },
+  {
+    "filename": "tldr_ai_pool_2026-07-28_digest.html",
+    "newsletter": "AI",
+    "edition_label": "Friday the 24th and Monday the 27th of July",
+    "run_date": "2026-07-28"
+  },
+  {
+    "filename": "tldr_marketing_pool_2026-07-28_digest.html",
+    "newsletter": "Marketing",
+    "edition_label": "Friday the 24th and Monday the 27th of July",
+    "run_date": "2026-07-28"
   }
 ]
