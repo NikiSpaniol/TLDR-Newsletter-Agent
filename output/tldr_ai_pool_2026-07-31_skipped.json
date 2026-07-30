@@ -1,0 +1,32 @@
+[
+  {
+    "ref": 9,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "GEMINI DISTILLATION SERVICE (17 MINUTE READ)",
+    "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/tuning/distillation?utm_source=tldrai",
+    "blurb": "The Gemini Distillation Service allows users to train a smaller, more efficient 'student' model that uses the outputs and reasoning patterns of a larger, more capable 'teacher' model. Distillation enables production-grade efficiency while allowing smaller models to achieve a deeper level of reasoning. It is recommended for high-volume, latency-sensitive applications, complex reasoning tasks, and when there are significant performance gaps between the teacher and student models. The distillation service currently only supports gemini-3.1-pro as the teacher model and gemini-2.5-flash as the student model.",
+    "source_email": "tldr_ai_2026-07-28_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 29,
+    "section": "MISCELLANEOUS",
+    "heading": "THE AI FUTURE IS FOR EVERYONE (6 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/cvUyjS",
+    "blurb": "Widely distributed personal superintelligence could shift AI from automation toward invention, entrepreneurship, and individual agency. Concentrating advanced intelligence in a few institutions risks economic and political imbalance, while broad access, open systems, and targeted safeguards create stronger checks and balances.",
+    "source_email": "tldr_ai_2026-07-29_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 30,
+    "section": "MISCELLANEOUS",
+    "heading": "THE AI FUTURE IS FOR EVERYONE (6 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/VCHjKi",
+    "blurb": "As AI continues to improve, the question isn't whether superintelligence will exist, but who will have access to it. The technology could be centralized and restricted to a few institutions, or it could be used to empower everyone. The notion that AI is such a threat that the only safe path is an extreme concentration of power seems dangerous. Historically, hoping that an absolute power will benevolently provide for humanity if sufficiently enlightened hasn't led to safe or positive outcomes.",
+    "source_email": "tldr_ai_2026-07-29_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  }
+]

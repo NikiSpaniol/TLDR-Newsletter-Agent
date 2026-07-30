@@ -1,0 +1,102 @@
+{
+  "kept": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "AI HALFTIME REPORT: H1 2026 (8 MINUTE READ)",
+      "url": "https://www.growth-memo.com/p/ai-halftime-report-h1-2026?utm_source=tldrmarketing",
+      "blurb": "AI is changing search, buying behavior, and brand visibility faster than marketers can measure its business impact. Trust now matters more than rankings because 88% of users accepted AI Mode product recommendations and trusted brands won even if they were not the top result, so brands need to optimize for mentions, recommendations, and unique content instead of traditional SEO positions. AI visibility is hard to track because 91% of citations appear in only one major AI search engine, so prompt tracking needs a broader approach than rank tracking. Companies also spent heavily on AI without clear ROI, public markets cut many software valuations based on perceived AI disruption rather than performance, and publishers now face a 33% referral traffic decline as AI changes how people discover content."
+    },
+    {
+      "ref": 5,
+      "section": null,
+      "heading": "MICRODRAMAS ARE BLOWING UP. BUT THEY MAY NEVER BE A BIG AD VEHICLE (5 MINUTE READ)",
+      "url": "https://mikeshields.substack.com/p/theres-no-doubt-microsdramas-are?utm_source=tldrmarketing",
+      "blurb": "Microdramas generate $11 billion in annual global revenue, but almost none of it comes from advertising. Subscription and token payments drive nearly all of that total, since a viable ad break for a 90-second episode often runs longer than the episode itself. Platforms like DramaBox and ReelShort already resemble mobile games more than TV, monetizing through payments that let users skip friction while spending heavily on Meta and TikTok to acquire new users rather than to sell ad space. TikTok's free Pine Drama and Canela Media's upcoming Zully are betting a more ad-friendly model can still work."
+    },
+    {
+      "ref": 6,
+      "section": null,
+      "heading": "DOES SCHEMA MARKUP IMPACT SERP RANK? (11 MINUTE READ)",
+      "url": "https://moz.com/blog/does-schema-markup-impact-serp-rank?utm_source=tldrmarketing",
+      "blurb": "Schema markup alone does not improve Google rankings, so treat it as a support tool instead of a ranking tactic. A 10-week study across 29 local business websites found no direct ranking or search visibility gains from adding LocalBusiness schema in Google. Schema still adds value because it enables rich results for content like jobs and products and helps search engines and AI systems understand page content more clearly. Use schema where it unlocks search features or improves content structure, but focus SEO effort on tactics that produce measurable ranking and visibility gains."
+    },
+    {
+      "ref": 11,
+      "section": null,
+      "heading": "JASPER VS. CHATGPT: WHICH IS BETTER? (8 MINUTE READ)",
+      "url": "https://zapier.com/blog/jasper-vs-chatgpt/?utm_source=tldrmarketing",
+      "blurb": "Jasper is built for marketing teams with brand voice training, 100+ marketing workflows, and SEO integrations like Surfer SEO. ChatGPT offers more flexibility with custom GPTs, data analysis, research, and broader task support. While Jasper provides more guided content creation, ChatGPT is more affordable with a free plan and lower-cost paid options."
+    },
+    {
+      "ref": 12,
+      "section": null,
+      "heading": "HOW AIROPS USES AIROPS (WEBINAR)",
+      "url": "https://luma.com/airops-gke0?utm_source=tldrmarketing",
+      "blurb": "AirOps' Head of Search Marketing and Content Engineer share the systems they use to improve AI search performance. The session covers how to uncover new topic angles, refresh pages using visibility data, and build comparison and offsite content that increases the chances of being cited in AI search results. It also explores how AirOps combines automation and human review to scale content workflows."
+    },
+    {
+      "ref": 13,
+      "section": "MISCELLANEOUS",
+      "heading": "AI IS NOT REPLACING MARKETING. IT'S CROWDING THE ROOM (6 MINUTE READ)",
+      "url": "https://almund6ef.substack.com/p/ai-is-not-replacing-marketing-its?utm_source=tldrmarketing",
+      "blurb": "Radio still captured 61% of daily ad-supported audio listening in the US in late 2025, more than podcasts and streaming music combined at 21% and 15%. That split, not a radio collapse, is the same pattern showing up in search, where Google still held 87% of the US market in June even as AI chatbot use climbed to 49% of adults. Marketers keep asking which channel AI will kill next, but the more useful question is what job each channel plays once a new one arrives. The biggest strain on teams is managing that many channels at once, not any single channel's decline."
+    },
+    {
+      "ref": 14,
+      "section": "MISCELLANEOUS",
+      "heading": "THE \u2018DEAD INTERNET THEORY' IS REAL. AND IT'S KILLING THE WEB AS WE KNOW IT (5 MINUTE READ)",
+      "url": "https://www.fastcompany.com/91579817/dead-internet-theory-is-real-web-agents?utm_source=tldrmarketing",
+      "blurb": "The 30-year-old online advertising model was never really selling attention, it was selling access to a human being who could be flattered or worn down into a purchase. Agents don't have that vulnerability, so surveilling one produces nothing to sell, and more than half of all web traffic is now agents rather than people. What a business can still offer an agent is qualification on merits like price, reliability, and data quality, not persuasion, which is a fundamentally different kind of customer relationship to build for. The model isn't being reformed by regulation or backlash, it's dying because the traffic itself changed completely."
+    },
+    {
+      "ref": 17,
+      "section": "QUICK LINKS",
+      "heading": "GOOGLE'S AI SEARCH IS RAPIDLY BECOMING THE DEFAULT, NEW DATA SHOWS (2 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/?utm_source=tldrmarketing",
+      "blurb": "AI Overviews jumped from 15% to 43% of Google searches in a year, while AI Mode visits more than doubled to 279 million by May."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 7,
+      "section": null,
+      "heading": "ANATOMY OF THE B2B SAAS COMPARISON HUB (2 MINUTE READ)",
+      "url": "https://www.linkedin.com/posts/romana-kuts_ive-posted-about-comparison-hubs-before-share-7483417058106470400-jNQz/?utm_source=tldrmarketing",
+      "blurb": "Comparison hubs help companies capture buyers researching alternatives by creating a connected system of pages instead of isolated comparison content. A category-level hub introduces the company's position in the market and links to competitor comparisons, while each comparison page helps buyers make a decision with clear tradeoffs and proof points. The approach supports organic search, LLM visibility, and paid campaigns by meeting buyers where they're already evaluating options. Be transparent about competitors' strengths and weaknesses while shaping the narrative around why your product's the right fit.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    },
+    {
+      "ref": 8,
+      "section": null,
+      "heading": "CHATGPT AGREES WITH YOUR GUT. DOES YOUR AUDIENCE? (SPONSOR)",
+      "url": "https://www.articos.com/?utm_source=tldr&utm_medium=newsletter&utm_campaign=marketing&utm_content=tldr-marketing",
+      "blurb": "User interviews take 4-8 weeks and panel platforms start at $20K, but the alternative is a bot that always agrees with you. Articos [9] tests your messaging with synthetic users matched to your audience in 30 minutes. It's 86% as accurate as human validation and 7.5\u00d7 more accurate than LLMs. Run your first test free [8]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 10,
+      "section": null,
+      "heading": "DON'T TRUST GOOGLE TRENDS FOR CONTENT PLANNING (1 MINUTE READ)",
+      "url": "https://www.linkedin.com/posts/brockmurray_shared-image-share-7487498793731522561-3qbp/?utm_source=tldrmarketing",
+      "blurb": "Google Trends may no longer give a reliable view of real search demand because AI search fan-out queries can inflate topic interest. Validate content ideas by comparing Trends data against Search Console impressions and clicks instead of relying on relative interest scores alone. Use keyword tools such as Ahrefs or Semrush for search volume estimates and check engagement and conversion data to confirm audience interest.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    },
+    {
+      "ref": 15,
+      "section": "QUICK LINKS",
+      "heading": "AVOID ARGUMENTS BY CREATING A UTM STRATEGY DOC (1 MINUTE READ)",
+      "url": "https://www.linkedin.com/posts/chloe-christine-allerton_utms-cause-more-arguments-per-quarter-than-share-7487858336730710016-9PUf/?utm_source=tldrmarketing",
+      "blurb": "A UTM strategy document defines sources, mediums, and campaign naming conventions, and should be reviewed quarterly.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    },
+    {
+      "ref": 16,
+      "section": "QUICK LINKS",
+      "heading": "\u201cINCREASING REVENUE\u201d SHOULDN'T BE YOUR HERO MESSAGE (1 MINUTE READ)",
+      "url": "https://www.linkedin.com/posts/anthonypierri_most-employees-dont-lie-awake-worrying-about-share-7487588604077060097-OliZ/?utm_source=tldrmarketing",
+      "blurb": "Speak the language of the roles who will allow you to close the sale.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    }
+  ]
+}

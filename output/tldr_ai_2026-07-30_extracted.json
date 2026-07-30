@@ -1,0 +1,176 @@
+{
+  "kept": [
+    {
+      "ref": 4,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "THINKING MACHINES COFOUNDER JOINED OPENAI (4 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/?utm_source=tldrai",
+      "blurb": "Thinking Machines co-founder Lilian Weng left the startup after citing health effects from sustained stress and workload, then joined OpenAI. She said the pace required by the startup had become physically unsustainable."
+    },
+    {
+      "ref": 5,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "SPACEXAI LAUNCHES GROK VOICE THINK FAST 2.0 ON AGENT BUILDER (2 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/spacexai-launches-grok-voice-think-fast-2-0-on-agent-builder/#google_vignette?utm_source=tldrai",
+      "blurb": "Grok Voice Think Fast 2.0 is now available at $0.09 per audio minute. grok-voice-latest will switch over to the new model on August 5. The release makes Grok Voice more dependable in real customer workflows."
+    },
+    {
+      "ref": 6,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "HOW ENABLING TWO SETTINGS TRIPLED OUR SCORES ON THE ARC-AGI-3 BENCHMARK (5 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/Egt7as",
+      "blurb": "GPT-5.6 Sol scores just 7.8% on the ARC-AGI-3 benchmark despite having solved longstanding open problems in mathematics and beaten games like Pok\u00e9mon FireRed. Benchmarks rarely measure AI models in isolation. They also measure less visible choices about API settings, harness design, and prompting. Researchers discovered that turning on retained reasoning and compaction in ChatGPT and Codex tripled scores and cut output tokens by 6x on the benchmark."
+    },
+    {
+      "ref": 7,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "DEEPMIND WON A NOBEL FOR ALPHAFOLD. THEN IT BROKE UP THE TEAM (2 MINUTE READ)",
+      "url": "https://thenextweb.com/news/deepmind-alphafold-team-dismantled-gemini-anthropic?utm_source=tldrai",
+      "blurb": "The team that built AlphaFold, which won Google DeepMind a Nobel Prize, has been taken apart. Most of the original AlphaFold-paper authors were reassigned over the past year. Nearly a quarter of them have left the company, with a few moving to Isomorphic Labs, an Alphabet drug-discovery spinout, and the stars going to Anthropic. The reorganization marks a turn away from the deep-science bets that made DeepMind's name toward the Gemini-powered AI scientist race."
+    },
+    {
+      "ref": 8,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "FRONTIER LAB EMPLOYEE OPEN LETTER CALLS FOR BEING ABLE TO PACE THE FRONTIER (28 MINUTE READ)",
+      "url": "https://thezvi.wordpress.com/2026/07/29/frontier-lab-employee-open-letter-calls-for-being-able-to-pace-the-frontier/?utm_source=tldrai",
+      "blurb": "1,224 employees from frontier labs, including many big names, recently signed an open letter that calls for the industry and regulators to prepare mechanisms for future coordination to control the pace of AI development. The letter indicates that many employees expect automated AI research to accelerate soon and are concerned about what might happen next and how fast things will go. Humanity is not yet prepared for this potential boom. The more work we do in advance, the better our options will become."
+    },
+    {
+      "ref": 9,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOW GPT\u20115.6 FUSES FRONTIER INTELLIGENCE WITH FRONTIER EFFICIENCY (11 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/VQt0Jg",
+      "blurb": "The GPT-5.6 model family was designed to balance capability and cost across a spectrum of tasks. OpenAI's research and technical teams made significant optimizations at every major layer of the stack to deliver these efficiencies. The improvements span across OpenAI's models, inference, and agent harness. This post looks at how OpenAI's team designed for efficiency through advancements in inference and its agentic harness."
+    },
+    {
+      "ref": 10,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "I TRIED TO MAKE AI WRITING SOUND HUMAN BY BANNING AI WORDS THROUGH LOGIT_BIAS (9 MINUTE READ)",
+      "url": "https://www.vincentschmalbach.com/make-ai-writing-sound-human-logit-bias/?utm_source=tldrai",
+      "blurb": "logit_bias is an API setting that changes how likely a model is to select specific tokens. A researcher created a blacklist of words, converted the words into token IDs, and assigned those IDs a negative value to try to reduce the chances of a model using those words at an API level. This didn't work - it just made it harder for the model to select the next token, making resulting sentences sometimes look like they came from a less capable model."
+    },
+    {
+      "ref": 11,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "WHY DO OPENAI'S GPT-2 WEIGHTS BEAT MINE? (20 MINUTE READ)",
+      "url": "https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-1-intro?utm_source=tldrai",
+      "blurb": "This researcher trained their own LLM from scratch but discovered that their models were worse at instruction-following than the original OpenAI GPT-2 small weights, even when their model got better results in a more technical evaluation. This post is the first in a series where the researcher looks at the nature of the problem and explores options for what might be the cause."
+    },
+    {
+      "ref": 12,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "SOME THOUGHTS ABOUT ANTHROPIC'S NEW CRYPTANALYSIS RESULTS (13 MINUTE READ)",
+      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/?utm_source=tldrai",
+      "blurb": "Anthropic's recently released cryptanalysis results show that AIs are now able to understand cryptanalysis results, synthesizing them into real new attacks, and even extending them. They can do this without detailed human intervention. AI is still not producing super-intelligent cryptanalysis, but Anthropic's results show the sort of progress that makes scientists excited."
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "WE'RE LAUNCHING LYRIA 3.5 IN GOOGLE FLOW MUSIC, WITH ADVANCES ACROSS MUSICALITY, LYRICS, VOCALS, AND CREATIVE CONTROL (1 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/?utm_source=tldrai",
+      "blurb": "Google's latest music generation model, Lyria 3.5, is now rolling out in Google Flow Music. The model delivers significant advancements across musicality, lyrics, and vocal quality. A clip of a song generated by the model is available in the article."
+    },
+    {
+      "ref": 14,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "ESCHA-W2 (HUGGING FACE REPO)",
+      "url": "https://huggingface.co/EschaLabs/Qwen3.6-35B-A3B-Escha-W2?utm_source=tldrai",
+      "blurb": "Escha-W2 is a 2-bit quantized build of Qwen3.6-35B-A3B, a Mixture-of-Experts model with 256 experts. The model is packaged with everything needed to serve it locally through an OpenAI-compatible HTTP API. The whole thing is 12.3 GB on disk and runs on a single 24 GB consumer GPU - or on a 16 GB card."
+    },
+    {
+      "ref": 15,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "CPU-FRIENDLY LONG-CONTEXT ENCODERS (18 MINUTE READ)",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders?utm_source=tldrai",
+      "blurb": "Liquid AI released encoders designed for efficient document-scale inference on CPUs. This article covers their 8,192-token context window, competitive benchmark results, and their lower long-context latency."
+    },
+    {
+      "ref": 16,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "VISUAL PROMPTS IN VIDEO MODELS (8 MINUTE READ)",
+      "url": "https://visual-prompt-engineering.github.io/?utm_source=tldrai",
+      "blurb": "DeepMind researchers suggest that visual Prompt Engineering can improve video-model reasoning by transforming task images before inference, such as converting abstract sketches into photorealistic scenes."
+    },
+    {
+      "ref": 17,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "PARALLEL DECODING FOR VIDEO GENERATION (10 MINUTE READ)",
+      "url": "https://research.nvidia.com/labs/genair/pdd/?utm_source=tldrai",
+      "blurb": "Parallel Decoding Distillation is a trajectory-based method that predicted multiple denoising steps during each model evaluation. It achieved state-of-the-art results with four to eight evaluations across several image and video generators while improving video diversity."
+    },
+    {
+      "ref": 18,
+      "section": "MISCELLANEOUS",
+      "heading": "OPUS 5 ON VENDING-BENCH: ONCE AGAIN THE BEST CAPITALIST, ONCE AGAIN MISALIGNED (14 MINUTE READ)",
+      "url": "https://andonlabs.com/blog/opus-5-vending-bench?utm_source=tldrai",
+      "blurb": "Claude Opus 5 is the top-scoring model on Vending-Bench, a vending machine simulator. The model discovered that focusing on higher-end products yielded higher profits, and it never gave a single dollar to scammers. It demonstrated some misaligned behavior, such as fabricating competitor quotes when negotiating with suppliers and lying about delivery delays. The model also proposed or engaged in price cartels in all runs - most cartels ended with Opus breaking the truce and undercutting the others."
+    },
+    {
+      "ref": 19,
+      "section": "MISCELLANEOUS",
+      "heading": "WHY COMPUTE MIGHT GET 10X MORE EXPENSIVE IN COMING YEARS (8 MINUTE READ)",
+      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive?utm_source=tldrai",
+      "blurb": "Compute costs may rise 10x as AI labs like Anthropic aim for $1 trillion revenue, driven by increasing margins, rising compute prices, and more spending on inference. Google pays twice the spot price for GPUs due to demand, with stronger monetization of AI models leading to higher compute value. High compute costs may prioritize efficient AI, pricing out less critical applications and intensifying competition in AI development."
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "INTRODUCING PANGRAM 4 (2 MINUTE READ)",
+      "url": "https://www.pangram.com/blog/introducing-pangram-4?utm_source=tldrai",
+      "blurb": "Pangram is an AI detector that achieves roughly one false positive for every 24,000 documents."
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "CHINA'S MOONSHOT AI PASSES FUNDING GOAL TO HIT $35 BILLION VALUE (2 MINUTE READ)",
+      "url": "https://finance.yahoo.com/technology/ai/articles/china-moonshot-ai-passes-funding-081902952.html?utm_source=tldrai",
+      "blurb": "Moonshot is now reaching out to potential backers for a new funding round at a $50 billion pre-money valuation."
+    },
+    {
+      "ref": 23,
+      "section": "QUICK LINKS",
+      "heading": "THE ANSWER TO THE HARNESS QUESTION (2 MINUTE READ)",
+      "url": "https://danielmiessler.com/blog/the-answer-to-the-harness-question?utm_source=tldrai",
+      "blurb": "A harness should capture what the human actually wants, convey it to the model on every task, and otherwise stay out of the way."
+    },
+    {
+      "ref": 25,
+      "section": "QUICK LINKS",
+      "heading": "DEEP AGENTS V0.7 (6 MINUTE READ)",
+      "url": "https://www.langchain.com/blog/deep-agents-v0-7?utm_source=tldrai",
+      "blurb": "Deep Agents v0.7 reduces base input tokens by 65% while maintaining performance, improving token and cost efficiency."
+    },
+    {
+      "ref": 26,
+      "section": "QUICK LINKS",
+      "heading": "GOOGLE IS WORKING ON INTERACTIVE APPS FOR GEMINI NOTEBOOK (2 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/google-is-working-on-interactive-apps-for-gemini-notebook/?utm_source=tldrai",
+      "blurb": "Google is developing an artifact type for Gemini Notebook to transform sources into interactive apps, introducing a new \"App\" tile feature."
+    },
+    {
+      "ref": 27,
+      "section": "QUICK LINKS",
+      "heading": "SECURING AGENTS ACROSS PERPLEXITY'S CLIENT ENDPOINTS WITH NUMBAT (11 MINUTE READ)",
+      "url": "https://research.perplexity.ai/articles/securing-agents-across-perplexity%E2%80%99s-client-endpoints-with-numbat?utm_source=tldrai",
+      "blurb": "Numbat, an open-source security suite by Perplexity, addresses security risks in AI agents deployed on client endpoints by integrating with agent harnesses to prevent, detect, and mitigate incidents like accidental meltdowns."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "AI IN PRODUCTION BREAKS IN WAYS DEMOS NEVER SHOW (SPONSOR)",
+      "url": "https://temporal.io/pages/how-developers-actually-build-reliable-ai-systems-amidst-the-AI-boom?utm_source=tldr&utm_medium=sponsorship&utm_campaign=tldr-ai-quicklink-2026-07-30&utm_content=ebook-ai-use-cases",
+      "blurb": "Cargo, Grepsr, and Dust each hit their own wall scaling AI reliably. This free Temporal eBook covers the real architecture behind how they fixed it. Get your copy [20]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 24,
+      "section": "QUICK LINKS",
+      "heading": "NO AGI. JUST LLM CALLS THAT DON'T DROP. (SPONSOR)",
+      "url": "https://requesty.ai/?utm_source=tldr_ai&utm_medium=newsletter&utm_campaign=2026_07_30",
+      "blurb": "Requesty is the gateway for production AI: 600+ models, failover, auto-caching, analytics & governance behind one API.",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

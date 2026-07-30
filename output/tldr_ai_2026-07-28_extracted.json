@@ -1,0 +1,126 @@
+{
+  "kept": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "READ THE FORRESTER REPORT",
+      "url": "https://www.humansecurity.com/forrester-wave/?utm_source=tldr_ai&utm_medium=newsletter&utm_campaign=brand_agentic_trust&utm_content=forrester_wave_2026",
+      "blurb": "\ud83d\ude80"
+    },
+    {
+      "ref": 5,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "ANTHROPIC REJECTED BLANKET BANS ON OPEN-WEIGHT MODELS (2 MINUTE READ)",
+      "url": "https://www.anthropic.com/news/position-open-weights-models?utm_source=tldrai",
+      "blurb": "Anthropic said it had not advocated banning open-weight models and argued that less capable releases were a public good. It instead supported tighter chip controls, action against industrial-scale distillation, and mandatory safety testing for sufficiently capable open and closed models."
+    },
+    {
+      "ref": 6,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "RELEASING THE MODEL WEIGHTS AND TECHNICAL REPORT OF KIMI K3 (2 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2081760186235289764.html?utm_source=tldrai",
+      "blurb": "Moonshot has released the model weights for Kimi K3, along with a technical report. Kimi K3 is a 2.8T Mixture-of-Experts model with native visual understanding. It has a 1-million-token context window and a new model architecture that gives it 2.5x the intelligence per unit of compute. Alongside Kimi K3, Moonshot is opening up more of the stack behind it \u2014 high-performance attention kernels, a MoE communication library, and infrastructure for running agent environments at scale."
+    },
+    {
+      "ref": 7,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "MICROSOFT INTRODUCED A CYBERSECURITY MODEL (6 MINUTE READ)",
+      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/?utm_source=tldrai",
+      "blurb": "Microsoft has launched MAI-Cyber-1-Flash, a specialized model for finding difficult vulnerabilities in large codebases. It powers MDASH, a new platform designed to identify and remediate software security flaws."
+    },
+    {
+      "ref": 8,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "OPENAI'S REPORT ON HOW AI IS EXPANDING (6 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/dgVzzk",
+      "blurb": "OpenAI found that workers increasingly used ChatGPT for tasks traditionally associated with other occupations. Its analysis of 800,000 US user messages identified this \u201ctask crossover\u201d in a high percentage of occupation-specific conversations."
+    },
+    {
+      "ref": 9,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "DEEPSECBENCH: EVALUATING MODEL PERFORMANCE IN FINDING CYBERSECURITY VULNERABILITIES (6 MINUTE READ)",
+      "url": "https://vercel.com/blog/deepsecbench-evaluating-model-performance-in-finding-cybersecurity-vulnerabilities?utm_source=tldrai",
+      "blurb": "DeepsecBench is a benchmark that evaluates how well different models find cybersecurity vulnerabilities in application code. The report includes recall, precision, cost, and total time for each model and combines recall and precision into a single benchmark score. DeepsecBench runs on an open-source codebase at a commit state just before a large number of vulnerabilities were fixed. The construction of the benchmark is secret so models aren't able to train against it."
+    },
+    {
+      "ref": 10,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "22580: FROM GPT2 TO KIMI3, EXPLAINED (20 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/6SqQd6",
+      "blurb": "KimiK3's gains come from more than scaling: it combines constant-state Kimi Delta Attention, periodic softmax retrieval, sparse experts, and selective residual access. Each architectural step improves how fixed-capacity memory stores, forgets, and retrieves information while preserving efficient inference."
+    },
+    {
+      "ref": 11,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "PORTAL (1 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2081819550329327689.html?utm_source=tldrai",
+      "blurb": "Ramp Labs has open-sourced PorTAL, a framework for shared task representations and cross-model LoRA adaptation. PorTAL learns a base-agnostic task latent and a light per-base alignment that generates ordinary per-layer LoRA weights. A task can be trained once, adapted to supported frozen base models, and exported as a standard Hugging Face PEFT adapter."
+    },
+    {
+      "ref": 12,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GEMINI DISTILLATION SERVICE (17 MINUTE READ)",
+      "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/tuning/distillation?utm_source=tldrai",
+      "blurb": "The Gemini Distillation Service allows users to train a smaller, more efficient 'student' model that uses the outputs and reasoning patterns of a larger, more capable 'teacher' model. Distillation enables production-grade efficiency while allowing smaller models to achieve a deeper level of reasoning. It is recommended for high-volume, latency-sensitive applications, complex reasoning tasks, and when there are significant performance gaps between the teacher and student models. The distillation service currently only supports gemini-3.1-pro as the teacher model and gemini-2.5-flash as the student model."
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "HOW WE BUILT AND BENCHMARKED VR-1, OUR FRONTIER CYBER REASONING MODEL (6 MINUTE READ)",
+      "url": "https://www.cogent.com/blog/how-we-built-and-benchmarked-vr-1-our-frontier-cyber-reasoning-model?utm_source=tldrai",
+      "blurb": "Cogent VR-1 can autonomously investigate environments, test hypotheses, cross system boundaries, and execute attack chains. IntrusionBench is a benchmark for measuring whether cyber agents can complete realistic enterprise attack chains from limited starting access. On the black-box configuration of IntrusionBench, VR-1 achieved more than a 2x lift in pass@3 over the strongest frontier baseline. VR-1 and IntrusionBench are both at an early preview stage, so the results are preliminary."
+    },
+    {
+      "ref": 14,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "MOLT AGENTIC REINFORCEMENT LEARNING FRAMEWORK (GITHUB REPO)",
+      "url": "https://github.com/NVIDIA-NeMo/labs-molt?utm_source=tldrai",
+      "blurb": "Molt is a PyTorch-native framework that treats the agent itself as the program and supports custom Python rewards, tool use, multimodal environments, and LLM judges. Its compact stack combines Ray, vLLM, NVIDIA AutoModel, and FSDP2 to scale training to trillion-parameter mixture-of-experts models."
+    },
+    {
+      "ref": 15,
+      "section": "MISCELLANEOUS",
+      "heading": "INDUSTRY LEADERS UNITE IN OPEN SECURE AI ALLIANCE FOR AI SAFETY AND SECURITY (6 MINUTE READ)",
+      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/?utm_source=tldrai",
+      "blurb": "The Open Secure AI Alliance, featuring leaders like NVIDIA and Microsoft, aims to enhance AI safety by using open source technologies to address vulnerabilities. This initiative provides defenders with open defensive tools, enhancing transparency and adaptability while avoiding reliance on closed systems. The alliance encourages policymakers to view open models and tools as assets in AI and cybersecurity strategy, promoting resilience and shared security in the AI era."
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "HOW MUCH CAN YOU DELEGATE TO AGENTS? (7 MINUTE READ)",
+      "url": "https://newsletter.posthog.com/p/agent-autonomy?utm_source=tldrai",
+      "blurb": "Agent autonomy depends on task complexity, not just model quality. Tasks fall into four levels: assistant, human-in-the-loop, agent delegation, and self-driving, determined by ease of checking and potential consequences of errors. Implementing guardrails, custom skills, and domain-specific models enhances agent autonomy and efficiency."
+    },
+    {
+      "ref": 17,
+      "section": "QUICK LINKS",
+      "heading": "WHAT ARE LOOPED TRANSFORMERS? EXPLAINED CLEARLY (8 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/p4ktqP",
+      "blurb": "Looped transformers reuse the same core layers across multiple passes, trading fewer stored parameters for additional sequential compute."
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "LLADA2.X (GITHUB REPO)",
+      "url": "https://github.com/inclusionAI/LLaDA2.X?utm_source=tldrai",
+      "blurb": "LLaDA2 diffusion language models for text generation and agent workflows."
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "SAFE SUPERINTELLIGENCE PARTNERED WITH NVIDIA (4 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/?utm_source=tldrai",
+      "blurb": "Safe Superintelligence announced a long-term partnership with Nvidia that includes an undisclosed investment and access to the Vera Rubin GPU platform."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "DO YOU REALLY KNOW WHO'S USING YOUR WEBSITE? (SPONSOR)",
+      "url": "https://www.humansecurity.com/forrester-wave/?utm_source=tldr_ai&utm_medium=newsletter&utm_campaign=brand_agentic_trust&utm_content=forrester_wave_2026",
+      "blurb": "AI-DRIVEN TRAFFIC IS GROWING 8X FASTER THAN HUMAN TRAFFIC. The challenge isn't blocking automation anymore. It's knowing which AI agents to trust.",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

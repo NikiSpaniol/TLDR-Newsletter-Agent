@@ -1,0 +1,92 @@
+{
+  "kept": [
+    {
+      "ref": 8,
+      "section": null,
+      "heading": "THE OPEN INTERNET IS CLOSING THE GAP WITH WALLED GARDENS (4 MINUTE READ)",
+      "url": "https://www.adexchanger.com/content-studio/the-open-internet-is-closing-the-gap-with-walled-gardens/?utm_source=tldrmarketing",
+      "blurb": "Two-thirds of consumer attention sits on the open internet while only one-fifth of ad spend follows it there, and advertisers often pay more for equivalent reach inside walled gardens. The gap was never a supply problem, since open publishers collectively reach massive audiences, but fragmented technology and limited outcome visibility made that inventory harder to value."
+    },
+    {
+      "ref": 9,
+      "section": null,
+      "heading": "RETURN OF THE HEARTTHROB: WHY THE MEN OF THE EARLY AUGHTS ARE BOOKED AND BUSY IN ADVERTISING (4 MINUTE READ)",
+      "url": "https://www.marketingbrew.com/stories/heartthrob-marketing-chad-michael-murray-devon-sawa-nostalgia?utm_source=tldrmarketing",
+      "blurb": "Brands are reviving early 2000s heartthrobs to tap into millennial nostalgia and drive engagement, especially with audiences like millennial moms who now have strong purchasing power. By recreating teenage fantasies and cultural moments, these campaigns trigger emotional memories that feel joyful and simple compared to today's complexity. This \u201cnostalgia talent\u201d strategy also resonates with Gen Z's interest in 2000s culture."
+    },
+    {
+      "ref": 10,
+      "section": null,
+      "heading": "USE THE STEEL MAN TECHNIQUE TO PERSUADE PEOPLE WHO DISAGREE WITH YOU (4 MINUTE READ)",
+      "url": "https://conversion-rate-experts.com/steel-manning/?utm_source=tldrmarketing",
+      "blurb": "Steel manning improves persuasion by presenting an opposing argument in its strongest form before responding. It emphasizes understanding, validating concerns, and then offering a deeper perspective. Techniques like feel-felt-found build empathy and trust. Research shows addressing objections directly increases persuasion and credibility. Limits matter - only raise objections that can be answered and already exist in the audience's mind. This approach leads people toward a conclusion without forcing them to reverse their stance."
+    },
+    {
+      "ref": 11,
+      "section": null,
+      "heading": "OPTIMIZING CRAWL BUDGETS: WHAT'S NEW (2 MINUTE READ)",
+      "url": "https://www.practicalecommerce.com/optimizing-crawl-budgets-whats-new?utm_source=tldrmarketing",
+      "blurb": "Google's updated crawl budget guidance explains how sites can help Googlebot access and index important pages more efficiently. New sites start with limited crawl capacity, which can expand as they grow and maintain regular updates. The guidance covers improving site performance and organization while reducing unnecessary crawling. It also introduces 304 status codes as a way to save server resources on unchanged pages."
+    },
+    {
+      "ref": 12,
+      "section": null,
+      "heading": "OPTIMIZE YOUR LINKEDIN PROFILE FOR TECH JOBS (WEBINAR)",
+      "url": "https://maven.com/p/175a5d/optimize-your-linked-in-profile-for-tech-jobs?utm_source=tldrmarketing",
+      "blurb": "Learn the principles that make LinkedIn profiles consistently attract recruiter outreach. The host will break down real examples of profiles that signal credibility to the right people, so you can replicate it in your profile. The free webinar will take place on July 31 at 9 AM PT."
+    },
+    {
+      "ref": 13,
+      "section": null,
+      "heading": "I BUILT A CLAUDE SKILL TO SHOW ME WHY MY LINKEDIN REACH COLLAPSED (4 MINUTE READ)",
+      "url": "https://www.kieranflanagan.io/p/how-i-use-this-claude-skill-to-grow?utm_source=tldrmarketing",
+      "blurb": "This piece explains how to use Claude to understand why LinkedIn reach declines by turning analytics into a custom dashboard. The tool analyzes post performance, highlights whether content reaches beyond existing followers, and helps uncover patterns behind successful posts. The author shares a Claude Skill and dashboard template to analyze LinkedIn data and identify algorithm shifts."
+    },
+    {
+      "ref": 14,
+      "section": null,
+      "heading": "MARKETING TEAMS ARE STUCK IN SINGLE-PLAYER CLAUDE MODE. HERE'S HOW TO GO MULTIPLAYER (21 MINUTE READ)",
+      "url": "https://newsletter.mkt1.co/p/multiplayer-claude-1?utm_source=tldrmarketing",
+      "blurb": "Most AI gains inside marketing teams stay locked to individual users rather than compounding across the team. A shared system that keeps context current and capabilities reusable turns one teammate's improvement into gains for everyone else automatically. The hard part is rarely the technology. It's deciding who owns the system, getting teammates to actually use what already exists, and keeping instructions from going stale as tools change weekly. Teams that skip this step keep re-solving problems that were already solved somewhere else on the team."
+    },
+    {
+      "ref": 15,
+      "section": "MISCELLANEOUS",
+      "heading": "SPOTIFY'S 265-MILLISECOND OBSESSION (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/p0Qs18",
+      "blurb": "Spotify won by making legal music feel as fast as piracy instead of competing on catalog or price. It treated speed as the product and built playback that started in about 265 milliseconds by combining local caching, prefetching, and peer-to-peer delivery. Only 8.8% of audio came from Spotify's own servers because cached files and other users handled most of the work. Find the biggest reason people choose an alternative product, then remove that friction even if it means building your product around customer expectations set by a competitor."
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "GOOGLE DOESN'T PUNISH AI CONTENT; IT PUNISHES BAD CONTENT (8 MINUTE READ)",
+      "url": "https://ahrefs.com/blog/google-doesnt-punish-ai-content/?utm_source=tldrmarketing",
+      "blurb": "Google doesn't penalize AI content. It rewards quality. Fully AI pages can rank in top positions, but most high-ranking results are still largely human-written. Higher AI use trends with lower rankings, indexing rates, and impressions, though there's no strict cutoff. Many high-AI pages are still indexed, and performance remains stable over time. The real issue is quality, as scaled, low-value content tends to underperform regardless of whether AI was used."
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "THE LATEST DARLINGS OF SOCIAL-MEDIA MARKETING? REGULAR PEOPLE WITH 500 FOLLOWERS (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/8HVqkz",
+      "blurb": "Target, SoulCycle, and American Eagle are tapping micro-creators with perks like gift cards, discounts, and free products instead of cash."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "DISCOVER YOUR DIGITAL MATURITY IN MINUTES TO CLEAR BOTTLENECKS (SPONSOR)",
+      "url": "https://www.contentful.com/resources/maturity-assessment/?utm_source=tldr&utm_medium=newsletter&utm_campaign=fy27-q2-global-feeling-so-contentful&utm_content=header_digital_maturity_minutes",
+      "blurb": "What's holding your team back from delivering standout digital experiences? This 15-question benchmark [5] covers your workflows, content structure, governance, and AI usage to pinpoint your bottlenecks and tell you where there's room to improve.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 17,
+      "section": "QUICK LINKS",
+      "heading": "WHAT HAPPENS IF YOU DELETE 40% OF YOUR CONTENT? (1 MINUTE READ)",
+      "url": "https://www.linkedin.com/posts/louis-smith-b968a5b5_what-happens-if-you-delete-40-of-your-content-share-7487441077310935041-hH45/?utm_source=tldrmarketing",
+      "blurb": "Deleting pages with zero commercial value for a brand resulted in a 13% traffic increase within 60 days.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": null,
+      "heading": "THE OPEN INTERNET IS CLOSING THE GAP WITH WALLED GARDENS (4 MINUTE READ)",
+      "url": "https://www.adexchanger.com/content-studio/the-open-internet-is-closing-the-gap-with-walled-gardens/?utm_source=tldrmarketing",
+      "blurb": "Two-thirds of consumer attention sits on the open internet while only one-fifth of ad spend follows it there, and advertisers often pay more for equivalent reach inside walled gardens. The gap was never a supply problem, since open publishers collectively reach massive audiences, but fragmented technology and limited outcome visibility made that inventory harder to value.",
+      "source_email": "tldr_marketing_2026-07-28_extracted.json"
+    },
+    {
+      "ref": 2,
+      "section": null,
+      "heading": "RETURN OF THE HEARTTHROB: WHY THE MEN OF THE EARLY AUGHTS ARE BOOKED AND BUSY IN ADVERTISING (4 MINUTE READ)",
+      "url": "https://www.marketingbrew.com/stories/heartthrob-marketing-chad-michael-murray-devon-sawa-nostalgia?utm_source=tldrmarketing",
+      "blurb": "Brands are reviving early 2000s heartthrobs to tap into millennial nostalgia and drive engagement, especially with audiences like millennial moms who now have strong purchasing power. By recreating teenage fantasies and cultural moments, these campaigns trigger emotional memories that feel joyful and simple compared to today's complexity. This \u201cnostalgia talent\u201d strategy also resonates with Gen Z's interest in 2000s culture.",
+      "source_email": "tldr_marketing_2026-07-28_extracted.json"
+    },
+    {
+      "ref": 3,
+      "section": null,
+      "heading": "USE THE STEEL MAN TECHNIQUE TO PERSUADE PEOPLE WHO DISAGREE WITH YOU (4 MINUTE READ)",
+      "url": "https://conversion-rate-experts.com/steel-manning/?utm_source=tldrmarketing",
+      "blurb": "Steel manning improves persuasion by presenting an opposing argument in its strongest form before responding. It emphasizes understanding, validating concerns, and then offering a deeper perspective. Techniques like feel-felt-found build empathy and trust. Research shows addressing objections directly increases persuasion and credibility. Limits matter - only raise objections that can be answered and already exist in the audience's mind. This approach leads people toward a conclusion without forcing them to reverse their stance.",
+      "source_email": "tldr_marketing_2026-07-28_extracted.json"
+    },
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "OPTIMIZING CRAWL BUDGETS: WHAT'S NEW (2 MINUTE READ)",
+      "url": "https://www.practicalecommerce.com/optimizing-crawl-budgets-whats-new?utm_source=tldrmarketing",
+      "blurb": "Google's updated crawl budget guidance explains how sites can help Googlebot access and index important pages more efficiently. New sites start with limited crawl capacity, which can expand as they grow and maintain regular updates. The guidance covers improving site performance and organization while reducing unnecessary crawling. It also introduces 304 status codes as a way to save server resources on unchanged pages.",
+      "source_email": "tldr_marketing_2026-07-28_extracted.json"
+    },
+    {
+      "ref": 5,
+      "section": null,
+      "heading": "OPTIMIZE YOUR LINKEDIN PROFILE FOR TECH JOBS (WEBINAR)",
+      "url": "https://maven.com/p/175a5d/optimize-your-linked-in-profile-for-tech-jobs?utm_source=tldrmarketing",
+      "blurb": "Learn the principles that make LinkedIn profiles consistently attract recruiter outreach. The host will break down real examples of profiles that signal credibility to the right people, so you can replicate it in your profile. The free webinar will take place on July 31 at 9 AM PT.",
+      "source_email": "tldr_marketing_2026-07-28_extracted.json"
+    },
+    {
+      "ref": 6,
+      "section": null,
+      "heading": "I BUILT A CLAUDE SKILL TO SHOW ME WHY MY LINKEDIN REACH COLLAPSED (4 MINUTE READ)",
+      "url": "https://www.kieranflanagan.io/p/how-i-use-this-claude-skill-to-grow?utm_source=tldrmarketing",
+      "blurb": "This piece explains how to use Claude to understand why LinkedIn reach declines by turning analytics into a custom dashboard. The tool analyzes post performance, highlights whether content reaches beyond existing followers, and helps uncover patterns behind successful posts. The author shares a Claude Skill and dashboard template to analyze LinkedIn data and identify algorithm shifts.",
+      "source_email": "tldr_marketing_2026-07-28_extracted.json"
+    },
+    {
+      "ref": 7,
+      "section": null,
+      "heading": "MARKETING TEAMS ARE STUCK IN SINGLE-PLAYER CLAUDE MODE. HERE'S HOW TO GO MULTIPLAYER (21 MINUTE READ)",
+      "url": "https://newsletter.mkt1.co/p/multiplayer-claude-1?utm_source=tldrmarketing",
+      "blurb": "Most AI gains inside marketing teams stay locked to individual users rather than compounding across the team. A shared system that keeps context current and capabilities reusable turns one teammate's improvement into gains for everyone else automatically. The hard part is rarely the technology. It's deciding who owns the system, getting teammates to actually use what already exists, and keeping instructions from going stale as tools change weekly. Teams that skip this step keep re-solving problems that were already solved somewhere else on the team.",
+      "source_email": "tldr_marketing_2026-07-28_extracted.json"
+    },
+    {
+      "ref": 8,
+      "section": "MISCELLANEOUS",
+      "heading": "SPOTIFY'S 265-MILLISECOND OBSESSION (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/p0Qs18",
+      "blurb": "Spotify won by making legal music feel as fast as piracy instead of competing on catalog or price. It treated speed as the product and built playback that started in about 265 milliseconds by combining local caching, prefetching, and peer-to-peer delivery. Only 8.8% of audio came from Spotify's own servers because cached files and other users handled most of the work. Find the biggest reason people choose an alternative product, then remove that friction even if it means building your product around customer expectations set by a competitor.",
+      "source_email": "tldr_marketing_2026-07-28_extracted.json"
+    },
+    {
+      "ref": 9,
+      "section": "MISCELLANEOUS",
+      "heading": "GOOGLE DOESN'T PUNISH AI CONTENT; IT PUNISHES BAD CONTENT (8 MINUTE READ)",
+      "url": "https://ahrefs.com/blog/google-doesnt-punish-ai-content/?utm_source=tldrmarketing",
+      "blurb": "Google doesn't penalize AI content. It rewards quality. Fully AI pages can rank in top positions, but most high-ranking results are still largely human-written. Higher AI use trends with lower rankings, indexing rates, and impressions, though there's no strict cutoff. Many high-AI pages are still indexed, and performance remains stable over time. The real issue is quality, as scaled, low-value content tends to underperform regardless of whether AI was used.",
+      "source_email": "tldr_marketing_2026-07-28_extracted.json"
+    },
+    {
+      "ref": 10,
+      "section": "QUICK LINKS",
+      "heading": "THE LATEST DARLINGS OF SOCIAL-MEDIA MARKETING? REGULAR PEOPLE WITH 500 FOLLOWERS (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/8HVqkz",
+      "blurb": "Target, SoulCycle, and American Eagle are tapping micro-creators with perks like gift cards, discounts, and free products instead of cash.",
+      "source_email": "tldr_marketing_2026-07-28_extracted.json"
+    },
+    {
+      "ref": 11,
+      "section": null,
+      "heading": "AI HALFTIME REPORT: H1 2026 (8 MINUTE READ)",
+      "url": "https://www.growth-memo.com/p/ai-halftime-report-h1-2026?utm_source=tldrmarketing",
+      "blurb": "AI is changing search, buying behavior, and brand visibility faster than marketers can measure its business impact. Trust now matters more than rankings because 88% of users accepted AI Mode product recommendations and trusted brands won even if they were not the top result, so brands need to optimize for mentions, recommendations, and unique content instead of traditional SEO positions. AI visibility is hard to track because 91% of citations appear in only one major AI search engine, so prompt tracking needs a broader approach than rank tracking. Companies also spent heavily on AI without clear ROI, public markets cut many software valuations based on perceived AI disruption rather than performance, and publishers now face a 33% referral traffic decline as AI changes how people discover content.",
+      "source_email": "tldr_marketing_2026-07-29_extracted.json"
+    },
+    {
+      "ref": 12,
+      "section": null,
+      "heading": "MICRODRAMAS ARE BLOWING UP. BUT THEY MAY NEVER BE A BIG AD VEHICLE (5 MINUTE READ)",
+      "url": "https://mikeshields.substack.com/p/theres-no-doubt-microsdramas-are?utm_source=tldrmarketing",
+      "blurb": "Microdramas generate $11 billion in annual global revenue, but almost none of it comes from advertising. Subscription and token payments drive nearly all of that total, since a viable ad break for a 90-second episode often runs longer than the episode itself. Platforms like DramaBox and ReelShort already resemble mobile games more than TV, monetizing through payments that let users skip friction while spending heavily on Meta and TikTok to acquire new users rather than to sell ad space. TikTok's free Pine Drama and Canela Media's upcoming Zully are betting a more ad-friendly model can still work.",
+      "source_email": "tldr_marketing_2026-07-29_extracted.json"
+    },
+    {
+      "ref": 13,
+      "section": null,
+      "heading": "DOES SCHEMA MARKUP IMPACT SERP RANK? (11 MINUTE READ)",
+      "url": "https://moz.com/blog/does-schema-markup-impact-serp-rank?utm_source=tldrmarketing",
+      "blurb": "Schema markup alone does not improve Google rankings, so treat it as a support tool instead of a ranking tactic. A 10-week study across 29 local business websites found no direct ranking or search visibility gains from adding LocalBusiness schema in Google. Schema still adds value because it enables rich results for content like jobs and products and helps search engines and AI systems understand page content more clearly. Use schema where it unlocks search features or improves content structure, but focus SEO effort on tactics that produce measurable ranking and visibility gains.",
+      "source_email": "tldr_marketing_2026-07-29_extracted.json"
+    },
+    {
+      "ref": 14,
+      "section": null,
+      "heading": "JASPER VS. CHATGPT: WHICH IS BETTER? (8 MINUTE READ)",
+      "url": "https://zapier.com/blog/jasper-vs-chatgpt/?utm_source=tldrmarketing",
+      "blurb": "Jasper is built for marketing teams with brand voice training, 100+ marketing workflows, and SEO integrations like Surfer SEO. ChatGPT offers more flexibility with custom GPTs, data analysis, research, and broader task support. While Jasper provides more guided content creation, ChatGPT is more affordable with a free plan and lower-cost paid options.",
+      "source_email": "tldr_marketing_2026-07-29_extracted.json"
+    },
+    {
+      "ref": 15,
+      "section": null,
+      "heading": "HOW AIROPS USES AIROPS (WEBINAR)",
+      "url": "https://luma.com/airops-gke0?utm_source=tldrmarketing",
+      "blurb": "AirOps' Head of Search Marketing and Content Engineer share the systems they use to improve AI search performance. The session covers how to uncover new topic angles, refresh pages using visibility data, and build comparison and offsite content that increases the chances of being cited in AI search results. It also explores how AirOps combines automation and human review to scale content workflows.",
+      "source_email": "tldr_marketing_2026-07-29_extracted.json"
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "AI IS NOT REPLACING MARKETING. IT'S CROWDING THE ROOM (6 MINUTE READ)",
+      "url": "https://almund6ef.substack.com/p/ai-is-not-replacing-marketing-its?utm_source=tldrmarketing",
+      "blurb": "Radio still captured 61% of daily ad-supported audio listening in the US in late 2025, more than podcasts and streaming music combined at 21% and 15%. That split, not a radio collapse, is the same pattern showing up in search, where Google still held 87% of the US market in June even as AI chatbot use climbed to 49% of adults. Marketers keep asking which channel AI will kill next, but the more useful question is what job each channel plays once a new one arrives. The biggest strain on teams is managing that many channels at once, not any single channel's decline.",
+      "source_email": "tldr_marketing_2026-07-29_extracted.json"
+    },
+    {
+      "ref": 17,
+      "section": "MISCELLANEOUS",
+      "heading": "THE \u2018DEAD INTERNET THEORY' IS REAL. AND IT'S KILLING THE WEB AS WE KNOW IT (5 MINUTE READ)",
+      "url": "https://www.fastcompany.com/91579817/dead-internet-theory-is-real-web-agents?utm_source=tldrmarketing",
+      "blurb": "The 30-year-old online advertising model was never really selling attention, it was selling access to a human being who could be flattered or worn down into a purchase. Agents don't have that vulnerability, so surveilling one produces nothing to sell, and more than half of all web traffic is now agents rather than people. What a business can still offer an agent is qualification on merits like price, reliability, and data quality, not persuasion, which is a fundamentally different kind of customer relationship to build for. The model isn't being reformed by regulation or backlash, it's dying because the traffic itself changed completely.",
+      "source_email": "tldr_marketing_2026-07-29_extracted.json"
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "GOOGLE'S AI SEARCH IS RAPIDLY BECOMING THE DEFAULT, NEW DATA SHOWS (2 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/?utm_source=tldrmarketing",
+      "blurb": "AI Overviews jumped from 15% to 43% of Google searches in a year, while AI Mode visits more than doubled to 279 million by May.",
+      "source_email": "tldr_marketing_2026-07-29_extracted.json"
+    },
+    {
+      "ref": 19,
+      "section": null,
+      "heading": "INFLUENCER MARKETING DIDN'T BLOW UP, FIVE YEARS OF DEAL DATA SHOWS IT MATURED INSTEAD (5 MINUTE READ)",
+      "url": "https://www.netinfluencer.com/influencer-marketing-didnt-blow-up-five-years-of-deal-data-shows-it-matured-instead/?utm_source=tldrmarketing",
+      "blurb": "A newly released report based on five years of influencer deal data shows that influencer marketing has matured into a more structured and efficient channel. Average creator contract values grew from $3,065 in 2019 to $7,400 in 2025 while average deal timelines fell 36% as contracts and campaign processes became more standardized. Brands get better results from long-term creator relationships because 24% of partnerships now include repeat engagements, and repeated campaigns build audience trust over time. Micro-creators often generate stronger revenue per follower while larger creators still deliver greater overall reach.",
+      "source_email": "tldr_marketing_2026-07-30_extracted.json"
+    },
+    {
+      "ref": 20,
+      "section": null,
+      "heading": "THE 100X CMO JOB IS HERE. CLICKUP IS PAYING UP TO $1M FOR ONE PERSON TO BE THE ENTIRE MARKETING DEPARTMENT (5 MINUTE READ)",
+      "url": "https://www.thestateofbrand.com/news/clickup-100x-cmo-one-person-marketing?utm_source=tldrmarketing",
+      "blurb": "ClickUp is hiring a $500K - $1M solo CMO to run its marketing function using AI agents, as companies rethink org structures. While Fortune 500 firms are eliminating the CMO role, ClickUp is consolidating it into one high-leverage operator focused on systems and judgment. The role shows how AI compresses execution and raises the value of taste and decision-making. It also introduces risks around scale and reliance on a single individual.",
+      "source_email": "tldr_marketing_2026-07-30_extracted.json"
+    },
+    {
+      "ref": 21,
+      "section": null,
+      "heading": "17 MARKETING TASKS YOU CAN STOP DOING MANUALLY (6 MINUTE READ)",
+      "url": "https://www.wordstream.com/blog/marketing-tasks-to-automate?utm_source=tldrmarketing",
+      "blurb": "Automatable marketing tasks repeat in a predictable pattern and stay easy to review before anything public goes out. Meeting recaps, search term sorting, pulling campaign summaries, and customer feedback clustering are all automatable tasks that can consume a lot of time but require little original thinking. An estimated 10 to 15% of a marketer's time can already be automated with current technology.",
+      "source_email": "tldr_marketing_2026-07-30_extracted.json"
+    },
+    {
+      "ref": 22,
+      "section": null,
+      "heading": "16 AI PROMPT TEMPLATES FOR BETTER AI AGENT OUTPUTS (11 MINUTE READ)",
+      "url": "https://zapier.com/blog/ai-prompt-templates/?utm_source=tldrmarketing",
+      "blurb": "A list of AI prompt templates that the Zapier team relies on to get usable outputs on the first try. Copy and paste them directly into your own AI agent's instructions or customize them to suit your own needs.",
+      "source_email": "tldr_marketing_2026-07-30_extracted.json"
+    },
+    {
+      "ref": 23,
+      "section": null,
+      "heading": "ANALYZE YOUR SOCIAL AND VIDEO PLATFORM CONTENT PERFORMANCE IN SEARCH CONSOLE (5 MINUTE READ)",
+      "url": "https://developers.google.com/search/docs/monitor-debug/analyze-social-video-content?utm_source=tldrmarketing",
+      "blurb": "Google Search Console now tracks how social and video content performs in Google Search. It gives you search queries, top content, countries, devices, and traffic trends across platforms like TikTok, Instagram, X, and YouTube. Use this data to spot rising search terms, compare formats such as Shorts versus full-length videos or Reels versus posts, and repurpose content that already attracts search traffic. Track title and caption updates over time and promote content across platforms when search interest starts to grow.",
+      "source_email": "tldr_marketing_2026-07-30_extracted.json"
+    },
+    {
+      "ref": 24,
+      "section": "MISCELLANEOUS",
+      "heading": "SO, YOU WANT TO BE A CONTENT CREATOR? (9 MINUTE READ)",
+      "url": "https://www.elenaverna.com/p/so-you-want-to-be-a-content-creator?utm_source=tldrmarketing",
+      "blurb": "Content creators build stronger audiences by sharing real expertise around a specific niche instead of chasing viral posts or engagement metrics. The author grew a LinkedIn audience from a few thousand connections to 40,000 in one year by posting original frameworks, contrarian ideas, and patterns from real work, then expanded to nearly 100,000 newsletter subscribers by owning distribution outside social platforms. Consistent engagement in the comments and content rooted in firsthand experience created trust and opened new revenue through subscriptions and sponsorships. Audience growth creates business opportunities, but long-term success depends on credibility, authenticity, and solving real problems instead of optimizing for impressions.",
+      "source_email": "tldr_marketing_2026-07-30_extracted.json"
+    },
+    {
+      "ref": 25,
+      "section": "MISCELLANEOUS",
+      "heading": "WHY DOORDASH, INSTACART, AND UBER EATS INTEGRATED LLMS INTO SEARCH THREE DIFFERENT WAYS (9 MINUTE READ)",
+      "url": "https://blog.bytebytego.com/p/why-doordash-instacart-and-uber-eats?utm_source=tldrmarketing",
+      "blurb": "Food delivery search breaks classical keyword matching in every way at once, from synonyms and typos to compound constraints like \"vegan chicken sandwich\", which is why DoorDash, Instacart, and Uber Eats each rebuilt it around LLMs differently. DoorDash uses an LLM to enrich an existing knowledge graph offline, then constrains query parsing to only the labels that graph already knows, lifting dish carousel triggers by roughly 30%. Instacart fine-tuned a Llama-3-8B model to handle rare tail queries in real time under 300ms, cutting scroll depth 6% and tail-query complaints in half. Uber Eats went furthest, embedding every query and document through a fine-tuned Qwen model shared across every vertical, market, and language.",
+      "source_email": "tldr_marketing_2026-07-30_extracted.json"
+    },
+    {
+      "ref": 26,
+      "section": "MISCELLANEOUS",
+      "heading": "PRODUCTS \u2018MADE BY MISTAKE' SELL MORE (3 MINUTE READ)",
+      "url": "https://app.sciencesays.com/p/products-made-by-mistake-sell-more?utm_source=tldrmarketing",
+      "blurb": "Accidental product flaws can become a marketing asset when a brand presents them as unique instead of hiding them. Across seven experiments, people were 27.3% more likely to buy a product with an accidental flaw and were willing to pay up to 71.8% more in some cases. This approach works best for established brands that sell products for enjoyment rather than function because uniqueness increases appeal in those categories. Pairing the mistake with a clear explanation and a limited-time promotion can help turn excess inventory into higher demand.",
+      "source_email": "tldr_marketing_2026-07-30_extracted.json"
+    },
+    {
+      "ref": 27,
+      "section": "QUICK LINKS",
+      "heading": "WHAT ACTUALLY DRIVES INBOUND JOB LEADS ON LINKEDIN (7 MINUTE READ)",
+      "url": "https://www.juliedx.com/insights/blog/what-drives-inbound-job-leads-on-linkedin?utm_source=tldrmarketing",
+      "blurb": "Data-backed analysis of LinkedIn inbound leads showing how engagement and profile optimization attract recruiters and hiring managers.",
+      "source_email": "tldr_marketing_2026-07-30_extracted.json"
+    },
+    {
+      "ref": 28,
+      "section": "QUICK LINKS",
+      "heading": "META STILL HAS THE WIDEST SOCIAL MEDIA REACH (3 MINUTE READ)",
+      "url": "https://www.socialmediatoday.com/news/meta-still-has-widest-social-media-reach/825259/?utm_source=tldrmarketing",
+      "blurb": "Meta remains the leader of the pack in terms of total social platform reach and usage.",
+      "source_email": "tldr_marketing_2026-07-30_extracted.json"
+    },
+    {
+      "ref": 29,
+      "section": "QUICK LINKS",
+      "heading": "HILTON'S CMO ON WHY BRAND MARKETING IS AN \u2018IRRATIONAL AFFINITY BUSINESS' (5 MINUTE READ)",
+      "url": "https://www.marketingdive.com/news/hilton-cmo-on-why-brand-marketing-is-an-irrational-affinity-business/826246/?utm_source=tldrmarketing",
+      "blurb": "Hilton lets creators write their own message instead of matching it to brand spec, a trust that holds whether the creator has 10,000 followers or 10 million.",
+      "source_email": "tldr_marketing_2026-07-30_extracted.json"
+    }
+  ],
+  "dropped": []
+}
