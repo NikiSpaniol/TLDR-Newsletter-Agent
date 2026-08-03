@@ -58,5 +58,17 @@
     "newsletter": "Marketing",
     "edition_label": "Tuesday the 28th and Wednesday the 29th and Thursday the 30th of July",
     "run_date": "2026-07-31"
+  },
+  {
+    "filename": "tldr_ai_pool_2026-08-04_digest.html",
+    "newsletter": "AI",
+    "edition_label": "Friday the 31st of July and Monday the 3rd of August",
+    "run_date": "2026-08-04"
+  },
+  {
+    "filename": "tldr_marketing_pool_2026-08-04_digest.html",
+    "newsletter": "Marketing",
+    "edition_label": "Friday the 31st of July and Monday the 3rd of August",
+    "run_date": "2026-08-04"
   }
 ]
