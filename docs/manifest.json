@@ -82,5 +82,17 @@
     "newsletter": "Marketing",
     "edition_label": "Tuesday the 18th and Wednesday the 19th and Thursday the 20th of August",
     "run_date": "2026-08-21"
+  },
+  {
+    "filename": "tldr_ai_pool_2026-08-25_digest.html",
+    "newsletter": "AI",
+    "edition_label": "Friday the 21st and Monday the 24th of August",
+    "run_date": "2026-08-25"
+  },
+  {
+    "filename": "tldr_marketing_pool_2026-08-25_digest.html",
+    "newsletter": "Marketing",
+    "edition_label": "Friday the 21st and Monday the 24th of August",
+    "run_date": "2026-08-25"
   }
 ]

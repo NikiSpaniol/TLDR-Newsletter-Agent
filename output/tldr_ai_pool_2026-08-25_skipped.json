@@ -1,0 +1,52 @@
+[
+  {
+    "ref": 2,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "ANTHROPIC'S PROJECT PARKA SITS THROUGH MEETINGS AND ASSIGNS CLAUDE AGENTS THE HOMEWORK (11 MINUTE READ)",
+    "url": "https://runtimewire.com/article/anthropic-s-project-parka-sits-through-meetings-and-assigns-claude-agents-the-ho?utm_source=tldrai",
+    "blurb": "Anthropic's Project Parka is a Mac-first feature that can capture system and microphone audio, stream speaker-attributed transcripts, and create runnable work for Claude's agents. The feature could allow users to turn meetings into full implementation prompts. It is unclear whether Claude will start actions automatically or if it waits for user approval.",
+    "source_email": "tldr_ai_2026-08-21_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 503: Service Unavailable"
+  },
+  {
+    "ref": 13,
+    "section": "MISCELLANEOUS",
+    "heading": "ANTHROPIC PACKAGES COMPUTER USE, BROWSER ACCESS, SKILLS, AND REUSABLE FILES FOR PRODUCTION AGENTS (7 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/wf1kdt",
+    "blurb": "Anthropic is turning four previously separate agent ingredients\u2014computer use, browser access, versioned skills, and reusable files\u2014into one production-building surface. The useful change is operational: a team can upload a procedure once, pin a version, reuse file IDs across requests, and reduce repeated browser round trips. Anthropic's same-day announcement says these capabilities are generally available, while older cached documentation still labels parts of the stack beta, so availability should be read from the dated announcement and verified per account.",
+    "source_email": "tldr_ai_2026-08-21_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 14,
+    "section": "QUICK LINKS",
+    "heading": "POOLSIDE AI HAS STRUCK A NON-EXCLUSIVE LICENSING DEAL WITH NVIDIA FOR $6 BILLION (1 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/AgX5I9",
+    "blurb": "As part of the deal, 109 Poolside employees are getting offers to leave the startup to join Nvidia.",
+    "source_email": "tldr_ai_2026-08-21_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 16,
+    "section": "QUICK LINKS",
+    "heading": "ANTHROPIC REWORKS ENTERPRISE DATA RETENTION (1 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/DNrNbV",
+    "blurb": "Anthropic planned to let enterprise customers keep required 30-day data retention on their own cloud infrastructure.",
+    "source_email": "tldr_ai_2026-08-21_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 23,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "VERIFIABLE DOMAINS WILL EAT THE WORLD (15 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/WunxH9",
+    "blurb": "When it comes to word selection, 'best' exists in the domain of the unverifiable. There's no universally applicable, objective measure of 'the best next word' that an LLM training run can target for optimization because 'best' depends on the author's intention and meaning. As there is no way to quantify how many users are getting the second-best word, or to measure the cost of these users getting a suboptimal word, the concept of 'the best words in the best order' may as well not even exist.",
+    "source_email": "tldr_ai_2026-08-24_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  }
+]
