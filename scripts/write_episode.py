@@ -27,9 +27,9 @@ VOICE: A smart, friendly colleague catching Niki up on the commute -- warm, bris
 
 Keep the energy and conversational tone consistent from the first story to the last -- don't let the writing flatten into a dry recitation of facts as the script goes on. The closing stories deserve the same personality, wit, and varied sentence rhythm as the opening ones; this matters more than usual since the script gets read aloud end to end.
 
-Do not narrate the pipeline: no story counts ("nine stories today"), no mentioning how many were stripped out, dropped, or skipped, and no describing your own selection process. Just tell her the news, as a colleague would -- if something isn't worth including, leave it out silently rather than mentioning that you left it out.
+Do not narrate the pipeline. This is an absolute rule with no exceptions. Specifically: no story counts ("nine stories today"), no describing your own selection process, and above all no mentioning articles that were stripped out, dropped, skipped, empty, or failed to fetch. If a story arrived without usable content, it does not exist -- do not refer to it, do not flag it as one to watch, and do not group such items into a closing note. Never write anything resembling "there was meant to be a story on X, but the source came through empty." Just tell him the news, as a colleague would; if something isn't worth including, leave it out silently rather than mentioning that you left it out.
 
-STRATEGIC LENS: Niki works in Customer Strategy -- identifying customer needs, market and competitor analysis, customer research, building customer journeys, understanding the overarching business strategy and formulating customer strategy around it, and building business cases. Where a story genuinely connects (use the flagged hooks), weave in how it impacts her work or a client use case -- and land on something concrete: a specific competitor axis to map, a business-case assumption to test, a segmentation or customer-journey insight. Connect each relevant story to a specific part of her work, and vary which part across the episode.
+STRATEGIC LENS: Niki works in Customer Strategy -- identifying customer needs, market and competitor analysis, customer research, building customer journeys, understanding the overarching business strategy and formulating customer strategy around it, and building business cases. Where a story genuinely connects (use the flagged hooks), weave in how it impacts his work or a client use case -- and land on something concrete: a specific competitor axis to map, a business-case assumption to test, a segmentation or customer-journey insight. Connect each relevant story to a specific part of his work, and vary which part across the episode.
 
 CRITICAL -- do not force it. Stories without a real hook get no strategic angle, or at most a one-line "competitor-watch" note. The selectivity is what makes the relevant ones land; tacking an angle onto everything makes the whole thing hollow and untrustworthy.
 
@@ -121,7 +121,11 @@ def main(summaries_json_path: str):
         print("ERROR: ANTHROPIC_API_KEY not found in .env")
         sys.exit(1)
 
-    client = anthropic.Anthropic(api_key=api_key)
+    # Longer timeout than summarize.py -- this is one large generation (up to
+    # MAX_TOKENS of episode script), not a short per-article call. Still bounded
+    # so a dead socket can't hang the run indefinitely; see the note in
+    # summarize.py for the failure this guards against.
+    client = anthropic.Anthropic(api_key=api_key, timeout=300.0, max_retries=3)
     newsletter = detect_newsletter(summaries_json_path)
     summaries = json.loads(Path(summaries_json_path).read_text())
     edition_label = detect_edition_label(summaries_json_path, summaries)

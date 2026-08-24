@@ -110,7 +110,13 @@ def main(fetched_json_path: str):
         print("ERROR: ANTHROPIC_API_KEY not found in .env")
         sys.exit(1)
 
-    client = anthropic.Anthropic(api_key=api_key)
+    # Explicit timeout. The SDK's 10-minute default is far too generous for a
+    # single Haiku summary of one article, and on 2026-08-23 a local run hung
+    # for 3.5 hours here: the laptop slept mid-run, the in-flight HTTPS
+    # connection died silently, and the socket blocked in recv() on a peer that
+    # was never coming back. A tight timeout turns that from an indefinite hang
+    # into a retry. max_retries covers the transient case.
+    client = anthropic.Anthropic(api_key=api_key, timeout=120.0, max_retries=3)
     newsletter = detect_newsletter(fetched_json_path)
 
     data = json.loads(Path(fetched_json_path).read_text())

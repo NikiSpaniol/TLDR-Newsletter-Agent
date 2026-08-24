@@ -111,8 +111,14 @@ jobs:
         if: steps.check.outputs.proceed == 'true' && steps.dedup.outputs.proceed == 'true'
         run: python3 scripts/run_pipeline.py "${{ steps.rundate.outputs.run_date }}"
 
+      # always() so a partial run still publishes. The pipeline exits non-zero
+      # when audio or email fails, but it does so only after writing the
+      # summaries, episode scripts and digest pages -- without always(), that
+      # output would be discarded with the container and the run would produce
+      # nothing at all, which is exactly what happened for three weeks when the
+      # ElevenLabs key silently expired.
       - name: Commit and push results
-        if: steps.check.outputs.proceed == 'true' && steps.dedup.outputs.proceed == 'true'
+        if: always() && steps.check.outputs.proceed == 'true' && steps.dedup.outputs.proceed == 'true'
         run: |
           git config user.name "TLDR Agent Bot"
           git config user.email "actions@users.noreply.github.com"

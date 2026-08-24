@@ -20,6 +20,16 @@ SMTP_PORT = 587
 SENDER = "nikiagenticai@gmail.com"
 RECIPIENT = "niki.spaniol@gmail.com"
 
+# Gmail rejects messages over 25 MB. Base64 attachment encoding inflates the
+# payload by ~4/3, so the real ceiling on the raw MP3 is around 18 MB -- worth
+# checking up front rather than discovering it in an SMTP error, since episode
+# length grows with the number of stories in an edition.
+MAX_ATTACHMENT_BYTES = 18 * 1024 * 1024
+
+
+class EmailDeliveryError(RuntimeError):
+    """Raised instead of exiting, so the caller can keep the rest of the run alive."""
+
 
 def load_env(env_path: str = ".env") -> dict:
     env = {}
@@ -37,12 +47,19 @@ def main(audio_path: str, subject: str = None):
     env = load_env()
     app_password = env.get("GMAIL_APP_PASSWORD")
     if not app_password:
-        print("ERROR: GMAIL_APP_PASSWORD not found in .env")
-        sys.exit(1)
+        raise EmailDeliveryError("GMAIL_APP_PASSWORD not found in .env")
 
     audio_file = Path(audio_path)
     if subject is None:
         subject = f"TLDR audio briefing: {audio_file.stem}"
+
+    size = audio_file.stat().st_size
+    if size > MAX_ATTACHMENT_BYTES:
+        raise EmailDeliveryError(
+            f"{audio_file.name} is {size / 1024 / 1024:.1f} MB, over the "
+            f"{MAX_ATTACHMENT_BYTES / 1024 / 1024:.0f} MB attachment ceiling. "
+            "The MP3 is still saved in output/ and the digest page is published."
+        )
 
     msg = MIMEMultipart()
     msg["From"] = SENDER
@@ -56,14 +73,21 @@ def main(audio_path: str, subject: str = None):
     msg.attach(attachment)
 
     print(f"Sending {audio_file.name} ({len(audio_data) / 1024:.0f} KB) from {SENDER} to {RECIPIENT}...\n")
-    with smtplib.SMTP(SMTP_HOST, SMTP_PORT) as server:
-        server.starttls()
-        server.login(SENDER, app_password)
-        server.sendmail(SENDER, RECIPIENT, msg.as_string())
+    try:
+        with smtplib.SMTP(SMTP_HOST, SMTP_PORT, timeout=120) as server:
+            server.starttls()
+            server.login(SENDER, app_password)
+            server.sendmail(SENDER, RECIPIENT, msg.as_string())
+    except (smtplib.SMTPException, OSError) as e:
+        raise EmailDeliveryError(f"SMTP delivery failed: {e}") from e
 
     print("Sent.")
 
 
 if __name__ == "__main__":
     subject_arg = sys.argv[2] if len(sys.argv) > 2 else None
-    main(sys.argv[1], subject_arg)
+    try:
+        main(sys.argv[1], subject_arg)
+    except EmailDeliveryError as e:
+        print(f"ERROR: {e}")
+        sys.exit(1)
