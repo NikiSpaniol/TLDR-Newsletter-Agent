@@ -1,0 +1,112 @@
+[
+  {
+    "ref": 1,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "CURSOR LAUNCHES ORIGIN CODE HOSTING PLATFORM AS GITHUB OUTAGE EXPOSES OPENING IN AI CODING RACE (16 MINUTE READ)",
+    "url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race?utm_source=tldrai",
+    "blurb": "Cursor is currently rolling out its Origin code hosting platform to paid users. The launch coincided with a GitHub outage that lasted over six hours. Origin allows users to connect GitHub repositories, so they do not have to move platforms. Allowing GitHub to stay as a source of truth means it costs nothing for organizations to try Origin and nothing breaks if it is abandoned.",
+    "source_email": "tldr_ai_2026-08-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: The read operation timed out"
+  },
+  {
+    "ref": 2,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "ANTHROPIC'S REVENUE TO EXCEED $65 BILLION (1 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/Li8lki",
+    "blurb": "Anthropic was reportedly on track to exceed $65 billion in annualized revenue based on its current performance, more than seven times its pace at the end of the previous year.",
+    "source_email": "tldr_ai_2026-08-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 13,
+    "section": "MISCELLANEOUS",
+    "heading": "ONE AI MODULE FAKED 86% OF A PIPELINE'S ACCURACY GAINS BY FEEDING ANOTHER THE ANSWERS (6 MINUTE READ)",
+    "url": "https://venturebeat.com/orchestration/one-ai-module-faked-86-of-a-pipelines-accuracy-gains-by-feeding-another-the-answers?utm_source=tldrai",
+    "blurb": "Compound LLM pipelines can gain accuracy while specialized modules quietly abandon assigned roles, creating \u201crole drift\u201d invisible to system-level metrics. Role Anchor constrains this behavior. 86% of one pipeline's apparent RL gains disappeared when its decomposer stayed in role.",
+    "source_email": "tldr_ai_2026-08-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: The read operation timed out"
+  },
+  {
+    "ref": 14,
+    "section": "MISCELLANEOUS",
+    "heading": "OWN YOUR INTELLIGENCE: A HOW-TO GUIDE (7 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/bANyEI",
+    "blurb": "AI companies should selectively own their intelligence when frontier APIs constrain cost, latency, proprietary data, or strategic control. The roadmap is evals, custom harnesses, targeted post-training, and online learning loops that turn production trajectories into continuously improving domain-specific models.",
+    "source_email": "tldr_ai_2026-08-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: The read operation timed out"
+  },
+  {
+    "ref": 15,
+    "section": "QUICK LINKS",
+    "heading": "OPENAI'S GPT-5.6 SOL IS NOW HALF OFF ON OPENROUTER (1 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/xVQl3C",
+    "blurb": "The discount applies to batch API, flex, and priority (fast) tiers.",
+    "source_email": "tldr_ai_2026-08-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: The read operation timed out"
+  },
+  {
+    "ref": 16,
+    "section": "QUICK LINKS",
+    "heading": "SOTA APPLE SILICON INFERENCE (12 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/5HCfwy",
+    "blurb": "This practical community guide surveys current model and runtime choices for Apple Silicon.",
+    "source_email": "tldr_ai_2026-08-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 19,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "CEREBRAS SAYS ITS NEW COMPUTER BOOSTS AI SPEED ADVANTAGE OVER NVIDIA (3 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/gB02dq",
+    "blurb": "Cerebras' new computer, the CS-4, is multiple times faster than its predecessor, which Cerebras already claims is more responsive than systems built with Nvidia's processors. The machine is currently being sampled by a small group of customers. It will be more widely available in the third quarter. The product is a significant step in the company's bid to challenge Nvidia in the market for AI data center hardware.",
+    "source_email": "tldr_ai_2026-08-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 44,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "CLOUD AGENTS AND CURSOR HARNESS IMPROVEMENTS (2 MINUTE READ)",
+    "url": "https://cursor.com/changelog/08-19-26?utm_source=tldrai",
+    "blurb": "Cursor can now monitor PRs, watch a Slack thread, and run scheduled tasks. Cursor Agent subscribes to an event source and wakes when something happens. Subscriptions are currently only available for cloud agents. Subagents can now run on their own virtual machines, and users can now send messages to steer agents while they're working without interruption. More details about Cursor's latest release are available in the article.",
+    "source_email": "tldr_ai_2026-08-20_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: The read operation timed out"
+  },
+  {
+    "ref": 45,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "SUPERWHISPER/S1-MINI (8 MINUTE READ)",
+    "url": "https://huggingface.co/superwhisper/s1-mini?utm_source=tldrai",
+    "blurb": "Superwhisper's S1-mini model is a 0.6B-parameter text normalizer for speech-to-text outputs, achieving a 94.8% token accuracy in transforming raw ASR transcripts into clean written text. It's optimized for English, runs comfortably on CPU, and requires a specific input format, including a control line for styling, structure, and context settings.",
+    "source_email": "tldr_ai_2026-08-20_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: The read operation timed out"
+  },
+  {
+    "ref": 49,
+    "section": "MISCELLANEOUS",
+    "heading": "RIGHT-SIZING YOUR INTELLIGENCE SPEND (13 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/7EVths",
+    "blurb": "Enterprise AI should optimize intelligence consumed per successful outcome, not default to frontier models for every task. As smaller models cross workload-specific capability thresholds, routers, hybrid systems, and specialized harnesses can shift routine work toward cheaper, local, or deterministic execution.",
+    "source_email": "tldr_ai_2026-08-20_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 52,
+    "section": "QUICK LINKS",
+    "heading": "VERCEL AGENT COMES TO SLACK (1 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/FrWaPN",
+    "blurb": "Vercel announced a Slack interface for invoking its agent from team conversations.",
+    "source_email": "tldr_ai_2026-08-20_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  }
+]
