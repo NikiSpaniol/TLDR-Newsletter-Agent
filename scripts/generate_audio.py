@@ -143,21 +143,130 @@ def check_auth(api_key: str) -> str:
     return f"tier={tier}"
 
 
-def chunk_text(text: str, limit: int = DEFAULT_CHUNK_CHAR_LIMIT) -> list:
-    """Group paragraphs into chunks under `limit` chars, never splitting mid-paragraph."""
-    paragraphs = [p for p in text.split("\n\n") if p.strip()]
+_SENTENCE_END = re.compile(r"(?<=[.!?])\s+")
+
+
+def _split_units(text: str, limit: int) -> list:
+    """
+    Break the script into (piece, separator) units small enough to pack.
+
+    Paragraphs are the natural unit, but one longer than `limit` would become an
+    oversized chunk on its own, so those are split further at sentence
+    boundaries. The separator records how each piece rejoins the one before it
+    -- a blank line between paragraphs, a single space between sentences of the
+    same paragraph -- so a reassembled chunk keeps the pacing cues the model
+    reads.
+    """
+    units = []
+    for para in (p.strip() for p in text.split("\n\n")):
+        if not para:
+            continue
+        if len(para) <= limit:
+            units.append((para, "\n\n"))
+            continue
+        current, leading = "", True
+        for sentence in _SENTENCE_END.split(para):
+            candidate = f"{current} {sentence}" if current else sentence
+            if len(candidate) > limit and current:
+                units.append((current, "\n\n" if leading else " "))
+                leading = False
+                current = sentence
+            else:
+                current = candidate
+        if current:
+            units.append((current, "\n\n" if leading else " "))
+    return units
+
+
+def chunk_text(text: str, limit: int = DEFAULT_CHUNK_CHAR_LIMIT, min_chars: int = None) -> list:
+    """
+    Pack the script into chunks of at most `limit` chars and, where possible, at
+    least `min_chars`.
+
+    The minimum matters as much as the maximum. The opening greeting is its own
+    short paragraph, so a purely greedy packer emitted it as a ~150-char chunk:
+    a standalone ~9 second generation with its own energy arc, followed by the
+    first story starting cold in a separate request. That seam was clearly
+    audible and read as unpolished. Folding runts into a neighbour keeps the
+    greeting and the story it introduces inside one generation, so they share a
+    single delivery.
+    """
+    if min_chars is None:
+        min_chars = max(1, limit // 2)
+
     chunks = []
     current = ""
-    for para in paragraphs:
-        candidate = f"{current}\n\n{para}" if current else para
+    for piece, sep in _split_units(text, limit):
+        candidate = f"{current}{sep}{piece}" if current else piece
         if len(candidate) > limit and current:
             chunks.append(current)
-            current = para
+            current = piece
         else:
             current = candidate
     if current:
         chunks.append(current)
-    return chunks
+
+    # Fold each runt forward into the chunk that follows it, so the greeting
+    # rides along with the story it introduces rather than standing alone.
+    merged = []
+    for chunk in chunks:
+        if merged and len(merged[-1]) < min_chars:
+            merged[-1] = f"{merged[-1]}\n\n{chunk}"
+        else:
+            merged.append(chunk)
+    # A trailing runt (the sign-off) has nothing after it, so fold it backward.
+    # Pop first: evaluating merged.pop() inside the assignment's right-hand side
+    # shrinks the list before the target index is resolved, so a two-chunk script
+    # ending in a short sign-off raised IndexError.
+    if len(merged) > 1 and len(merged[-1]) < min_chars:
+        tail = merged.pop()
+        merged[-1] = f"{merged[-1]}\n\n{tail}"
+    return merged
+
+
+def _mp3_frame_length(header: bytes) -> int:
+    """Byte length of the MPEG audio frame these 4 header bytes describe, else 0."""
+    if len(header) < 4 or header[0] != 0xFF or (header[1] & 0xE0) != 0xE0:
+        return 0
+    version = (header[1] >> 3) & 0x03     # 3=MPEG1, 2=MPEG2, 0=MPEG2.5
+    layer = (header[1] >> 1) & 0x03       # 1=Layer III
+    bitrate_index = (header[2] >> 4) & 0x0F
+    rate_index = (header[2] >> 2) & 0x03
+    padding = (header[2] >> 1) & 0x01
+    if layer != 1 or bitrate_index in (0, 15) or rate_index == 3 or version == 1:
+        return 0
+    mpeg1 = [0, 32, 40, 48, 56, 64, 80, 96, 112, 128, 160, 192, 224, 256, 320]
+    mpeg2 = [0, 8, 16, 24, 32, 40, 48, 56, 64, 80, 96, 112, 128, 144, 160]
+    bitrate = (mpeg1 if version == 3 else mpeg2)[bitrate_index] * 1000
+    rates = {3: [44100, 48000, 32000], 2: [22050, 24000, 16000], 0: [11025, 12000, 8000]}
+    return (144 * bitrate) // rates[version][rate_index] + padding
+
+
+def strip_mp3_container(data: bytes) -> bytes:
+    """
+    Return only the audio frames of one MP3, dropping ID3 tags and any
+    Xing/Info metadata frame.
+
+    Each chunk ElevenLabs returns is a complete standalone MP3: an ID3v2 tag,
+    then a Xing/Info frame declaring that chunk's own duration. Byte-joining
+    them leaves one such header per chunk, and players honour the first -- which
+    describes chunk 1 alone. That is why a 15 minute briefing reported itself as
+    9 seconds in QuickTime, iTunes and the Gmail preview, with seeking and
+    excerpting broken. Stripping every chunk's container leaves a clean
+    constant-bitrate frame stream, whose duration players derive from its size.
+    """
+    if data[:3] == b"ID3" and len(data) > 10:
+        size = (
+            ((data[6] & 0x7F) << 21) | ((data[7] & 0x7F) << 14)
+            | ((data[8] & 0x7F) << 7) | (data[9] & 0x7F)
+        )
+        data = data[10 + size:]
+    if data[-128:][:3] == b"TAG":  # ID3v1 trailer
+        data = data[:-128]
+    length = _mp3_frame_length(data[:4])
+    if length and (b"Xing" in data[:length] or b"Info" in data[:length]):
+        data = data[length:]
+    return data
 
 
 def synthesize_chunk(
@@ -248,7 +357,7 @@ def main(episode_txt_path: str, title: str = None, api_key: str = None):
 
     filename = f"{safe_filename(title)}.mp3" if title else script_path.stem.replace("_episode", "") + "_audio.mp3"
     out_path = script_path.with_name(filename)
-    out_path.write_bytes(b"".join(audio_parts))
+    out_path.write_bytes(b"".join(strip_mp3_container(part) for part in audio_parts))
 
     size_kb = out_path.stat().st_size / 1024
     print(f"Wrote {size_kb:.0f} KB to {out_path}")
