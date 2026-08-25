@@ -5,17 +5,25 @@ Reads a plain-text episode script (from write_episode.py) and produces an MP3.
 
 MODEL CHOICE
 ------------
-Eleven Turbo v2.5 (the original choice here, picked to halve credit cost) is
-now deprecated -- ElevenLabs' own docs describe it as outclassed by the Flash
-models. eleven_flash_v2_5 is its direct successor at comparable cost, so it's
-the default. Set ELEVENLABS_MODEL_ID in .env to override:
+eleven_v3 is the default, chosen by blind listening test on 2026-08-25 after
+the flash output was still judged dull. Set ELEVENLABS_MODEL_ID in .env to
+override:
 
-  eleven_flash_v2_5      cheapest, least expressive, 40k chars/request
-  eleven_multilingual_v2 "most stable on long-form", 10k chars/request, ~2x cost
-  eleven_v3              most expressive/emotional, 5k chars/request, priciest
+  eleven_v3              most expressive; 5k chars/request; no text context
+  eleven_flash_v2_5      cheapest and fastest, noticeably flatter delivery
+  eleven_multilingual_v2 middle ground, 10k chars/request
 
-For a warm conversational briefing, multilingual_v2 or v3 are the upgrades
-worth paying for -- flash is the safe cost-neutral floor.
+v3 was originally ruled out as "priciest". That was wrong, and it was assumed
+rather than measured. Metering the account balance either side of a real
+render put it at 0.55 credits/character -- effectively the same as flash --
+which is ~103k credits for a typical month against a 202,555 allowance. Always
+measure a rate before letting it drive a decision.
+
+Beyond sounding better, v3 also removed the volume sag that four rounds of
+chunk tuning had only reduced: whole-file drift went from -4.4 dB on flash to
++0.4 dB, and the mean level came up 10 dB (-33.5 -> -23.6 dBFS). It is far
+slower (163s vs 17s for a 6.3k-char script), which does not matter for a
+scheduled run.
 
 CHUNKING AND PROSODY
 --------------------
@@ -47,7 +55,7 @@ from pathlib import Path
 import requests
 
 VOICE_ID = "aGkVQvWUZi16EH8aZJvT"
-DEFAULT_MODEL_ID = "eleven_flash_v2_5"
+DEFAULT_MODEL_ID = "eleven_v3"
 TTS_URL = "https://api.elevenlabs.io/v1/text-to-speech/{voice_id}"
 SUBSCRIPTION_URL = "https://api.elevenlabs.io/v1/user/subscription"
 
@@ -69,16 +77,28 @@ SUBSCRIPTION_URL = "https://api.elevenlabs.io/v1/user/subscription"
 # tried in July and compounded the degradation across chunks.
 DEFAULT_CHUNK_CHAR_LIMIT = 900
 
-# stability 0.7 (the previous value) sits well above ElevenLabs' 0.5 default,
-# and their docs are explicit that higher stability means a more *monotonous*
-# read. Dropping below the default trades a little consistency for the
-# emotional range this format actually wants.
+# Settled by listening test: four variants of the same 430-char opening were
+# rendered and compared by ear, and this pairing (on eleven_v3) was the pick.
+# stability sits below ElevenLabs' 0.5 default because their docs are explicit
+# that higher stability means a more *monotonous* read; style pushes the model
+# to lean into expressive delivery. An attempt to rank the variants by measured
+# dynamic range ranked them backwards -- loudness variance counts pauses as
+# "dynamics" -- so this is one of the few things here not settled by a number.
 VOICE_SETTINGS = {
-    "stability": 0.45,
+    "stability": 0.35,
     "similarity_boost": 0.75,
-    "style": 0.3,
+    "style": 0.55,
     "use_speaker_boost": True,
 }
+
+# eleven_v3 rejects previous_text/next_text outright (HTTP 400
+# unsupported_model), so prosodic context cannot be supplied to it. Because
+# nothing bridges its chunk seams, v3 is instead given far larger chunks --
+# fewer cold starts beats short ones with no continuity. Its hard per-request
+# ceiling is 5,000 characters.
+MODELS_WITHOUT_TEXT_CONTEXT = {"eleven_v3"}
+MODEL_CHAR_CEILING = {"eleven_v3": 5000, "eleven_multilingual_v2": 10000}
+MODEL_CHUNK_LIMIT = {"eleven_v3": 3200}
 
 OUTPUT_FORMAT = "mp3_44100_128"
 REQUEST_TIMEOUT = 120
@@ -178,7 +198,12 @@ def _split_units(text: str, limit: int) -> list:
     return units
 
 
-def chunk_text(text: str, limit: int = DEFAULT_CHUNK_CHAR_LIMIT, min_chars: int = None) -> list:
+def chunk_text(
+    text: str,
+    limit: int = DEFAULT_CHUNK_CHAR_LIMIT,
+    min_chars: int = None,
+    hard_max: int = None,
+) -> list:
     """
     Pack the script into chunks of at most `limit` chars and, where possible, at
     least `min_chars`.
@@ -193,6 +218,11 @@ def chunk_text(text: str, limit: int = DEFAULT_CHUNK_CHAR_LIMIT, min_chars: int 
     """
     if min_chars is None:
         min_chars = max(1, limit // 2)
+    # Merging a runt can push a chunk past `limit`, which is fine for models
+    # that only treat it as a target -- but eleven_v3 rejects anything over
+    # 5,000 characters outright, so the merge passes must respect a hard cap.
+    if hard_max is None:
+        hard_max = limit + min_chars
 
     chunks = []
     current = ""
@@ -210,7 +240,11 @@ def chunk_text(text: str, limit: int = DEFAULT_CHUNK_CHAR_LIMIT, min_chars: int 
     # rides along with the story it introduces rather than standing alone.
     merged = []
     for chunk in chunks:
-        if merged and len(merged[-1]) < min_chars:
+        if (
+            merged
+            and len(merged[-1]) < min_chars
+            and len(merged[-1]) + len(chunk) + 2 <= hard_max
+        ):
             merged[-1] = f"{merged[-1]}\n\n{chunk}"
         else:
             merged.append(chunk)
@@ -218,10 +252,28 @@ def chunk_text(text: str, limit: int = DEFAULT_CHUNK_CHAR_LIMIT, min_chars: int 
     # Pop first: evaluating merged.pop() inside the assignment's right-hand side
     # shrinks the list before the target index is resolved, so a two-chunk script
     # ending in a short sign-off raised IndexError.
-    if len(merged) > 1 and len(merged[-1]) < min_chars:
+    if (
+        len(merged) > 1
+        and len(merged[-1]) < min_chars
+        and len(merged[-2]) + len(merged[-1]) + 2 <= hard_max
+    ):
         tail = merged.pop()
         merged[-1] = f"{merged[-1]}\n\n{tail}"
-    return merged
+
+    # Last resort. Sentence splitting cannot help a paragraph containing no
+    # sentence terminator (or one enormous sentence), and eleven_v3 rejects
+    # any request over its ceiling outright, so force a break at a word
+    # boundary rather than let the request fail.
+    capped = []
+    for chunk in merged:
+        while len(chunk) > hard_max:
+            cut = chunk.rfind(" ", 0, hard_max)
+            if cut <= 0:
+                cut = hard_max
+            capped.append(chunk[:cut].rstrip())
+            chunk = chunk[cut:].lstrip()
+        capped.append(chunk)
+    return capped
 
 
 def _mp3_frame_length(header: bytes) -> int:
@@ -281,11 +333,13 @@ def synthesize_chunk(
         "model_id": model_id,
         "voice_settings": VOICE_SETTINGS,
     }
-    # Context for prosody only -- neither field is billed or spoken.
-    if previous_text:
-        payload["previous_text"] = previous_text
-    if next_text:
-        payload["next_text"] = next_text
+    # Context for prosody only -- neither field is billed or spoken. Omitted
+    # for models that reject them (see MODELS_WITHOUT_TEXT_CONTEXT).
+    if model_id not in MODELS_WITHOUT_TEXT_CONTEXT:
+        if previous_text:
+            payload["previous_text"] = previous_text
+        if next_text:
+            payload["next_text"] = next_text
 
     last_error = None
     for attempt in range(1, MAX_ATTEMPTS + 1):
@@ -332,11 +386,17 @@ def main(episode_txt_path: str, title: str = None, api_key: str = None):
 
     env = load_env()
     model_id = env.get("ELEVENLABS_MODEL_ID") or DEFAULT_MODEL_ID
-    chunk_limit = int(env.get("ELEVENLABS_CHUNK_CHARS") or DEFAULT_CHUNK_CHAR_LIMIT)
+    chunk_limit = int(
+        env.get("ELEVENLABS_CHUNK_CHARS")
+        or MODEL_CHUNK_LIMIT.get(model_id, DEFAULT_CHUNK_CHAR_LIMIT)
+    )
+    chunk_limit = min(chunk_limit, MODEL_CHAR_CEILING.get(model_id, chunk_limit))
 
     script_path = Path(episode_txt_path)
     text = script_path.read_text().strip()
-    chunks = chunk_text(text, chunk_limit)
+    chunks = chunk_text(
+        text, chunk_limit, hard_max=MODEL_CHAR_CEILING.get(model_id)
+    )
     print(
         f"Generating audio for {script_path} "
         f"({len(text)} chars, {len(chunks)} chunk(s) @ {chunk_limit}) via {model_id}...\n"
