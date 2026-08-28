@@ -1,0 +1,108 @@
+{
+  "kept": [
+    {
+      "ref": 9,
+      "section": null,
+      "heading": "INSTAGRAM SAYS CAPTIONS MATTER. THE REAL SHIFT IS CONTEXT (3 MINUTE READ)",
+      "url": "https://wersm.com/instagram-captions-context-search/?utm_source=tldrmarketing",
+      "blurb": "The caption is no longer supporting copy on Instagram: it is becoming the context layer that tells people and search engines what a post actually means. The same photo could be a new release, an archival find, or a personal memory, and the caption is what tells the difference once content travels beyond a creator's own followers. Public posts from professional accounts can now be indexed by external search engines, so captions increasingly shape how content gets found."
+    },
+    {
+      "ref": 10,
+      "section": null,
+      "heading": "BRANDS ARE PAYING TO GET INTO AI ANSWERS. PUBLISHERS ARE DELETING THE PAGES THAT PUT THEM THERE (5 MINUTE READ)",
+      "url": "https://www.thestateofbrand.com/news/advertorial-takedown-restore-fees?utm_source=tldrmarketing",
+      "blurb": "As search traffic declines, publishers are removing sponsored articles from their archives and charging brands to restore them. This creates a new risk for paid content, especially as those pages can also influence AI search visibility. Brands should negotiate retention terms upfront and regularly audit placements to catch removals early. Dated snapshots can also provide evidence if content disappears."
+    },
+    {
+      "ref": 11,
+      "section": null,
+      "heading": "AUTO-TRANSLATE WON'T WIN EU SHOPPERS (2 MINUTE READ)",
+      "url": "https://www.practicalecommerce.com/auto-translate-wont-win-e-u-shoppers?utm_source=tldrmarketing",
+      "blurb": "Auto translation can make an ecommerce site readable, but human localization is needed to make it credible and convert shoppers. CSA Research found that 40% of consumers would not buy from a website in a foreign language, while only 20% of Germans and 13% of Poles bought from sellers in other EU countries in 2024. Brands should start with one or two high potential markets, localize product and transactional content, and use native speakers to review sales critical pages, checkout, returns, and emails. Track conversion, search traffic, and engagement by market to identify localization gaps and decide where to expand."
+    },
+    {
+      "ref": 12,
+      "section": null,
+      "heading": "COPYWRITING FRIDAY: DUMB WAYS TO DIE (4 MINUTE READ)",
+      "url": "https://conversion-rate-experts.com/dumb-ways-to-die-copywriting-friday/?utm_source=tldrmarketing",
+      "blurb": "The \u201cDumb Ways to Die\u201d campaign shows that unwelcome messages can perform better when audiences are given a reason to engage before receiving the actual ask. Metro Trains Melbourne turned a safety warning into an entertaining music video that reached more than 340 million people, then delivered the safety message only at the end. Marketers can apply the same approach by leading with delight, using memorable rhymes, and replacing abstract claims with vivid, specific details that create mental images. The broader lesson is to make people want to consume the message instead of simply making an unwanted message louder."
+    },
+    {
+      "ref": 13,
+      "section": null,
+      "heading": "HAS GOOGLE DEMOTED LISTICLES? (8 MINUTE READ)",
+      "url": "https://www.growth-memo.com/p/has-google-demoted-listicles?utm_source=tldrmarketing",
+      "blurb": "Google has not broadly demoted listicles, but it has reduced their presence in top search positions, especially lower quality examples. Listicles still appeared in the top 10 for 55.1% of 60,000 queries, but their share of the top three fell from 35.9% to 39.0% in January to 32.0% to 33.0% in August. Self-promoting brand listicles remain common in B2B software, appearing in 46.2% of relevant top 10 results, but 62% of vendor listicles gained estimated organic traffic since January. The bigger issue is declining click opportunity, since 92% of SERPs with a top 10 listicle also included Reddit or YouTube and 93.4% of B2B listicle queries had AI Overviews."
+    },
+    {
+      "ref": 15,
+      "section": null,
+      "heading": "DISPLAY & VIDEO ADS BENCHMARKS 2026: EXCLUSIVE DATA & INSIGHTS FOR EVERY INDUSTRY (7 MINUTE READ)",
+      "url": "https://www.wordstream.com/blog/display-video-ads-benchmarks?utm_source=tldrmarketing",
+      "blurb": "LocaliQ's 2026 benchmarks show that display ad CTRs remain low, ranging from 0.12% for Restaurants & Food to 0.40% for Education & Instruction, while CPCs range from $1.65 to $5.58 across industries. On the USA TODAY Network, high-impact ads averaged 62% viewability and a 0.26% CTR, while video ads averaged 71% viewability, a 0.09% CTR, and a 67% completion rate. Native ads performed better on clicks, averaging a 0.28% CTR and 70% viewability. The data comes from 7,074 LocaliQ display campaigns and 55,798 USA TODAY Network campaigns."
+    },
+    {
+      "ref": 16,
+      "section": null,
+      "heading": "WHICH MARKETING METRIC SHOULD YOU ACTUALLY TRUST? (3 MINUTE READ)",
+      "url": "https://www.brainlabsdigital.com/marketing-measurement-mmm-attribution-incrementality/?utm_source=tldrmarketing",
+      "blurb": "Stop looking for one measurement source of truth and instead assign each method a specific decision. MMM should guide strategic budget allocation, incrementality should test whether campaigns create causal lift, and attribution and platform data should support day-to-day optimization. Conflicting results should trigger investigation rather than averaging the numbers, since gaps can reveal flawed assumptions or show that a channel captures existing demand rather than creates new demand. The strongest approach creates a feedback loop where MMM identifies opportunities, experiments test them, and the resulting evidence improves future planning and execution."
+    },
+    {
+      "ref": 17,
+      "section": "MISCELLANEOUS",
+      "heading": "SEO IS THE NEW CLEANUP CREW FOR ORGANIZATIONAL DYSFUNCTION (6 MINUTE READ)",
+      "url": "https://www.jonoalderson.com/conjecture/organisational-dysfunction/?utm_source=tldrmarketing",
+      "blurb": "SEO teams often become the cleanup crew for problems across the business, from technical debt to unclear messaging and poor customer feedback. Their cross-functional view helps expose these issues, but repeatedly fixing them creates dependency instead of solving the root cause. Recurring problems should move to the teams that own them, with processes that prevent them from returning. The real measure is what stops breaking, not how many issues SEO fixes."
+    },
+    {
+      "ref": 18,
+      "section": "MISCELLANEOUS",
+      "heading": "SHOULD YOU BUILD YOUR OWN AUDIENCE STACK IN THE AI ERA? (4 MINUTE READ)",
+      "url": "https://digitalcontentnext.org/blog/2026/08/24/should-you-build-your-own-audience-stack-in-the-ai-era/?utm_source=tldrmarketing",
+      "blurb": "AI has made it much easier to build audience-platform features, but it hasn't eliminated the complexity of running them reliably. Building in-house still means maintaining integrations, sender reputation, and compliance over time. The decision should depend on whether a company has the resources to support the system long term, not just whether it can build the software cheaply. For many publishers, buying the infrastructure may still make more sense."
+    },
+    {
+      "ref": 19,
+      "section": "MISCELLANEOUS",
+      "heading": "MBA METRICS FOR SEO: HOW TO SPEAK LEADERSHIP'S LANGUAGE (7 MINUTE READ)",
+      "url": "https://ahrefs.com/blog/mba-metrics-for-seo/?utm_source=tldrmarketing",
+      "blurb": "Leadership doesn't distrust SEO - it distrusts metrics reported in a language it was never trained to read. Rankings and traffic clicks mean nothing to a team that judges channels by market share and ROI, so the fix is translating SEO into those same terms. Share of Voice stands in for market share, organic traffic value stands in for revenue growth, and branded search volume stands in for brand demand. Reported this way, SEO stops being a marketing activity that needs defending and starts reading like a business one."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "VIDEO IS CHANGING FAST. THIS PODCAST COVERS WHAT REALLY MATTERS IN 2026 (SPONSOR)",
+      "url": "https://www.youtube.com/watch?v=N2WHBKFl5tk%3Futm_source%3DTLDR&utm_source=TLDR&utm_medium=newsletter&utm_campaign=2026-08-26_Primary_+Wistia&utm_content=header_video_changing_fast",
+      "blurb": "If you're making video, where should you focus next? Instead of guessing, Wistia surveyed nearly 1,000 video professionals for its 2026 State of Video Report [5] and unpacked the findings on their podcast, Talking Too Loud. [6]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 14,
+      "section": null,
+      "heading": "REACH 8 MILLION TECH PROFESSIONALS ON TLDR (SPONSOR)",
+      "url": "https://advertise.tldr.tech/?utm_source=tldrmarketing&utm_medium=newsletter&utm_campaign=secondary08262026&sp=s3B4JcRhsSYCKDtOu_n9IJqZ",
+      "blurb": "If you're reading this ad, you know they work. TLDR subscribers make a deliberate choice to open their inbox every weekday. You reach developers, product managers, marketers, founders, and engineering leaders at the precise moment they're most receptive to new information about the tools and platforms shaping their work. Become a TLDR sponsor. [14]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "5 VISUAL HOOK IDEAS (1 MINUTE READ)",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7496211952726335489/?utm_source=tldrmarketing",
+      "blurb": "Visual hooks in the first 3 seconds can stop the scroll.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "6 BOOKS EVERY BURNED-OUT MARKETER SHOULD READ (1 MINUTE READ)",
+      "url": "https://www.linkedin.com/posts/allisonstadd_6-books-every-burned-out-marketer-should-ugcPost-7492012163352571904-syVz/?utm_source=tldrmarketing",
+      "blurb": "The list includes \u201cThe Good Enough Job\u201d by Simone Stolzoff, \u201cHow to Do Nothing\u201d by Jenny Odell, and \u201cStolen Focus\u201d by Johann Hari.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "kept": [
+    {
+      "ref": 7,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI'S JALAPE\u00d1O INFERENCE ACCELERATOR MOVES TOWARD DEPLOYMENT (9 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/kvqYvn",
+      "blurb": "OpenAI reported first results from Jalape\u00f1o, an inference accelerator designed around low-latency agent workloads, and plans to deploy it in its own infrastructure by year-end. A large connected system keeps prompt processing and token generation close together, while AI helped design circuits and program kernels."
+    },
+    {
+      "ref": 8,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "PERPLEXITY PARTNERS WITH NVIDIA TO LAUNCH PORTABLE COMPUTER, A FULLY LOCAL AI AGENT WITH ZERO TOKEN COSTS (13 MINUTE READ)",
+      "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs?utm_source=tldrai",
+      "blurb": "Perplexity's Portable Computer is a version of its agentic Computer platform that runs entirely on hardware users already own. The model, user data, and work can all stay on local machines with no billing credits. Every task starts on device by default, and the system asks for permission before sending any individual step to a more powerful model in the cloud. Portable Computer is now available for Pro, Max, Enterprise Pro, and Enterprise Max subscribers on Linux, with Windows support coming in September. Users will need an RTX GPU with at least 24GB of VRAM to run the agent."
+    },
+    {
+      "ref": 9,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "VOCAB BREAK (4 MINUTE READ)",
+      "url": "https://ianbarber.blog/2026/08/24/vocab-break/?utm_source=tldrai",
+      "blurb": "Claude's current tokenizer appears to only have about 15,000 entries. This is surprising, as the trend had seemed to be that more is better in this space. One theory is that Anthropic has been working around a bottleneck caused by the final softmax layer. This article takes a closer look at how Anthropic might be achieving this and the effects it might have on model training."
+    },
+    {
+      "ref": 10,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "OPENAI AND ANTHROPIC COULD DOMINATE GLOBAL AI COMPUTE (48 MINUTE READ)",
+      "url": "https://www.dwarkesh.com/p/dylan-patel-3?utm_source=tldrai",
+      "blurb": "Dylan Patel discusses how OpenAI and Anthropic could control most usable AI compute by 2028 as their ability to monetize FLOPs lets them outbid competitors. The conversation also covered rising AI capex, potential sovereign debt risks, and the economic forces pushing the industry toward greater centralization."
+    },
+    {
+      "ref": 11,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "OPENAI'S JALAPE\u00d1O OPTIMIZES INFERENCE THROUGHPUT AND TOKEN LATENCY (5 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/lIJqvC",
+      "blurb": "OpenAI's Jalape\u00f1o inference chip was designed around its own model workloads, with early benchmarks showing higher peak throughput per kilowatt and lower token latency than the commercial systems tested on GPT-OSS 120B."
+    },
+    {
+      "ref": 12,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "MOATS IN THE AGE OF FLOODS (14 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/9PwM3w",
+      "blurb": "Abundant frontier intelligence will not eliminate application-layer moats - it shifts value toward companies that translate models into real outcomes. Durable winners will own coordination, workflow data, customer transformation, narrative, higher-level abstractions, outcome-based economics, and structural necessity."
+    },
+    {
+      "ref": 15,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "OPEN OMNIMODAL WORLD MODELS (GITHUB REPO)",
+      "url": "https://github.com/jd-opensource/JoyAI-Echo?utm_source=tldrai",
+      "blurb": "EchoWM is an omnimodal world model that follows continuous 6-DoF camera trajectories while jointly generating 720p video, environmental sound, music, and speech. It supports first- and third-person interaction and uses progressive plus autoregressive training for synchronized long-horizon generation."
+    },
+    {
+      "ref": 16,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "SHORT-LIVED CREDENTIALS FOR AI AGENTS (12 MINUTE READ)",
+      "url": "https://vercel.com/blog/the-end-of-credential-sprawl-for-agents?utm_source=tldrai",
+      "blurb": "Vercel Connect replaces long-lived API tokens with runtime-issued credentials that are scoped to individual tasks and expire automatically. Its generally available release added more than 100 connectors along with a unified integration model and production governance controls."
+    },
+    {
+      "ref": 17,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GRANITE 4.2 LLMS: HOW THEY'RE BUILT (20 MINUTE READ)",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2?utm_source=tldrai",
+      "blurb": "Granite 4.2 models by IBM are dense, decoder-only reasoning LLMs available in 3B, 8B, and 30B sizes. Trained on 15T tokens, they use a five-phase strategy that includes a multi-stage RL pipeline and support native tool calling with a THINKING/NON-THINKING switch. The 8B and 30B models learn agentic behavior through RL stages in real environments, enhancing capabilities such as code editing and web searching."
+    },
+    {
+      "ref": 18,
+      "section": "MISCELLANEOUS",
+      "heading": "\u2018THE WORLD SEEMS TO BE READY': AN INTERVIEW WITH OPENAI HEAD OF PRODUCT THIBAULT SOTTIAUX (7 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/?utm_source=tldrai",
+      "blurb": "Thibault Sottiaux is widely known as the guy who resets people's token limits whenever OpenAI's Codex hits a growth milestone. OpenAI plans to bring the same treatment to ChatGPT Work, a platform for white-collar workers leveraging AI agents. This article features an interview with Sottiaux on Codex, winning over skeptics, discovery as a product design philosophy, and the cost of intelligence."
+    },
+    {
+      "ref": 19,
+      "section": "MISCELLANEOUS",
+      "heading": "ANTHROPIC MERGES CLAUDE CHAT AND COWORK MEMORY, ON BY DEFAULT (5 MINUTE READ)",
+      "url": "https://thenextweb.com/news/anthropic-claude-cowork-shared-memory-default?utm_source=tldrai",
+      "blurb": "Anthropic has merged Claude and Claude Cowork's memory systems, so the platforms now remember the same conversations. The feature is on by default. Claude now adds topics to memory while users are still conversing. Everything that is remembered is stored as a list of files under Topics in the memory settings. Users can read, edit, or delete each one individually."
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "APPLE INTRODUCES M6 AND M5 ULTRA FOR LOCAL AI COMPUTE (4 MINUTE READ)",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/?utm_source=tldrai",
+      "blurb": "Apple announced M6 and M5 Ultra chips for Mac mini and Mac Studio, expanding the model work those machines can run locally."
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "OPENAI'S HEAD OF DATA CENTERS HAS LEFT THE COMPANY (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/5dFh1C",
+      "blurb": "Chris Malone, the executive who was overseeing OpenAI's data-center build-out, left the company last week."
+    },
+    {
+      "ref": 23,
+      "section": "QUICK LINKS",
+      "heading": "APPLIED COMPUTE AGENT CLOUD (4 MINUTE READ)",
+      "url": "https://www.appliedcompute.com/platform/introducing-ac2?utm_source=tldrai",
+      "blurb": "Applied Compute has launched AC2, a platform enabling AI teams to train, serve, and improve custom models."
+    },
+    {
+      "ref": 24,
+      "section": "QUICK LINKS",
+      "heading": "KEENABLE BUILDS A WEB INDEX AND QUERY LAYER FOR AI AGENTS (6 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/?utm_source=tldrai",
+      "blurb": "Keenable emerged from stealth with a claimed index of more than 100 billion documents, an API already used by unnamed AI labs, and a planned query language for combining evidence across sources."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "INNOVATE AT SPEED WITH JIRA (SPONSOR)",
+      "url": "https://www.atlassian.com/software/jira/dev?utm_source=tldr&utm_medium=paid-social&utm_campaign=P%3Ajira%7CO%3Appm%7CV%3Atldr%7CG%3Aus%7CL%3Aen%7CF%3Aaware%7CT%3Aprospecting%7CI%3Aimc-jira-ai-sdlc%7CA%3Adisplay%7CD%3Aalld&utm_content=P%3Ajira%7CO%3Appm%7CV%3Atldr-ai%7CG%3Aus%7CL%3Aen%7CF%3Aaware%7CT%3Aprospecting%7CI%3Aimc-jira-ai-sdlc%7CA%3Adisplay%7CD%3Aalld%7CU%3Ainnovate_header_innovate_speed_jira",
+      "blurb": "Jira by Atlassian [5] is built for AI-native software development. The Teamwork Graph feeds agents context from across your entire stack, delivering 44% more accurate results. So you can equip every agent, team, and teammate in your org with the context they need to run faster in the same direction. Learn more [6].",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "\"LOCAL MODEL SUPPORT\" DOESN'T MEAN WHAT YOU THINK IT MEANS (SPONSOR)",
+      "url": "https://ngrok.com/blog/quantization?utm_source=tldrai",
+      "blurb": "Every AI gateway lists self-hosted models as a supported provider, but what does that actually require of you? ngrok's Sam Rose wired one fine-tuned Llama into 7 popular AI gateways and documented what each one really needs to reach it. E.g., \"just give us an OpenAI-compatible base URL\" = your GPU box needs a public hostname and an open inbound port. See what each gateway actually requires and give ngrok.ai a spin. [14]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "THEY ASKED CLAUDE CODE TO BUILD AN MCP SERVER. IT FELL SHORT (SPONSOR)",
+      "url": "https://www.cdata.com/lp/claude-mcp-report/?utm_source=tldr-ai&utm_medium=newsletter_0826&utm_campaign=26Q3_Claude_MCP_Report",
+      "blurb": "CData tested Claude Code's attempt to build an enterprise MCP server and found data loss, pagination failures, and gaps expert guidance couldn't fix. Get the report [20]",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

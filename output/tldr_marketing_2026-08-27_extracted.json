@@ -1,0 +1,101 @@
+{
+  "kept": [
+    {
+      "ref": 8,
+      "section": null,
+      "heading": "META SETTLES SOCIAL MEDIA ADDICTION CASE WITH CALIFORNIA, OTHER STATES FOR $16.7 BILLION (3 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html?utm_source=tldrmarketing",
+      "blurb": "Meta's settlement doesn't just bind Meta. States are set to keep 70% of the $16.7 billion payout regardless, but the remaining 30% only unlocks if Google's YouTube and TikTok adopt the same kind of daily time limits, age-assurance checks, and night mode Meta is now required to build. That structure effectively uses Meta's settlement to pressure its rivals into matching child-safety changes without suing them directly."
+    },
+    {
+      "ref": 10,
+      "section": null,
+      "heading": "WHEN AI ANSWER ENGINES QUOTE A PERSON, THAT PERSON IS ON LINKEDIN 74% OF THE TIME (4 MINUTE READ)",
+      "url": "https://www.oktopost.com/blog/linkedin-ai-citations/?utm_source=tldrmarketing",
+      "blurb": "Individual employees, not company pages, are what AI answer engines cite when they quote a named opinion. Named posts made up 32.8% of social citations across an audit of 63 B2B companies, compared with just 6.7% for company pages, and the person quoted had published on LinkedIn 74% of the time. A model needs a name and title to attach to a claim, something a brand page speaking in aggregate can't offer the same way."
+    },
+    {
+      "ref": 11,
+      "section": null,
+      "heading": "THE 5 MOST EFFECTIVE LINKEDIN ADS TACTICS IN Q3 2026 (6 MINUTE READ)",
+      "url": "https://thesqueezebyadjuice.beehiiv.com/p/the-5-most-effective-linkedin-ads-tactics-in-q3-2026?utm_source=tldrmarketing",
+      "blurb": "Pair LinkedIn Audience Network with highly targeted third-party audiences to expand reach, turn customer wins into ungated case study document ads, and gate high-value offers when ungated content falls flat. Thought leader ads with preview links can drive more inbound, while branded single-image TLAs can combine strong engagement with brand building."
+    },
+    {
+      "ref": 13,
+      "section": null,
+      "heading": "THE NEW DEMAND GEN MANAGER SUCCESS KIT (15 MINUTE READ)",
+      "url": "https://www.vector.co/guides-and-reports/new-demand-gen-manager-success-kit?utm_source=tldrmarketing",
+      "blurb": "A guide for demand gen leaders navigating their first 90 days. It covers how to assess the business, launch campaigns quickly, build the right measurement infrastructure, and identify high-value audience signals. It also shows where AI can streamline daily workflows without replacing strategic judgment."
+    },
+    {
+      "ref": 14,
+      "section": null,
+      "heading": "THE 4 ROLES EVERY MODERN MEASUREMENT FUNCTION NEEDS AND ALMOST NO COMPANY HAS STAFFED ALL 4 (6 MINUTE READ)",
+      "url": "https://karandhir.substack.com/p/the-4-roles-every-modern-measurement?utm_source=tldrmarketing",
+      "blurb": "Modern marketing measurement needs four distinct roles: measurement scientist, experimentation lead, finance translator, and decision architect. The scientist builds trustworthy models, the experimentation lead produces causal evidence, and the finance translator reconciles modeled impact with financial results so finance can trust the numbers. The decision architect connects those findings to budget processes by defining decision rights, timing, and override protocols. Combining roles may work temporarily, but understaffing usually leaves the relationship and decision work undone and turns measurement back into a modeling exercise."
+    },
+    {
+      "ref": 15,
+      "section": "MISCELLANEOUS",
+      "heading": "BEFORE DECLARING \u201c_ _ _ IS DEAD\u201d, CONSIDER THAT YOU MAY JUST BE BORING (3 MINUTE READ)",
+      "url": "https://raisedonsocial.substack.com/p/shot-take-stop-declaring-things-as-dead?utm_source=tldrmarketing",
+      "blurb": "Marketers and creators often mistake their own feeds for market research, declaring trends \u201cdead\u201d when they're really just tired of seeing them. Algorithmic feeds create highly personalized views of culture, so repeated exposure can make a format feel saturated even when other audiences are still discovering it. Before writing off a trend, look beyond your own feed and separate personal fatigue from actual audience behavior."
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "THE GREAT META MIGRATION (6 MINUTE READ)",
+      "url": "https://www.adexchanger.com/platforms/the-great-meta-migration/?utm_source=tldrmarketing",
+      "blurb": "Meta's ad playbook is spreading well beyond Meta, with alumni now running ad product and sales at OpenAI, Amazon, TikTok, and Roku, all chasing the same self-serve formula that took Meta's own ad business past a $1 trillion market cap. Turnover has been fueled by real turmoil inside Meta, including rolling layoffs and morale issues dating back to 2018. The strategy isn't foolproof, since Pinterest brought over a wave of Facebook talent in its early days and it still couldn't replicate Facebook's growth curve."
+    },
+    {
+      "ref": 17,
+      "section": "MISCELLANEOUS",
+      "heading": "BOOTS' REACTIVE MARKETING STRATEGY CAPITALIZES ON INFLUENCER'S IDEA TO GIVE BACK TO ARIANA GRANDE FANS (3 MINUTE READ)",
+      "url": "https://corq.studio/insights/boots-reactive-marketing-strategy-capitalises-on-influencers-idea-to-give-back-to-ariana-grande-fans/?utm_source=tldrmarketing",
+      "blurb": "Boots turned a creator's TikTok idea into a $10K Ariana Grande concert activation within hours, inviting 22 fans to the show. The move generated more than 793K views across related creator content and sparked positive brand sentiment. The activation shows the value of giving social teams freedom to act quickly when relevant opportunities emerge. It also highlights growing audience fatigue with brands taking influencers to high-demand events instead of genuine fans."
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "GOOGLE EXPANDS DIRECT BOOKING FOR LOCAL SERVICES ADS (1 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2092237387178860721.html?utm_source=tldrmarketing",
+      "blurb": "Businesses no longer have to manually link a booking partner."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "READY TO BUILD ON YOUR AI ADVERTISING KNOWLEDGE? \ud83e\udd13 (SPONSOR)",
+      "url": "https://go.stackadapt.com/f6wjddsv?utm_source=TLDR&utm_medium=newsletter&utm_campaign=2026-08-27_Primary_StackAdapt+Inc.&utm_content=header_ready_build_ai",
+      "blurb": "The StackAdapt Academy AI Advertising Education Hub [5] helps marketers build practical AI skills for today's fast-moving industry through bite-sized learning modules and technical certification courses. Learn how to put these skills into practice and apply AI across your advertising workflows.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 9,
+      "section": null,
+      "heading": "THE TURBULENT AI ERA IS HERE. THE CHOICES WE MAKE NOW ARE CRITICAL (20 MINUTE READ)",
+      "url": "https://www.linkedin.com/pulse/turbulent-ai-era-here-choices-we-make-now-critical-bill-gates-kkmze/?utm_source=tldrmarketing",
+      "blurb": "AI will reshape work faster than previous technological shifts, creating huge opportunities while putting millions of jobs at risk. The priority should be making sure its benefits reach everyone, not just those with wealth and access. Leaders should build stronger social safety nets and global AI policies.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    },
+    {
+      "ref": 12,
+      "section": null,
+      "heading": "RETHINK YOUR PRESS RELEASE LINKS (1 MINUTE READ)",
+      "url": "https://www.linkedin.com/posts/prsarahevans_hot-take-tuesday-if-the-first-mention-share-7498128456333860865-BO6L/?utm_source=tldrmarketing",
+      "blurb": "Link the first mention of your brand in a press release to the most relevant page for the announcement, not the homepage. This gives search engines and AI systems a stronger signal about what your brand should be associated with. Keep the homepage link in the boilerplate and make every other link serve a clear purpose.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "LINKEDIN ADS TIP: DROP YOUR BID 10% (1 MINUTE READ)",
+      "url": "https://www.linkedin.com/posts/digital-marketing-joe_actual-hack-that-works-on-linkedin-ads-share-7491866159307362304-o08P/?utm_source=tldrmarketing",
+      "blurb": "If CPC, CPL, or CPM rises, simply drop your bid by 10% rather than rebuilding the campaign with a new audience.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    }
+  ]
+}

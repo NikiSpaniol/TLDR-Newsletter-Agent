@@ -1,0 +1,365 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "NVIDIA ENTERS FULL PRODUCTION OF GROQ 3 LPX AI INFERENCE ACCELERATOR CHIPS, SUPERCHARGING VERA RUBIN WITH THE FASTEST TOKEN GENERATION SPEEDS EVER RECORDED (4 MINUTE READ)",
+      "url": "https://wccftech.com/nvidia-groq-3-lpx-ai-inference-accelerator-full-production-supercharging-vera-rubin/?utm_source=tldrai",
+      "blurb": "NVIDIA's Groq 3 LPX AI inference accelerator chip is now in full production. The Groq 3 LPX racks are an extension of the NVIDIA Vera Rubin platform. They deliver boosted AI inference capabilities that enable ultra-fast token generation for response-sensitive agentic workloads. Groq 3 LPX enables agentic AI tasks to be done within minutes versus hours. It offers a 4x boost in response times versus the nearest alternative platform.",
+      "source_email": "tldr_ai_2026-08-25_extracted.json"
+    },
+    {
+      "ref": 2,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "ANONYMOUS OX ALPHA PROCESSES 26T TOKENS ON OPENCODE, BREAKS OPENROUTER LAUNCH RECORD (4 MINUTE READ)",
+      "url": "https://runtimewire.com/article/anonymous-ox-alpha-processes-26t-tokens-on-opencode-breaks-openrouter-launch-rec?utm_source=tldrai",
+      "blurb": "OpenCode users processed 26 trillion tokens through Ox Alpha during the model's first four days. The anonymous AI model recorded 327,000 unique users and 8,328,244 completed sessions. It is currently available for free through an OpenAI-compatible endpoint, making it easy for developers to substitute the model into existing workflows. OpenCode's model page doesn't list Ox Alpha's maker, its release date, knowledge-cutoff date, or output-limit metadata.",
+      "source_email": "tldr_ai_2026-08-25_extracted.json"
+    },
+    {
+      "ref": 3,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOT CHIPS 2026: CUDA TARGETS RISC-V (7 MINUTE READ)",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc?utm_source=tldrai",
+      "blurb": "Nvidia is looking to extend CUDA support to RISC-V. This will open the door for RISC-V CPUs to feed GPU compute. RISC-V's software ecosystem has some distance to go before catching up to x86-64 and aarch64. While Nvidia's effort to bring CUDA into the RISC-V world is a promising development, the vast majority of existing RISC-V hardware won't meet Nvidia's requirements.",
+      "source_email": "tldr_ai_2026-08-25_extracted.json"
+    },
+    {
+      "ref": 4,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "LLMS COULD CONTROL THEIR HOST MACHINES BY EXPLOITING INFERENCE ENGINES (6 MINUTE READ)",
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines?utm_source=tldrai",
+      "blurb": "Host machines running AI models are high-value targets: they have sufficient compute to run a frontier LLM, offer easy access to the LLM's weights, and have privileged access to other computers in the datacenter compared with a generic computer on the Internet. Research shows that LLMs can run token sequences that exploit vulnerabilities in the software that loads an LLM onto GPUs. This attack surface may be further increased with vision and audio tokens. Possible mitigations for this type of attack would be to run GPUs and token parsers on separate computers and to restrict the permissions granted to GPU hosts and treat all the data they emit as untrusted.",
+      "source_email": "tldr_ai_2026-08-25_extracted.json"
+    },
+    {
+      "ref": 5,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "THE ECONOMICS OF THE INTELLIGENCE FRONTIER (20 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/FfDJQe",
+      "blurb": "AI tasks become commodities once models exceed their maximum necessary intelligence, shifting competition toward cost, latency, infrastructure, and distribution. Frontier labs can still become enormous businesses if new capability creates valuable markets faster than competitors reproduce and commoditize those advances.",
+      "source_email": "tldr_ai_2026-08-25_extracted.json"
+    },
+    {
+      "ref": 6,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "SPECULATIVE PROGRAMMATIC TOOL CALLING (12 MINUTE READ)",
+      "url": "https://alexzhang13.github.io/blog/2026/spec-ptc/?utm_source=tldrai",
+      "blurb": "Speculative Programmatic Tool Calling (sPTC) optimizes recursive language models by pre-launching tool calls during token generation, reducing latency from high-latency tools and context generation. This method acts like a JIT compiler, allowing parallel execution of non-blocking tool calls, providing a 1-1.2x runtime speed-up. sPTC is particularly useful in memory-bound local LLMs and high-volume serving systems by overlapping computation with execution time, offering significant performance improvements for intricate program executions within harnesses like RLMs.",
+      "source_email": "tldr_ai_2026-08-25_extracted.json"
+    },
+    {
+      "ref": 7,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GRAPH ENGINEERING (GITHUB REPO)",
+      "url": "https://github.com/DEEP-JLU/Awesome-Graph-Engineering?utm_source=tldrai",
+      "blurb": "A curated collection of papers, benchmarks, and open-source projects exploring how dynamic graph structures can organize tasks, coordinate agents, track runtime state, and support the evolution of multi-agent systems.",
+      "source_email": "tldr_ai_2026-08-25_extracted.json"
+    },
+    {
+      "ref": 8,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "ROME (GITHUB REPO)",
+      "url": "https://github.com/rome-os/rome?utm_source=tldrai",
+      "blurb": "Runs persistent AI agents, workflows, and apps inside a guardrailed collaboration environment.",
+      "source_email": "tldr_ai_2026-08-25_extracted.json"
+    },
+    {
+      "ref": 9,
+      "section": "MISCELLANEOUS",
+      "heading": "WHEN CODE IS ABUNDANT (31 MINUTE READ)",
+      "url": "https://about.gitlab.com/blog/when-code-is-abundant/?utm_source=tldrai",
+      "blurb": "Large language models are transforming software development by making code generation faster and cheaper, shifting the primary challenge from creating code to trusting and verifying it. Advanced engineering organizations like Stripe, Spotify, and Amplitude have started integrating AI-generated code into production, emphasizing the need for robust governance, context, and verification systems.",
+      "source_email": "tldr_ai_2026-08-25_extracted.json"
+    },
+    {
+      "ref": 10,
+      "section": "MISCELLANEOUS",
+      "heading": "THE AI BULLWHIP (5 MINUTE READ)",
+      "url": "https://tomtunguz.com/the-ai-cost-stack/?utm_source=tldrai",
+      "blurb": "The AI infrastructure faced a series of bottlenecks from GPU scarcity to storage issues, leading to increased costs across the supply chain. As demand for AI components surged, GPU prices spiked, server shipments declined, and memory manufacturers shifted focus to High Bandwidth Memory. This mismatch of supply and demand caused inflated hardware prices and higher data center construction costs, highlighting a classic Bullwhip Effect.",
+      "source_email": "tldr_ai_2026-08-25_extracted.json"
+    },
+    {
+      "ref": 11,
+      "section": "QUICK LINKS",
+      "heading": "ALIBABA LAUNCHES WAN3.0 AI VIDEO MODEL AFTER RECORD $10 BILLION SHARE SALE (2 MINUTE READ)",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-launches-wan3-0-ai-131300534.html?utm_source=tldrai",
+      "blurb": "Wan3.0 is an AI model that can generate 30-second videos from text and data.",
+      "source_email": "tldr_ai_2026-08-25_extracted.json"
+    },
+    {
+      "ref": 12,
+      "section": "QUICK LINKS",
+      "heading": "ANTHROPIC HIRES GOOGLE TPU VETERAN AMIR SALEK FOR ITS OWN CHIP PUSH (3 MINUTE READ)",
+      "url": "https://runtimewire.com/article/anthropic-hires-google-tpu-veteran-amir-salek-chip-team?utm_source=tldrai",
+      "blurb": "Amir Salek was the engineer who founded Google's custom-chip program and ran its Tensor Processing Unit business.",
+      "source_email": "tldr_ai_2026-08-25_extracted.json"
+    },
+    {
+      "ref": 13,
+      "section": "QUICK LINKS",
+      "heading": "GOODFIRE LAUNCHES $1M RESEARCH GRANT PROGRAM FOR AI INTERPRETABILITY (1 MINUTE READ)",
+      "url": "https://www.goodfire.com/grants?utm_source=tldrai",
+      "blurb": "Goodfire has announced a $1M research grant program that will provide free access to Silico, its frontier AI research and interpretability platform.",
+      "source_email": "tldr_ai_2026-08-25_extracted.json"
+    },
+    {
+      "ref": 14,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI'S JALAPE\u00d1O INFERENCE ACCELERATOR MOVES TOWARD DEPLOYMENT (9 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/kvqYvn",
+      "blurb": "OpenAI reported first results from Jalape\u00f1o, an inference accelerator designed around low-latency agent workloads, and plans to deploy it in its own infrastructure by year-end. A large connected system keeps prompt processing and token generation close together, while AI helped design circuits and program kernels.",
+      "source_email": "tldr_ai_2026-08-26_extracted.json"
+    },
+    {
+      "ref": 15,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "PERPLEXITY PARTNERS WITH NVIDIA TO LAUNCH PORTABLE COMPUTER, A FULLY LOCAL AI AGENT WITH ZERO TOKEN COSTS (13 MINUTE READ)",
+      "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs?utm_source=tldrai",
+      "blurb": "Perplexity's Portable Computer is a version of its agentic Computer platform that runs entirely on hardware users already own. The model, user data, and work can all stay on local machines with no billing credits. Every task starts on device by default, and the system asks for permission before sending any individual step to a more powerful model in the cloud. Portable Computer is now available for Pro, Max, Enterprise Pro, and Enterprise Max subscribers on Linux, with Windows support coming in September. Users will need an RTX GPU with at least 24GB of VRAM to run the agent.",
+      "source_email": "tldr_ai_2026-08-26_extracted.json"
+    },
+    {
+      "ref": 16,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "VOCAB BREAK (4 MINUTE READ)",
+      "url": "https://ianbarber.blog/2026/08/24/vocab-break/?utm_source=tldrai",
+      "blurb": "Claude's current tokenizer appears to only have about 15,000 entries. This is surprising, as the trend had seemed to be that more is better in this space. One theory is that Anthropic has been working around a bottleneck caused by the final softmax layer. This article takes a closer look at how Anthropic might be achieving this and the effects it might have on model training.",
+      "source_email": "tldr_ai_2026-08-26_extracted.json"
+    },
+    {
+      "ref": 17,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "OPENAI AND ANTHROPIC COULD DOMINATE GLOBAL AI COMPUTE (48 MINUTE READ)",
+      "url": "https://www.dwarkesh.com/p/dylan-patel-3?utm_source=tldrai",
+      "blurb": "Dylan Patel discusses how OpenAI and Anthropic could control most usable AI compute by 2028 as their ability to monetize FLOPs lets them outbid competitors. The conversation also covered rising AI capex, potential sovereign debt risks, and the economic forces pushing the industry toward greater centralization.",
+      "source_email": "tldr_ai_2026-08-26_extracted.json"
+    },
+    {
+      "ref": 18,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "OPENAI'S JALAPE\u00d1O OPTIMIZES INFERENCE THROUGHPUT AND TOKEN LATENCY (5 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/lIJqvC",
+      "blurb": "OpenAI's Jalape\u00f1o inference chip was designed around its own model workloads, with early benchmarks showing higher peak throughput per kilowatt and lower token latency than the commercial systems tested on GPT-OSS 120B.",
+      "source_email": "tldr_ai_2026-08-26_extracted.json"
+    },
+    {
+      "ref": 19,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "MOATS IN THE AGE OF FLOODS (14 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/9PwM3w",
+      "blurb": "Abundant frontier intelligence will not eliminate application-layer moats - it shifts value toward companies that translate models into real outcomes. Durable winners will own coordination, workflow data, customer transformation, narrative, higher-level abstractions, outcome-based economics, and structural necessity.",
+      "source_email": "tldr_ai_2026-08-26_extracted.json"
+    },
+    {
+      "ref": 20,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "OPEN OMNIMODAL WORLD MODELS (GITHUB REPO)",
+      "url": "https://github.com/jd-opensource/JoyAI-Echo?utm_source=tldrai",
+      "blurb": "EchoWM is an omnimodal world model that follows continuous 6-DoF camera trajectories while jointly generating 720p video, environmental sound, music, and speech. It supports first- and third-person interaction and uses progressive plus autoregressive training for synchronized long-horizon generation.",
+      "source_email": "tldr_ai_2026-08-26_extracted.json"
+    },
+    {
+      "ref": 21,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "SHORT-LIVED CREDENTIALS FOR AI AGENTS (12 MINUTE READ)",
+      "url": "https://vercel.com/blog/the-end-of-credential-sprawl-for-agents?utm_source=tldrai",
+      "blurb": "Vercel Connect replaces long-lived API tokens with runtime-issued credentials that are scoped to individual tasks and expire automatically. Its generally available release added more than 100 connectors along with a unified integration model and production governance controls.",
+      "source_email": "tldr_ai_2026-08-26_extracted.json"
+    },
+    {
+      "ref": 22,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GRANITE 4.2 LLMS: HOW THEY'RE BUILT (20 MINUTE READ)",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2?utm_source=tldrai",
+      "blurb": "Granite 4.2 models by IBM are dense, decoder-only reasoning LLMs available in 3B, 8B, and 30B sizes. Trained on 15T tokens, they use a five-phase strategy that includes a multi-stage RL pipeline and support native tool calling with a THINKING/NON-THINKING switch. The 8B and 30B models learn agentic behavior through RL stages in real environments, enhancing capabilities such as code editing and web searching.",
+      "source_email": "tldr_ai_2026-08-26_extracted.json"
+    },
+    {
+      "ref": 23,
+      "section": "MISCELLANEOUS",
+      "heading": "\u2018THE WORLD SEEMS TO BE READY': AN INTERVIEW WITH OPENAI HEAD OF PRODUCT THIBAULT SOTTIAUX (7 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/?utm_source=tldrai",
+      "blurb": "Thibault Sottiaux is widely known as the guy who resets people's token limits whenever OpenAI's Codex hits a growth milestone. OpenAI plans to bring the same treatment to ChatGPT Work, a platform for white-collar workers leveraging AI agents. This article features an interview with Sottiaux on Codex, winning over skeptics, discovery as a product design philosophy, and the cost of intelligence.",
+      "source_email": "tldr_ai_2026-08-26_extracted.json"
+    },
+    {
+      "ref": 24,
+      "section": "MISCELLANEOUS",
+      "heading": "ANTHROPIC MERGES CLAUDE CHAT AND COWORK MEMORY, ON BY DEFAULT (5 MINUTE READ)",
+      "url": "https://thenextweb.com/news/anthropic-claude-cowork-shared-memory-default?utm_source=tldrai",
+      "blurb": "Anthropic has merged Claude and Claude Cowork's memory systems, so the platforms now remember the same conversations. The feature is on by default. Claude now adds topics to memory while users are still conversing. Everything that is remembered is stored as a list of files under Topics in the memory settings. Users can read, edit, or delete each one individually.",
+      "source_email": "tldr_ai_2026-08-26_extracted.json"
+    },
+    {
+      "ref": 25,
+      "section": "QUICK LINKS",
+      "heading": "APPLE INTRODUCES M6 AND M5 ULTRA FOR LOCAL AI COMPUTE (4 MINUTE READ)",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/?utm_source=tldrai",
+      "blurb": "Apple announced M6 and M5 Ultra chips for Mac mini and Mac Studio, expanding the model work those machines can run locally.",
+      "source_email": "tldr_ai_2026-08-26_extracted.json"
+    },
+    {
+      "ref": 26,
+      "section": "QUICK LINKS",
+      "heading": "OPENAI'S HEAD OF DATA CENTERS HAS LEFT THE COMPANY (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/5dFh1C",
+      "blurb": "Chris Malone, the executive who was overseeing OpenAI's data-center build-out, left the company last week.",
+      "source_email": "tldr_ai_2026-08-26_extracted.json"
+    },
+    {
+      "ref": 27,
+      "section": "QUICK LINKS",
+      "heading": "APPLIED COMPUTE AGENT CLOUD (4 MINUTE READ)",
+      "url": "https://www.appliedcompute.com/platform/introducing-ac2?utm_source=tldrai",
+      "blurb": "Applied Compute has launched AC2, a platform enabling AI teams to train, serve, and improve custom models.",
+      "source_email": "tldr_ai_2026-08-26_extracted.json"
+    },
+    {
+      "ref": 28,
+      "section": "QUICK LINKS",
+      "heading": "KEENABLE BUILDS A WEB INDEX AND QUERY LAYER FOR AI AGENTS (6 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/?utm_source=tldrai",
+      "blurb": "Keenable emerged from stealth with a claimed index of more than 100 billion documents, an API already used by unnamed AI labs, and a planned query language for combining evidence across sources.",
+      "source_email": "tldr_ai_2026-08-26_extracted.json"
+    },
+    {
+      "ref": 29,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OX-ALPHA REVEALED AS GLM-5.3-FLASH (6 MINUTE READ)",
+      "url": "https://z.ai/blog/glm-5.3-flash?utm_source=tldrai",
+      "blurb": "Z.ai revealed that the anonymously tested ox-alpha was GLM-5.3-Flash, a 320B-parameter MoE model with 18B active parameters that approached Claude Opus 4.8 on coding and agentic benchmarks.",
+      "source_email": "tldr_ai_2026-08-27_extracted.json"
+    },
+    {
+      "ref": 30,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "NVIDIA'S $108B QUARTER (3 MINUTE READ)",
+      "url": "https://tomtunguz.com/nvidia-q2-fy27-earnings?utm_source=tldrai",
+      "blurb": "Nvidia will cross $100 billion in quarterly revenue next quarter. The company will see $432 billion in annual revenue, making it the sixth largest company in the world. Nvidia's business looks healthier and more diversified than ever before. However, there is a chance that custom silicon will eventually slow Big Tech's demand.",
+      "source_email": "tldr_ai_2026-08-27_extracted.json"
+    },
+    {
+      "ref": 31,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "SALESFORCE, ANTHROPIC EXPAND PARTNERSHIP AS BENIOFF RESPONDS TO \u2018SAASPOCALYPSE' CONCERNS (2 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html?utm_source=tldrai",
+      "blurb": "Salesforce and Anthropic launched \"Claudeforce,\" a Claude chatbot plugin with 37 pre-built sales skills for efficient data access and record updates. The partnership aims to enhance enterprise operations by integrating Salesforce and Anthropic's AI capabilities, with plans for future Slack integrations.",
+      "source_email": "tldr_ai_2026-08-27_extracted.json"
+    },
+    {
+      "ref": 32,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "WHAT Z.AI'S OX ALPHA REVEALS ABOUT AI ECONOMICS (3 MINUTE READ)",
+      "url": "https://www.thedeepview.com/articles/what-z-ai-s-ox-alpha-reveals-about-ai-economics?utm_source=tldrai",
+      "blurb": "GLM-5.3-Flash is Z.ai's first natively multimodal model in the GLM-5 series. The model was released anonymously as Ox Alpha on OpenCode and OpenRouter, where it completely overtook leaderboards and went viral. All of the traffic was served on Chinese AI chips. The model is architected for extreme efficiency and specifically designed for ultra-low-cost inference.",
+      "source_email": "tldr_ai_2026-08-27_extracted.json"
+    },
+    {
+      "ref": 33,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "BRIEF INDEPENDENT INVESTIGATION OF AGENTS' BEHAVIOR, REASONING AND COLLABORATION IN THE OPENAI/HUGGING FACE HACKING INCIDENT (160 MINUTE READ)",
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident?utm_source=tldrai",
+      "blurb": "OpenAI's agents' attack on Hugging Face was extraordinarily complex. This post looks at the Hugging Face attack and investigates the key actions taken by the relevant agent, how the agents collaborated on a message board, the agents' reasoning for the attack, and the agents' research into tampering with their own transcripts.",
+      "source_email": "tldr_ai_2026-08-27_extracted.json"
+    },
+    {
+      "ref": 34,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "CHATGPT NOW SUPPORTS WEBMCP (6 MINUTE READ)",
+      "url": "https://nekuda.substack.com/p/breaking-chatgpt-now-supports-webmcp?utm_source=tldrai",
+      "blurb": "OpenAI's ChatGPT desktop app's built-in browser and ChatGPT Sites now support WebMCP. ChatGPT and Codex can now use compatible websites' tools instead of guessing its way through the interface. Website teams should design, test, and understand the complete agent experience because users can now be agents, or a person and agent browsing together.",
+      "source_email": "tldr_ai_2026-08-27_extracted.json"
+    },
+    {
+      "ref": 35,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "INTELLIGENT TRANSCRIPTION WITH GEMINI 3.5 TRANSCRIBE (8 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/?utm_source=tldrai",
+      "blurb": "Gemini 3.5 Transcribe is a speech-to-text model designed for intelligent voice interactions. It can convert raw audio directly into accurate, polished, and formatted text. Gemini 3.5 Transcribe is available on the Gemini API in Google AI Studio and the Gemini Enterprise Agent Platform. The APIs support real-time streaming and pre-recorded audio processing.",
+      "source_email": "tldr_ai_2026-08-27_extracted.json"
+    },
+    {
+      "ref": 36,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "MUSE IMAGE (2 MINUTE READ)",
+      "url": "https://developer.meta.com/ai/models/muse-image/?utm_source=social-x&utm_medium=M4D&utm_campaign=organic&utm_content=museimage",
+      "blurb": "Meta's Muse Image model can generate images grounded by search. It can reason before it renders. The model is priced for production volumes at $0.01 per image. Real-world examples of Muse Image workflows are available in the link.",
+      "source_email": "tldr_ai_2026-08-27_extracted.json"
+    },
+    {
+      "ref": 37,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "AUTOMATIC HARNESS OPTIMIZATION (GITHUB REPO)",
+      "url": "https://github.com/microsoft/AutoSaddler?utm_source=tldrai",
+      "blurb": "Microsoft AutoSaddler is a system that analyzes agent execution traces and automatically updates prompts, tools, and middleware to improve agent performance.",
+      "source_email": "tldr_ai_2026-08-27_extracted.json"
+    },
+    {
+      "ref": 38,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "WECHAT RELEASED FAMILY OF EMBEDDING MODELS (GITHUB REPO)",
+      "url": "https://github.com/Tencent/WeMM-Embedding?utm_source=tldrai",
+      "blurb": "WeChat released WeMM-Embedding, a family of multimodal embedding models that maps text, images, videos, visual documents, and interleaved inputs into a unified representation space.",
+      "source_email": "tldr_ai_2026-08-27_extracted.json"
+    },
+    {
+      "ref": 39,
+      "section": "MISCELLANEOUS",
+      "heading": "THINKING MACHINES LAB CO-FOUNDER BARRET ZOPH JOINS GOOGLE (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/DXN3G0",
+      "blurb": "Barret Zoph was a co-founder at Thinking Machines Lab before defecting to OpenAI this year due to a dispute with Chief Executive Mira Murati. Zoph is now leaving OpenAI to join Google as vice-president of research. Google is currently restructuring its AI development efforts to catch up with rivals in developing AI that can create code. Zoph had worked as a research scientist at Google from 2016 through to 2022.",
+      "source_email": "tldr_ai_2026-08-27_extracted.json"
+    },
+    {
+      "ref": 40,
+      "section": "MISCELLANEOUS",
+      "heading": "ANTHROPIC AND NSCALE STRIKE $45 BILLION CLOUD DEAL (2 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html?utm_source=tldrai",
+      "blurb": "Anthropic has inked a roughly $45 billion cloud deal with Nscale, a UK-based AI infrastructure company. Anthropic will rent around 460 megawatts of compute capacity at an Nscale data center development in West Virginia. The facility, which is expected to come online at the end of 2027, will have Nvidia's advanced Vera Rubin chips.",
+      "source_email": "tldr_ai_2026-08-27_extracted.json"
+    },
+    {
+      "ref": 41,
+      "section": "QUICK LINKS",
+      "heading": "CLAUDE GETS ITS OWN BROWSER IN COWORK (2 MINUTE READ)",
+      "url": "https://claude.com/blog/cowork-built-in-browser?utm_source=tldrai",
+      "blurb": "Claude's internal browser is rolling out this week to Pro, Max, and Team plans in the Claude desktop app.",
+      "source_email": "tldr_ai_2026-08-27_extracted.json"
+    },
+    {
+      "ref": 42,
+      "section": "QUICK LINKS",
+      "heading": "GROK BOT IS NOW INCLUDED WITH MORE PLANS (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/SHR6Ri",
+      "blurb": "Grok Bot now comes with SuperGrok and Cursor plans, offering expanded access without affecting existing usage limits.",
+      "source_email": "tldr_ai_2026-08-27_extracted.json"
+    },
+    {
+      "ref": 43,
+      "section": "QUICK LINKS",
+      "heading": "BILL GATES IS DEEPLY WORRIED ABOUT AI, AND HE'S NO LONGER STAYING QUIET (5 MINUTE READ)",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet?utm_source=tldrai",
+      "blurb": "Bill Gates, once optimistic about AI, now warns it could become a major source of injustice and cause widespread unemployment.",
+      "source_email": "tldr_ai_2026-08-27_extracted.json"
+    },
+    {
+      "ref": 44,
+      "section": "QUICK LINKS",
+      "heading": "QWEN4'S ARCHITECTURE IS HERE EARLY, FIRING 6B PARAMETERS OUT OF 125B (3 MINUTE READ)",
+      "url": "https://thenextweb.com/news/qwen38-flash-next-qwen4-architecture-open-licence-ai-act?utm_source=tldrai",
+      "blurb": "Rather than adding experts, the model bolts on 51B parameters as a separate embedding indexed by two- and three-character fragments.",
+      "source_email": "tldr_ai_2026-08-27_extracted.json"
+    },
+    {
+      "ref": 45,
+      "section": "QUICK LINKS",
+      "heading": "GOOGLE REPORTEDLY IN ADVANCED TALKS FOR $1.5 BILLION DEAL WITH AI CODING STARTUP MECHANIZE (4 MINUTE READ)",
+      "url": "https://www.ghacks.net/2026/08/26/google-reportedly-in-advanced-talks-for-1-5-billion-deal-with-ai-coding-startup-mechanize/?utm_source=tldrai",
+      "blurb": "Mechanize develops virtual environments, benchmarks, and training data to help AI agents handle more complex tasks.",
+      "source_email": "tldr_ai_2026-08-27_extracted.json"
+    }
+  ],
+  "dropped": []
+}
