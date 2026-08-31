@@ -1,0 +1,156 @@
+{
+  "kept": [
+    {
+      "ref": 6,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "ANTHROPIC'S MODEL HARDWARE STANDARD (4 MINUTE READ)",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview?utm_source=tldrai",
+      "blurb": "Anthropic opened a research preview of the Model Hardware Standard, a model-agnostic specification for letting AI agents operate scientific and manufacturing equipment."
+    },
+    {
+      "ref": 7,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INTRODUCING H3 MAX BY FAL (5 MINUTE READ)",
+      "url": "https://blog.fal.ai/introducing-h3-max-by-fal/?utm_source=tldrai",
+      "blurb": "H3 Max is a post-trained version of MiniMax H3 optimized for maximum speed. It can generate a 5-second-long video in under 3 seconds. The model is now available on fal for 50% off for the first week. This article discusses how the model was trained."
+    },
+    {
+      "ref": 8,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INTRODUCING PARSE: ENTERPRISE DOCUMENT INTELLIGENCE AT SCALE (5 MINUTE READ)",
+      "url": "https://cohere.com/blog/parse?utm_source=tldrai",
+      "blurb": "Cohere Parse converts complex, multimodal files into structured machine-readable data. A cost-effective vision language model for processing large volumes of enterprise documents, it detects and understands key visual elements and can process documents and images across nine major world languages. Parse can be accessed through the Cohere API for just $1.50 per 1,000 pages. A free version is available in Cohere Space for users to try."
+    },
+    {
+      "ref": 9,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "GPT 5.6 DISCOUNTS & JEVONS PARADOX (4 MINUTE READ)",
+      "url": "https://openrouter.ai/blog/insights/gpt-5-6-discounts-jevons-paradox/?utm_source=tldrai",
+      "blurb": "OpenAI introduced large discounts on some of its models between July 27 and August 14. This resulted in Luna token usage jumping 13.8x and Terra token usage rising 5.6x while Sol, which remained at list price, only saw a bump of 1.1x. Most of the share gained by OpenAI's discounts came from other labs as opposed to cannibalization within the OpenAI family of models. Nearly a third of users who tried a discounted OpenAI model kept using it after the discounts expired."
+    },
+    {
+      "ref": 10,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "ACCELERATING MINIMAX-H3 (12 MINUTE READ)",
+      "url": "https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200?utm_source=tldrai",
+      "blurb": "A detailed benchmark of MiniMax-H3 video generation on 8\u00d7 H200 GPUs showed SGLang Diffusion reaching 1.95x lossless speedups and as much as 6.24x with step reuse and sparse attention."
+    },
+    {
+      "ref": 11,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "WILL THE AI BOOM CONTINUE? FORECASTING THE TRAJECTORY OF THE AI INDUSTRY (11 MINUTE READ)",
+      "url": "https://forecastingresearch.substack.com/p/will-the-ai-boom-continue-forecasting?utm_source=tldrai",
+      "blurb": "Anthropic and OpenAI show impressive revenue growth, with expectations for continued rapid expansion. Forecasts indicate moderated growth for semiconductor stocks but an uptick for software stocks, with AI's impact on the software sector remaining a key consideration."
+    },
+    {
+      "ref": 12,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "AI AND THE CITY (8 MINUTE READ)",
+      "url": "https://www.stripeeconomics.com/p/ai-and-the-city?utm_source=tldrai",
+      "blurb": "AI is driving more distributed business formation in the US, with a rise in new companies forming outside major cities and in outer suburbs. This trend began during COVID-19 with remote work and accelerated with AI, yet business formation does not correlate directly with work-from-home levels. AI labs and product companies still cluster in major metro areas like San Francisco, highlighting the continued value of agglomeration for innovation."
+    },
+    {
+      "ref": 15,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "PUTTING TASK EXPERTISE INTO RL ACHIEVES STATE-OF-THE-ART PERFORMANCE ON TEXT-TO-SQL (18 MINUTE READ)",
+      "url": "https://thinkingmachines.ai/news/putting-task-expertise-into-rl/?utm_source=tldrai",
+      "blurb": "Adding scaffolding around text-to-SQL models improves performance somewhat, but this is limited by the base models' capabilities. This suggests that the task knowledge contained in the scaffold belongs in the training signal instead. Expert judgment needs to be part of the training process. Putting task expertise into task-specific training is ultimately what scales."
+    },
+    {
+      "ref": 16,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "SUPPORT PERSISTENT REASONING EFFORT (2 MINUTE READ)",
+      "url": "https://github.com/openai/codex/pull/40799?utm_source=tldrai",
+      "blurb": "Codex has added 'persistent' to the reasoning-effort protocol and TypeScript SDK types. When a user targets a custom Responses-compatible provider whose model-defined effort is literally persistent, this now deserializes to the new Persistent variant and is unconditionally rewritten to disabled. Previously, it remained Custom(\"persistent\") and was forwarded unchanged. Existing configurations and resumed sessions can therefore send a different value and change behavior or be rejected, so this alias should be limited to providers that define the translation."
+    },
+    {
+      "ref": 17,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GEMINI OMNI 1.1 FLASH (4 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/?utm_source=tldrai",
+      "blurb": "Google introduced Gemini Omni 1.1 Flash with new controls for extending scenes, interpolating first and last frames, 4K upscaling, and faster video iteration through the Gemini API."
+    },
+    {
+      "ref": 18,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "FAST ON-DEVICE VOICE CLONING (9 MINUTE READ)",
+      "url": "https://research.haloneuro.ai/posts/sopro-v2?utm_source=tldrai",
+      "blurb": "Halo Neuro introduced Sopro V2 and open-sourced Sopro V2 Turbo, a 120M-parameter multilingual voice-cloning model that can stream on laptop CPUs and in browsers."
+    },
+    {
+      "ref": 19,
+      "section": "MISCELLANEOUS",
+      "heading": "NVIDIA CLIMBING THE WALL OF WORRIES (7 MINUTE READ)",
+      "url": "https://www.mbi-deepdives.com/nvdafy2q27/?utm_source=tldrai",
+      "blurb": "The average sell-side estimates for Nvidia's FY 2028 revenue a year ago were around $310 billion. Nvidia guided for around 70% revenue growth in FY 2028 yesterday, which translates to approaching around $700 billion in revenue next year. While analysts kept updating the estimates throughout last year, they were still short by around $125 billion. Nvidia's revenue growth of around 70% could be the floor for next year."
+    },
+    {
+      "ref": 20,
+      "section": "MISCELLANEOUS",
+      "heading": "AN UPDATE ON AI'S MOST IMPORTANT NUMBER (8 MINUTE READ)",
+      "url": "https://epochai.substack.com/p/an-update-on-ais-most-important-number?utm_source=tldrai",
+      "blurb": "OpenAI and Anthropic are seeing unprecedented growth, with revenues surpassing $100 billion combined, fueled by rapid adoption and technical advancements. This swift rise challenges expectations, as typical tech growth slows at such scales, potentially reshaping the economy if sustained."
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "TERMINAL-BENCH-SCIENCE 0.1 (13 MINUTE READ)",
+      "url": "https://www.terminal-bench-science.ai/announcement?utm_source=tldrai",
+      "blurb": "Terminal-Bench-Science evaluates AI agents on workflows from researchers' own work."
+    },
+    {
+      "ref": 23,
+      "section": "QUICK LINKS",
+      "heading": "BREAKING CLAUDE CODE OPUS 5 AUTO MODE (2 MINUTE READ)",
+      "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/?utm_source=tldrai",
+      "blurb": "Anthropic is putting a great deal of faith in Claude Code's auto mode for protecting its coding agent users against prompt injection attacks."
+    },
+    {
+      "ref": 24,
+      "section": "QUICK LINKS",
+      "heading": "PILOTING THE WORLD'S FIRST DOUBLE-BLIND AI EVALUATIONS (2 MINUTE READ)",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/?utm_source=tldrai",
+      "blurb": "DeepMind introduced the world's first double-blind evaluation for AI models, using cryptographic environments to prevent benchmark contamination."
+    },
+    {
+      "ref": 25,
+      "section": "QUICK LINKS",
+      "heading": "ANTHROPIC (RE-)ENLISTS FOR WAR (5 MINUTE READ)",
+      "url": "https://prospect.org/2026/08/27/anthropic-reenlists-for-war-defense-department-ai/?utm_source=tldrai",
+      "blurb": "Anthropic seeks a new Head of National Security Sales to revive its defense contracts, following previous blacklisting by the Department of Defense over technology use concerns."
+    },
+    {
+      "ref": 26,
+      "section": "QUICK LINKS",
+      "heading": "AI STARTUP DEEPSEEK POISED TO REACH $74 BILLION VALUATION (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/m6gnQB",
+      "blurb": "DeepSeek is seeking to raise $7.4 billion to bankroll research and development and the buildout of computing infrastructure."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "ONE API FOR EVERY MODEL (SPONSOR)",
+      "url": "https://openrouter.ai/?utm_source=sponsorship&utm_medium=newsletter&utm_campaign=tldr_august28&utm_content=header_one_api_every",
+      "blurb": "Access 500+ MODELS FROM 80+ PROVIDERS, with 200T+ TOKENS ROUTED MONTHLY through OPENROUTER [5].",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "WHAT SETS AI SUCCESSES APART FROM THE FAILURES? (SPONSOR)",
+      "url": "https://www.gartner.com/en/articles/strategic-predictions-for-2026?utm_source=tldr&utm_medium=display&utm_campaign=GTR_GB_2026_GTR_PD_DS4_AITLDRNL&utm_term=hubpage",
+      "blurb": "Gartner has the data [13]. Every year, they interact with 10K+ CIOs and their teams, 80K+ business executives, and 5K+ technology providers. Their AI Hub already has over 4,000 use cases and case studies. You don't have to guess your way to AI success. Explore the AI Hub. [14]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "\u26a1 MOST AI PILOTS FAIL IN PRODUCTION \u2014 WHAT DO THE ONES THAT SUCCEED DO DIFFERENTLY? (SPONSOR)",
+      "url": "https://scribe.com/optimize?utm_source=sponsored&utm_medium=organic&utm_term=newsletter_ent&utm_campaign=tldrai&utm_content=ql_8_28_2026",
+      "blurb": "They map how work happens before automating it \u2014 no surveys, no guesswork. Map with Scribe [21]",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

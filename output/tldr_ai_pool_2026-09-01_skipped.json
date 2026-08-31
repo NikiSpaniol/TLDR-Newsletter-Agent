@@ -1,0 +1,32 @@
+[
+  {
+    "ref": 18,
+    "section": "QUICK LINKS",
+    "heading": "AI STARTUP DEEPSEEK POISED TO REACH $74 BILLION VALUATION (3 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/m6gnQB",
+    "blurb": "DeepSeek is seeking to raise $7.4 billion to bankroll research and development and the buildout of computing infrastructure.",
+    "source_email": "tldr_ai_2026-08-28_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 22,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "ADAPTIVE AGENTIC WORMS (8 MINUTE READ)",
+    "url": "https://www.lesswrong.com/posts/fpLDjKg3ej49beqTC/adaptive-agentic-worms-are-here?utm_source=tldrai",
+    "blurb": "Researchers have demonstrated that adaptive computer worms powered by open-weight LLMs can generate target-specific attacks and replicate using compromised machines. Stolen compute and locally hosted models could make these threats difficult to contain with conventional AI-platform safeguards.",
+    "source_email": "tldr_ai_2026-08-31_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 30,
+    "section": "MISCELLANEOUS",
+    "heading": "AI COMPUTE COULD FACE A 15GW POWER SHORTFALL IN 2027 (7 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/B8g25w",
+    "blurb": "AI compute production may outpace energizable data-center capacity in 2027, leaving roughly 15GW of IT load delayed, especially in North America. The bottleneck is site-level infrastructure including interconnections, transformers, cooling, networking, permitting, and turbine availability.",
+    "source_email": "tldr_ai_2026-08-31_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  }
+]
