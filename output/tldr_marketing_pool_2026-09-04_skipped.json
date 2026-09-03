@@ -1,0 +1,22 @@
+[
+  {
+    "ref": 1,
+    "section": null,
+    "heading": "INSTAGRAM PUTS NEW LIMITS ON UNDISCLOSED AI PROFILES (2 MINUTE READ)",
+    "url": "https://creators.instagram.com/blog/ai-generated-profile-label?utm_source=tldrmarketing",
+    "blurb": "Instagram is renaming its \u201cAI creator\u201d label to \u201cAI-generated profile\u201d to make it clearer when an account features a fully AI-generated person. It will also limit recommendations for unlabeled AI profiles, while creators who proactively disclose their AI identity won't see a reach penalty. The change targets transparency around AI personas, not creators who use AI tools in their content workflow.",
+    "source_email": "tldr_marketing_2026-09-01_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 9,
+    "section": "QUICK LINKS",
+    "heading": "META IS PUTTING HARD LIMITS ON FACEBOOK AND INSTAGRAM AFTER $17 BILLION SETTLEMENT (3 MINUTE READ)",
+    "url": "https://www.digitaltrends.com/social-media/meta-is-putting-hard-limits-on-facebook-and-instagram-after-17-billion-settlement/?utm_source=tldrmarketing",
+    "blurb": "Instagram and Facebook will default minors to 2 hours of daily use, with overnight access blocked and school-hour notifications muted.",
+    "source_email": "tldr_marketing_2026-09-01_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: The read operation timed out"
+  }
+]

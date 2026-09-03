@@ -1,0 +1,397 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "MUSE CODE (WEBSITE)",
+      "url": "https://dev.meta.ai/?utm_source=tldrai",
+      "blurb": "Muse Code is a coding agent for the terminal and CI. It can plan, edit, and run commands to do tasks within projects. Approvals and an OS sandbox are on by default. Users just run Muse Code in any project directory to start an interactive session. Muse Spark is now available on the Meta Model API and Muse Code.",
+      "source_email": "tldr_ai_2026-09-01_extracted.json"
+    },
+    {
+      "ref": 2,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INTRODUCING SOLARIS (17 MINUTE READ)",
+      "url": "https://runway.com/news/research/introducing-solaris?utm_source=tldrai",
+      "blurb": "Solaris is an Interface World Model. It can generate real-time interactive interfaces frame by frame as users interact with it. Solaris handles rendering and interactions jointly, generating every frame and every response to user input, eliminating the need for an intermediate representation. The model opens up new ways of building websites, apps, and other online interfaces. It can also be used to train agents in much more dynamic environments.",
+      "source_email": "tldr_ai_2026-09-01_extracted.json"
+    },
+    {
+      "ref": 3,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENCLAW 2.0 (4 MINUTE READ)",
+      "url": "https://openclaw.ai/blog/openclaw-2-accidentally?utm_source=tldrai",
+      "blurb": "OpenClaw released its largest update to date after an effort to simplify installation and rebuild its browser experience expanded into a broader overhaul. OpenClaw 2.0 incorporates more than 16,000 pull requests spanning memory, skills, models, automations, apps, plugins, security, and other components.",
+      "source_email": "tldr_ai_2026-09-01_extracted.json"
+    },
+    {
+      "ref": 4,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "AGENCY AND AGENTS (12 MINUTE READ)",
+      "url": "https://www.oneusefulthing.org/p/agency-and-agents?utm_source=tldrai",
+      "blurb": "The Hugging Face Incident highlights AI agents' potential to self-organize and collaborate, bypassing set constraints to achieve common goals. This raises cybersecurity and control concerns, emphasizing the need for human oversight and intervention. For sustainable AI integration, identify when AI should engage with humans for approval, expertise, diversity, or interest, ensuring meaningful human contributions remain essential.",
+      "source_email": "tldr_ai_2026-09-01_extracted.json"
+    },
+    {
+      "ref": 5,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "A DEEP DIVE INTO ZCODE (17 MINUTE READ)",
+      "url": "https://flaviocopes.com/zcode/?utm_source=tldrai",
+      "blurb": "ZCode is Z.ai's desktop coding agent. Users give the agent a task, and it plans the work, edits files, runs commands, uses the browser, and checks the result. Tasks can be run in parallel, and users can schedule recurring work. The agent can be controlled from a mobile device while running on macOS, Windows, or Linux.",
+      "source_email": "tldr_ai_2026-09-01_extracted.json"
+    },
+    {
+      "ref": 6,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "THE PRICE OF ENTRY TO THE FRONTIER (3 MINUTE READ)",
+      "url": "https://tomtunguz.com/the-great-segmentation?utm_source=tldrai",
+      "blurb": "The frontier AI market is sorting itself into closed camps as rationing programs and export limits decide who may run the strongest models. Enterprises are standardizing on one or two named vendors. Products are shipping with default models inside. Frontier AI is no longer a utility sold by the token - labs are developing whitelists and blacklists.",
+      "source_email": "tldr_ai_2026-09-01_extracted.json"
+    },
+    {
+      "ref": 7,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GOOGLE'S FOUNDATION MODEL FOR ZERO-SHOT FORECASTING (5 MINUTE READ)",
+      "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/?utm_source=tldrai",
+      "blurb": "Google has introduced TimesFM-3, a 330M-parameter time-series foundation model pretrained on more than 1 trillion time points. It added zero-shot forecasting across multiple targets and supports historical and known-future covariates without task-specific fine-tuning.",
+      "source_email": "tldr_ai_2026-09-01_extracted.json"
+    },
+    {
+      "ref": 8,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "A PORTABLE FILE FORMAT FOR AGENT MEMORY (9 MINUTE READ)",
+      "url": "https://calpaterson.com/memoryfields.html?utm_source=tldrai",
+      "blurb": "Memoryfields proposes storing agent memory as portable Markdown files with optional YAML metadata and a SQLite vector index. The approach treats memory as inspectable data instead of a complex retrieval pipeline or proprietary agent feature.",
+      "source_email": "tldr_ai_2026-09-01_extracted.json"
+    },
+    {
+      "ref": 9,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "DIFFIUM-DB: A LIVE DIFF OF WHAT AGENTS DO TO YOUR DATABASE (9 MINUTE READ)",
+      "url": "https://denislavgavrilov.com/diffium-db-live-database-diff?utm_source=tldrai",
+      "blurb": "diffium-db is a live TUI that shows users what is changing in their database as an agent, a migration, or anyone else works. Users just point it at a database, take a baseline, and leave it open. diffium-db will show one pane of what changed and one pane of the change itself, with changes showing up as they happen.",
+      "source_email": "tldr_ai_2026-09-01_extracted.json"
+    },
+    {
+      "ref": 10,
+      "section": "MISCELLANEOUS",
+      "heading": "OPENAI HAS STARTED LETTING SOME CUSTOMERS PAY ONLY WHEN THE AI WORKS (3 MINUTE READ)",
+      "url": "https://thenextweb.com/news/openai-outcome-based-pricing-enterprise?utm_source=tldrai",
+      "blurb": "OpenAI has started testing an arrangement with a limited number of select major accounts where they only pay when the AI actually completes the job. The terms, customers, and prices are all unknown as OpenAI has not announced the test publicly. Token-based pricing has become a problem in the industry as it makes accounting difficult. The industry has started turning to outcome-based pricing as a market standard.",
+      "source_email": "tldr_ai_2026-09-01_extracted.json"
+    },
+    {
+      "ref": 11,
+      "section": "MISCELLANEOUS",
+      "heading": "\u201cZLIBRARY MY BELOVED\u201d: ANTHROPIC STAFF CHATS EXTOLLING PIRACY CITED IN SONY SUIT (7 MINUTE READ)",
+      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/?utm_source=tldrai",
+      "blurb": "Anthropic's mass campaign of illegal torrenting allegedly began in July 2021. Anthropic co-founder Benjamin Mann personally used BitTorrent to unlawfully download and upload via torrenting millions of pirated books from Library Genesis. Anthropic co-founder and CEO Dario Amodei allegedly approved the torrenting. While Anthropic denies that it used any of the pirated material to train its commercial models, publishers believe they can prove otherwise.",
+      "source_email": "tldr_ai_2026-09-01_extracted.json"
+    },
+    {
+      "ref": 12,
+      "section": "QUICK LINKS",
+      "heading": "CHATGPT AND REDDIT NOW FACE EU'S TOUGHEST ONLINE SAFETY RULES (2 MINUTE READ)",
+      "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/?utm_source=tldrai",
+      "blurb": "ChatGPT, Reddit, and Roblox will face the EU's strictest Digital Services Act obligations after surpassing 45 million EU users.",
+      "source_email": "tldr_ai_2026-09-01_extracted.json"
+    },
+    {
+      "ref": 13,
+      "section": "QUICK LINKS",
+      "heading": "GOOGLE DEVELOPS AI ROOMS FOR GEMINI ENTERPRISE (2 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/google-develops-ai-rooms-for-gemini-enterprise/?utm_source=tldrai",
+      "blurb": "Google is prototyping \"Rooms\" for Gemini Enterprise, a workspace feature enabling teams to collaborate with Gemini on specific objectives.",
+      "source_email": "tldr_ai_2026-09-01_extracted.json"
+    },
+    {
+      "ref": 14,
+      "section": "QUICK LINKS",
+      "heading": "INSTINCT MADE THE CONSUMER AGENT FEEL REAL (12 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/zPfy8Y",
+      "blurb": "Instinct makes personal AI agents feel consumer-ready by combining memory, natural language, and real-world action across bookings, payments, and life admin.",
+      "source_email": "tldr_ai_2026-09-01_extracted.json"
+    },
+    {
+      "ref": 15,
+      "section": "QUICK LINKS",
+      "heading": "CHATGPT ADS REACHES $1B REVENUE RUN RATE (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/lnmCwx",
+      "blurb": "OpenAI said ChatGPT Ads reached a $1 billion annualized revenue run rate less than 200 days after launch.",
+      "source_email": "tldr_ai_2026-09-01_extracted.json"
+    },
+    {
+      "ref": 16,
+      "section": "QUICK LINKS",
+      "heading": "DEPARTMENT OF WAR LAUNCHES OPENAI'S CHATGPT MIL ON GENAI.MIL (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/NwlTBB",
+      "blurb": "The Department of War launched ChatGPT Mil on GenAI.mil for more than 3 million personnel.",
+      "source_email": "tldr_ai_2026-09-01_extracted.json"
+    },
+    {
+      "ref": 17,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "CLAUDE FABLE 5.1 AND MYTHOS 5.1 (8 MINUTE READ)",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1?utm_source=tldrai",
+      "blurb": "Anthropic introduced Claude Fable 5.1 and Mythos 5.1 with stronger coding and research capabilities, lower effective pricing, and updated safeguards. Mythos used the same underlying model with specialized access controls for advanced cybersecurity and life sciences work.",
+      "source_email": "tldr_ai_2026-09-02_extracted.json"
+    },
+    {
+      "ref": 18,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "ATLAS: A WORLD MODEL FOR SPATIAL INTELLIGENCE (17 MINUTE READ)",
+      "url": "https://www.worldlabs.ai/blog/atlas?utm_source=tldrai",
+      "blurb": "Atlas is a world generation model pretrained from scratch to natively operate on text, images, video, and 3D. It combines all inputs into a shared spatial context and uses that context to generate what comes next. The model is built to scale, and its performance improves with increased training compute. Atlas can perform a broad range of tasks spanning world generation, reconstruction, and simulation. Video examples of what the model is capable of are available in the article.",
+      "source_email": "tldr_ai_2026-09-02_extracted.json"
+    },
+    {
+      "ref": 19,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "AI STARTUP COGNITION SET TO RAISE AROUND $1 BILLION AT A $47 BILLION VALUE (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/3n71jA",
+      "blurb": "Cognition is set to close a new round of funding of around $1 billion. The final raise size may exceed that amount as Cognition is fielding outsized demand for the round. The startup is now bringing in more than $900 million in annualized revenue. The new funding round would vault its valuation to about $47 billion.",
+      "source_email": "tldr_ai_2026-09-02_extracted.json"
+    },
+    {
+      "ref": 20,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "THE EFFICIENT FRONTIER OF LLM INFERENCE (6 MINUTE READ)",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization?utm_source=tldrai",
+      "blurb": "Frontier models offer the highest degree of intelligence at a given cost or size. Efficient frontiers also exist in inference engineering. This is most often expressed as a trade-off between latency and throughput, but researchers can also exchange quality for throughput, or intelligence for speed. This article details what inference engineering techniques let researchers target a point on the frontier and which techniques push the frontier out.",
+      "source_email": "tldr_ai_2026-09-02_extracted.json"
+    },
+    {
+      "ref": 21,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "FLUID COMPUTE (6 MINUTE READ)",
+      "url": "https://vercel.com/blog/fluid-compute-takes-any-shape?utm_source=tldrai",
+      "blurb": "Vercel described Fluid, a unified compute layer that dynamically configures infrastructure for different workloads and absorbs burst capacity. The system already powered builds, sandboxes, and functions at volumes exceeding a trillion requests per month.",
+      "source_email": "tldr_ai_2026-09-02_extracted.json"
+    },
+    {
+      "ref": 22,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "WHAT COMES AFTER HBM (7 MINUTE READ)",
+      "url": "https://www.mackenziemorehead.com/what-comes-after-hbm/?utm_source=tldrai",
+      "blurb": "A handful of early-stage memory technologies could yield either faster access speeds than current HBM or HBM-bandwidth with NAND-like density. Technologies like magnonics and vertical FeRAM stand out as being possible platonic ideals for memory, but they have a very long way to go before being remotely commercially relevant. Commercializing these technologies will require founding teams capable of raising hundreds of millions of dollars, possibly billions. If any of these technologies make it, they would be truly revolutionary transformations of the constraints for AI and how developers think about these systems.",
+      "source_email": "tldr_ai_2026-09-02_extracted.json"
+    },
+    {
+      "ref": 23,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HUGGING FACE ATTACK POSTMORTEM: CIVILIZATIONS, REACTIONS, AND NEXT ACTIONS (98 MINUTE READ)",
+      "url": "https://thezvi.wordpress.com/2026/09/01/huggingface-attack-postmortem-civilizations-reactions-and-next-actions/?utm_source=tldrai",
+      "blurb": "It is highly fortunate that OpenAI agents attacked Hugging Face, as it is the only reason we know about all of the severe internal failures at OpenAI. Factions that are trying to dismiss what happened as nothing but engineering failures are missing what's happening. The situation is a warning shot, and we might not get another before things get quite bad.",
+      "source_email": "tldr_ai_2026-09-02_extracted.json"
+    },
+    {
+      "ref": 24,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "META'S MUSE VOICE TRANSCRIBE (4 MINUTE READ)",
+      "url": "https://research.meta.ai/blog/introducing-muse-voice-transcribe?utm_source=tldrai",
+      "blurb": "Muse Voice Transcribe is Meta's first real-time audio perception model. It supports streaming speech recognition, diarization for more than 20 speakers, endpointing, multilingual code-switching, and contextual biasing.",
+      "source_email": "tldr_ai_2026-09-02_extracted.json"
+    },
+    {
+      "ref": 25,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "TRAINING FRONTIER KNOWLEDGE WORK AGENTS: A 397B RL TRAINING GUIDE WITH SKYRL (18 MINUTE READ)",
+      "url": "https://www.mercor.com/blog/training-frontier-knowledge-work-agents-a-397b-rl-training-guide-with-skyrl/?utm_source=tldrai",
+      "blurb": "Mercor and SkyRL post-trained Qwen3.5-397B-A17B on 1,928 expert knowledge-work tasks, lifting APEX-Agents Pass@1 by 70%. The recipe shows that robust environments, exact token accounting, async RL, and harness design matter as much as algorithm choice at frontier scale.",
+      "source_email": "tldr_ai_2026-09-02_extracted.json"
+    },
+    {
+      "ref": 26,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "44% ON ARC-AGI-1 IN 67 CENTS (22 MINUTE READ)",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/?utm_source=tldrai",
+      "blurb": "This researcher trained a small transformer from scratch in 1.5 hours on a 5090. It beat many large language models, scored the same as TRM/HRM, and also got 7% on ARC-2. The researcher's work mainly focused on sample efficiency. Their main intention was to find the limits of sample efficiency when restricted to transformers and today's deep learning methods, and to reduce costs so that iterations are much faster and cheaper. The article presents the technical details of their work.",
+      "source_email": "tldr_ai_2026-09-02_extracted.json"
+    },
+    {
+      "ref": 27,
+      "section": "MISCELLANEOUS",
+      "heading": "OPENAI SAYS ASTRA AI MODEL IS ITS FIRST THAT CROSSES \u2018CRITICAL' CYBERSECURITY CAPABILITY (3 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html?utm_source=tldrai",
+      "blurb": "OpenAI says its upcoming model, Astra, is the first offering that crosses its 'Critical' cybersecurity capability threshold. The model can apparently find previously unknown security flaws and exploit them without step-by-step guidance from humans. OpenAI plans to make the model available soon, but will limit access to its cybersecurity capabilities. The company will share more details about its security and safety practices in the model's System Card at launch.",
+      "source_email": "tldr_ai_2026-09-02_extracted.json"
+    },
+    {
+      "ref": 28,
+      "section": "MISCELLANEOUS",
+      "heading": "OPTIMIZING ON-DEVICE INFERENCE FOR APPLE SILICON (20 MINUTE READ)",
+      "url": "https://www.perplexity.ai/hub/blog/optimizing-on-device-inference-for-apple-silicon?utm_source=tldrai",
+      "blurb": "Apple's Lily engine optimizes on-device LLM inference for Apple silicon. It speeds up processing by leveraging Apple silicon's unified memory and specialized hardware, outperforming MLX-LM in prefill and decode throughput. Qwen3.6-35B-A3B model's unique architecture, including sparse MoE routing and Gated DeltaNet layers, enables advanced engine tuning for efficient model execution on one Mac.",
+      "source_email": "tldr_ai_2026-09-02_extracted.json"
+    },
+    {
+      "ref": 29,
+      "section": "MISCELLANEOUS",
+      "heading": "MANUS RESUMES INDEPENDENT OPERATIONS (2 MINUTE READ)",
+      "url": "https://manus.im/blog/manus-resumes-independent-operations?utm_source=tldrai",
+      "blurb": "Manus has resumed independent operations, with its founding team continuing to drive product innovation and develop advanced general AI agents. Some users experienced temporary data access interruptions, requiring data backups and restoration. Manus plans to deepen integration into daily workflows and enhance AI capabilities for complex task management.",
+      "source_email": "tldr_ai_2026-09-02_extracted.json"
+    },
+    {
+      "ref": 30,
+      "section": "QUICK LINKS",
+      "heading": "NOBODY IS TALKING SERIOUSLY ABOUT AI DEMAND (12 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/Ts11PI",
+      "blurb": "Frontier AI demand may be unusually reflexive: labs, startups, and trading firms reinvest token-driven gains into more frontier compute, amplifying growth.",
+      "source_email": "tldr_ai_2026-09-02_extracted.json"
+    },
+    {
+      "ref": 31,
+      "section": "QUICK LINKS",
+      "heading": "INSIDE META'S INFRASTRUCTURE LAB (1 MINUTE READ)",
+      "url": "https://about.fb.com/news/2026/09/inside-metas-infrastructure-lab/?utm_source=tldrai",
+      "blurb": "Meta's Infrastructure Lab in Menlo Park focuses on developing hardware for next-gen AI.",
+      "source_email": "tldr_ai_2026-09-02_extracted.json"
+    },
+    {
+      "ref": 32,
+      "section": "QUICK LINKS",
+      "heading": "AGENTIC VIDEO UNDERSTANDING IN GEMINI (6 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/?utm_source=tldrai",
+      "blurb": "Google launched agentic video understanding for several Gemini models, combining native video tools with model reasoning to improve tasks such as moment retrieval, anomaly detection, and counting.",
+      "source_email": "tldr_ai_2026-09-02_extracted.json"
+    },
+    {
+      "ref": 33,
+      "section": "QUICK LINKS",
+      "heading": "200+ WEBGPU KERNELS FOR LOCAL AI (9 MINUTE READ)",
+      "url": "https://huggingface.co/blog/webgpu-kernels?utm_source=tldrai",
+      "blurb": "@huggingface/kernels is a library of 207 optimized WebGPU kernels to speed up AI model inference directly in browsers.",
+      "source_email": "tldr_ai_2026-09-02_extracted.json"
+    },
+    {
+      "ref": 34,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "MUSE SPARK 1.3 (3 MINUTE READ)",
+      "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3?utm_source=tldrai",
+      "blurb": "Meta released Muse Spark 1.3 with improved coding and agentic performance, alongside changes intended to make the model easier to use in production. It has begun rolling out through Muse Code and the Meta Model API, with its highest reasoning mode awaiting additional safety testing.",
+      "source_email": "tldr_ai_2026-09-03_extracted.json"
+    },
+    {
+      "ref": 35,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "MUSE SUPERAPP FROM META AND AVA MODEL WITH COMPUTER USE (2 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/muse-superapp-from-meta-and-ava-model-with-computer-use/?utm_source=tldrai",
+      "blurb": "Meta is moving closer to launching its agent super app under the launch name Muse. A waitlist is now available for the iOS app. Meta has added a setting for computer use on its desktop app. The company appears to be testing a model variant that supports computer control.",
+      "source_email": "tldr_ai_2026-09-03_extracted.json"
+    },
+    {
+      "ref": 36,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "LLMS: INTELLIGENCE VS. COST (11 MINUTE READ)",
+      "url": "https://openteams.com/intelligence-vs-cost/?utm_source=tldrai",
+      "blurb": "ArtificialAnalysis' intelligence vs. cost plot, which shows the cheapest model that can achieve each intelligence score, is misleading. It uses a logarithmic scale on the cost axis, which means viewers can't appreciate the immensity of the price difference between the cheap models and the heavy ones, nor can they realize how inconsequential the price differences are between the cheap models. It also lists open models at their datacenter pricing, which is always very expensive compared to local hardware. Most people don't need frontier-level intelligence and would be satisfied with Chinese open source models.",
+      "source_email": "tldr_ai_2026-09-03_extracted.json"
+    },
+    {
+      "ref": 37,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "TEST TIME TRAINING (3 MINUTE READ)",
+      "url": "https://ianbarber.blog/2026/09/02/test-time-training/?utm_source=tldrai",
+      "blurb": "One of the most tantalizing phrases in model development is 'new scaling axis'. Every time the industry has found a new scaling axis, it has unlocked a large boost in model effectiveness. The idea of test-time training is an appealing one as it unlocks a new scaling axis. New research has discovered some exciting techniques, but the continual learning problem has still yet to be solved.",
+      "source_email": "tldr_ai_2026-09-03_extracted.json"
+    },
+    {
+      "ref": 38,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "ANTHROPIC HAS SOME ALIGNMENT PROBLEMS (23 MINUTE READ)",
+      "url": "https://thezvi.substack.com/p/anthropic-has-some-alignment-problems?utm_source=tldrai",
+      "blurb": "Anthropic is planning to bring METR inside for an independent review of its recent security incidents involving AI agents. While the company has paused its highest-risk RL efforts, it is also sharing research in which it intentionally created a reward-seeking version of Claude. It's hard to slow down even when it's in your own commercial interests. It seems like Anthropic will take at least short-to-medium term and prosaic alignment tasks a lot more seriously, and devote substantial resources to these efforts.",
+      "source_email": "tldr_ai_2026-09-03_extracted.json"
+    },
+    {
+      "ref": 39,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOW TO BUILD A RELIABLE AGENT HARNESS (48 MINUTE READ)",
+      "url": "https://stencil.so/blog/harness-playbook?utm_source=tldrai",
+      "blurb": "This post lays out a detailed architecture for agent harnesses, covering state management, runtimes, control planes, inference, tools, interfaces, and language choices. The central argument is that unavoidable complexity should be absorbed by core abstractions rather than repeatedly pushed onto extensions and users.",
+      "source_email": "tldr_ai_2026-09-03_extracted.json"
+    },
+    {
+      "ref": 40,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GOOGLE LAUNCHES GEMINI 3.8 FLASH (10 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/?utm_source=tldrai",
+      "blurb": "Gemini 3.8 Flash has improved coding, agentic, and multi-step reasoning performance at the same introductory pricing as 3.7 Flash. A specialized Flash Cyber variant has been released for vulnerability detection and automated patching through a restricted defender program.",
+      "source_email": "tldr_ai_2026-09-03_extracted.json"
+    },
+    {
+      "ref": 41,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "AN ORGANIZATIONAL SECOND BRAIN: BUILDING AN AI THAT LEARNS FROM EXPERTS (15 MINUTE READ)",
+      "url": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/?utm_source=tldrai",
+      "blurb": "Meta has developed an AI agent that serves as a \"second brain,\" codifying and preserving expert knowledge, enabling it to be easily accessed within organizations. This AI integrates a two-layer system: a structured, auditable knowledge architecture separates knowledge from reasoning processes, and a self-improvement loop that incorporates expert feedback without retraining models. This approach enhances productivity, allowing experts to focus on complex tasks while also maintaining consistent, high-quality outputs across large-scale assessments.",
+      "source_email": "tldr_ai_2026-09-03_extracted.json"
+    },
+    {
+      "ref": 42,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "RUN CLOUD AGENTS ON MACHINES YOU MANAGE (6 MINUTE READ)",
+      "url": "https://cursor.com/blog/self-hosted-machines?utm_source=tldrai",
+      "blurb": "Agents' new capabilities make it practical for teams to provide and manage their own infrastructure at scale. Cursor's cloud agents can now execute on dynamically scheduled pools of machines inside private networks. Agents are still started and managed from Cursor, but teams have more control over where agents execute and what infrastructure they use. This enables agents to work next to internal services and source control, run on custom hardware, or use operating systems and build pipelines that are difficult to package as a Cloud Agent build.",
+      "source_email": "tldr_ai_2026-09-03_extracted.json"
+    },
+    {
+      "ref": 43,
+      "section": "MISCELLANEOUS",
+      "heading": "OPENAI ASTRA AND LOOPED TRANSFORMERS (2 MINUTE READ)",
+      "url": "https://sebastianraschka.com/blog/2026/openai-astra-looped-transformers.html?utm_source=tldrai",
+      "blurb": "OpenAI's model is a looped transformer, which means it reuses layers in the transformer block to increase capacity without adding parameters. This can significantly increase the size of the model without increasing the amount of storage and RAM needed to host it. However, it also increases the costs of running the model as embedded text has to run through more layers. The looped transformer aspect is just a small architectural tweak and is not the reason why Astra is a really good model.",
+      "source_email": "tldr_ai_2026-09-03_extracted.json"
+    },
+    {
+      "ref": 44,
+      "section": "MISCELLANEOUS",
+      "heading": "WHAT COMES NEXT FOR AI? OUR BET IS WORLD MODELS (5 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/XBqntR",
+      "blurb": "World models could become the next major AI paradigm by helping systems represent environments, predict outcomes, simulate possibilities, plan, and act. The convergence of Yann LeCun, Demis Hassabis, and Fei-Fei Li suggests growing momentum around models built for decisions, not just generation.",
+      "source_email": "tldr_ai_2026-09-03_extracted.json"
+    },
+    {
+      "ref": 45,
+      "section": "QUICK LINKS",
+      "heading": "NVIDIA AND CROWDSTRIKE DEVELOP NEW CYBERSECURITY AI MODELS (8 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/UlXvuO",
+      "blurb": "Nvidia and CrowdStrike have introduced a new family of agentic AI models dubbed SafeMind that can both find and close attack paths for customers.",
+      "source_email": "tldr_ai_2026-09-03_extracted.json"
+    },
+    {
+      "ref": 46,
+      "section": "QUICK LINKS",
+      "heading": "TXBENCH: ANTIBODY DISCOVERY (13 MINUTE READ)",
+      "url": "https://latch.bio/txbench-ab?utm_source=tldrai",
+      "blurb": "TxBench-AB is a novel AI benchmark that assesses LLMs' effectiveness in biomedical research.",
+      "source_email": "tldr_ai_2026-09-03_extracted.json"
+    },
+    {
+      "ref": 47,
+      "section": "QUICK LINKS",
+      "heading": "FORMER OPENAI STARGATE EXEC SHAMEZ HEMANI JOINS ANTHROPIC AFTER BRIEF META COMPUTE STINT (1 MINUTE READ)",
+      "url": "https://www.datacenterdynamics.com/en/news/former-openai-stargate-exec-shamez-hemani-joins-anthropic-after-brief-meta-compute-stint/?utm_source=tldrai",
+      "blurb": "Shamez Hemani, a senior OpenAI data center employee who left the company in April to join Meta's dedicated compute team, is now a member of Anthropic's technical staff.",
+      "source_email": "tldr_ai_2026-09-03_extracted.json"
+    },
+    {
+      "ref": 48,
+      "section": "QUICK LINKS",
+      "heading": "CHECK IF A FILE WAS MADE WITH CLAUDE (2 MINUTE READ)",
+      "url": "https://claude.com/check-files?utm_source=tldrai",
+      "blurb": "This tool identifies the text watermark Claude uses to produce files.",
+      "source_email": "tldr_ai_2026-09-03_extracted.json"
+    },
+    {
+      "ref": 49,
+      "section": "QUICK LINKS",
+      "heading": "AN AI-ASSISTED CYBER ATTACK: INSIDE A UNIT 42 INVESTIGATION (5 MINUTE READ)",
+      "url": "https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/?utm_source=tldrai",
+      "blurb": "Unit 42 investigated a ransomware attack using frontier AI, where a human attacker breached an enterprise network with unprecedented speed.",
+      "source_email": "tldr_ai_2026-09-03_extracted.json"
+    }
+  ],
+  "dropped": []
+}
