@@ -1,0 +1,42 @@
+[
+  {
+    "ref": 5,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "FROM SAFETY RESEARCH PROMPT TO CROSS-MODEL UNIVERSAL JAILBREAK (12 MINUTE READ)",
+    "url": "https://www.lesswrong.com/posts/hHk5CpiqZTBBiHmYt/from-safety-research-prompt-to-cross-model-universal?utm_source=tldrai",
+    "blurb": "A MATS researcher found that a synthetic transcript generation prompt could be turned into a universal jailbreak template that hit 84-100% attack success on the nine most vulnerable of 23 models tested, with only recent Anthropic models and Meta Muse Spark 1.1 never fully broken.",
+    "source_email": "tldr_ai_2026-09-04_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 12,
+    "section": "MISCELLANEOUS",
+    "heading": "THE INCUMBENTS ARE COMING (10 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/fxRfb4",
+    "blurb": "Incumbent systems of record gain value as agents act through their data and workflows, but vertical AI can still win by owning the broader job. Durable advantage comes from cross-system context, expert feedback, evals, and learning loops.",
+    "source_email": "tldr_ai_2026-09-04_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 17,
+    "section": "QUICK LINKS",
+    "heading": "WTF IS DIME, THE MYSTERY OPENAI HEADSET (9 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/P5mu0B",
+    "blurb": "Dime, a mysterious silver headset tied through leaks, sightings, ads, and codenames to OpenAI, remains officially denied by the company.",
+    "source_email": "tldr_ai_2026-09-04_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 19,
+    "section": null,
+    "heading": "TOGETHER WITH [Ramp]",
+    "url": "https://virtual.ramp.com/ai-predictions-2026/?utm_source=tldr&utm_medium=Newsletter&utm_campaign=webinar-q3-ai-predictions-q3fy26&utm_content=ara_header_ai_workforce_nobody",
+    "blurb": "TLDR AI 2026-09-07",
+    "source_email": "tldr_ai_2026-09-07_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 503: Service Unavailable"
+  }
+]

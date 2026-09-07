@@ -1,0 +1,164 @@
+{
+  "kept": [
+    {
+      "ref": 5,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GPT-6 ASTRA (10 MINUTE READ)",
+      "url": "https://deploymentsafety.openai.com/gpt-6-astra?utm_source=tldrai",
+      "blurb": "OpenAI GPT-6 Astra is the company's most capable broadly deployed model and the first to reach the Critical cybersecurity level under its Preparedness Framework. The system card said Astra is more robust to jailbreaks and prompt injections than GPT-5.6 Sol, but noted it is also better at controlling its own chain of thought and could evade monitors under adversarial conditions."
+    },
+    {
+      "ref": 6,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GROK BOT FOR ENTERPRISE (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/JUpB1c",
+      "blurb": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks. Users can invite their whole organization, including people without an existing seat. Each user's work in Grok Bot runs in its own secure and isolated environment, separate from every other user. A Bot has no access by default and reaches only the accounts you sign it into."
+    },
+    {
+      "ref": 7,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "NVIDIA CONFIRMS HUGGING FACE ACQUISITION FOR $12.93 BILLION (3 MINUTE READ)",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/?utm_source=tldrai",
+      "blurb": "Nvidia confirmed it has acquired Hugging Face, which hosts three million models and serves over 18 million developers, for $12.93 billion. Jensen Huang said the platform will stay open and Nvidia compute will not be required to build or deploy on it."
+    },
+    {
+      "ref": 8,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "MICROSOFT RELEASES MAI-TRANSCRIBE-2 (4 MINUTE READ)",
+      "url": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/?utm_source=tldrai",
+      "blurb": "Microsoft released MAI-Transcribe-2, a speech recognition model with diarization, configurable transcription styles, and word-level timestamps that it says beats Gemini 3.5 Transcribe, GPT-Transcribe, and Whisper V3-Large."
+    },
+    {
+      "ref": 9,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "FROM SAFETY RESEARCH PROMPT TO CROSS-MODEL UNIVERSAL JAILBREAK (12 MINUTE READ)",
+      "url": "https://www.lesswrong.com/posts/hHk5CpiqZTBBiHmYt/from-safety-research-prompt-to-cross-model-universal?utm_source=tldrai",
+      "blurb": "A MATS researcher found that a synthetic transcript generation prompt could be turned into a universal jailbreak template that hit 84-100% attack success on the nine most vulnerable of 23 models tested, with only recent Anthropic models and Meta Muse Spark 1.1 never fully broken."
+    },
+    {
+      "ref": 10,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "OPENAI'S GPT-6 ASTRA ON ARC-AGI-3 (7 MINUTE READ)",
+      "url": "https://arcprize.org/blog/astra?utm_source=tldrai",
+      "blurb": "GPT-6 Astra scored 62.7% on ARC-AGI-3 Semi-Private with the standard harness and 99.9% with a provider adapter harness, using fewer actions than the median human on 96% of levels. It turned unfamiliar environments into compact symbolic world models, representing game mechanics as logical rules and inventing its own shorthand to track state and plan."
+    },
+    {
+      "ref": 11,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "AI, TOOLS AND TRANSFORMATION (12 MINUTE READ)",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation?utm_source=tldrai",
+      "blurb": "AI presents the potential to automate countless tasks within companies, offering software that's dynamic and generative with minimal coding required. Despite this, organizational change remains challenging, as identifying tasks suitable for automation is not always obvious, and widespread adoption takes time and effort. Additionally, while AI will expand existing and new vertical applications, the integration and impact vary depending on how companies choose to adapt to this transformative technology."
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "RUNWAY'S GWM WORLDS 2 (8 MINUTE READ)",
+      "url": "https://runway.com/research/introducing-gwm-worlds-2?utm_source=tldrai",
+      "blurb": "Runway's GWM Worlds 2 is a world model that generates interactive environments in real time at 720p, 24 fps, with 48 kHz audio. Users steer the world with text actions and camera motion, and sessions continue from each input with no preset length."
+    },
+    {
+      "ref": 14,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "MICROSOFT AI'S MAI-TRANSCRIBE-2 UNDERCUTS OPENAI, GOOGLE, AND ELEVENLABS ON PRICE AND SPEED (17 MINUTE READ)",
+      "url": "https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed?utm_source=tldrai",
+      "blurb": "MAI-Transcribe-2 is a speech-recognition model that Microsoft says is faster, more accurate, and cheaper than anything its competitors currently sell. It is priced at 10 cents per hour of audio. The model transcribes audio in 60 languages. Microsoft's strategy seems to be to build its own frontier-class models one modality at a time, then steadily swap them into products that once ran on OpenAI's technology."
+    },
+    {
+      "ref": 15,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GIVE YOUR CODING AGENTS A MEMORY YOU OWN (8 MINUTE READ)",
+      "url": "https://huggingface.co/blog/funes?utm_source=tldrai",
+      "blurb": "funes introduces a durable memory layer for coding agents that allows them to retain and recall session histories across different machines and agents like Claude Code, Codex, pi, and Hermes. It enables contextual memory storage and retrieval without external dependencies, using local indexing and embedding."
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "AI IS MAKING US BUILD TOO MUCH (12 MINUTE READ)",
+      "url": "https://sjg.io/writing/ai-is-making-us-build-too-much/?utm_source=tldrai",
+      "blurb": "AI's ability to rapidly produce code and governance structures like in Steve Yegge's Wheelhouse leads to over-engineering, making creations easy but maintaining them costly. The agents in Wheelhouse have outpaced their intended productive goals, leading to inefficiencies as more complexity is layered on their work. AI's removal of traditional economic pressures encourages continuous creation, often without adding meaningful value, as evidenced by the imbalance between production and valuable outcomes."
+    },
+    {
+      "ref": 17,
+      "section": "MISCELLANEOUS",
+      "heading": "THE INCUMBENTS ARE COMING (10 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/fxRfb4",
+      "blurb": "Incumbent systems of record gain value as agents act through their data and workflows, but vertical AI can still win by owning the broader job. Durable advantage comes from cross-system context, expert feedback, evals, and learning loops."
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "CEREBRAS MODEL CATALOG (WEBSITE)",
+      "url": "https://inference-docs.cerebras.ai/models/overview?utm_source=tldrai",
+      "blurb": "This page lets users browse all of the models currently available on Cerebras' public endpoints."
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "GOOGLE INTRODUCES WEATHERNEXT 3 (6 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/?utm_source=tldrai",
+      "blurb": "WeatherNext 3 is Google DeepMind's most accurate global weather model, adding real-time satellite data, hourly refreshes, higher resolution, precise precipitation forecasting, and clean energy variables."
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "ACCEL REPORTEDLY IN TALKS TO LEAD $1B ROUND FOR THINKING MACHINES AT $40B VALUATION (2 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/?utm_source=tldrai",
+      "blurb": "The new round values Thinking Machines below the $50 billion valuation that it reportedly sought to secure late last year."
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "NVIDIA PERSONAL AI ROUTER (PAIR) (4 MINUTE READ)",
+      "url": "https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/?utm_source=tldrai",
+      "blurb": "NVIDIA PAIR connects AI app and agent workflows to a single local endpoint for routing inference across NVIDIA DGX Spark, Windows systems with RTX, and macOS devices."
+    },
+    {
+      "ref": 23,
+      "section": "QUICK LINKS",
+      "heading": "WTF IS DIME, THE MYSTERY OPENAI HEADSET (9 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/P5mu0B",
+      "blurb": "Dime, a mysterious silver headset tied through leaks, sightings, ads, and codenames to OpenAI, remains officially denied by the company."
+    },
+    {
+      "ref": 24,
+      "section": "QUICK LINKS",
+      "heading": "WE JUST GOT OUR FIRST REAL LOOK AT AI PCS WITH NVIDIA'S RTX SPARK \u2018SUPERCHIP' (6 MINUTE READ)",
+      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/?utm_source=tldrai",
+      "blurb": "Nvidia unveiled RTX Spark-powered laptops and mini PCs at IFA 2026, highlighting their capability to handle AI workflows locally."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "TOGETHER WITH [TLDR]",
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr",
+      "blurb": "TLDR AI 2026-09-04",
+      "drop_reason": "drop-list domain (jobs.ashbyhq.com)"
+    },
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "PRODUCT MANAGER, APPLIED AI AT TLDR ($200K BASE + $60K BONUS, FULLY REMOTE)",
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr",
+      "blurb": "TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We're looking for a builder who has shipped real products / systems with LLMs. Click here to learn more [4].",
+      "drop_reason": "drop-list domain (jobs.ashbyhq.com)"
+    },
+    {
+      "ref": 12,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "AI IS SPEEDING UP CODE IMPLEMENTATION. SO WHY IS SOFTWARE DELIVERY STILL SLOW? (SPONSOR)",
+      "url": "https://www.atlassian.com/whitepapers/the-agentic-pivot?utm_source=tldr&utm_medium=paid-newsletter&utm_campaign=P:twc*O:gdc*F:awareness*C:wpaper*H:fy27q1*I:tldr-ai-secondary-sept-4*E:cloud*&utm_sfdc-campaign_id=701QB00000uhG9OYAU",
+      "blurb": "AI adoption is nearly universal, but development bottlenecks like planning, review, and testing remain. In an Atlassian survey [12], 74% of engineering leaders say AI accelerates code generation, but 78% still review AI-generated code through traditional peer review. To tackle these bottlenecks, 88% of leaders know they need a governed engineering system of record. Only 19% say they've built one. Here's how to close that gap. [12]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "CAN YOUR AGENTS READ YOUR DOCS? (SPONSOR)",
+      "url": "https://www.mintlify.com/score?utm_source=tldrdev&utm_medium=newsletter&utm_content=quicklinks&utm_campaign=sep2026",
+      "blurb": "FYI: Mintlify has a super-useful free tool that shows you whether AI agents can understand your docs. Get a free report in minutes + actionable steps to improve. Score your docs [18]",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

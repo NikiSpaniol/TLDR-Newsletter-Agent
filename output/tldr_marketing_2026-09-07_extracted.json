@@ -1,0 +1,84 @@
+{
+  "kept": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "SHOULD THERE BE AEO AGENCIES? (6 MINUTE READ)",
+      "url": "https://www.productledseo.com/p/should-seo-agencies-still-exist?utm_source=tldrmarketing",
+      "blurb": "Content was never the real value of SEO agencies. Growth was. Agencies made content the deliverable because it was easy to scope, and rankings made progress easy to measure. AI is now exposing the weakness of that model by making content cheap and easy to produce. Agencies need to shift from content production to strategic work that drives growth, rather than simply rebranding old SEO services as AEO."
+    },
+    {
+      "ref": 5,
+      "section": null,
+      "heading": "WHAT DRIVES GEN Z BRAND LOYALTY IN 2026? (5 MINUTE READ)",
+      "url": "https://www.rivaltech.com/blog/research-gen-z-loyalty-2026?utm_source=tldrmarketing",
+      "blurb": "64% of Gen Z say they stick with brands they like most or all of the time, but only 11% feel brands understand them really well. Feeling understood is strongly linked to loyalty, with 45% of those who feel truly understood saying they are always loyal. Price and value (82%) and product quality (80%) matter most, while influencer recommendations rank last at 9%. Relevance starts with understanding customers, but loyalty still depends on delivering a product worth coming back to."
+    },
+    {
+      "ref": 6,
+      "section": null,
+      "heading": "HOW TO HANDLE NEGATIVE COMMENTS ON REDDIT (WHEN THE CRITICISM IS ALREADY RANKING) (5 MINUTE READ)",
+      "url": "https://www.standingongiants.com/blog/how-to-handle-negative-comments-on-reddit/?utm_source=tldrmarketing",
+      "blurb": "Treat negative Reddit posts as a community management issue, since high-ranking criticism can shape search results and AI answers. Respond selectively as a named, disclosed person by correcting misinformation or adding useful product context. Positive and negative threads receive similar upvote weight, so helpful brand contributions can reach audiences at a similar scale. Build credibility early by listening and using REACT to decide when to engage or step back."
+    },
+    {
+      "ref": 7,
+      "section": null,
+      "heading": "YOUR PUBLIC BOOKING FORM IS A BOT MAGNET. HERE IS HOW TO SEAL IT (3 MINUTE READ)",
+      "url": "https://promptledproduct.substack.com/p/your-public-booking-form-is-a-bot?utm_source=tldrmarketing",
+      "blurb": "Public forms can attract spam bots as soon as a product launches, especially without login requirements. The author recommends a two-layer system. Use Cloudflare Turnstile on every public form and verify its token server-side before storing submissions. A database trigger adds another safeguard by rejecting invalid submissions that bypass the application. Turnstile is free for up to 1M monthly requests, making it a low-cost way to protect public forms from spam."
+    },
+    {
+      "ref": 8,
+      "section": null,
+      "heading": "BECOME A MARKETING ENGINEER (WEBINAR)",
+      "url": "https://maven.com/p/ffacd9/what-is-a-marketing-engineer-and-how-do-i-become-one?utm_source=tldrmarketing",
+      "blurb": "Tim Keen will walk through when and how to use GitHub and Terminal, the new surfaces that marketers live in. Learn how to build a machine that builds marketing assets for you and manage Meta, Google, and LinkedIn ads from the terminal. This will take place on September 10 at 12 PM ET."
+    },
+    {
+      "ref": 9,
+      "section": null,
+      "heading": "TIKTOK JUST MADE PAID SOCIAL AGENTIC (3 MINUTE READ)",
+      "url": "https://www.brainlabsdigital.com/tiktok-ads-mcp-agentic-ai-paid-social/?utm_source=tldrmarketing",
+      "blurb": "TikTok's new agentic AI tools can automate paid social execution, but the bigger shift is teaching AI how your team works. TikTok Ads MCP connects AI to campaign data and workflows, while Agentic Hub and Skills can package processes like creative fatigue analysis, budget optimization, reporting, and QA. Automate repeatable work, but keep humans involved in strategic decisions."
+    },
+    {
+      "ref": 10,
+      "section": null,
+      "heading": "REDDIT MAX CAMPAIGNS ARE NOW AVAILABLE TO ALL ADVERTISERS (2 MINUTE READ)",
+      "url": "https://redditinc.com/news/performance-unlocked-reddit-max-campaigns-are-now-available-to-all-advertisers?utm_source=tldrmarketing",
+      "blurb": "Reddit is making Max campaigns available to all advertisers, alongside 3 updates designed to expand their value. Max campaigns automate targeting, creative selection, placements, and budget allocation, with early tests showing 17% lower CPA and 27% more conversions. New asset groups let advertisers organize and measure different products or use cases within one campaign, while API and Smartly support make campaigns easier to manage at scale."
+    },
+    {
+      "ref": 11,
+      "section": "MISCELLANEOUS",
+      "heading": "GLOSSIER AND DISHOOM'S ROYA SHARIAT ON BUILDING BRANDS, FOLLOWING YOUR CURIOSITY, AND DESIGNING AN UNCONVENTIONAL CAREER (6 MINUTE READ)",
+      "url": "https://embeddedbrandstrategy.substack.com/p/glossier-and-dishooms-roya-shariat?utm_source=tldrmarketing",
+      "blurb": "Glossier used direct customer feedback to shape products, then expanded that customer-first approach into its brand positioning. Dishoom takes a similar approach to scaling, focusing on preserving the core experience rather than optimizing for growth alone. For new brand ideas, Roya recommends testing scrappy versions instead of waiting for a perfect strategy. She also uses data to pitch new ideas, pairing consumer insights with a clear business case."
+    },
+    {
+      "ref": 12,
+      "section": "MISCELLANEOUS",
+      "heading": "GOOGLE'S LATEST STUDY REVEALS HOW LLMS RECALL FACTS (6 MINUTE READ)",
+      "url": "https://www.webfx.com/blog/ai/how-llms-recall-facts/?utm_source=tldrmarketing",
+      "blurb": "Getting recalled correctly by AI models does not require more content - it requires making existing content easier to retrieve. Advanced models store 95% to 98% of the facts they are trained on but reliably recall only 26% to 34% of them. Recall breaks down most on facts asked backward from how they were learned, or on facts that are simply rare. Auditing where AI tools already mention or skip a brand's key facts shows exactly which messages need restating in both directions."
+    },
+    {
+      "ref": 13,
+      "section": "QUICK LINKS",
+      "heading": "INFLUENCERS MOSTLY SKIP DISCLOSURE (2 MINUTE READ)",
+      "url": "https://www.practicalecommerce.com/influencers-mostly-skip-disclosure?utm_source=tldrmarketing",
+      "blurb": "Brands can face penalties for undisclosed paid partnerships or free products."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 14,
+      "section": "QUICK LINKS",
+      "heading": "PRODUCT MARKETING CHARTER (4 MINUTE READ)",
+      "url": "https://www.linkedin.com/posts/alansmcalpine_building-a-product-marketing-charter-cogna-ugcPost-7501673931448377344-M3lE/?utm_source=tldrmarketing",
+      "blurb": "A guide to the many hats product marketers wear.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    }
+  ]
+}

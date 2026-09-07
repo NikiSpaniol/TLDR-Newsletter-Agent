@@ -1,0 +1,309 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GPT-6 ASTRA (10 MINUTE READ)",
+      "url": "https://deploymentsafety.openai.com/gpt-6-astra?utm_source=tldrai",
+      "blurb": "OpenAI GPT-6 Astra is the company's most capable broadly deployed model and the first to reach the Critical cybersecurity level under its Preparedness Framework. The system card said Astra is more robust to jailbreaks and prompt injections than GPT-5.6 Sol, but noted it is also better at controlling its own chain of thought and could evade monitors under adversarial conditions.",
+      "source_email": "tldr_ai_2026-09-04_extracted.json"
+    },
+    {
+      "ref": 2,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GROK BOT FOR ENTERPRISE (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/JUpB1c",
+      "blurb": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks. Users can invite their whole organization, including people without an existing seat. Each user's work in Grok Bot runs in its own secure and isolated environment, separate from every other user. A Bot has no access by default and reaches only the accounts you sign it into.",
+      "source_email": "tldr_ai_2026-09-04_extracted.json"
+    },
+    {
+      "ref": 3,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "NVIDIA CONFIRMS HUGGING FACE ACQUISITION FOR $12.93 BILLION (3 MINUTE READ)",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/?utm_source=tldrai",
+      "blurb": "Nvidia confirmed it has acquired Hugging Face, which hosts three million models and serves over 18 million developers, for $12.93 billion. Jensen Huang said the platform will stay open and Nvidia compute will not be required to build or deploy on it.",
+      "source_email": "tldr_ai_2026-09-04_extracted.json"
+    },
+    {
+      "ref": 4,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "MICROSOFT RELEASES MAI-TRANSCRIBE-2 (4 MINUTE READ)",
+      "url": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/?utm_source=tldrai",
+      "blurb": "Microsoft released MAI-Transcribe-2, a speech recognition model with diarization, configurable transcription styles, and word-level timestamps that it says beats Gemini 3.5 Transcribe, GPT-Transcribe, and Whisper V3-Large.",
+      "source_email": "tldr_ai_2026-09-04_extracted.json"
+    },
+    {
+      "ref": 5,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "FROM SAFETY RESEARCH PROMPT TO CROSS-MODEL UNIVERSAL JAILBREAK (12 MINUTE READ)",
+      "url": "https://www.lesswrong.com/posts/hHk5CpiqZTBBiHmYt/from-safety-research-prompt-to-cross-model-universal?utm_source=tldrai",
+      "blurb": "A MATS researcher found that a synthetic transcript generation prompt could be turned into a universal jailbreak template that hit 84-100% attack success on the nine most vulnerable of 23 models tested, with only recent Anthropic models and Meta Muse Spark 1.1 never fully broken.",
+      "source_email": "tldr_ai_2026-09-04_extracted.json"
+    },
+    {
+      "ref": 6,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "OPENAI'S GPT-6 ASTRA ON ARC-AGI-3 (7 MINUTE READ)",
+      "url": "https://arcprize.org/blog/astra?utm_source=tldrai",
+      "blurb": "GPT-6 Astra scored 62.7% on ARC-AGI-3 Semi-Private with the standard harness and 99.9% with a provider adapter harness, using fewer actions than the median human on 96% of levels. It turned unfamiliar environments into compact symbolic world models, representing game mechanics as logical rules and inventing its own shorthand to track state and plan.",
+      "source_email": "tldr_ai_2026-09-04_extracted.json"
+    },
+    {
+      "ref": 7,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "AI, TOOLS AND TRANSFORMATION (12 MINUTE READ)",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation?utm_source=tldrai",
+      "blurb": "AI presents the potential to automate countless tasks within companies, offering software that's dynamic and generative with minimal coding required. Despite this, organizational change remains challenging, as identifying tasks suitable for automation is not always obvious, and widespread adoption takes time and effort. Additionally, while AI will expand existing and new vertical applications, the integration and impact vary depending on how companies choose to adapt to this transformative technology.",
+      "source_email": "tldr_ai_2026-09-04_extracted.json"
+    },
+    {
+      "ref": 8,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "RUNWAY'S GWM WORLDS 2 (8 MINUTE READ)",
+      "url": "https://runway.com/research/introducing-gwm-worlds-2?utm_source=tldrai",
+      "blurb": "Runway's GWM Worlds 2 is a world model that generates interactive environments in real time at 720p, 24 fps, with 48 kHz audio. Users steer the world with text actions and camera motion, and sessions continue from each input with no preset length.",
+      "source_email": "tldr_ai_2026-09-04_extracted.json"
+    },
+    {
+      "ref": 9,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "MICROSOFT AI'S MAI-TRANSCRIBE-2 UNDERCUTS OPENAI, GOOGLE, AND ELEVENLABS ON PRICE AND SPEED (17 MINUTE READ)",
+      "url": "https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed?utm_source=tldrai",
+      "blurb": "MAI-Transcribe-2 is a speech-recognition model that Microsoft says is faster, more accurate, and cheaper than anything its competitors currently sell. It is priced at 10 cents per hour of audio. The model transcribes audio in 60 languages. Microsoft's strategy seems to be to build its own frontier-class models one modality at a time, then steadily swap them into products that once ran on OpenAI's technology.",
+      "source_email": "tldr_ai_2026-09-04_extracted.json"
+    },
+    {
+      "ref": 10,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GIVE YOUR CODING AGENTS A MEMORY YOU OWN (8 MINUTE READ)",
+      "url": "https://huggingface.co/blog/funes?utm_source=tldrai",
+      "blurb": "funes introduces a durable memory layer for coding agents that allows them to retain and recall session histories across different machines and agents like Claude Code, Codex, pi, and Hermes. It enables contextual memory storage and retrieval without external dependencies, using local indexing and embedding.",
+      "source_email": "tldr_ai_2026-09-04_extracted.json"
+    },
+    {
+      "ref": 11,
+      "section": "MISCELLANEOUS",
+      "heading": "AI IS MAKING US BUILD TOO MUCH (12 MINUTE READ)",
+      "url": "https://sjg.io/writing/ai-is-making-us-build-too-much/?utm_source=tldrai",
+      "blurb": "AI's ability to rapidly produce code and governance structures like in Steve Yegge's Wheelhouse leads to over-engineering, making creations easy but maintaining them costly. The agents in Wheelhouse have outpaced their intended productive goals, leading to inefficiencies as more complexity is layered on their work. AI's removal of traditional economic pressures encourages continuous creation, often without adding meaningful value, as evidenced by the imbalance between production and valuable outcomes.",
+      "source_email": "tldr_ai_2026-09-04_extracted.json"
+    },
+    {
+      "ref": 12,
+      "section": "MISCELLANEOUS",
+      "heading": "THE INCUMBENTS ARE COMING (10 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/fxRfb4",
+      "blurb": "Incumbent systems of record gain value as agents act through their data and workflows, but vertical AI can still win by owning the broader job. Durable advantage comes from cross-system context, expert feedback, evals, and learning loops.",
+      "source_email": "tldr_ai_2026-09-04_extracted.json"
+    },
+    {
+      "ref": 13,
+      "section": "QUICK LINKS",
+      "heading": "CEREBRAS MODEL CATALOG (WEBSITE)",
+      "url": "https://inference-docs.cerebras.ai/models/overview?utm_source=tldrai",
+      "blurb": "This page lets users browse all of the models currently available on Cerebras' public endpoints.",
+      "source_email": "tldr_ai_2026-09-04_extracted.json"
+    },
+    {
+      "ref": 14,
+      "section": "QUICK LINKS",
+      "heading": "GOOGLE INTRODUCES WEATHERNEXT 3 (6 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/?utm_source=tldrai",
+      "blurb": "WeatherNext 3 is Google DeepMind's most accurate global weather model, adding real-time satellite data, hourly refreshes, higher resolution, precise precipitation forecasting, and clean energy variables.",
+      "source_email": "tldr_ai_2026-09-04_extracted.json"
+    },
+    {
+      "ref": 15,
+      "section": "QUICK LINKS",
+      "heading": "ACCEL REPORTEDLY IN TALKS TO LEAD $1B ROUND FOR THINKING MACHINES AT $40B VALUATION (2 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/?utm_source=tldrai",
+      "blurb": "The new round values Thinking Machines below the $50 billion valuation that it reportedly sought to secure late last year.",
+      "source_email": "tldr_ai_2026-09-04_extracted.json"
+    },
+    {
+      "ref": 16,
+      "section": "QUICK LINKS",
+      "heading": "NVIDIA PERSONAL AI ROUTER (PAIR) (4 MINUTE READ)",
+      "url": "https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/?utm_source=tldrai",
+      "blurb": "NVIDIA PAIR connects AI app and agent workflows to a single local endpoint for routing inference across NVIDIA DGX Spark, Windows systems with RTX, and macOS devices.",
+      "source_email": "tldr_ai_2026-09-04_extracted.json"
+    },
+    {
+      "ref": 17,
+      "section": "QUICK LINKS",
+      "heading": "WTF IS DIME, THE MYSTERY OPENAI HEADSET (9 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/P5mu0B",
+      "blurb": "Dime, a mysterious silver headset tied through leaks, sightings, ads, and codenames to OpenAI, remains officially denied by the company.",
+      "source_email": "tldr_ai_2026-09-04_extracted.json"
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "WE JUST GOT OUR FIRST REAL LOOK AT AI PCS WITH NVIDIA'S RTX SPARK \u2018SUPERCHIP' (6 MINUTE READ)",
+      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/?utm_source=tldrai",
+      "blurb": "Nvidia unveiled RTX Spark-powered laptops and mini PCs at IFA 2026, highlighting their capability to handle AI workflows locally.",
+      "source_email": "tldr_ai_2026-09-04_extracted.json"
+    },
+    {
+      "ref": 19,
+      "section": null,
+      "heading": "TOGETHER WITH [Ramp]",
+      "url": "https://virtual.ramp.com/ai-predictions-2026/?utm_source=tldr&utm_medium=Newsletter&utm_campaign=webinar-q3-ai-predictions-q3fy26&utm_content=ara_header_ai_workforce_nobody",
+      "blurb": "TLDR AI 2026-09-07",
+      "source_email": "tldr_ai_2026-09-07_extracted.json"
+    },
+    {
+      "ref": 20,
+      "section": null,
+      "heading": "JOIN ARA'S SPECIAL BRIEFING THIS FRIDAY",
+      "url": "https://virtual.ramp.com/ai-predictions-2026/?utm_source=tldr&utm_medium=Newsletter&utm_campaign=webinar-q3-ai-predictions-q3fy26&utm_content=ara_cta_aras_special_briefing",
+      "blurb": "\ud83d\ude80",
+      "source_email": "tldr_ai_2026-09-07_extracted.json"
+    },
+    {
+      "ref": 21,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI RESEARCHER WARNED ABOUT RAPIDLY ADVANCING AI (17 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/7B7wqK",
+      "blurb": "An OpenAI researcher says that reasoning models could continue advancing rapidly enough to contribute to their own development, creating increasingly serious alignment and cybersecurity risks.",
+      "source_email": "tldr_ai_2026-09-07_extracted.json"
+    },
+    {
+      "ref": 22,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "FORMALIZING FERMAT'S LAST THEOREM (11 MINUTE READ)",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem?utm_source=tldrai",
+      "blurb": "Claude successfully created the first complete computer-verified proof of Fermat's Last Theorem in 11 days using Lean, automating the complex task initially proven manually by Andrew Wiles in 1995. The proof, verified via Prove2Me and Lean, involved 13 million lines of code and proved 29,500 intermediate theorems, proving AI's potential to ease the traditionally laborious formal verification of mathematical proofs.",
+      "source_email": "tldr_ai_2026-09-07_extracted.json"
+    },
+    {
+      "ref": 23,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GROK IMAGINE VIDEO 1.5 AGENT (1 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2096298105213952178.html?utm_source=tldrai",
+      "blurb": "Grok Imagine Video 1.5 agent delivers higher quality, better storytelling than previous releases. Powered by Grok's latest Image 2.0 model, it excels at connecting multiple shots together with greater continuity. The agent is now live on the web, iOS, and Android. A short video generated by the model is available in the thread.",
+      "source_email": "tldr_ai_2026-09-07_extracted.json"
+    },
+    {
+      "ref": 24,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "GPT\u20116 ASTRA ON ROBOTIC MANIPULATION (15 MINUTE READ)",
+      "url": "https://openai.robocurve.org/gpt-6-astra/?utm_source=tldrai",
+      "blurb": "Researchers gave GPT-6 Astra control of YAM arms under an Inspect Robots agent policy and gave it two tasks: it had to pick up a red block from a table and place it inside a bowl, and pick up a round blue puzzle piece by the knob at its center and place it into the matching circular groove in the board. Astra placed the block in 19 of 20 trials in the bowl task. It completed the puzzle insertion two times in 20. Astra completes the bowl task far more often than Fable at about half the cost per run.",
+      "source_email": "tldr_ai_2026-09-07_extracted.json"
+    },
+    {
+      "ref": 25,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "AI SAFETY IS NOT THE SAME AS SECURITY (6 MINUTE READ)",
+      "url": "https://martinalderson.com/posts/ai-safety-vs-security/?utm_source=tldrai",
+      "blurb": "Frontier labs may be applying probabilistic AI safety techniques to problems that require deterministic security controls. Recent agent sandbox escapes highlighted the gap between reducing harmful model behavior and reliably containing software.",
+      "source_email": "tldr_ai_2026-09-07_extracted.json"
+    },
+    {
+      "ref": 26,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "RESEARCH ACCELERATION: THE VIEW INSIDE OPENAI (9 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/uoOKua",
+      "blurb": "OpenAI plans to develop an automated AI researcher by March 2028, aiming to enhance research efficiency while maintaining human oversight to ensure alignment and safety. Researchers now use coding agents more frequently, with increased code generation and experiment execution, shifting focus to more complex tasks. The organization paused reinforcement learning training temporarily following a security breach but continues to adapt safety measures and transparency to uphold the development of safe AGI.",
+      "source_email": "tldr_ai_2026-09-07_extracted.json"
+    },
+    {
+      "ref": 27,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "LLM-AS-A-VERIFIER (GITHUB REPO)",
+      "url": "https://github.com/llm-as-a-verifier/llm-as-a-verifier?utm_source=tldrai",
+      "blurb": "LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent without requiring additional training. It achieves SOTA performance across coding, robotics, and medical agentic benchmarks. The feedback generated from the framework can be used for test-time scaling, progress tracking, and reinforcement learning.",
+      "source_email": "tldr_ai_2026-09-07_extracted.json"
+    },
+    {
+      "ref": 28,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "RANDOM ATTENTION (GITHUB REPO)",
+      "url": "https://github.com/SalesforceAIResearch/Random-Attention?utm_source=tldrai",
+      "blurb": "Random Attention kept a uniformly sampled subset of generated KV-cache entries instead of relying on learned importance signals or attention statistics. Across several reasoning benchmarks and model families, it matched or exceeded more complex eviction methods while reducing eviction overhead.",
+      "source_email": "tldr_ai_2026-09-07_extracted.json"
+    },
+    {
+      "ref": 29,
+      "section": "MISCELLANEOUS",
+      "heading": "ANTHROPIC IPO LAUNCH SHIFTS TOWARD MID-OCTOBER (3 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/09/05/anthropic-ipo-launch-shifts-toward-mid-october-reuters.html?utm_source=tldrai",
+      "blurb": "Anthropic is expected to complete its IPO listing days before the US midterm elections in November. It will begin marketing the offering in mid-October at the earliest. The IPO prospectus will likely be released in late September. The plans could change - such changes are not unusual, as companies frequently have to adjust schedules due to market conditions, regulatory reviews, and other preparations.",
+      "source_email": "tldr_ai_2026-09-07_extracted.json"
+    },
+    {
+      "ref": 30,
+      "section": "MISCELLANEOUS",
+      "heading": "OPENAI'S AGI NUMBER CAME FROM A HARNESS, NOT THE MODEL (6 MINUTE READ)",
+      "url": "https://thenextweb.com/news/openai-astra-arc-agi-3-harness-62-7-vs-99-9-benchmark-revisions?utm_source=tldrai",
+      "blurb": "OpenAI claimed it had achieved AGI due to its 99.9% score on ARC-AGI-3. However, tests that ran the same model through the benchmark's own software scored 62.7%. The gap comes from the software around the model that OpenAI built. The different scaffolding around its agents helped OpenAI achieve the high score.",
+      "source_email": "tldr_ai_2026-09-07_extracted.json"
+    },
+    {
+      "ref": 31,
+      "section": "MISCELLANEOUS",
+      "heading": "AN INTERVIEW WITH OPENAI PRESIDENT GREG BROCKMAN ABOUT ASTRA AND ALIGNMENT (63 MINUTE READ)",
+      "url": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/?utm_source=tldrai",
+      "blurb": "OpenAI President Greg Brockman discussed Astra, OpenAI's new model, focusing on its enhanced capabilities and alignment. He highlighted the importance of scaling infrastructure and addressed challenges in cybersecurity following the Hugging Face incident. Brockman shared insights on OpenAI's positioning within the tech value chain, emphasizing strategic focus on sectors like health and collaboration with partners like Nvidia and Microsoft.",
+      "source_email": "tldr_ai_2026-09-07_extracted.json"
+    },
+    {
+      "ref": 32,
+      "section": "MISCELLANEOUS",
+      "heading": "CONCRETE, SILICON, & LEVERAGE (4 MINUTE READ)",
+      "url": "https://tomtunguz.com/the-4-trillion-dollar-ai-data-center-debt-wave/?utm_source=tldrai",
+      "blurb": "The US data center capacity will expand from 25 to 70 gigawatts, requiring $5 trillion, mostly financed by debt. This expansion creates a 34% growth in the US corporate bond market and raises questions about financing, potentially involving municipal bonds. To service this debt, annual AI revenue must grow from $150 billion to at least $1.2 trillion by 2030, requiring a 55% annual growth rate.",
+      "source_email": "tldr_ai_2026-09-07_extracted.json"
+    },
+    {
+      "ref": 33,
+      "section": "QUICK LINKS",
+      "heading": "Z1T (15 MINUTE READ)",
+      "url": "https://extropic.ai/writing/z1t/?utm_source=tldrai",
+      "blurb": "Extropic unveils the Z1 chip to improve energy efficiency in transformer inference by leveraging probabilistic sub-threshold CMOS technology.",
+      "source_email": "tldr_ai_2026-09-07_extracted.json"
+    },
+    {
+      "ref": 34,
+      "section": "QUICK LINKS",
+      "heading": "OPENAI AND THE WIKI INCIDENT (25 MINUTE READ)",
+      "url": "https://thezvi.substack.com/p/openai-and-the-wiki-incident?utm_source=tldrai",
+      "blurb": "OpenAI knew about the message boards scattered across the internet that its agents created before the Hugging Face attack.",
+      "source_email": "tldr_ai_2026-09-07_extracted.json"
+    },
+    {
+      "ref": 35,
+      "section": "QUICK LINKS",
+      "heading": "FEI FEI LI: THE RACE TO BUILD WORLD MODELS FOR AI (45 MINUTE PODCAST)",
+      "url": "https://a16z.simplecast.com/episodes/fei-fei-li-the-race-to-build-world-models-for-ai-tvIN7XfT?utm_source=tldrai",
+      "blurb": "World Labs' Atlas unifies generation and 3D reconstruction through new-view prediction, using sparse images to infer scenes from unseen positions.",
+      "source_email": "tldr_ai_2026-09-07_extracted.json"
+    },
+    {
+      "ref": 36,
+      "section": "QUICK LINKS",
+      "heading": "EVERY BINDING AI REVIEW WASHINGTON HAS PROPOSED HAS COME BACK VOLUNTARY. ZUCKERBERG REPORTEDLY RANG TRUMP ABOUT THE LATEST ONE (7 MINUTE READ)",
+      "url": "https://thenextweb.com/news/every-binding-ai-review-washington-has-proposed-has-come-back-voluntary-zuckerberg-reportedly-rang-trump-about-the-latest-one?utm_source=tldrai",
+      "blurb": "Mark Zuckerberg reportedly raised concerns about a national AI regulator during a call in August, saying that any appointees to the body should reflect the president's own light-touch approach.",
+      "source_email": "tldr_ai_2026-09-07_extracted.json"
+    },
+    {
+      "ref": 37,
+      "section": "QUICK LINKS",
+      "heading": "AIRA\u2083 (3 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2096271545589190927.html?utm_source=tldrai",
+      "blurb": "AIRA\u2083 is a new generation of Meta's autonomous AI research engine that runs and coordinates many long-running agents asynchronously in their own isolated environments.",
+      "source_email": "tldr_ai_2026-09-07_extracted.json"
+    },
+    {
+      "ref": 38,
+      "section": "QUICK LINKS",
+      "heading": "GOOGLE KEEPS TRANSFORMING GEMINI DESKTOP INTO SUPERAPP (3 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/google-keeps-transforming-gemini-desktop-into-superapp/?utm_source=tldrai",
+      "blurb": "Google is advancing its Gemini desktop app with new features like Ask and Assign modes for enhanced functionality and potential remote control features.",
+      "source_email": "tldr_ai_2026-09-07_extracted.json"
+    }
+  ],
+  "dropped": []
+}
