@@ -1,0 +1,107 @@
+{
+  "kept": [
+    {
+      "ref": 8,
+      "section": null,
+      "heading": "ATTENTION IS RENTED. MEMORY IS THE NEW MEDIA (2 MINUTE READ)",
+      "url": "https://lbbonline.com/news/Attention-Is-Rented-Memory-Is-the-New-Media?utm_source=tldrmarketing",
+      "blurb": "Reach and impressions show who saw a campaign, not what they remember. 47% of industry leaders say experiential marketing's value comes from long-term brand memory. Emotional intensity and physical presence can help brands cut through crowded digital feeds. The strongest activations create stories people keep talking about rather than generating a short-lived spike in attention. Brands are increasingly using physical experiences to turn campaigns into lasting cultural moments."
+    },
+    {
+      "ref": 9,
+      "section": null,
+      "heading": "THE WELLBEING EDIT: HOW TEENS ARE USING PINTEREST DIFFERENTLY, BY DESIGN (4 MINUTE READ)",
+      "url": "https://newsroom.pinterest.com/en-au/news/teen-wellbeing-edit/?_sp=7b571d78-3f73-49e3-ad3e-a4deb121e1f1.1788819225095&utm_source=tldrmarketing",
+      "blurb": "Teens use Pinterest more intentionally than traditional social platforms. Re-Pins per user are up 64%, searches are up 44%, and board organization is up 68%. More than 77% proactively search to explore interests, while teens use feed and settings controls nearly 2X more than other age groups. Pinterest is positioning itself around inspiration and identity exploration rather than social performance, with art searches 1.26X higher among teens."
+    },
+    {
+      "ref": 10,
+      "section": null,
+      "heading": "HOW I BUILT AN SEO/AEO BLOG ENGINE (10 MINUTE READ)",
+      "url": "https://harsehaj.substack.com/p/how-i-built-an-seoaeo-blog-engine?utm_source=tldrmarketing",
+      "blurb": "A growth engineering intern at Browserbase built an AI engine to automate its SEO and AEO workflow. 53% of search traffic came from just five posts, while only 17 of 77 posts had been cited by AI engines. BlogEO audits existing content, finds search opportunities, generates drafts, and tracks AI citations. Human approval remains in the loop. After 6 weeks, search impressions grew 5.8X, page-one queries grew 9.8X, and average blog position improved from 10.9 to 6.6."
+    },
+    {
+      "ref": 11,
+      "section": null,
+      "heading": "HOW TO GIVE AWAY FREE PRODUCT AND MAKE MONEY DOING IT (9 MINUTE READ)",
+      "url": "https://www.elenaverna.com/p/how-to-give-away-free-product-and?utm_source=tldrmarketing",
+      "blurb": "Lovable treats free AI product usage as acquisition spend rather than a margin drain, measured against a 3-month payback threshold weighing conversion, retention, and expansion. That framing matters more now that AI has pushed gross margins from the SaaS era's 80-90% toward 40% or less, leading many companies to gate AI functionality behind paywalls instead of letting users experience it first. Free-to-paid conversion for Lovable runs 5-10%, and partner-driven giveaways with a strong audience match can convert at 40-60%. The realistic alternative to giving the product away is spending far more to acquire the same customers through paid channels, not keeping the money."
+    },
+    {
+      "ref": 13,
+      "section": null,
+      "heading": "HOW TO STOP BABYSITTING YOUR AGENTS (WEBINAR)",
+      "url": "https://getunblocked.com/events/how-to-stop-babysitting-your-agents-sep-23/?utm_source=tldrmarketing",
+      "blurb": "This webinar, on September 23, will explore why AI coding agents produce inconsistent work even with more tools and context. It will explain why bigger context windows, RAG, and additional rules don't fully solve the problem. It will also cover how context engines can improve output while reducing token costs and review cycles. There will be a live demo that compares agent performance with and without organizational context."
+    },
+    {
+      "ref": 14,
+      "section": null,
+      "heading": "GOOGLE IS COMING FOR THE FREE TOOLS SMALL WEBSITES DEPEND ON (2 MINUTE READ)",
+      "url": "https://searchenginewatch.com/google-is-coming-for-the-free-tools-small-websites-depend-on/?utm_source=tldrmarketing",
+      "blurb": "Google can now generate a calculator, converter, or other interactive tool directly inside AI Overviews and AI Mode, expanded globally in English this August. Small utility sites built around one simple public formula, one input and one output, are the easiest target for a model to assemble on the spot."
+    },
+    {
+      "ref": 15,
+      "section": "MISCELLANEOUS",
+      "heading": "THE 11X ROAS ACCOUNT THAT LOST MONEY ON EVERY ORDER (5 MINUTE READ)",
+      "url": "https://searchengineland.com/roas-account-lost-money-every-order-486999?utm_source=tldrmarketing",
+      "blurb": "An account reporting an 11x return on ad spend was losing money on every order once returns, VAT, cost of goods, and fulfillment came out of what the platform called conversion value. Much of that 11x came from brand campaigns near 18x, largely shoppers who had already decided to buy, blended with a real nonbrand return closer to 3x. Correcting for margin alone created a second problem, since bidding purely for efficiency starved an apparel SKU of volume, leaving more stock to mark down below cost at season's end. The fix was rebuilding conversion values around actual contribution and giving each SKU one deliberate job, for profit, for volume, or for cash back before the season closed."
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "THE AFTERMARKET PREMIUM (6 MINUTE READ)",
+      "url": "https://konvoy.beehiiv.com/p/the-aftermarket-premium?utm_source=tldrmarketing",
+      "blurb": "The aftermarket can become a major source of value around durable products and platforms, so platform owners must decide whether to coexist, fight, license, or buy the businesses that emerge around them. AMG shows how licensing and acquisition can bring a successful modifier inside the brand, while Rolex's service restrictions show that fighting can leave substantial margin and customer demand to independent players. In software, platform owners control whether an aftermarket can legally form through decisions about open source, licensing, and developer tools, which helped create businesses like Counter Strike, Red Hat, and Cursor."
+    },
+    {
+      "ref": 17,
+      "section": "MISCELLANEOUS",
+      "heading": "SEEING LIKE A STATE (7 MINUTE READ)",
+      "url": "https://mikefisher.substack.com/p/seeing-like-a-state?utm_source=tldrmarketing",
+      "blurb": "Dashboards make marketing easier to measure, but they can also hide the work that actually drives growth. Teams may optimize for traffic or output while overlooking customer knowledge and relationship-building. These efforts are harder to quantify but can have a bigger long-term impact. Treat metrics as incomplete maps and question what each dashboard leaves out. Regularly compare the data with what customers and teams are seeing firsthand."
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "HOW TO TURN LINKEDIN INTO YOUR BEST GROWTH CHANNEL (5 MINUTE READ)",
+      "url": "https://exitfive.com/newsletter/how-to-turn-linkedin-into-your-best-growth-channel-in-fall-of-2026/?utm_source=tldrmarketing",
+      "blurb": "A guide to why LinkedIn should be the primary PR channel for a B2B startup."
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "WHY AI HASN'T SOLVED MARKETING'S TIME PROBLEM (5 MINUTE READ)",
+      "url": "https://martech.org/why-ai-hasnt-solved-marketings-time-problem/?utm_source=tldrmarketing",
+      "blurb": "Producing content faster just means reaching approval bottlenecks sooner."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "WRITE FOR HUMANS. GET FOUND BY AI. (SPONSOR)",
+      "url": "https://markup.ai/guides/write-for-humans-not-ai/?utm_source=tldr&utm_medium=newsletter&utm_campaign=2026-09-09_Primary_Markup+ai&utm_content=header_write_humans_found",
+      "blurb": "For (at least) the last two years, marketers have been told to optimize for AI: lead with answers, add FAQs, eliminate the adjectives.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 12,
+      "section": null,
+      "heading": "ENGINEERS IGNORE ADS. THEY TRUST DOCS, SEARCH RESULTS, AND OTHER DEVELOPERS. (SPONSOR)",
+      "url": "https://litebox.ai/?utm_source=tldr&utm_medium=paid-newsletter&utm_campaign=2026-09-tldr",
+      "blurb": "Litebox grew CopilotKit's organic traffic 3.6x in seven months. Brand, website, and SEO from one team, not four vendors. The GTM agency for DevTools. See how \u2192 [12]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "PREFERRED SOURCES ON GOOGLE (1 MINUTE READ)",
+      "url": "https://www.linkedin.com/posts/ashish-jacob_google-now-lets-people-choose-the-websites-share-7503184986120826880-YjR_/?utm_source=tldrmarketing",
+      "blurb": "Getting users to select your website as a Preferred Source makes it show up for them in Google's Top Stories, AI Overviews, and AI Mode.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    }
+  ]
+}

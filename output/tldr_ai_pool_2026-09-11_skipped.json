@@ -1,0 +1,62 @@
+[
+  {
+    "ref": 30,
+    "section": "QUICK LINKS",
+    "heading": "CHATGPT BROKE ITS MAU RECORD FOR THE 4TH CONSECUTIVE MONTH IN AUGUST (1 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/dQBaPH",
+    "blurb": "ChatGPT reached 1.06 billion monthly active users in August.",
+    "source_email": "tldr_ai_2026-09-09_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 33,
+    "section": "QUICK LINKS",
+    "heading": "ANTHROPIC RESEARCHER QUITS OVER \u2018OUT-OF-CONTROL' AI FEARS (5 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/Pog405",
+    "blurb": "Jacob Coxon says he is leaving the company as he believes the industry-wide rush to build AI systems that can improve themselves could spiral out of control and destroy humanity.",
+    "source_email": "tldr_ai_2026-09-09_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 35,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "DEEPSEEK-V4.1-FLASH (3 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/YXzPaP",
+    "blurb": "DeepSeek-V4.1-Flash is designed for greater capability, faster inference, higher throughput, and scaling to larger models. It uses an asymmetric architecture that gives it more intelligence at less cost. The model's smaller KV cache provides users with bigger savings. The model is now live on the DeepSeek API with native multimodal support. V4-Flash and V4-Flash-Vision-Exp have been retired.",
+    "source_email": "tldr_ai_2026-09-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 41,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "RECURSIVE SYNTHETIC IMPROVEMENT (35 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/CvsGFP",
+    "blurb": "Frontier model progress increasingly depends on recursive synthetic data loops across judges, corpora, teachers, curricula, and RL environments. Models now generate, evaluate, and improve training data themselves, while scalable environments and on-policy learning become critical for extending capabilities beyond imitation.",
+    "source_email": "tldr_ai_2026-09-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 46,
+    "section": "MISCELLANEOUS",
+    "heading": "I NEVER WANT TO USE THIRD-PARTY SOFTWARE AGAIN (15 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/Yl95iw",
+    "blurb": "AI makes software cheap enough to customize around individual workflows, interests, and aesthetics, shifting value from standardized apps toward malleable personal tools. Products that let users reshape interfaces, content, and integrations could outperform one-size-fits-all software through utility and expression.",
+    "source_email": "tldr_ai_2026-09-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 49,
+    "section": "QUICK LINKS",
+    "heading": "SOFTWARE IS ABOUT TO EAT THE WORLD MUCH FASTER (6 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/P8l4kt",
+    "blurb": "AI coding agents could accelerate software's expansion by multiplying engineer output rather than replacing demand.",
+    "source_email": "tldr_ai_2026-09-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  }
+]

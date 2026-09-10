@@ -1,0 +1,277 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": null,
+      "heading": "THE BIG WINNERS AND LOSERS IN US WEBSITE TRAFFIC OVER THE PAST YEAR (7 MINUTE READ)",
+      "url": "https://searchengineland.com/winners-losers-us-website-traffic-past-year-486843?utm_source=tldrmarketing",
+      "blurb": "Google and YouTube still dominate web traffic in the US, but AI is reshaping the landscape. ChatGPT traffic jumped 48.4% year over year to 1.09B monthly visits, while Bing fell 50.4%. Meanwhile, GA4 is losing visibility into AI-driven traffic, with \u201cdirect\u201d traffic increasingly absorbing visits it can't attribute.",
+      "source_email": "tldr_marketing_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 2,
+      "section": null,
+      "heading": "STREAMING IS RAISING PRICES FASTER THAN CABLE EVER DID (3 MINUTE READ)",
+      "url": "https://www.hollywoodreporter.com/business/business-news/streaming-inflation-raising-prices-cable-1236691404/?utm_source=tldrmarketing",
+      "blurb": "Streaming prices have risen 3X faster than inflation since 2022. The 8 major services now cost around $151/month without ads or bundles, up from $90 four years ago. As subscription fatigue grows, Gen Z's \u201cstreaming cycling\u201d trend is gaining traction. Consumers subscribe to one service at a time, then cancel and switch to another.",
+      "source_email": "tldr_marketing_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 3,
+      "section": null,
+      "heading": "THE BEST ADS DON'T CREATE DESIRE, THEY BORROW IT (7 MINUTE READ)",
+      "url": "https://conversion-rate-experts.com/ads-dont-create-desire-they-borrow-it-copywriting-friday/?utm_source=tldrmarketing",
+      "blurb": "The best copy doesn't create desire. It taps into wants customers already have, then connects the product to those deeper motivations. Identify the emotional driver behind the purchase, name the obstacle standing in the way, and show the customer what success looks like through a vivid, specific scenario. Rather than simply stating a benefit, make readers experience it before they buy.",
+      "source_email": "tldr_marketing_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "SHE PAID PEOPLE TO CANCEL HER COMPETITOR (2 MINUTE READ)",
+      "url": "https://www.marketingideas.com/p/she-paid-people-to-cancel-her-competitor?utm_source=tldrmarketing",
+      "blurb": "Cursor turned a giveaway into a competitor-poaching tool by offering its $200/month plan free to customers who canceled a rival and proved it with a screenshot. Claiming meant DMing the employee running the offer from her personal account, creating a private channel for retention offers and switching feedback. A second run added a 24-hour deadline and converted even better. Customers also posted cancellation screenshots publicly, creating free marketing.",
+      "source_email": "tldr_marketing_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 5,
+      "section": null,
+      "heading": "NEW GOOGLE ADS AUTOMATED PROMOTIONS (1 MINUTE READ)",
+      "url": "https://www.seroundtable.com/google-ads-automated-promotions-42006.html?utm_source=tldrmarketing",
+      "blurb": "Google Ads can now automatically extract active promotions from landing pages and attach them to eligible Search and Performance Max ads. The account-level feature can surface offers such as \u201c20% off\u201d or \u201cbuy one get one free\u201d without advertisers manually uploading each promotion. It applies only to eligible campaigns using location assets that do not already have manual promotions.",
+      "source_email": "tldr_marketing_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 6,
+      "section": null,
+      "heading": "DO WE STILL NEED GOOGLE DISAVOW? (2 MINUTE READ)",
+      "url": "https://www.practicalecommerce.com/do-we-still-need-google-disavow?utm_source=tldrmarketing",
+      "blurb": "Google's Disavow tool is now mainly a recovery tool for sites hit with a manual action for unnatural links. Most sites don't need it after Penguin shifted spammy backlinks toward page-level devaluation. SEO efforts are better spent on useful content, UX, and earning credible links. Treat disavow as a targeted response to a confirmed manual action, not routine backlink cleanup.",
+      "source_email": "tldr_marketing_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 7,
+      "section": "MISCELLANEOUS",
+      "heading": "HOW NETFLIX MEASURES THE MARKETING YOU CANNOT A/B TEST (5 MINUTE READ)",
+      "url": "https://karandhir.substack.com/p/how-netflix-measures-the-marketing?utm_source=tldrmarketing",
+      "blurb": "Netflix uses geographic holdouts to measure channels that can't be A/B tested at the user level, including TV, OOH, and sponsorships. The approach measures incremental impact but requires careful decisions around test size, timing, media spillover, and carryover. Repeating tests builds stronger evidence, while campaigns without historical data require different methodologies. The challenge is getting leadership to protect test windows and accept the tradeoff between media delivery and measurement certainty.",
+      "source_email": "tldr_marketing_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 8,
+      "section": "MISCELLANEOUS",
+      "heading": "THE AI HOURS NOBODY ON YOUR MARKETING TEAM IS COUNTING (6 MINUTE READ)",
+      "url": "https://www.growth-memo.com/p/the-ai-hours-nobody-on-your-marketing?utm_source=tldrmarketing",
+      "blurb": "Every AI workflow becomes a small maintenance job once it ships. Models change, connected tools get updated, and new edge cases surface. The person who built it is often the only one who knows how to fix it, so the workflow can quickly revert to manual when they're unavailable. Teams rarely plan for this upkeep, leaving it to compete with slower, harder-to-measure work like building visibility and trust.",
+      "source_email": "tldr_marketing_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 9,
+      "section": "QUICK LINKS",
+      "heading": "AI CHATBOTS TALKED 57.5% OF AI USERS OUT OF BUYING (12 MINUTE READ)",
+      "url": "https://www.semrush.com/blog/ai-chatbots-talk-ai-users-out-of-buying/#consumers-turn-to-ai-en-masse-for-product-research?utm_source=tldrmarketing",
+      "blurb": "AI chatbots now influence purchases in both directions, persuading 57.5% of AI users to buy and 57.5% to walk away.",
+      "source_email": "tldr_marketing_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 10,
+      "section": "QUICK LINKS",
+      "heading": "WHY NVIDIA IS BUYING HUGGING FACE (3 MINUTE READ)",
+      "url": "https://cafetechinenglish.substack.com/p/why-nvidia-is-buying-hugging-face?utm_source=tldrmarketing",
+      "blurb": "Nvidia plans to acquire Hugging Face for $12.9B to strengthen the open-source AI ecosystem around its chips.",
+      "source_email": "tldr_marketing_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 11,
+      "section": null,
+      "heading": "ATTENTION IS RENTED. MEMORY IS THE NEW MEDIA (2 MINUTE READ)",
+      "url": "https://lbbonline.com/news/Attention-Is-Rented-Memory-Is-the-New-Media?utm_source=tldrmarketing",
+      "blurb": "Reach and impressions show who saw a campaign, not what they remember. 47% of industry leaders say experiential marketing's value comes from long-term brand memory. Emotional intensity and physical presence can help brands cut through crowded digital feeds. The strongest activations create stories people keep talking about rather than generating a short-lived spike in attention. Brands are increasingly using physical experiences to turn campaigns into lasting cultural moments.",
+      "source_email": "tldr_marketing_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 12,
+      "section": null,
+      "heading": "THE WELLBEING EDIT: HOW TEENS ARE USING PINTEREST DIFFERENTLY, BY DESIGN (4 MINUTE READ)",
+      "url": "https://newsroom.pinterest.com/en-au/news/teen-wellbeing-edit/?_sp=7b571d78-3f73-49e3-ad3e-a4deb121e1f1.1788819225095&utm_source=tldrmarketing",
+      "blurb": "Teens use Pinterest more intentionally than traditional social platforms. Re-Pins per user are up 64%, searches are up 44%, and board organization is up 68%. More than 77% proactively search to explore interests, while teens use feed and settings controls nearly 2X more than other age groups. Pinterest is positioning itself around inspiration and identity exploration rather than social performance, with art searches 1.26X higher among teens.",
+      "source_email": "tldr_marketing_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 13,
+      "section": null,
+      "heading": "HOW I BUILT AN SEO/AEO BLOG ENGINE (10 MINUTE READ)",
+      "url": "https://harsehaj.substack.com/p/how-i-built-an-seoaeo-blog-engine?utm_source=tldrmarketing",
+      "blurb": "A growth engineering intern at Browserbase built an AI engine to automate its SEO and AEO workflow. 53% of search traffic came from just five posts, while only 17 of 77 posts had been cited by AI engines. BlogEO audits existing content, finds search opportunities, generates drafts, and tracks AI citations. Human approval remains in the loop. After 6 weeks, search impressions grew 5.8X, page-one queries grew 9.8X, and average blog position improved from 10.9 to 6.6.",
+      "source_email": "tldr_marketing_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 14,
+      "section": null,
+      "heading": "HOW TO GIVE AWAY FREE PRODUCT AND MAKE MONEY DOING IT (9 MINUTE READ)",
+      "url": "https://www.elenaverna.com/p/how-to-give-away-free-product-and?utm_source=tldrmarketing",
+      "blurb": "Lovable treats free AI product usage as acquisition spend rather than a margin drain, measured against a 3-month payback threshold weighing conversion, retention, and expansion. That framing matters more now that AI has pushed gross margins from the SaaS era's 80-90% toward 40% or less, leading many companies to gate AI functionality behind paywalls instead of letting users experience it first. Free-to-paid conversion for Lovable runs 5-10%, and partner-driven giveaways with a strong audience match can convert at 40-60%. The realistic alternative to giving the product away is spending far more to acquire the same customers through paid channels, not keeping the money.",
+      "source_email": "tldr_marketing_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 15,
+      "section": null,
+      "heading": "HOW TO STOP BABYSITTING YOUR AGENTS (WEBINAR)",
+      "url": "https://getunblocked.com/events/how-to-stop-babysitting-your-agents-sep-23/?utm_source=tldrmarketing",
+      "blurb": "This webinar, on September 23, will explore why AI coding agents produce inconsistent work even with more tools and context. It will explain why bigger context windows, RAG, and additional rules don't fully solve the problem. It will also cover how context engines can improve output while reducing token costs and review cycles. There will be a live demo that compares agent performance with and without organizational context.",
+      "source_email": "tldr_marketing_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 16,
+      "section": null,
+      "heading": "GOOGLE IS COMING FOR THE FREE TOOLS SMALL WEBSITES DEPEND ON (2 MINUTE READ)",
+      "url": "https://searchenginewatch.com/google-is-coming-for-the-free-tools-small-websites-depend-on/?utm_source=tldrmarketing",
+      "blurb": "Google can now generate a calculator, converter, or other interactive tool directly inside AI Overviews and AI Mode, expanded globally in English this August. Small utility sites built around one simple public formula, one input and one output, are the easiest target for a model to assemble on the spot.",
+      "source_email": "tldr_marketing_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 17,
+      "section": "MISCELLANEOUS",
+      "heading": "THE 11X ROAS ACCOUNT THAT LOST MONEY ON EVERY ORDER (5 MINUTE READ)",
+      "url": "https://searchengineland.com/roas-account-lost-money-every-order-486999?utm_source=tldrmarketing",
+      "blurb": "An account reporting an 11x return on ad spend was losing money on every order once returns, VAT, cost of goods, and fulfillment came out of what the platform called conversion value. Much of that 11x came from brand campaigns near 18x, largely shoppers who had already decided to buy, blended with a real nonbrand return closer to 3x. Correcting for margin alone created a second problem, since bidding purely for efficiency starved an apparel SKU of volume, leaving more stock to mark down below cost at season's end. The fix was rebuilding conversion values around actual contribution and giving each SKU one deliberate job, for profit, for volume, or for cash back before the season closed.",
+      "source_email": "tldr_marketing_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 18,
+      "section": "MISCELLANEOUS",
+      "heading": "THE AFTERMARKET PREMIUM (6 MINUTE READ)",
+      "url": "https://konvoy.beehiiv.com/p/the-aftermarket-premium?utm_source=tldrmarketing",
+      "blurb": "The aftermarket can become a major source of value around durable products and platforms, so platform owners must decide whether to coexist, fight, license, or buy the businesses that emerge around them. AMG shows how licensing and acquisition can bring a successful modifier inside the brand, while Rolex's service restrictions show that fighting can leave substantial margin and customer demand to independent players. In software, platform owners control whether an aftermarket can legally form through decisions about open source, licensing, and developer tools, which helped create businesses like Counter Strike, Red Hat, and Cursor.",
+      "source_email": "tldr_marketing_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 19,
+      "section": "MISCELLANEOUS",
+      "heading": "SEEING LIKE A STATE (7 MINUTE READ)",
+      "url": "https://mikefisher.substack.com/p/seeing-like-a-state?utm_source=tldrmarketing",
+      "blurb": "Dashboards make marketing easier to measure, but they can also hide the work that actually drives growth. Teams may optimize for traffic or output while overlooking customer knowledge and relationship-building. These efforts are harder to quantify but can have a bigger long-term impact. Treat metrics as incomplete maps and question what each dashboard leaves out. Regularly compare the data with what customers and teams are seeing firsthand.",
+      "source_email": "tldr_marketing_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "HOW TO TURN LINKEDIN INTO YOUR BEST GROWTH CHANNEL (5 MINUTE READ)",
+      "url": "https://exitfive.com/newsletter/how-to-turn-linkedin-into-your-best-growth-channel-in-fall-of-2026/?utm_source=tldrmarketing",
+      "blurb": "A guide to why LinkedIn should be the primary PR channel for a B2B startup.",
+      "source_email": "tldr_marketing_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "WHY AI HASN'T SOLVED MARKETING'S TIME PROBLEM (5 MINUTE READ)",
+      "url": "https://martech.org/why-ai-hasnt-solved-marketings-time-problem/?utm_source=tldrmarketing",
+      "blurb": "Producing content faster just means reaching approval bottlenecks sooner.",
+      "source_email": "tldr_marketing_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 22,
+      "section": null,
+      "heading": "\u2018MODEL FATIGUE' SETS IN AS AI LABS RACE TO ROLL OUT NEW VERSIONS AT FRENETIC PACE (5 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html?msockid=21fe1823d3a6618b133a0ea7d2646098&utm_source=tldrmarketing",
+      "blurb": "AI labs are releasing model updates at a faster pace, making it harder for businesses to evaluate which tools are worth adopting. Anthropic, Meta, Google, and OpenAI all launched updates in one week. The rapid rollout is creating \u201cmodel fatigue\u201d as teams spend more time comparing capabilities and performance.",
+      "source_email": "tldr_marketing_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 23,
+      "section": null,
+      "heading": "IS THE LIKE BUTTON DEAD? (3 MINUTE READ)",
+      "url": "https://futuresocial.beehiiv.com/p/is-the-like-button-dead?utm_source=tldrmarketing",
+      "blurb": "Likes and comments are dropping across social platforms. Instagram likes are down 73% on carousels and 81% on Reels. Platforms are relying on signals like watch time, completion rate, replays, and dwell time to rank content. Engagement metrics are becoming less useful, while retention and strong hooks matter more.",
+      "source_email": "tldr_marketing_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 24,
+      "section": null,
+      "heading": "ENTITIES ARE THE FOUNDATION OF MODERN SEO (10 MINUTE READ)",
+      "url": "https://www.leadershipinseo.com/p/entities-are-the-foundation-of-modern?utm_source=tldrmarketing",
+      "blurb": "Entity SEO is now a core part of making a brand understandable to Google and AI systems. Start by auditing owned properties so brand names, people, products, relationships, and structured data are accurate and consistent. Then build credibility through relevant third-party mentions, expert commentary, and evidence that supports what the brand claims to be known for. An entity map can reveal gaps between intended positioning and how search data and the wider web actually connect the brand to people, products, services, and topics.",
+      "source_email": "tldr_marketing_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 25,
+      "section": null,
+      "heading": "DO 3-DAY OR 7-DAY TRIALS PERFORM BETTER? (4 MINUTE READ)",
+      "url": "https://thepaywallindex.substack.com/p/do-3-day-or-7-day-trials-perform?r=qqi7&utm_source=tldrmarketing",
+      "blurb": "For mobile apps, 7-day trials convert 10% better than 3-day trials overall, with paywall-to-paid conversion rising from 1.55% to 1.70%. The difference is larger on Android, where 7-day trials deliver a 20% lift, compared with 5% on iOS. However, results vary by region. In North America, 3-day trials outperform 7-day on iOS, while 7-day performs better across most Android markets. The data suggests trial length should be tested by platform and region.",
+      "source_email": "tldr_marketing_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 26,
+      "section": null,
+      "heading": "MAKE POSTEING\u00c4NGE SEXY AGAIN (4 MINUTE READ)",
+      "url": "https://annhandley.com/how-to-write-email-readers-want-to-open/?utm_source=tldrmarketing",
+      "blurb": "Welcome emails already draw close to four times the click rate of a regular campaign, proof that readers respond fastest to something that feels personally addressed to them. Newsletters that open on a specific moment or an odd, memorable detail get read as correspondence instead of content to skim past. Confiding in a reader works better than performing for an audience, since specificity is what makes writing sound like an actual person rather than a content calendar. Replying when someone writes back extends that same logic into a growth strategy, not just a courtesy.",
+      "source_email": "tldr_marketing_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 27,
+      "section": null,
+      "heading": "CHECK IT OUT \u2192",
+      "url": "https://www.lob.com/no-code?utm_source=tldr&utm_medium=sponsored-content&utm_campaign=2026-q3-no-code",
+      "blurb": "",
+      "source_email": "tldr_marketing_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 28,
+      "section": null,
+      "heading": "DRIVE AWARENESS WITH VIDEO SEQUENCE ADS (2 MINUTE READ)",
+      "url": "https://www.practicalecommerce.com/drive-awareness-with-video-sequence-ads?utm_source=tldrmarketing",
+      "blurb": "Google Ads video ad sequence campaigns let advertisers build a planned narrative across multiple YouTube videos, moving viewers from brand introduction to reinforcement, differentiation, or action. Each step can use a different video format and transition based on whether viewers saw, watched, or skipped the previous ad. You can also test headlines, CTAs, and landing pages at each stage while using frequency caps to control exposure.",
+      "source_email": "tldr_marketing_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 29,
+      "section": null,
+      "heading": "CHATGPT SITES IS SURPRISINGLY GOOD (4 MINUTE READ)",
+      "url": "https://wondertools.substack.com/p/chatgpt-sites?utm_source=tldrmarketing",
+      "blurb": "ChatGPT Sites makes website creation possible without coding. Select Sites mode and describe the site to build. Add files or screenshots for context, then refine it with feedback. Create landing pages, guides, interactive tools, or games, and publish the finished site.",
+      "source_email": "tldr_marketing_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 30,
+      "section": "MISCELLANEOUS",
+      "heading": "DON'T MAKE THE MISTAKE OF BUYING ATTRIBUTION TOO SOON (5 MINUTE READ)",
+      "url": "https://www.021newsletter.com/p/dont-make-the-mistake-of-buying-attribution?utm_source=tldrmarketing",
+      "blurb": "Custom attribution is premature until a channel has proven it works and the marketing mix is genuinely difficult to measure. Attribution helps answer where to put the next dollar across multiple working channels, not which channel works in the first place. Test channels first, then fix tracking, standardize ROAS, and model conversion value before building an attribution model. Custom attribution can pay off above roughly $3M in annual paid media, but the right threshold depends more on the complexity of the channel mix than the budget itself.",
+      "source_email": "tldr_marketing_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 31,
+      "section": "MISCELLANEOUS",
+      "heading": "HOW 7 BREW'S FIRST CMO IS MARKETING THE FASTEST-GROWING BRAND IN THE US (5 MINUTE READ)",
+      "url": "https://www.marketingdive.com/news/how-7-brews-first-cmo-is-marketing-the-fastest-growing-brand-in-the-us/829755/?utm_source=tldrmarketing",
+      "blurb": "7 Brew's TikTok strategy runs on movie-parody videos tied to real brand moments, from a 2001 A Space Odyssey riff for its new app launch to earlier takes on Indiana Jones and Mean Girls, and has built a following of more than 685,000 with 7.5 million likes. The tactic works by riding cultural references fans already have affection for rather than manufacturing a campaign from scratch. That approach sits on top of a brand that already rates first in consumer satisfaction among US QSR chains, so the content amplifies existing goodwill instead of trying to create it.",
+      "source_email": "tldr_marketing_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 32,
+      "section": "QUICK LINKS",
+      "heading": "PAID IS NOW THE ONLY GUARANTEED SLOT IN AN AI ANSWER (5 MINUTE READ)",
+      "url": "https://www.thestateofbrand.com/news/chatgpt-ads-paid-ai-answers?utm_source=tldrmarketing",
+      "blurb": "ChatGPT ads make paid placements a guaranteed AI answer surface, while earned citations remain unpredictable and harder for marketers to control.",
+      "source_email": "tldr_marketing_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 33,
+      "section": "QUICK LINKS",
+      "heading": "GOOGLE PEOPLE ALSO ASK ANSWERS ARE NOW NEARLY 100% AI-GENERATED (2 MINUTE READ)",
+      "url": "https://searchenginewatch.com/google-people-also-ask-answers-are-now-nearly-100-ai-generated/?utm_source=tldrmarketing",
+      "blurb": "The text snippets that used to populate Google's People Also Ask boxes have been replaced by AI-written answers in 97% of cases.",
+      "source_email": "tldr_marketing_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 34,
+      "section": "QUICK LINKS",
+      "heading": "PRACTICAL AI WORKFLOWS FOR FOUNDERS AND GTM TEAMS (2 MINUTE READ)",
+      "url": "https://startupgtm.substack.com/p/start-here-practical-ai-workflows?utm_source=tldrmarketing",
+      "blurb": "Build an ICP, give AI persistent business context that doesn't need to be re-explained every session, and audit content for risk reduction rather than just engagement.",
+      "source_email": "tldr_marketing_2026-09-10_extracted.json"
+    }
+  ],
+  "dropped": []
+}

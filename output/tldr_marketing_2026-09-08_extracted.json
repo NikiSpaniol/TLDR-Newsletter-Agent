@@ -1,0 +1,92 @@
+{
+  "kept": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "THE BIG WINNERS AND LOSERS IN US WEBSITE TRAFFIC OVER THE PAST YEAR (7 MINUTE READ)",
+      "url": "https://searchengineland.com/winners-losers-us-website-traffic-past-year-486843?utm_source=tldrmarketing",
+      "blurb": "Google and YouTube still dominate web traffic in the US, but AI is reshaping the landscape. ChatGPT traffic jumped 48.4% year over year to 1.09B monthly visits, while Bing fell 50.4%. Meanwhile, GA4 is losing visibility into AI-driven traffic, with \u201cdirect\u201d traffic increasingly absorbing visits it can't attribute."
+    },
+    {
+      "ref": 5,
+      "section": null,
+      "heading": "STREAMING IS RAISING PRICES FASTER THAN CABLE EVER DID (3 MINUTE READ)",
+      "url": "https://www.hollywoodreporter.com/business/business-news/streaming-inflation-raising-prices-cable-1236691404/?utm_source=tldrmarketing",
+      "blurb": "Streaming prices have risen 3X faster than inflation since 2022. The 8 major services now cost around $151/month without ads or bundles, up from $90 four years ago. As subscription fatigue grows, Gen Z's \u201cstreaming cycling\u201d trend is gaining traction. Consumers subscribe to one service at a time, then cancel and switch to another."
+    },
+    {
+      "ref": 6,
+      "section": null,
+      "heading": "THE BEST ADS DON'T CREATE DESIRE, THEY BORROW IT (7 MINUTE READ)",
+      "url": "https://conversion-rate-experts.com/ads-dont-create-desire-they-borrow-it-copywriting-friday/?utm_source=tldrmarketing",
+      "blurb": "The best copy doesn't create desire. It taps into wants customers already have, then connects the product to those deeper motivations. Identify the emotional driver behind the purchase, name the obstacle standing in the way, and show the customer what success looks like through a vivid, specific scenario. Rather than simply stating a benefit, make readers experience it before they buy."
+    },
+    {
+      "ref": 7,
+      "section": null,
+      "heading": "SHE PAID PEOPLE TO CANCEL HER COMPETITOR (2 MINUTE READ)",
+      "url": "https://www.marketingideas.com/p/she-paid-people-to-cancel-her-competitor?utm_source=tldrmarketing",
+      "blurb": "Cursor turned a giveaway into a competitor-poaching tool by offering its $200/month plan free to customers who canceled a rival and proved it with a screenshot. Claiming meant DMing the employee running the offer from her personal account, creating a private channel for retention offers and switching feedback. A second run added a 24-hour deadline and converted even better. Customers also posted cancellation screenshots publicly, creating free marketing."
+    },
+    {
+      "ref": 9,
+      "section": null,
+      "heading": "NEW GOOGLE ADS AUTOMATED PROMOTIONS (1 MINUTE READ)",
+      "url": "https://www.seroundtable.com/google-ads-automated-promotions-42006.html?utm_source=tldrmarketing",
+      "blurb": "Google Ads can now automatically extract active promotions from landing pages and attach them to eligible Search and Performance Max ads. The account-level feature can surface offers such as \u201c20% off\u201d or \u201cbuy one get one free\u201d without advertisers manually uploading each promotion. It applies only to eligible campaigns using location assets that do not already have manual promotions."
+    },
+    {
+      "ref": 10,
+      "section": null,
+      "heading": "DO WE STILL NEED GOOGLE DISAVOW? (2 MINUTE READ)",
+      "url": "https://www.practicalecommerce.com/do-we-still-need-google-disavow?utm_source=tldrmarketing",
+      "blurb": "Google's Disavow tool is now mainly a recovery tool for sites hit with a manual action for unnatural links. Most sites don't need it after Penguin shifted spammy backlinks toward page-level devaluation. SEO efforts are better spent on useful content, UX, and earning credible links. Treat disavow as a targeted response to a confirmed manual action, not routine backlink cleanup."
+    },
+    {
+      "ref": 11,
+      "section": "MISCELLANEOUS",
+      "heading": "HOW NETFLIX MEASURES THE MARKETING YOU CANNOT A/B TEST (5 MINUTE READ)",
+      "url": "https://karandhir.substack.com/p/how-netflix-measures-the-marketing?utm_source=tldrmarketing",
+      "blurb": "Netflix uses geographic holdouts to measure channels that can't be A/B tested at the user level, including TV, OOH, and sponsorships. The approach measures incremental impact but requires careful decisions around test size, timing, media spillover, and carryover. Repeating tests builds stronger evidence, while campaigns without historical data require different methodologies. The challenge is getting leadership to protect test windows and accept the tradeoff between media delivery and measurement certainty."
+    },
+    {
+      "ref": 12,
+      "section": "MISCELLANEOUS",
+      "heading": "THE AI HOURS NOBODY ON YOUR MARKETING TEAM IS COUNTING (6 MINUTE READ)",
+      "url": "https://www.growth-memo.com/p/the-ai-hours-nobody-on-your-marketing?utm_source=tldrmarketing",
+      "blurb": "Every AI workflow becomes a small maintenance job once it ships. Models change, connected tools get updated, and new edge cases surface. The person who built it is often the only one who knows how to fix it, so the workflow can quickly revert to manual when they're unavailable. Teams rarely plan for this upkeep, leaving it to compete with slower, harder-to-measure work like building visibility and trust."
+    },
+    {
+      "ref": 14,
+      "section": "QUICK LINKS",
+      "heading": "AI CHATBOTS TALKED 57.5% OF AI USERS OUT OF BUYING (12 MINUTE READ)",
+      "url": "https://www.semrush.com/blog/ai-chatbots-talk-ai-users-out-of-buying/#consumers-turn-to-ai-en-masse-for-product-research?utm_source=tldrmarketing",
+      "blurb": "AI chatbots now influence purchases in both directions, persuading 57.5% of AI users to buy and 57.5% to walk away."
+    },
+    {
+      "ref": 15,
+      "section": "QUICK LINKS",
+      "heading": "WHY NVIDIA IS BUYING HUGGING FACE (3 MINUTE READ)",
+      "url": "https://cafetechinenglish.substack.com/p/why-nvidia-is-buying-hugging-face?utm_source=tldrmarketing",
+      "blurb": "Nvidia plans to acquire Hugging Face for $12.9B to strengthen the open-source AI ecosystem around its chips."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 8,
+      "section": null,
+      "heading": "\ud83c\udfaf GET A FREE AI VISIBILITY REPORT FOR YOUR BRAND (SPONSOR)",
+      "url": "https://www.evertune.ai/lp/generative-engine-optimization-platform?utm_medium=email&utm_source=tldr&utm_campaign=ai-visibility-report&utm_content=tldr-marketing-secondary-090826",
+      "blurb": "Your buyers are using AI from first search to final decision. See what they're seeing with a free report from Evertune [8] - the marketing platform for brand discovery in AI search. Find visibility gaps, learn which sites get cited, and generate optimized content with a purpose-built agent. Book a demo for your free report [8]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 13,
+      "section": "QUICK LINKS",
+      "heading": "MARKETING RESUME TIPS (2 MINUTE READ)",
+      "url": "https://www.linkedin.com/posts/alexandra-prochshenko_were-hiring-so-my-friends-send-me-their-share-7501293919918288897-Y-Zs/?utm_source=tldrmarketing",
+      "blurb": "8 tips to tailor your marketing resume to the job you want.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    }
+  ]
+}

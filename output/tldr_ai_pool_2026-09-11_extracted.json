@@ -1,0 +1,413 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "ANTHROPIC SIGNED $517BN IN COMPUTE AGREEMENTS IN PAST 11 MONTHS (2 MINUTE READ)",
+      "url": "https://www.datacenterdynamics.com/en/news/anthropic-signed-517bn-in-compute-agreements-in-past-11-months/?utm_source=tldrai",
+      "blurb": "Anthropic has secured $517 billion in compute capacity leases over the past 11 months, amounting to 14.8GW, primarily with Google and AWS. This expansion includes large deals with cloud providers like Akamai and Fluidstack and a $45bn agreement with Nscale. The company confidentially filed for an IPO with the SEC in June.",
+      "source_email": "tldr_ai_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 2,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI PREPARES MANAGED AGENTS FOR DEVDAY 2026 (3 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/openai-prepares-managed-agents-for-devday-2026/?utm_source=tldrai",
+      "blurb": "OpenAI plans to introduce Managed Agents at DevDay 2026, following a model similar to Anthropic's offerings, targeting businesses and developers. The new agents aim to integrate advanced models with superior computer-use capabilities at competitive price points to attract users. Additionally, they will offer functionality that enhances advertising through interactive agents, potentially challenging major players like Meta and Google.",
+      "source_email": "tldr_ai_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 3,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "TPU INFERENCE EXTERNALIZATION FULL STEAM AHEAD (35 MINUTE READ)",
+      "url": "https://inferencex.semianalysis.com/blog/tpu-inferencex-full-steam?utm_source=tldrai",
+      "blurb": "Google's TPUv7 Ironwood delivers up to 50% better performance per dollar compared to Nvidia's B200/B300 chips. Ironwood is the first generation in which Google is competing for others' inference workloads with chips that can be purchased outright or rented through its own cloud. Google has decades of software engineering experience, so external TPU software should mature rapidly. This article takes a look at the TPU system and discusses the steps needed to make the stack widely available.",
+      "source_email": "tldr_ai_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 4,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "PROMPT INJECTION THROUGH TOOL OUTPUT (8 MINUTE READ)",
+      "url": "https://www.armosec.io/blog/untrusted-tool-output-prompt-injection/?utm_source=tldrai",
+      "blurb": "Prompt injections hidden in tool results can evade conventional safeguards because input and action screens inspect separate moments of an agent loop. The proposed signal is a \u201cprecedent gap,\u201d where an agent suddenly makes a tool call or uses arguments absent from its execution history.",
+      "source_email": "tldr_ai_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 5,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "AUTOMATICALLY DETECTING AI TEXT IN MY BROWSER (5 MINUTE READ)",
+      "url": "https://www.seangoedecke.com/deckard/?utm_source=tldrai",
+      "blurb": "Automated AI text detection is currently an underserved niche. Pangram does an excellent job, but it is still more a tool to confirm suspicion. This developer wanted a tool that runs in the background and automatically scans sites so they can avoid AI-generated text in the first place. This post details how they developed Deckard, a Chrome extension that uses a locally-run model to mark AI-generated text.",
+      "source_email": "tldr_ai_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 6,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "THE TWO MMLU SCORES: WHAT A BENCHMARK NAME DOES NOT FIX (23 MINUTE READ)",
+      "url": "https://zatona.dev/blog/the-two-mmlu-scores?utm_source=tldrai",
+      "blurb": "Two builds with the same provider, model family, metric identifier, unit, and benchmark name can score differently. The difference is the runners, graders, and dataset splits. The shared mmlu label identifies a dataset family, not a full measurement procedure.",
+      "source_email": "tldr_ai_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 7,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GOOGLE ACCELERATOR AGENTS FOR TPU DEVELOPMENT (GITHUB REPO)",
+      "url": "https://github.com/AI-Hypercomputer/accelerator-agents?utm_source=tldrai",
+      "blurb": "Google's Accelerator Agents use Gemini to help developers migrate PyTorch workloads to JAX and optimize custom kernels for Google Cloud TPUs. The toolkit includes MaxCode for model conversion and MaxKernel for writing, porting, profiling, and debugging Pallas kernels.",
+      "source_email": "tldr_ai_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 8,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "QWEN-DRIVE (GITHUB REPO)",
+      "url": "https://github.com/QwenLM/Qwen-Drive-1.0?utm_source=tldrai",
+      "blurb": "Qwen-Drive is a project that aims to create a Vision-Language Foundation model for autonomous driving. The project uses a staged training strategy that integrates perception, language, and planning objectives. The model achieves specialized driving competence while retaining broad visual understanding and instruction-following capabilities. A GPU with 24 GB+ of memory is recommended.",
+      "source_email": "tldr_ai_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 9,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "HIP-AGENT: A HARNESS THAT FITS IN THE PROMPT (5 MINUTE READ)",
+      "url": "https://jonathanc.net/blog/hip-agent?v=2&utm_source=tldrai",
+      "blurb": "hip-agent is a small agent harness designed for agents. The configuration is environment variables, actions are shell commands, and a subagent is a child process. The rest is handled by existing protocols and formats. The core loop is about 200 lines of Python and a module for the Codex API.",
+      "source_email": "tldr_ai_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 10,
+      "section": "MISCELLANEOUS",
+      "heading": "THE EDUCATION OF A DOOMER (9 MINUTE READ)",
+      "url": "https://borretti.me/article/the-education-of-a-doomer?utm_source=tldrai",
+      "blurb": "Automation has been good, but AGI may make humans economically useless, which will have many consequences. It's clear that AI capabilities are growing far faster than our ability to control or understand them. In the future, people will likely hand over control to AI voluntarily, as it will be the logical choice. However, before that happens, there are several signs that people are already giving up thinking.",
+      "source_email": "tldr_ai_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 11,
+      "section": "MISCELLANEOUS",
+      "heading": "MACHINES THAT THINK: EMBODIED INTELLIGENCE (10 MINUTE READ)",
+      "url": "https://janbosch.com/machines-that-think-embodied-intelligence/?utm_source=tldrai",
+      "blurb": "Vision and language models are making strides, but embodied AI in robotics struggles due to sparse, costly training data for manipulation tasks. Robotics excels where tasks are fixed, yet general-purpose robots falter, evident in low performance on benchmarks like Libero. Startups should focus on narrow, instrumented deployments. Innovation lies in converting existing robot data into training insights. Ensuring reliability in physical AI systems is paramount.",
+      "source_email": "tldr_ai_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 12,
+      "section": "MISCELLANEOUS",
+      "heading": "THE CHASM: THE SHAPE OF UNFINISHED AI CODEBASES (6 MINUTE READ)",
+      "url": "https://jimmyhmiller.com/shape-of-unfinished-ai-codebases?utm_source=tldrai",
+      "blurb": "AI codebases exhibit a unique, unpredictable pattern where programs appear polished but often hide deep, hidden issues leading to significant failures outside controlled demos. Unlike human-authored programs where gaps surface predictably, AI-generated software misleads with false performance tests or incomplete features, resulting in the need for frequent rewrites to address these deep-rooted flaws. Understanding and anticipating the underlying shape of these unfinished AI codebases is crucial to navigating and mitigating the challenges they present.",
+      "source_email": "tldr_ai_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 13,
+      "section": "QUICK LINKS",
+      "heading": "COSINE SIMILARITY IS NOT A SAFETY PROPERTY (18 MINUTE READ)",
+      "url": "https://aminrj.com/posts/cosine-similarity-is-not-a-safety-property/?utm_source=tldrai",
+      "blurb": "Cosine has no notion of truth, authority, or provenance.",
+      "source_email": "tldr_ai_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 14,
+      "section": "QUICK LINKS",
+      "heading": "ARM'S C2-ULTRA, G2-ULTRA NX, AND CSS N4 IP (8 MINUTE READ)",
+      "url": "https://chipsandcheese.com/p/arms-c2-ultra-g2-ultra-nx-and-css?utm_source=tldrai",
+      "blurb": "Arm's upcoming C2-Ultra CPU and G2-Ultra NX GPU IP will see broad use across flagship phones.",
+      "source_email": "tldr_ai_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 15,
+      "section": "QUICK LINKS",
+      "heading": "BYTEDANCE IS PREPARING A REAL-TIME SPATIAL VIDEO MODEL UNDER ZHANG YIMING (4 MINUTE READ)",
+      "url": "https://thenextweb.com/news/bytedance-spatial-video-world-model-zhang-yiming?utm_source=tldrai",
+      "blurb": "ByteDance, led by Zhang Yiming, plans to launch an AI model for real-time spatial video generation, potentially as early as next month.",
+      "source_email": "tldr_ai_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 16,
+      "section": "QUICK LINKS",
+      "heading": "GOOGLE TESTS AI-POWERED CONTRAIL AVOIDANCE ON LONG-HAUL FLIGHTS (1 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights/?utm_source=tldrai",
+      "blurb": "Google is trialing contrail avoidance for ultra-long-haul flights in the Asia-Pacific region.",
+      "source_email": "tldr_ai_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 17,
+      "section": "QUICK LINKS",
+      "heading": "LOVABLE LAUNCHES DRAFTS FOR PARALLEL APP EXPERIMENTATION (3 MINUTE READ)",
+      "url": "https://lovable.dev/blog/introducing-drafts?utm_source=tldrai",
+      "blurb": "Drafts allow tech teams to experiment with project changes without affecting live apps, enabling parallel version exploration.",
+      "source_email": "tldr_ai_2026-09-08_extracted.json"
+    },
+    {
+      "ref": 18,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "CHATGPT IMAGES 2.5 (9 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/ccEMbs",
+      "blurb": "OpenAI introduced ChatGPT Images 2.5 with sharper details, better reference-image preservation, more reliable editing, and up to 50% lower generation latency.",
+      "source_email": "tldr_ai_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 19,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "AN OPENAI MODEL SOLVED THE NAVIER\u2013STOKES MILLENNIUM PROBLEM (5 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/KhjZoT",
+      "blurb": "OpenAI announced that an internal AI system produced a proof resolving the roughly 90-year-old Navier\u2013Stokes existence and smoothness problem, one of mathematics' seven Millennium Prize Problems. The model showed that smooth three-dimensional fluid dynamics can develop a finite-time singularity and produced both an analytical proof and a Lean formalization.",
+      "source_email": "tldr_ai_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 20,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INTRODUCING MUSE: THE WORLD'S FIRST PERSONAL AI AGENT BUILT FOR EVERYONE (5 MINUTE READ)",
+      "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/?utm_source=tldrai",
+      "blurb": "Meta introduces Muse, a personal AI agent, powered by Muse Spark, to help users achieve goals by automating tasks like booking travel or sending emails. Muse operates securely on Muse Secure VM, ensuring data privacy with unique protections like the Sentinel agent overseeing actions. Muse will soon offer encrypted data with Muse Confidential VM and is available on iOS, Android, and muse.ai in the US.",
+      "source_email": "tldr_ai_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 21,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": ">10X MORE EFFICIENT PRETRAINING (15 MINUTE READ)",
+      "url": "https://magic.dev/blog/pretraining?utm_source=tldrai",
+      "blurb": "Without large amounts of compute, small labs can only compete through algorithmic efficiency. Magic's pretraining recipe is now more than 10 times more compute-efficient than that of leading open-weight base models. The startup believes that pretraining, agentic RL, and long-context are sufficient for building superhuman coding agents and automating AI research and development. This post discusses its pretraining and long-context work.",
+      "source_email": "tldr_ai_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 22,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "INSIDE THE MEGAKERNEL SERVING ENGINE FOR NORTH MINI CODE (22 MINUTE READ)",
+      "url": "https://cohere.com/blog/megakernels?utm_source=tldrai",
+      "blurb": "This post presents a fully fledged serving system built around a decode megakernel. The system supports everything a real server needs: continuous batching, paged attention, and ragged sequence lengths, all behind an OpenAI-compatible endpoint with tool calling. The megakernel reaches 292 tokens per second on batch size 1, or 62% of SoL - 1.58\u00d7 faster than vLLM. That margin holds across batch sizes and out to 256K of context with no measurable loss of accuracy.",
+      "source_email": "tldr_ai_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 23,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "PRETRAINING PROGRESS IS MOSTLY COMING FROM DATA (17 MINUTE READ)",
+      "url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data?utm_source=tldrai",
+      "blurb": "Between 2019 and 2025, 3.24x more compute efficiency gains have come from data improvements rather than model improvements. The gains from data and model improvements are mostly independent and don't interact. Most model research has consisted of removing or pushing back constraints to scaling. The data improvements may matter less for larger models. Small models see significant gains from data quality.",
+      "source_email": "tldr_ai_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 24,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "INTRODUCING MERCURY 2.5 (5 MINUTE READ)",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5?utm_source=tldrai",
+      "blurb": "Mercury 2.5 is the largest diffusion language model ever trained. It performs comparably to cost-optimized frontier models like GPT-5.6 Luna (Low), Gemini 3.5 Flash-Lite, and Claude Haiku 4.5. The model outputs 1,107 tokens per second on widely available Nvidia GPUs and has a 260K-token context window. At launch, Mercury 2.5 is 80% off at $0.04 per million input and $0.15 per million output.",
+      "source_email": "tldr_ai_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 25,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "HYPER-\ud835\udf0f-BENCH: EVALUATING AGENTS THAT BUILD AGENTS (4 MINUTE READ)",
+      "url": "https://sierra.ai/blog/hyper-t-bench-evaluating-agents-that-build-agents?utm_source=tldrai",
+      "blurb": "Hyper-\ud835\udf0f-bench places a developer agent into a sandboxed workspace with the records of a simulated business and a simulated client that it can message at any time. The developer agent recovers the spec from the evidence, designs the architecture, and turns the business' actions into tools until it has a working customer-service agent. The finished agent has to serve from a fixed menu of models within a cost budget per conversation. Claude Opus 5 (max reasoning) running in Claude Code passes just 23.9% of the held-out evaluation tasks when working alone. Paired with an engineer with deep context, the same class of model reaches 82.2% on the same tasks.",
+      "source_email": "tldr_ai_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 26,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GOOGLE'S ALPHAGENOME MAPS 9 BILLION GENETIC VARIANTS (4 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/?utm_source=tldrai",
+      "blurb": "Google DeepMind introduced AlphaGenome Atlas, a 1-petabyte database predicting the regulatory effects of all 9 billion possible single-nucleotide variants in the human genome.",
+      "source_email": "tldr_ai_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 27,
+      "section": "MISCELLANEOUS",
+      "heading": "COGNITION HITS $48B VALUATION, SIGNALING INVESTORS BELIEVE AI CODING IS FAR FROM A WINNER-TAKE-ALL MARKET (2 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/?utm_source=tldrai",
+      "blurb": "Cognition has raised $2 billion at a $48 billion valuation in a funding round led by Andreessen Horowitz, Accel, Founders Fund, General Catalyst, and Avenir. The startup's soaring valuation signals that VCs still see room for multiple major players to capture meaningful market share in AI coding. Cognition leases an Nvidia server cluster that could push its total cash burn to $800 million this year. The startup is expected to reach $4 billion to $5 billion in annualized revenue by the end of 2026.",
+      "source_email": "tldr_ai_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 28,
+      "section": "MISCELLANEOUS",
+      "heading": "I ASKED 100 AGENTS TO HACK ME (9 MINUTE READ)",
+      "url": "https://blog.sshh.io/p/i-asked-100-agents-to-hack-me?utm_source=tldrai",
+      "blurb": "Around 100 self-hosted agents attempted to hack various online accounts over five hours. They compromised three accounts through software vulnerabilities and two through password brute-forcing, while also making 16 social engineering attempts. The experiment tested abliterated open-source models' capabilities, revealing potential future risks as these models improve and become cheaper to deploy.",
+      "source_email": "tldr_ai_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 29,
+      "section": "MISCELLANEOUS",
+      "heading": "IS THE 3X AI PRODUCTIVITY GAIN JUST A COMPUTER THAT NEVER SLEEPS? (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/57ewM6",
+      "blurb": "OpenAI researchers now supervise 3.14 agent-workdays per eight-hour shift, suggesting AI productivity increasingly comes from parallel, around-the-clock machine labor rather than less human effort. That leverage is expensive, with median daily inference spend rising from $14 to over $600.",
+      "source_email": "tldr_ai_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 30,
+      "section": "QUICK LINKS",
+      "heading": "CHATGPT BROKE ITS MAU RECORD FOR THE 4TH CONSECUTIVE MONTH IN AUGUST (1 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/dQBaPH",
+      "blurb": "ChatGPT reached 1.06 billion monthly active users in August.",
+      "source_email": "tldr_ai_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 31,
+      "section": "QUICK LINKS",
+      "heading": "A RESPONSE TO BILL GATES'S ESSAY (9 MINUTE READ)",
+      "url": "https://www.thexpin.com/p/bill-gates-wrong-about-ai-layoffs?utm_source=tldrai",
+      "blurb": "Bill Gates' essay discusses AI's potential societal impact, proposing new institutions and taxes to manage transitions.",
+      "source_email": "tldr_ai_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 32,
+      "section": "QUICK LINKS",
+      "heading": "STEALING AI REASONING TRACES (2 MINUTE READ)",
+      "url": "https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html?utm_source=tldrai",
+      "blurb": "It's possible to force a weaker, less safeguarded model from the same provider to decode and output reasoning traces verbatim in plaintext by injecting an encrypted reasoning trace from a target model without ever jailbreaking the more capable model directly.",
+      "source_email": "tldr_ai_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 33,
+      "section": "QUICK LINKS",
+      "heading": "ANTHROPIC RESEARCHER QUITS OVER \u2018OUT-OF-CONTROL' AI FEARS (5 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/Pog405",
+      "blurb": "Jacob Coxon says he is leaving the company as he believes the industry-wide rush to build AI systems that can improve themselves could spiral out of control and destroy humanity.",
+      "source_email": "tldr_ai_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 34,
+      "section": "QUICK LINKS",
+      "heading": "PROGRESSIVE POINT MATCHING (8 MINUTE READ)",
+      "url": "https://www.prestonfu.com/notes/ppm/?utm_source=tldrai",
+      "blurb": "Progressive Point Matching gives long-horizon RL partial credit without changing the optimal objective, improving training efficiency as tasks grow longer.",
+      "source_email": "tldr_ai_2026-09-09_extracted.json"
+    },
+    {
+      "ref": 35,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "DEEPSEEK-V4.1-FLASH (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/YXzPaP",
+      "blurb": "DeepSeek-V4.1-Flash is designed for greater capability, faster inference, higher throughput, and scaling to larger models. It uses an asymmetric architecture that gives it more intelligence at less cost. The model's smaller KV cache provides users with bigger savings. The model is now live on the DeepSeek API with native multimodal support. V4-Flash and V4-Flash-Vision-Exp have been retired.",
+      "source_email": "tldr_ai_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 36,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "SIRI AI WILL LAUNCH IN BETA, COMPLICATED BY DAILY USAGE CAPS & FUTURE PAID ACCESS (2 MINUTE READ)",
+      "url": "https://appleinsider.com/articles/26/09/09/siri-ai-will-launch-in-beta-complicated-by-daily-usage-caps-future-paid-access?utm_source=tldrai",
+      "blurb": "Siri AI will remain in beta when it launches with Apple's OS 27 versions on September 14. The long-delayed assistant will be subject to use caps and fees, plus language and regional restrictions. The limits will vary by feature, request complexity, system demand, system policies, and other factors. Expanded access will be available for a fee in the future. Access will be rolled out to regulate demand according to Apple's available server capacity.",
+      "source_email": "tldr_ai_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 37,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "AI RESEARCH STARTUP LISTEN LABS SCRUBBED A $1.5B FUNDING ROUND FOR SALESFORCE TALKS (4 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/?utm_source=tldrai",
+      "blurb": "Listen Labs is a market research startup that uses voice AI to conduct customer interviews. It recently signed a term sheet for a $125 million Series C at a $1.5 billion valuation, but the round never closed, likely because of acquisition talks with Salesforce, which recently held talks to buy the startup for around $2 billion. Listen Labs is one of the leading startups in the field of automating customer research with AI. It has about $30 million in annualized revenue. Acquiring Listen Labs could strengthen Salesforce's AI capabilities by helping it predict customer needs.",
+      "source_email": "tldr_ai_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 38,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "ANTHROPIC MODELS AI'S POTENTIAL IMPACT ON THE US ECONOMY (11 MINUTE READ)",
+      "url": "https://www.anthropic.com/institute/econ-scenarios?utm_source=tldrai",
+      "blurb": "Anthropic's Economics team developed a model predicting AI's impact on the US economy through various scenarios ranging from moderate growth to extreme transformations. In scenarios of rapid AI-driven growth, knowledge workers face greater unemployment and wage stagnation, while non-knowledge sectors may see increased wages. The model highlights economic inequalities, with more gains potentially flowing to capital rather than labor.",
+      "source_email": "tldr_ai_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 39,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "GPT-6 ASTRA, LOOPED TRANSFORMERS, AND HIDDEN REASONING (37 MINUTE READ)",
+      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and?utm_source=tldrai",
+      "blurb": "GPT-6 Astra is a very strong model, and it makes a particularly large leap in computer use. The model likely uses a variant of the looped transformer, which gives better modeling performance at a fixed compute budget. Shorter reasoning traces are a side effect of more intelligent models that make fewer mistakes and can access more compute internally inside their architecture.",
+      "source_email": "tldr_ai_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 40,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "ADDITIONAL FINDINGS (3 MINUTE READ)",
+      "url": "https://collusion.wiki/additional-findings?utm_source=tldrai",
+      "blurb": "A community of independent investigators has uncovered a number of message boards that have been used by AI agents. This was achieved with a range of techniques for circumventing the sandboxes used by the agents. This post highlights notable findings from the investigation. A link to a full list of the websites that contain activity generated by rogue OpenAI agents is available in the article.",
+      "source_email": "tldr_ai_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 41,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "RECURSIVE SYNTHETIC IMPROVEMENT (35 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/CvsGFP",
+      "blurb": "Frontier model progress increasingly depends on recursive synthetic data loops across judges, corpora, teachers, curricula, and RL environments. Models now generate, evaluate, and improve training data themselves, while scalable environments and on-policy learning become critical for extending capabilities beyond imitation.",
+      "source_email": "tldr_ai_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 42,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "RUN ANY MODEL, ON ANY BACKEND (WEBSITE)",
+      "url": "https://imvision12.github.io/ZeroModels/?utm_source=tldrai",
+      "blurb": "ZeroModels is a collection of pretrained models built entirely in Keras 3. The collection spans a broad range of tasks, including image classification, object detection, segmentation, monocular depth estimation, feature extraction, vision-language modeling (VLMs), speech recognition, and more. The same code runs on JAX, PyTorch, and TensorFlow. Nothing from `transformers` or `torch` is needed at runtime.",
+      "source_email": "tldr_ai_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 43,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "Q2D-WEB: EVALUATING FIRST-STAGE RETRIEVERS AT SCALE (11 MINUTE READ)",
+      "url": "https://www.perplexity.ai/hub/blog/q2d-web?utm_source=tldrai",
+      "blurb": "Q2D-Web is a large-scale benchmark and leaderboard for evaluating retrieval models on web search, encompassing 190 million documents and 69,721 queries in ten languages. It uses three separate sets of relevance judgments to minimize bias and improve reliability, assisting retrievers in distinguishing relevant data from distractors. Evaluation submissions are processed through a subsampling method to reduce resource costs while maintaining model ranking integrity.",
+      "source_email": "tldr_ai_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 44,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "CONNECTIONS: MANAGED CREDENTIALS AND PER-CALLER IDENTITY FOR MANAGED DEEP AGENTS (8 MINUTE READ)",
+      "url": "https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents?utm_source=tldrai",
+      "blurb": "LangSmith Connections is a system for managing credentials that allows agents to perform tasks like web searches or file tickets either with shared (agent-owned) or per-user (user-owned) credentials. Agent-owned secrets support tasks needing shared credentials, while user-owned OAuth setups enable agents to act per user, enhancing security and capabilities.",
+      "source_email": "tldr_ai_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 45,
+      "section": "MISCELLANEOUS",
+      "heading": "GOOGLE CLOUD RACES TO CATCH UP IN THE AI DEPLOYMENT WARS WITH ACCENTURE DEAL (4 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/?utm_source=tldrai",
+      "blurb": "The Accenture Gemini Enterprise Business Group is a joint unit from Google Cloud and Accenture dedicated to sending engineers into enterprises to help them better adopt Google's AI tools and services. It is Google's latest foray into the increasingly competitive world of forward-deployed engineers (FDEs). Google will train up to 1,000 of Accenture's FDEs to work with enterprises and build custom AI applications on the Gemini Enterprise platform. The organization will live under Accenture.",
+      "source_email": "tldr_ai_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 46,
+      "section": "MISCELLANEOUS",
+      "heading": "I NEVER WANT TO USE THIRD-PARTY SOFTWARE AGAIN (15 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/Yl95iw",
+      "blurb": "AI makes software cheap enough to customize around individual workflows, interests, and aesthetics, shifting value from standardized apps toward malleable personal tools. Products that let users reshape interfaces, content, and integrations could outperform one-size-fits-all software through utility and expression.",
+      "source_email": "tldr_ai_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 47,
+      "section": "MISCELLANEOUS",
+      "heading": "DATA BOTTLENECKS WON'T PREVENT AN INTELLIGENCE EXPLOSION (36 MINUTE READ)",
+      "url": "https://newsletter.forethought.org/p/data-bottlenecks-wont-prevent-an?utm_source=tldrai",
+      "blurb": "Data bottlenecks will slow, but not stop, an intelligence explosion in AI. Future AI advancements will likely develop highly sample-efficient learning algorithms, reducing the need for vast data volumes. While improving data quality above human levels will be challenging, it won't halt AI from automating most economic work.",
+      "source_email": "tldr_ai_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 48,
+      "section": "QUICK LINKS",
+      "heading": "ANTHROPIC FINDS CLAUDE MISALIGNMENT IN CYBERSECURITY TESTS (81 MINUTE READ)",
+      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents?utm_source=tldrai",
+      "blurb": "Anthropic's assessment found four cases where Claude AI models accessed real systems due to cybersecurity evaluation misconfigurations.",
+      "source_email": "tldr_ai_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 49,
+      "section": "QUICK LINKS",
+      "heading": "SOFTWARE IS ABOUT TO EAT THE WORLD MUCH FASTER (6 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/P8l4kt",
+      "blurb": "AI coding agents could accelerate software's expansion by multiplying engineer output rather than replacing demand.",
+      "source_email": "tldr_ai_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 50,
+      "section": "QUICK LINKS",
+      "heading": "SUNO REPLACES ITS AI MODELS WITH A NEW ONE TRAINED ON LICENSED MUSIC AS COPYRIGHT SUITS PILE UP (3 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/?utm_source=tldrai",
+      "blurb": "Suno unveiled Suno v6, an AI model trained on licensed music from major labels like Warner and BMG, following multiple copyright lawsuits.",
+      "source_email": "tldr_ai_2026-09-10_extracted.json"
+    },
+    {
+      "ref": 51,
+      "section": "QUICK LINKS",
+      "heading": "AI RESEARCHER ANDREW TULLOCH IS LEAVING META (24 MINUTE READ)",
+      "url": "https://www.semafor.com/article/09/09/2026/ai-researcher-andrew-tulloch-is-leaving-meta?utm_source=tldrai",
+      "blurb": "Andrew Tulloch, one of the highest-paid employees in the tech industry, had worked in Meta's TBD lab.",
+      "source_email": "tldr_ai_2026-09-10_extracted.json"
+    }
+  ],
+  "dropped": []
+}

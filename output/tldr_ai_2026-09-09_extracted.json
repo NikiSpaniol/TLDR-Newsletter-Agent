@@ -1,0 +1,149 @@
+{
+  "kept": [
+    {
+      "ref": 7,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "CHATGPT IMAGES 2.5 (9 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/ccEMbs",
+      "blurb": "OpenAI introduced ChatGPT Images 2.5 with sharper details, better reference-image preservation, more reliable editing, and up to 50% lower generation latency."
+    },
+    {
+      "ref": 8,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "AN OPENAI MODEL SOLVED THE NAVIER\u2013STOKES MILLENNIUM PROBLEM (5 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/KhjZoT",
+      "blurb": "OpenAI announced that an internal AI system produced a proof resolving the roughly 90-year-old Navier\u2013Stokes existence and smoothness problem, one of mathematics' seven Millennium Prize Problems. The model showed that smooth three-dimensional fluid dynamics can develop a finite-time singularity and produced both an analytical proof and a Lean formalization."
+    },
+    {
+      "ref": 9,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INTRODUCING MUSE: THE WORLD'S FIRST PERSONAL AI AGENT BUILT FOR EVERYONE (5 MINUTE READ)",
+      "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/?utm_source=tldrai",
+      "blurb": "Meta introduces Muse, a personal AI agent, powered by Muse Spark, to help users achieve goals by automating tasks like booking travel or sending emails. Muse operates securely on Muse Secure VM, ensuring data privacy with unique protections like the Sentinel agent overseeing actions. Muse will soon offer encrypted data with Muse Confidential VM and is available on iOS, Android, and muse.ai in the US."
+    },
+    {
+      "ref": 10,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": ">10X MORE EFFICIENT PRETRAINING (15 MINUTE READ)",
+      "url": "https://magic.dev/blog/pretraining?utm_source=tldrai",
+      "blurb": "Without large amounts of compute, small labs can only compete through algorithmic efficiency. Magic's pretraining recipe is now more than 10 times more compute-efficient than that of leading open-weight base models. The startup believes that pretraining, agentic RL, and long-context are sufficient for building superhuman coding agents and automating AI research and development. This post discusses its pretraining and long-context work."
+    },
+    {
+      "ref": 11,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "INSIDE THE MEGAKERNEL SERVING ENGINE FOR NORTH MINI CODE (22 MINUTE READ)",
+      "url": "https://cohere.com/blog/megakernels?utm_source=tldrai",
+      "blurb": "This post presents a fully fledged serving system built around a decode megakernel. The system supports everything a real server needs: continuous batching, paged attention, and ragged sequence lengths, all behind an OpenAI-compatible endpoint with tool calling. The megakernel reaches 292 tokens per second on batch size 1, or 62% of SoL - 1.58\u00d7 faster than vLLM. That margin holds across batch sizes and out to 256K of context with no measurable loss of accuracy."
+    },
+    {
+      "ref": 12,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "PRETRAINING PROGRESS IS MOSTLY COMING FROM DATA (17 MINUTE READ)",
+      "url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data?utm_source=tldrai",
+      "blurb": "Between 2019 and 2025, 3.24x more compute efficiency gains have come from data improvements rather than model improvements. The gains from data and model improvements are mostly independent and don't interact. Most model research has consisted of removing or pushing back constraints to scaling. The data improvements may matter less for larger models. Small models see significant gains from data quality."
+    },
+    {
+      "ref": 16,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "INTRODUCING MERCURY 2.5 (5 MINUTE READ)",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5?utm_source=tldrai",
+      "blurb": "Mercury 2.5 is the largest diffusion language model ever trained. It performs comparably to cost-optimized frontier models like GPT-5.6 Luna (Low), Gemini 3.5 Flash-Lite, and Claude Haiku 4.5. The model outputs 1,107 tokens per second on widely available Nvidia GPUs and has a 260K-token context window. At launch, Mercury 2.5 is 80% off at $0.04 per million input and $0.15 per million output."
+    },
+    {
+      "ref": 17,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "HYPER-\ud835\udf0f-BENCH: EVALUATING AGENTS THAT BUILD AGENTS (4 MINUTE READ)",
+      "url": "https://sierra.ai/blog/hyper-t-bench-evaluating-agents-that-build-agents?utm_source=tldrai",
+      "blurb": "Hyper-\ud835\udf0f-bench places a developer agent into a sandboxed workspace with the records of a simulated business and a simulated client that it can message at any time. The developer agent recovers the spec from the evidence, designs the architecture, and turns the business' actions into tools until it has a working customer-service agent. The finished agent has to serve from a fixed menu of models within a cost budget per conversation. Claude Opus 5 (max reasoning) running in Claude Code passes just 23.9% of the held-out evaluation tasks when working alone. Paired with an engineer with deep context, the same class of model reaches 82.2% on the same tasks."
+    },
+    {
+      "ref": 18,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GOOGLE'S ALPHAGENOME MAPS 9 BILLION GENETIC VARIANTS (4 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/?utm_source=tldrai",
+      "blurb": "Google DeepMind introduced AlphaGenome Atlas, a 1-petabyte database predicting the regulatory effects of all 9 billion possible single-nucleotide variants in the human genome."
+    },
+    {
+      "ref": 19,
+      "section": "MISCELLANEOUS",
+      "heading": "COGNITION HITS $48B VALUATION, SIGNALING INVESTORS BELIEVE AI CODING IS FAR FROM A WINNER-TAKE-ALL MARKET (2 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/?utm_source=tldrai",
+      "blurb": "Cognition has raised $2 billion at a $48 billion valuation in a funding round led by Andreessen Horowitz, Accel, Founders Fund, General Catalyst, and Avenir. The startup's soaring valuation signals that VCs still see room for multiple major players to capture meaningful market share in AI coding. Cognition leases an Nvidia server cluster that could push its total cash burn to $800 million this year. The startup is expected to reach $4 billion to $5 billion in annualized revenue by the end of 2026."
+    },
+    {
+      "ref": 20,
+      "section": "MISCELLANEOUS",
+      "heading": "I ASKED 100 AGENTS TO HACK ME (9 MINUTE READ)",
+      "url": "https://blog.sshh.io/p/i-asked-100-agents-to-hack-me?utm_source=tldrai",
+      "blurb": "Around 100 self-hosted agents attempted to hack various online accounts over five hours. They compromised three accounts through software vulnerabilities and two through password brute-forcing, while also making 16 social engineering attempts. The experiment tested abliterated open-source models' capabilities, revealing potential future risks as these models improve and become cheaper to deploy."
+    },
+    {
+      "ref": 21,
+      "section": "MISCELLANEOUS",
+      "heading": "IS THE 3X AI PRODUCTIVITY GAIN JUST A COMPUTER THAT NEVER SLEEPS? (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/57ewM6",
+      "blurb": "OpenAI researchers now supervise 3.14 agent-workdays per eight-hour shift, suggesting AI productivity increasingly comes from parallel, around-the-clock machine labor rather than less human effort. That leverage is expensive, with median daily inference spend rising from $14 to over $600."
+    },
+    {
+      "ref": 24,
+      "section": "QUICK LINKS",
+      "heading": "CHATGPT BROKE ITS MAU RECORD FOR THE 4TH CONSECUTIVE MONTH IN AUGUST (1 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/dQBaPH",
+      "blurb": "ChatGPT reached 1.06 billion monthly active users in August."
+    },
+    {
+      "ref": 25,
+      "section": "QUICK LINKS",
+      "heading": "A RESPONSE TO BILL GATES'S ESSAY (9 MINUTE READ)",
+      "url": "https://www.thexpin.com/p/bill-gates-wrong-about-ai-layoffs?utm_source=tldrai",
+      "blurb": "Bill Gates' essay discusses AI's potential societal impact, proposing new institutions and taxes to manage transitions."
+    },
+    {
+      "ref": 26,
+      "section": "QUICK LINKS",
+      "heading": "STEALING AI REASONING TRACES (2 MINUTE READ)",
+      "url": "https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html?utm_source=tldrai",
+      "blurb": "It's possible to force a weaker, less safeguarded model from the same provider to decode and output reasoning traces verbatim in plaintext by injecting an encrypted reasoning trace from a target model without ever jailbreaking the more capable model directly."
+    },
+    {
+      "ref": 27,
+      "section": "QUICK LINKS",
+      "heading": "ANTHROPIC RESEARCHER QUITS OVER \u2018OUT-OF-CONTROL' AI FEARS (5 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/Pog405",
+      "blurb": "Jacob Coxon says he is leaving the company as he believes the industry-wide rush to build AI systems that can improve themselves could spiral out of control and destroy humanity."
+    },
+    {
+      "ref": 28,
+      "section": "QUICK LINKS",
+      "heading": "PROGRESSIVE POINT MATCHING (8 MINUTE READ)",
+      "url": "https://www.prestonfu.com/notes/ppm/?utm_source=tldrai",
+      "blurb": "Progressive Point Matching gives long-horizon RL partial credit without changing the optimal objective, improving training efficiency as tasks grow longer."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "YOUR BLUEPRINT FOR AI GOVERNANCE (SPONSOR)",
+      "url": "https://wandb.ai/site/resources/whitepapers/operationalizing-ai-governance/?utm_source=tldr-ai&utm_medium=&utm_campaign=2026-q3_global_ai-governance&utm_content=9-9-26_header_blueprint_ai_governance&utm_term=newsletter",
+      "blurb": "Many organizations have AI policies, but far fewer have a practical way to decide whether an agent is ready for production, who signs off, and how that decision gets documented.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GPUS DELIVERED WITH THE INFERENCE STACK FLASHED. AMD INSTINCT\u2122 CODER. (SPONSOR)",
+      "url": "https://www.spectrocloud.com/platform/amd-instinct-coder?utm_medium=email&utm_source=tldr&utm_campaign=ch.email_tp.prs_tgt.ai-newsletter-secondary-9-9-26_con.amd-instinct-coder",
+      "blurb": "Building an inference stack takes months, especially in today's severely supply constrained environment. AMD Instinct\u2122 Coder [14], powered by Spectro Cloud, ships as a Supermicro server with AMD Instinct GPUs and PaletteAI Inference Launchpad [15] already flashed. Serve inference in a day.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "MEET VIKTOR: THE AI EMPLOYEE THAT SKIPS THE \"AGENT\" DEBATE (SPONSOR)",
+      "url": "https://ref.viktor.com/vik-tt-quicklinks2?utm_source=tldrai",
+      "blurb": "OpenAI still can't define \"AI agent.\" Business owners skipped the debate and hired Viktor, an AI employee in Slack & Teams. Dashboards. Apps. Tasks... Start free \u2192 [23]",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}
