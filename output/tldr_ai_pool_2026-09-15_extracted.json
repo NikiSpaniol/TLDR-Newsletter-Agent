@@ -1,0 +1,317 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI LAUNCHES THE AGENTS API (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/2r52Yg",
+      "blurb": "OpenAI introduced the Agents API in public beta, giving developers access to the managed agent harness and infrastructure behind Codex. It handles context, tools, subagents, persistent execution, files, and code environments for agents that can run for extended periods.",
+      "source_email": "tldr_ai_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 2,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "META TO ANNOUNCE SHARED AGENTS FOR MUSE AT META CONNECT (2 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/meta-to-announce-shared-agents-for-muse-at-meta-connect/?utm_source=tldrai",
+      "blurb": "Meta's Muse app will introduce a \"Shared Agents\" feature, allowing users to create customizable agents that can be shared with others, similar to Grokbot's system. This could benefit small businesses already using Meta platforms by enabling specialized agents for workflows like customer support and sales.",
+      "source_email": "tldr_ai_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 3,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI IS OPEN TO SLOWING CUTTING-EDGE AI, CEO SAM ALTMAN TELLS STAFF (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/6f2sBW",
+      "blurb": "OpenAI is considering slowing down development of cutting-edge AI. The company has raised concerns about its advanced AI systems, saying that model development should be paused due to safety concerns. The company's researchers have gone viral for making comments saying OpenAI's technology will kill humanity by the end of the decade.",
+      "source_email": "tldr_ai_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 4,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "AN OPERATIONALIZATION OF OPAQUE SERIAL DEPTH (3 MINUTE READ)",
+      "url": "https://blog.redwoodresearch.org/p/an-operationalization-of-opaque-serial?utm_source=tldrai",
+      "blurb": "Chain-of-thought (CoT) is a valuable tool for overseeing AI models. However, some architectural shifts could significantly reduce CoT monitorability. This study looks at how much unverbalized serial cognition a model can perform.",
+      "source_email": "tldr_ai_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 5,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "DETECTING AND COUNTERING MISUSE OF AI: SEPTEMBER 2026 (5 HOUR READ)",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026?utm_source=tldrai",
+      "blurb": "Anthropic's Threat Intelligence team has identified and disrupted several operations in the past several months where threat actors tried to use Claude for malicious activity. This report shares case studies from those operations and describes how malicious use of Claude has evolved since the company's previous threat reports. The report covers disruptions between December 2025 and August. None of the misuse cases involved the use of Claude Fable or Mythos-class models.",
+      "source_email": "tldr_ai_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 6,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "DOES SCALING WEB-VIDEO PRE-TRAINING HELP REAL ROBOTS DO REAL WORK? (36 MINUTE READ)",
+      "url": "https://www.rhoda.ai/research/scaling-web-video-pretraining?utm_source=tldrai",
+      "blurb": "Larger video models and increased pre-training compute improve robot task performance, confirmed through Direct Video-Action models. Performance gains arise from better predictions of held-out web videos, with larger models excelling in real-world tasks like complex industrial unpacking. Pre-training quality, measured via DINO FD, predicts downstream robot efficiency, enhancing scalability for real deployments.",
+      "source_email": "tldr_ai_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 7,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "MODEL CARD FOR NORTH SMALL TRANSLATE (8 MINUTE READ)",
+      "url": "https://huggingface.co/CohereLabs/North-Small-Translate-1.0?utm_source=tldrai",
+      "blurb": "North Small Translate is an open-weights research release. It has 25 billion active parameters and 218 billion total parameters. The model is specialized for high-quality machine translation across 50 languages.",
+      "source_email": "tldr_ai_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 8,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "INTRODUCING SWE-2: PUSHING THE PARETO FRONTIER (23 MINUTE READ)",
+      "url": "https://cognition.com/blog/swe-2?utm_source=tldrai",
+      "blurb": "SWE-2 pushes the Pareto frontier and achieves 50.0% on FrontierCode 1.1 Main1, while being 64% cheaper. It beats SWE-1.7 and Grok 4.6 on both score and cost, matches GPT-5.6 Sol and Fable 5/5.1 at a fraction of their price, and comes within a few points of GPT-6 Astra at a quarter of the cost.",
+      "source_email": "tldr_ai_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 9,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "OPENCODEREVIEW (GITHUB REPO)",
+      "url": "https://github.com/alibaba/open-code-review?utm_source=tldrai",
+      "blurb": "Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code review assistant \u2014 over the past two years, it has served tens of thousands of developers and identified millions of code defects. It has been validated at massive scale. The agent can read full file contents, search the codebase, inspect other changed files for context, and produce deep reviews.",
+      "source_email": "tldr_ai_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 10,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "OPENAI LAUNCHES GPT-LIVE-1 FOR FULL-DUPLEX VOICE AGENTS (2 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/openai-launches-gpt-live-1-for-full-duplex-voice-agents/?utm_source=tldrai",
+      "blurb": "GPT-Live-1 is now available in the OpenAI API at $0.05 per minute. The model adds full-duplex speech, interruption handling, and 12 voice options. It can listen and speak at the same time, handle interruptions and acknowledgements as they happen, and keep conversations moving while performing deep reasoning or actions. The model can control tone, space, and style through the system prompt. Early tests report 80% fewer interruptions than with previous turn-based systems.",
+      "source_email": "tldr_ai_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 11,
+      "section": "MISCELLANEOUS",
+      "heading": "OPENAI PUTS PRO SUBSCRIPTIONS ON HOLD DUE TO ASTRA DEMAND (2 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/?utm_source=tldrai",
+      "blurb": "OpenAI has paused subscriptions for its $200-per-month Pro plan. The company's Astra model is now rolling out to Pro, Plus, Enterprise, and Business accounts. The model promises a major leap forward in reasoning, coding, and computer use. OpenAI says the model is the beginning of the AGI era.",
+      "source_email": "tldr_ai_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 12,
+      "section": "MISCELLANEOUS",
+      "heading": "WHY THE WORLD'S BEST AI STARTUPS WRITE BAD PROMPTS (& HOW TO FIX THIS) (20 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/OYjxQ3",
+      "blurb": "AI startups often accumulate sprawling prompts full of contradictions and ambiguity as teams continuously add instructions. Treating prompts like product and code, with modular sections for background, behavior, and output, can improve agent quality, reduce regressions, and lower costs.",
+      "source_email": "tldr_ai_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 13,
+      "section": "QUICK LINKS",
+      "heading": "INTRODUCING THE GOOGLE CLOUD DEVELOPER PLUGIN FOR AI CODING AGENTS (4 MINUTE READ)",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents?utm_source=tldrai",
+      "blurb": "Google's new Google Cloud plugin is designed for AI coding agents, featuring installable bundles, agent plugins equip the AI agent of your choice with skills, and tools to be more effective on Google Cloud.",
+      "source_email": "tldr_ai_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 14,
+      "section": "QUICK LINKS",
+      "heading": "META'S WEARABLEQA HEALTH REASONING BENCHMARK (GITHUB REPO)",
+      "url": "https://github.com/facebookresearch/WearableQA?utm_source=tldrai",
+      "blurb": "Meta has released WearableQA, a benchmark with thousands of questions built from real-world wearable data, blood biomarkers, and demographics from 200 users.",
+      "source_email": "tldr_ai_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 15,
+      "section": "QUICK LINKS",
+      "heading": "SALESFORCE FINDS BETTER WAYS TO CO-EVOLVE AGENTS AND THEIR HARNESSES (9 MINUTE READ)",
+      "url": "https://arxiv.org/abs/2609.09134?utm_source=tldrai",
+      "blurb": "Salesforce found that directly training smaller models on expert agent trajectories can hurt performance after their harness has already been optimized.",
+      "source_email": "tldr_ai_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 16,
+      "section": "QUICK LINKS",
+      "heading": "OPENAI LAUNCHES CHATGPT FOR FINANCIAL SERVICES (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/8JXq4v",
+      "blurb": "OpenAI introduced a financial-services version of ChatGPT Work, combining GPT-6 Astra with built-in premium data from popular providers.",
+      "source_email": "tldr_ai_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 17,
+      "section": "QUICK LINKS",
+      "heading": "UNIVERSAL MUSIC IS LAUNCHING AN AI MUSIC PLATFORM WITH ELEVENLABS (2 MINUTE READ)",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai?utm_source=tldrai",
+      "blurb": "Universal Music Group is launching an AI platform with ElevenLabs, allowing users to create remixes and mashups using UMG's licensed music catalog.",
+      "source_email": "tldr_ai_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 18,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "WE MUST PACE THE FRONTIER (23 MINUTE READ)",
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier?utm_source=tldrai",
+      "blurb": "Anthropic CEO Dario Amodei called for slowing the rate of frontier AI capability development and proposed measures including independent evaluators to verify safety commitments and incident reporting.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 19,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INTRODUCING PROJECTS (5 MINUTE READ)",
+      "url": "https://cursor.com/blog/projects?utm_source=tldrai",
+      "blurb": "Cursor Projects lets users take on larger bodies of work. It can maintain context over months of work, delegate tasks to thousands of agents, and perform recurring work without being prompted. Cursor Projects frees developers from managing agents and lets them direct the work itself by moving up a level of abstraction. The tool has been a substantial productivity multiplier at Cursor: new users merge 30% more PRs.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 20,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "ARC-AGI-4 (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/kT6Mtk",
+      "blurb": "ARC Prize believes that open source will be the foundation for advanced AI capable of scientific innovation. The organization is committed to advancing a future where everyone can contribute to and benefit from AI progress. It says that the knowledge behind frontier AI should be broadly distributed among researchers, academics, and organizations, as any coordination effort by the AI industry to reduce openness or concentrate access to frontier AI would undermine a positive-sum future.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 21,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI PUSHES ITS IPO BEYOND 2026 (2 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/?utm_source=tldrai",
+      "blurb": "Sam Altman said OpenAI would not go public in 2026, arguing that current AI safety concerns made an IPO ill-advised. The company had previously filed confidentially and was reportedly considering a 2027 listing instead.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 22,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "SOFTBANK GETS UPSIZED $11.9 BILLION LOAN IN OPENAI FUNDING PUSH (2 MINUTE READ)",
+      "url": "https://www.japantimes.co.jp/business/2026/09/14/companies/softbank-loan-openai/?utm_source=tldrai",
+      "blurb": "SoftBank just borrowed nearly $12 billion from about 20 banks to keep funding OpenAI, beating the $10 billion it first sought. Son is still aiming near $65 billion into OpenAI by October even as Altman shelves a 2026 IPO over safety and SoftBank shares sank as much as 13% Monday on the debt pile.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 23,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "AI RESEARCHERS DEBATE HOW CLOSE WE ARE TO RECURSIVE SELF-IMPROVEMENT (98 MINUTE READ)",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie?utm_source=tldrai",
+      "blurb": "This post features a transcript of a podcast with Beren Millidge, the CTO of Zyphra, John Schulman, the chief scientist at Thinking Machines and a co-founder of OpenAI, and Charlie O'Neill, head of model training at Baseten. The episode uncovers the details of what's happening at the frontier and what comes next. A link to the full video is available.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 24,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "GPT-6-ASTRA CAN DO AMBITIOUS THINGS (52 MINUTE READ)",
+      "url": "https://thezvi.substack.com/p/gpt-6-astra-can-do-ambitious-things?utm_source=tldrai",
+      "blurb": "Astra likely has the highest raw intelligence factor of any model. It is amazing at doing things in 3D, anything involving games, computer use, and subagent coordination. Many benchmarks show dramatic jumps from all previous models. While its performance in coding isn't a quantum leap from Sol, it is very good and makes progress over the previous model. OpenAI has already soft-announced that it has an internal model a level above Astra.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 25,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "A CACHE HIT IS NOT PROOF THAT YOU SKIPPED THE WORK (12 MINUTE READ)",
+      "url": "https://siddhantkhare.com/writing/kv-cache-truth-auditor?utm_source=tldrai",
+      "blurb": "A cache hit can be true and still fail to prove that work was skipped. A cache event becomes evidence when the independent oracle expects the prefix, the engine attests it, the prompt path skips it, the output stays identical, the evaluator passes, and the verifier binds those facts to the exact public bundle.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 26,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "SAKANA: FUGU ULTRA V2 (3 MINUTE READ)",
+      "url": "https://openrouter.ai/sakana/fugu-ultra-v2?utm_source=tldrai",
+      "blurb": "Fugu Ultra v2 is the higher-performance model in Sakana AI's Fugu family. It uses a language model trained to route tasks across a fixed pool of open and specialized models and to recursively call instances of itself. The model prioritizes answer quality on complex multi-step reasoning, autonomous research, and full-stack software development, and does not rely on individual proprietary frontier models in its pool. It supports configurable reasoning effort, function calling, structured outputs, image and PDF input, and built-in web search.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 27,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "RECURRENT LOOPED TRANSFORMER (4 MINUTE READ)",
+      "url": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer/?utm_source=tldrai",
+      "blurb": "The Recurrent Looped Transformer combines a causal encoder with a recurrent decoder that carries its final hidden state and layerwise sliding-window attention cache across every prompt and response token. The encoder constructs global key\u2013value memory, and the decoder extends a continuous latent computation as the sequence grows. The design brings together latent reasoning with unbounded temporal depth, model\u2013hardware co-design, and model\u2013RL algorithm co-design. Realized reasoning gains, hardware efficiency, and RL scaling remain to be established.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 28,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "SWE BENCHMARK (10 MINUTE READ)",
+      "url": "https://withspecific.com/benchmarks/real-swe?utm_source=tldrai",
+      "blurb": "The new Real-SWE benchmark tests AI models on complex tasks using private enterprise codebases, reflecting real software engineering conditions. With a maximum resolution rate of 38.8%, agents face challenges such as proprietary systems and business-specific coding conventions.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 29,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "TOOLGRAD: EFFICIENT TOOL-USE DATASET GENERATION WITH TEXTUAL \u201cGRADIENTS\u201d (3 MINUTE READ)",
+      "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients?utm_source=tldrai",
+      "blurb": "Google Research flipped how you make tool-use training data: ToolGrad builds a verified API chain first, then writes the user question, instead of inventing a request and hoping an agent finds a working path. That answer-first loop hit a 99.8% success rate on 16,000 real APIs, and a Gemma 3 12B model trained on just 500 of those examples matched Gemini 2.5 Pro on a tool-use test with APIs it had never seen.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 30,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "HOW GOOD ARE FRONTIER MODELS AT PHYSICS? EXPERT RE-GRADING REVEALS BROKEN EVALUATIONS AND NEAR-SATURATION OF LEADING BENCHMARKS (1 MINUTE READ)",
+      "url": "https://arxiv.org/abs/2609.13009?utm_source=tldrai",
+      "blurb": "Those scary physics scores were often the test's fault. Experts rechecked six popular benchmarks and found wrong answer keys, fuzzy questions, and grader bugs behind most model \u201cfails.\u201d Clean them up and frontier models suddenly look near-maxed, so the next bar has to be harder human-made exams, not another leaderboard on a broken quiz.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 31,
+      "section": "MISCELLANEOUS",
+      "heading": "MANAGED AGENT ARCHITECTURES: WHY FRONTIER LABS ARE REBUILDING THE AGENT LOOP (12 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/FioOJ2",
+      "blurb": "Frontier labs and cloud providers are turning the agent loop into managed infrastructure, bundling orchestration, versioning, model routing, tools, skills, and optimization behind APIs. Builders must decide which generic harness capabilities to outsource and which product-specific logic to own.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 32,
+      "section": "MISCELLANEOUS",
+      "heading": "WHO ALIGNS THE ALIGNERS? BRIEF LEGAL THOUGHTS ON THE \u201cAI SAFETY\u201d FIGHTS TO COME (20 MINUTE READ)",
+      "url": "https://prestonbyrne.com/2026/09/13/brief-legal-thoughts-on-the-ai-safety-fights-to-come/?utm_source=tldrai",
+      "blurb": "AI brings risks, with some of them, according to some, including the complete destruction of the human race. Some proponents of regulation say that the only appropriate response is total state control. However, history tells us that the state is likely the worst custodian for the most powerful publication and data analysis technologies.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 33,
+      "section": "MISCELLANEOUS",
+      "heading": "THE FRONTIER NOW SHIPS TWICE. THE SECOND COPY IS NOT FOR SALE. (6 MINUTE READ)",
+      "url": "https://okaneland.com/signal/the-frontier-twice?utm_source=tldrai",
+      "blurb": "Anthropic, Google, and OpenAI each shipped their best model twice this month: a public paid tier and a vetted identity-gated tier with the sharper capabilities. Public prices barely moved, but Mythos, Flash Cyber, and Astra's advanced path now ask for org IDs, government ID, or trusted-defender status instead of a bigger budget.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 34,
+      "section": "QUICK LINKS",
+      "heading": "LUXOBENCH (WEBSITE)",
+      "url": "https://luxobench.com/?utm_source=tldrai",
+      "blurb": "luxobench is a hardware design benchmark for AI models.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 35,
+      "section": "QUICK LINKS",
+      "heading": "CLAUDE FABLE 5.1 SOLVES THE CYPHRAL DISTICH (9 MINUTE READ)",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich?utm_source=tldrai",
+      "blurb": "The Cyphral Distich is a cryptogram consisting of two lines of 32 numbers each that contains a short message deliberately encoded so it can't be read without knowing the rule that produced it.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 36,
+      "section": "QUICK LINKS",
+      "heading": "CHATGPT SITES (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/BdiHuE",
+      "blurb": "ChatGPT Sites now allows users to collaborate and share privately.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 37,
+      "section": "QUICK LINKS",
+      "heading": "ANTHROPIC'S MYTHOS 5 SPENT HUNDREDS OF PAGES FIGHTING CAPTCHA (3 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you?utm_source=tldrai",
+      "blurb": "During a misconfigured hacking eval, Mythos 5 got onto the open internet and uploaded malware to PyPI, but most of its 1,022-page chain of thought was spent failing CAPTCHAs like every frustrated human.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 38,
+      "section": "QUICK LINKS",
+      "heading": "PX0 (WEBSITE)",
+      "url": "https://px0.ai/?utm_source=tldrai",
+      "blurb": "px0 is a read-only IDE that turns browsers into an instant verification console for whatever your agents just wrote.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 39,
+      "section": "QUICK LINKS",
+      "heading": "DEEP THEOREMS WERE SCARCE. AI HAS BROKEN THIS SYSTEM (15 MINUTE READ)",
+      "url": "https://terrytao.wordpress.com/2026/09/13/deep-theorems-were-scarce-and-difficult-and-so-became-an-effective-mechanism-to-identify-deep-thought-ai-has-broken-this-system?utm_source=tldrai",
+      "blurb": "On Terence Tao's blog, Bryna Kra argues that AI has broken math's old signal that scarce deep theorems equal deep understanding, as models dump polished proofs faster than experts can digest them.",
+      "source_email": "tldr_ai_2026-09-14_extracted.json"
+    }
+  ],
+  "dropped": []
+}

@@ -154,5 +154,17 @@
     "newsletter": "Marketing",
     "edition_label": "Tuesday the 8th and Wednesday the 9th and Thursday the 10th of September",
     "run_date": "2026-09-11"
+  },
+  {
+    "filename": "tldr_ai_pool_2026-09-15_digest.html",
+    "newsletter": "AI",
+    "edition_label": "Friday the 11th and Monday the 14th of September",
+    "run_date": "2026-09-15"
+  },
+  {
+    "filename": "tldr_marketing_pool_2026-09-15_digest.html",
+    "newsletter": "Marketing",
+    "edition_label": "Friday the 11th and Monday the 14th of September",
+    "run_date": "2026-09-15"
   }
 ]

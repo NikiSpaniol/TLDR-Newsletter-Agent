@@ -1,0 +1,181 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": null,
+      "heading": "CHECK YOUR AI VISIBILITY",
+      "url": "https://ahrefs.com/brand-radar?utm_source=tldr&utm_medium=newsletter&utm_campaign=partnerships&utm_content=cta_ai_visibility",
+      "blurb": "\ud83d\udcf1",
+      "source_email": "tldr_marketing_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 2,
+      "section": null,
+      "heading": "YOUTUBE INFLUENCERS HAVE AN AI AUDIENCE: WHAT MILLIONS OF CITATION EVENTS REVEAL ABOUT INFLUENCER SPONSORSHIPS (9 MINUTE READ)",
+      "url": "https://scrunch.com/blog/youtube-influencers-have-an-ai-audience-influencer-sponsorships/?utm_source=tldrmarketing",
+      "blurb": "Sponsored YouTube videos can extend their marketing value into AI search when the video is cited, especially through the description text that names the sponsor. The sponsor appeared in 40% of AI answers that cited a sponsored video, compared with 32.3% when the video was not cited, and the lift reached 1.35x on unbranded prompts. Brands should make specific description language part of influencer contracts and track YouTube citations for the prompts that matter to them, rather than treating sponsorship as a view-based channel alone. The opportunity is temporary because YouTube citation rates fell 43% within a month, so citation monitoring needs to be ongoing.",
+      "source_email": "tldr_marketing_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 3,
+      "section": null,
+      "heading": "AI OVERVIEWS MAY BE AFFECTING SHOPPING AD CTR AND IMPRESSIONS (2 MINUTE READ)",
+      "url": "https://searchengineland.com/ai-overviews-may-be-affecting-shopping-ad-ctr-and-impressions-487265?utm_source=tldrmarketing",
+      "blurb": "Shopping ad CTRs are rising while impressions are falling across thousands of campaigns, with clicks relatively flat or slightly down. One hypothesis is that Google's AI Overviews are appearing on queries less likely to generate ad clicks, leaving Shopping ads for higher-intent searches. The data doesn't prove AI Overviews are causing the decline, but advertisers should look beyond CTR and track impressions, clicks, and overall traffic to understand whether performance is actually improving.",
+      "source_email": "tldr_marketing_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "DON'T RECOMMEND YOUR MOST EXPENSIVE OPTION (2 MINUTE READ)",
+      "url": "https://app.sciencesays.com/p/don-t-recommend-your-most-expensive-option?utm_source=tldrmarketing",
+      "blurb": "Increase sales by labeling a mid-priced product as \u201crecommended\u201d instead of your most expensive option. In eight experiments involving more than 6,200 participants, sales of a recommended cafe drink increased 58% when a pricier option was added, while sales were unchanged without the recommendation. Consumers appear more receptive to recommendations when the suggested product is cheaper because the brand seems less motivated by profit. Use objective badges such as \u201cBestseller\u201d when recommending a premium product, and test this pricing tactic on comparable products where customers can easily evaluate the price difference.",
+      "source_email": "tldr_marketing_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 5,
+      "section": null,
+      "heading": "THE LEGACY BRAND DE-AGING PLAYBOOK (6 MINUTE READ)",
+      "url": "https://thebrandblueprint.substack.com/p/the-legacy-brand-de-aging-playbook?utm_source=tldrmarketing",
+      "blurb": "Sometimes a brand's old identity becomes valuable again simply because the category around it moved. As dining shifted toward fast casual, delivery, and pricier meals, Chili's leaned into value, booths, and the Triple Dipper, and a format that once looked dated became the countertrend against expensive takeout. Barnes & Noble made a similar bet, handing individual stores control over what to stock and display instead of running every location identically, so each one behaves like a local bookstore again. Both bets worked because the brand stopped trying to outrun its category and let the category's shift make its old strengths relevant.",
+      "source_email": "tldr_marketing_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 6,
+      "section": null,
+      "heading": "GOOGLE LAUNCHES TOOL TO CHECK WHETHER ADS ACTUALLY INCREASE SALES (2 MINUTE READ)",
+      "url": "https://searchenginewatch.com/google-launches-tool-to-check-whether-ads-actually-increase-sales/?utm_source=tldrmarketing",
+      "blurb": "Google released an open-source tool that tests whether an ad actually caused a sale, not just which platform claims credit for one. GeoX works by comparing regions where a campaign keeps running against regions where it's paused or given more budget, then measuring how sales in each group differ from what historical data would have predicted anyway. It can track spend across platforms beyond Google's own and combine online and offline sales in the same test. It plugs into Google's existing Meridian measurement software, so the results can also refine how a budget gets split across channels.",
+      "source_email": "tldr_marketing_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 7,
+      "section": null,
+      "heading": "AMAZON GIVES OPENAI'S AD BUSINESS A BOOST, LETTING ITS ADVERTISERS INTO CHATGPT (2 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/09/10/amazon-chatgptads-open-ai.html?utm_source=tldrmarketing",
+      "blurb": "Amazon has spent months locking AI shopping agents like Claude and Gemini out of its own storefront while building its own AI shopping tools, then quietly became ChatGPT's top retail advertiser between April and August instead. It's now opening that same access to other brands that already buy through its demand-side platform, letting them run ads inside ChatGPT conversations too. Campaigns are still set up and managed inside Amazon's own systems, while OpenAI's ad system keeps control over which ad actually gets served.",
+      "source_email": "tldr_marketing_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 8,
+      "section": "MISCELLANEOUS",
+      "heading": "SOME COMPANIES ARE USING ADS TO INFLUENCE AI AGENTS (3 MINUTE READ)",
+      "url": "https://www.marketingbrew.com/stories/optimizing-for-ai-agents-time-magazine-wayfair-strategy?utm_source=tldrmarketing",
+      "blurb": "Time magazine is testing ads designed specifically for AI agents, exposing them to brand-verified facts before they access webpages. The goal is to influence what AI systems retain and potentially correct inaccurate information about brands. As agentic traffic grows, companies are also optimizing websites and product data for AI discovery and recommendations. Brands are beginning to treat AI agents as an emerging advertising and distribution channel.",
+      "source_email": "tldr_marketing_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 9,
+      "section": "MISCELLANEOUS",
+      "heading": "HOW STARFACE MADE PIMPLE PATCHES COOL (5 MINUTE READ)",
+      "url": "https://www.marketergems.com/p/starface-marketing-strategy-deep-dive?utm_source=tldrmarketing",
+      "blurb": "Skincare spent decades built around the idea that a good product should be invisible. Starface inverted that by making a pimple patch impossible to miss, then expanded through Target, Walmart, Sephora, and Ulta specifically because its bright yellow stars stand out against a retail aisle of clinical whites and pastels. That same bet is now showing up industry-wide, with LED light masks and other visible skincare wearables replacing creams that disappear on the skin.",
+      "source_email": "tldr_marketing_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 10,
+      "section": "MISCELLANEOUS",
+      "heading": "AI, TOOLS AND TRANSFORMATION (8 MINUTE READ)",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation?utm_source=tldrmarketing",
+      "blurb": "AI will not eliminate software so much as change how companies decide what gets automated, standardized, or left improvised. Most employees do not naturally identify the workflows that should become software, and important processes often span multiple teams and systems, so successful automation still requires people who can spot problems, design solutions, and get the organization to adopt them. AI will expand existing software and make tools like spreadsheets, email, and chatbots more capable, while also creating new vertical applications that move work between improvised and institutionalized systems. The bigger opportunity for businesses is to look beyond faster versions of existing workflows and identify new products, services, and operating models that AI makes possible for the first time.",
+      "source_email": "tldr_marketing_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 11,
+      "section": "QUICK LINKS",
+      "heading": "IMDB ADDS \u2018DIGITAL CREATOR' PROFILES FOR THE FIRST TIME (2 MINUTE READ)",
+      "url": "https://variety.com/2026/digital/news/imdb-digital-creator-profiles-1236855930/?utm_source=tldrmarketing",
+      "blurb": "IMDb adds \u201cDigital Creator\u201d as a new professional category on both IMDb and IMDbPro.",
+      "source_email": "tldr_marketing_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 12,
+      "section": "QUICK LINKS",
+      "heading": "US REVEALS IMPORT BAN ON SLEW OF CANADIAN GOODS AS TRADE WAR ESCALATES (4 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html?utm_source=tldrmarketing",
+      "blurb": "The US will ban Canadian motorbikes, mopeds, dairy, wine, whisky, and spirits starting on September 29.",
+      "source_email": "tldr_marketing_2026-09-11_extracted.json"
+    },
+    {
+      "ref": 13,
+      "section": null,
+      "heading": "GOOGLE RANKING FACTORS EXPERT SURVEY 2026 (7 MINUTE READ)",
+      "url": "https://signal.zyppy.com/p/google-ranking-factors-expert-survey?utm_source=tldrmarketing",
+      "blurb": "Google's strongest ranking factors are still relevance, backlinks, and content quality. Matching search intent matters more than simply targeting keywords. Original research and first-party data also help content stand out as AI makes publishing easier. Trusted backlinks remain important, while brand reputation and user behavior carry more weight. Technical SEO is still foundational, but it rarely lifts mediocre content on its own. Internal linking and user experience can further strengthen visibility when they help Google understand a site, and users find what they need.",
+      "source_email": "tldr_marketing_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 14,
+      "section": null,
+      "heading": "DEEPFAKES ARE WRECKING INFLUENCERS' CREDIBILITY, ONE FAKE AD AT A TIME (5 MINUTE READ)",
+      "url": "https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility?utm_source=tldrmarketing",
+      "blurb": "AI deepfakes are making influencer credibility harder to protect. Fake ads can still use creators' likenesses without permission. Meta has added stronger advertiser verification and an AI detection tool to combat celebrity impersonation, but creators still report slow removals. Influencers are easy targets because years of public photos and videos give AI models abundant training material.",
+      "source_email": "tldr_marketing_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 15,
+      "section": null,
+      "heading": "YOUR PLAYBOOK FOR LINKEDIN ADS THAT WORK (13 MINUTE READ)",
+      "url": "https://www.growthunhinged.com/p/linkedin-ad-playbook?utm_source=tldrmarketing",
+      "blurb": "Build LinkedIn ads around the buying journey. Use signals to target companies entering a buying window, then start with thought leadership before introducing case studies and offers. Retarget engaged prospects with native lead forms and qualify them with specific questions. Follow up within 5 minutes while interest is fresh, and use sales outcomes to refine targeting and messaging over time.",
+      "source_email": "tldr_marketing_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 16,
+      "section": null,
+      "heading": "THE AVAILABILITY HEURISTIC: 7 WAYS GOOGLE ADS CAN STEER YOUR DECISIONS (5 MINUTE READ)",
+      "url": "https://searchengineland.com/the-availability-heuristic-7-ways-google-ads-can-steer-your-decisions-487769?utm_source=tldrmarketing",
+      "blurb": "Google Ads can steer decisions through the data and recommendations it makes most visible. Default dashboards may prioritize less useful metrics, while hidden settings can override campaign-level targets. Search term reports can also reveal irrelevant traffic that inflates performance. Review account settings, conversion goals, search queries, and recommendations regularly instead of relying on Google's default views to guide optimization.",
+      "source_email": "tldr_marketing_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 17,
+      "section": null,
+      "heading": "9 SUCCESSFUL MEDIA PITCH EXAMPLES FOR EVERY TYPE OF CAMPAIGN (18 MINUTE READ)",
+      "url": "https://www.buzzstream.com/blog/media-pitch-examples/?utm_source=tldrmarketing",
+      "blurb": "Digital PR pitches give journalists a clear story angle and the information needed to cover it. Survey and proprietary data pitches lead with a compelling finding, supported by methodology and a link to the full research. City studies add a local or seasonal hook, while reactive commentary needs timely news, relevant expert credentials, and a fresh quote. Product launches work best as concise announcements, while review and roundup pitches should lead with the problem the product solves and include pricing and availability.",
+      "source_email": "tldr_marketing_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 18,
+      "section": "MISCELLANEOUS",
+      "heading": "A LOOK INSIDE MY CAREER AS A B2B PRODUCT MARKETING MANAGER IN IT (5 MINUTE READ)",
+      "url": "https://hackernoon.com/a-look-inside-my-career-as-a-b2b-product-marketing-manager-in-it-part-1?utm_source=tldrmarketing",
+      "blurb": "Anya's path from product management into B2B product marketing shows how product experience can lead naturally into PMM. She studied computer science and later earned a master's in Product Development Management of IT Services. She gained product experience and took on marketing responsibilities at a small IT company. A professional blog helped her organize and deepen her knowledge. Later, mentoring helped her recognize that her marketing experience could translate into PMM, leading to a mid-level role at a B2B SaaS startup.",
+      "source_email": "tldr_marketing_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 19,
+      "section": "MISCELLANEOUS",
+      "heading": "CONGRATS, YOUR SALES PROBLEMS IN PLG ARE COMPLETELY UNORIGINAL (7 MINUTE READ)",
+      "url": "https://www.elenaverna.com/p/congrats-your-sales-problems-in-plg?utm_source=tldrmarketing",
+      "blurb": "PLG companies often weaken growth when they start chasing enterprise revenue. Sales teams begin treating self-serve users as leads, while product teams lock valuable features behind higher tiers. Enterprise opportunities should instead emerge from product usage. Growing teams and expanding usage can signal when an account is ready for sales. Self-serve customers should still be able to discover and buy the product without unnecessary sales friction.",
+      "source_email": "tldr_marketing_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "FACEBOOK PROVED ITS OWN AD MEASUREMENT WRONG (5 MINUTE READ)",
+      "url": "https://karandhir.substack.com/p/facebook-proved-its-own-ad-measurement?utm_source=tldrmarketing",
+      "blurb": "Facebook's research found that standard ad attribution can overstate incremental conversions by 3X or more.",
+      "source_email": "tldr_marketing_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "INSTAGRAM SCAMMERS ARE HOLDING CREATORS' ACCOUNTS HOSTAGE WITH COPYRIGHT STRIKES (2 MINUTE READ)",
+      "url": "https://www.digitaltrends.com/social-media/instagram-scammers-are-holding-creators-accounts-hostage-with-copyright-strikes/?utm_source=tldrmarketing",
+      "blurb": "Scammers are filing fake copyright complaints against Instagram creators, then demanding payment to withdraw them.",
+      "source_email": "tldr_marketing_2026-09-14_extracted.json"
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "THE 24 NEW RULES FOR SUCCEEDING AT WORK (14 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/gDFfvb",
+      "blurb": "A guide to 24 workplace challenges, with expert advice on AI, career growth, and layoffs.",
+      "source_email": "tldr_marketing_2026-09-14_extracted.json"
+    }
+  ],
+  "dropped": []
+}

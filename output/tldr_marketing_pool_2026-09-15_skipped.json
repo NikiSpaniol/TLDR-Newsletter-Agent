@@ -1,0 +1,32 @@
+[
+  {
+    "ref": 6,
+    "section": null,
+    "heading": "GOOGLE LAUNCHES TOOL TO CHECK WHETHER ADS ACTUALLY INCREASE SALES (2 MINUTE READ)",
+    "url": "https://searchenginewatch.com/google-launches-tool-to-check-whether-ads-actually-increase-sales/?utm_source=tldrmarketing",
+    "blurb": "Google released an open-source tool that tests whether an ad actually caused a sale, not just which platform claims credit for one. GeoX works by comparing regions where a campaign keeps running against regions where it's paused or given more budget, then measuring how sales in each group differ from what historical data would have predicted anyway. It can track spend across platforms beyond Google's own and combine online and offline sales in the same test. It plugs into Google's existing Meridian measurement software, so the results can also refine how a budget gets split across channels.",
+    "source_email": "tldr_marketing_2026-09-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 20,
+    "section": "QUICK LINKS",
+    "heading": "FACEBOOK PROVED ITS OWN AD MEASUREMENT WRONG (5 MINUTE READ)",
+    "url": "https://karandhir.substack.com/p/facebook-proved-its-own-ad-measurement?utm_source=tldrmarketing",
+    "blurb": "Facebook's research found that standard ad attribution can overstate incremental conversions by 3X or more.",
+    "source_email": "tldr_marketing_2026-09-14_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 503: Service Unavailable"
+  },
+  {
+    "ref": 22,
+    "section": "QUICK LINKS",
+    "heading": "THE 24 NEW RULES FOR SUCCEEDING AT WORK (14 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/gDFfvb",
+    "blurb": "A guide to 24 workplace challenges, with expert advice on AI, career growth, and layoffs.",
+    "source_email": "tldr_marketing_2026-09-14_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  }
+]

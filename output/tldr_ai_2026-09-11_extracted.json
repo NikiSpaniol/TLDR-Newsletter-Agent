@@ -1,0 +1,149 @@
+{
+  "kept": [
+    {
+      "ref": 7,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI LAUNCHES THE AGENTS API (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/2r52Yg",
+      "blurb": "OpenAI introduced the Agents API in public beta, giving developers access to the managed agent harness and infrastructure behind Codex. It handles context, tools, subagents, persistent execution, files, and code environments for agents that can run for extended periods."
+    },
+    {
+      "ref": 8,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "META TO ANNOUNCE SHARED AGENTS FOR MUSE AT META CONNECT (2 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/meta-to-announce-shared-agents-for-muse-at-meta-connect/?utm_source=tldrai",
+      "blurb": "Meta's Muse app will introduce a \"Shared Agents\" feature, allowing users to create customizable agents that can be shared with others, similar to Grokbot's system. This could benefit small businesses already using Meta platforms by enabling specialized agents for workflows like customer support and sales."
+    },
+    {
+      "ref": 9,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI IS OPEN TO SLOWING CUTTING-EDGE AI, CEO SAM ALTMAN TELLS STAFF (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/6f2sBW",
+      "blurb": "OpenAI is considering slowing down development of cutting-edge AI. The company has raised concerns about its advanced AI systems, saying that model development should be paused due to safety concerns. The company's researchers have gone viral for making comments saying OpenAI's technology will kill humanity by the end of the decade."
+    },
+    {
+      "ref": 10,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "AN OPERATIONALIZATION OF OPAQUE SERIAL DEPTH (3 MINUTE READ)",
+      "url": "https://blog.redwoodresearch.org/p/an-operationalization-of-opaque-serial?utm_source=tldrai",
+      "blurb": "Chain-of-thought (CoT) is a valuable tool for overseeing AI models. However, some architectural shifts could significantly reduce CoT monitorability. This study looks at how much unverbalized serial cognition a model can perform."
+    },
+    {
+      "ref": 11,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "DETECTING AND COUNTERING MISUSE OF AI: SEPTEMBER 2026 (5 HOUR READ)",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026?utm_source=tldrai",
+      "blurb": "Anthropic's Threat Intelligence team has identified and disrupted several operations in the past several months where threat actors tried to use Claude for malicious activity. This report shares case studies from those operations and describes how malicious use of Claude has evolved since the company's previous threat reports. The report covers disruptions between December 2025 and August. None of the misuse cases involved the use of Claude Fable or Mythos-class models."
+    },
+    {
+      "ref": 12,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "DOES SCALING WEB-VIDEO PRE-TRAINING HELP REAL ROBOTS DO REAL WORK? (36 MINUTE READ)",
+      "url": "https://www.rhoda.ai/research/scaling-web-video-pretraining?utm_source=tldrai",
+      "blurb": "Larger video models and increased pre-training compute improve robot task performance, confirmed through Direct Video-Action models. Performance gains arise from better predictions of held-out web videos, with larger models excelling in real-world tasks like complex industrial unpacking. Pre-training quality, measured via DINO FD, predicts downstream robot efficiency, enhancing scalability for real deployments."
+    },
+    {
+      "ref": 15,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "MODEL CARD FOR NORTH SMALL TRANSLATE (8 MINUTE READ)",
+      "url": "https://huggingface.co/CohereLabs/North-Small-Translate-1.0?utm_source=tldrai",
+      "blurb": "North Small Translate is an open-weights research release. It has 25 billion active parameters and 218 billion total parameters. The model is specialized for high-quality machine translation across 50 languages."
+    },
+    {
+      "ref": 16,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "INTRODUCING SWE-2: PUSHING THE PARETO FRONTIER (23 MINUTE READ)",
+      "url": "https://cognition.com/blog/swe-2?utm_source=tldrai",
+      "blurb": "SWE-2 pushes the Pareto frontier and achieves 50.0% on FrontierCode 1.1 Main1, while being 64% cheaper. It beats SWE-1.7 and Grok 4.6 on both score and cost, matches GPT-5.6 Sol and Fable 5/5.1 at a fraction of their price, and comes within a few points of GPT-6 Astra at a quarter of the cost."
+    },
+    {
+      "ref": 17,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "OPENCODEREVIEW (GITHUB REPO)",
+      "url": "https://github.com/alibaba/open-code-review?utm_source=tldrai",
+      "blurb": "Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code review assistant \u2014 over the past two years, it has served tens of thousands of developers and identified millions of code defects. It has been validated at massive scale. The agent can read full file contents, search the codebase, inspect other changed files for context, and produce deep reviews."
+    },
+    {
+      "ref": 18,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "OPENAI LAUNCHES GPT-LIVE-1 FOR FULL-DUPLEX VOICE AGENTS (2 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/openai-launches-gpt-live-1-for-full-duplex-voice-agents/?utm_source=tldrai",
+      "blurb": "GPT-Live-1 is now available in the OpenAI API at $0.05 per minute. The model adds full-duplex speech, interruption handling, and 12 voice options. It can listen and speak at the same time, handle interruptions and acknowledgements as they happen, and keep conversations moving while performing deep reasoning or actions. The model can control tone, space, and style through the system prompt. Early tests report 80% fewer interruptions than with previous turn-based systems."
+    },
+    {
+      "ref": 19,
+      "section": "MISCELLANEOUS",
+      "heading": "OPENAI PUTS PRO SUBSCRIPTIONS ON HOLD DUE TO ASTRA DEMAND (2 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/?utm_source=tldrai",
+      "blurb": "OpenAI has paused subscriptions for its $200-per-month Pro plan. The company's Astra model is now rolling out to Pro, Plus, Enterprise, and Business accounts. The model promises a major leap forward in reasoning, coding, and computer use. OpenAI says the model is the beginning of the AGI era."
+    },
+    {
+      "ref": 20,
+      "section": "MISCELLANEOUS",
+      "heading": "WHY THE WORLD'S BEST AI STARTUPS WRITE BAD PROMPTS (& HOW TO FIX THIS) (20 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/OYjxQ3",
+      "blurb": "AI startups often accumulate sprawling prompts full of contradictions and ambiguity as teams continuously add instructions. Treating prompts like product and code, with modular sections for background, behavior, and output, can improve agent quality, reduce regressions, and lower costs."
+    },
+    {
+      "ref": 23,
+      "section": "QUICK LINKS",
+      "heading": "INTRODUCING THE GOOGLE CLOUD DEVELOPER PLUGIN FOR AI CODING AGENTS (4 MINUTE READ)",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents?utm_source=tldrai",
+      "blurb": "Google's new Google Cloud plugin is designed for AI coding agents, featuring installable bundles, agent plugins equip the AI agent of your choice with skills, and tools to be more effective on Google Cloud."
+    },
+    {
+      "ref": 24,
+      "section": "QUICK LINKS",
+      "heading": "META'S WEARABLEQA HEALTH REASONING BENCHMARK (GITHUB REPO)",
+      "url": "https://github.com/facebookresearch/WearableQA?utm_source=tldrai",
+      "blurb": "Meta has released WearableQA, a benchmark with thousands of questions built from real-world wearable data, blood biomarkers, and demographics from 200 users."
+    },
+    {
+      "ref": 25,
+      "section": "QUICK LINKS",
+      "heading": "SALESFORCE FINDS BETTER WAYS TO CO-EVOLVE AGENTS AND THEIR HARNESSES (9 MINUTE READ)",
+      "url": "https://arxiv.org/abs/2609.09134?utm_source=tldrai",
+      "blurb": "Salesforce found that directly training smaller models on expert agent trajectories can hurt performance after their harness has already been optimized."
+    },
+    {
+      "ref": 26,
+      "section": "QUICK LINKS",
+      "heading": "OPENAI LAUNCHES CHATGPT FOR FINANCIAL SERVICES (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/8JXq4v",
+      "blurb": "OpenAI introduced a financial-services version of ChatGPT Work, combining GPT-6 Astra with built-in premium data from popular providers."
+    },
+    {
+      "ref": 27,
+      "section": "QUICK LINKS",
+      "heading": "UNIVERSAL MUSIC IS LAUNCHING AN AI MUSIC PLATFORM WITH ELEVENLABS (2 MINUTE READ)",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai?utm_source=tldrai",
+      "blurb": "Universal Music Group is launching an AI platform with ElevenLabs, allowing users to create remixes and mashups using UMG's licensed music catalog."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "FORGE: THE CONFERENCE FOR COMPANIES MAKING THEIR OWN FRONTIERS\u00a0(SPONSOR)",
+      "url": "https://fireworks.ai/forge?utm_source=tldr&utm_medium=newsletter&utm_campaign=forge&utm_content=header_forge_conference_companies",
+      "blurb": "The most ambitious companies are training specialized models to outperform the frontier on their domain.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "\ud83e\uddd8\u200d\u2640\ufe0f PEACE OF MIND IN EVERY SPRINT (SPONSOR)",
+      "url": "https://links.tldrnewsletter.com/xpSn1y?utm_source=tldrai",
+      "blurb": "Writing code can be stressful\u2014but not half as stressful as a surprise security meltdown. Inject optimism and calm into the developer scrum with Microsoft Azure [14]. Unified security across code and cloud environments and built-in DDoS protection mean you've got less cause for concern\u2014and a clear mind for innovation. Help secure your apps with Azure > [14]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "AI AGENTS THAT BUILD LASTING LOYALTY AT BOOKING.COM, SAP, AND MICROSOFT (SPONSOR)",
+      "url": "https://www.parloa.com/?utm_campaign=2026-q3-paid-awareness-brand&utm_source=tldr&utm_medium=newsletter&utm_content=hyperlink&utm_term=tldraiquicklink",
+      "blurb": "Loyalty doesn't have to wait on hold. Parloa's AI CX agents instantly manage millions of conversations in any language. See how they build meaningful customer relationships. Get a demo [22]",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

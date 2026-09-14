@@ -1,0 +1,42 @@
+[
+  {
+    "ref": 3,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "OPENAI IS OPEN TO SLOWING CUTTING-EDGE AI, CEO SAM ALTMAN TELLS STAFF (2 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/6f2sBW",
+    "blurb": "OpenAI is considering slowing down development of cutting-edge AI. The company has raised concerns about its advanced AI systems, saying that model development should be paused due to safety concerns. The company's researchers have gone viral for making comments saying OpenAI's technology will kill humanity by the end of the decade.",
+    "source_email": "tldr_ai_2026-09-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 12,
+    "section": "MISCELLANEOUS",
+    "heading": "WHY THE WORLD'S BEST AI STARTUPS WRITE BAD PROMPTS (& HOW TO FIX THIS) (20 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/OYjxQ3",
+    "blurb": "AI startups often accumulate sprawling prompts full of contradictions and ambiguity as teams continuously add instructions. Treating prompts like product and code, with modular sections for background, behavior, and output, can improve agent quality, reduce regressions, and lower costs.",
+    "source_email": "tldr_ai_2026-09-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 20,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "ARC-AGI-4 (2 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/kT6Mtk",
+    "blurb": "ARC Prize believes that open source will be the foundation for advanced AI capable of scientific innovation. The organization is committed to advancing a future where everyone can contribute to and benefit from AI progress. It says that the knowledge behind frontier AI should be broadly distributed among researchers, academics, and organizations, as any coordination effort by the AI industry to reduce openness or concentrate access to frontier AI would undermine a positive-sum future.",
+    "source_email": "tldr_ai_2026-09-14_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 36,
+    "section": "QUICK LINKS",
+    "heading": "CHATGPT SITES (2 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/BdiHuE",
+    "blurb": "ChatGPT Sites now allows users to collaborate and share privately.",
+    "source_email": "tldr_ai_2026-09-14_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  }
+]
