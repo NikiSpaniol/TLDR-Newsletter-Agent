@@ -1,0 +1,52 @@
+[
+  {
+    "ref": 3,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "OPENAI BUYS STARTUP DEVELOPING SMARTPHONE CAMERA (3 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/XdYVtP",
+    "blurb": "OpenAI has quietly bought Glass Imaging, a company developing smartphone cameras that use AI to produce image quality on par with a DSLR camera. The deal values Glass Imaging at over $300 million. OpenAI's plans for the company are unclear, but it has been developing a secretive device with Jony Ive, the former Apple executive who helped design the iPhone. Glass Imaging was founded in 2019 by two former Apple employees who had previously worked on camera technology at the company.",
+    "source_email": "tldr_ai_2026-09-15_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 11,
+    "section": "MISCELLANEOUS",
+    "heading": "SAM ALTMAN BACKS FEDERAL FRONTIER AI SAFETY RULES (2 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/pnZ9ZW",
+    "blurb": "Sam Altman supports consistent federal safety requirements for frontier AI while urging labs to act before legislation arrives. OpenAI now uses safety cases before major reinforcement learning runs, arguing that capability growth should be deliberately paced alongside alignment and monitoring.",
+    "source_email": "tldr_ai_2026-09-15_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 28,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "RECURSIVE META-INTELLIGENCE (8 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/byhJiE",
+    "blurb": "Recursive scientific AI can build executable worlds, populate them with agent swarms, and compress thousands of simulated trajectories into human-usable principles. In metamaterials, this revealed how architecture can program failure pathways, improving resilience through load redistribution and controlled collapse.",
+    "source_email": "tldr_ai_2026-09-16_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 46,
+    "section": "MISCELLANEOUS",
+    "heading": "INTRODUCING THE DEEPMIND INSTITUTE (3 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/jUpA5K",
+    "blurb": "Google DeepMind launched the DeepMind Institute to study AGI's technical and societal implications across safety, governance, institutions, and human values. Led by Demis Hassabis, James Manyika, and Shane Legg, it will convene interdisciplinary researchers from inside and outside Google.",
+    "source_email": "tldr_ai_2026-09-17_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 47,
+    "section": "QUICK LINKS",
+    "heading": "AN AI RECEPTIONIST THAT TURNS CALLS INTO ACTION (WEBSITE)",
+    "url": "https://www.reception.ai/?utm_source=tldrai",
+    "blurb": "Reception answers calls 24/7, handles questions, books appointments, and routes important requests using business information, rules, and real availability.",
+    "source_email": "tldr_ai_2026-09-17_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  }
+]

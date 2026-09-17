@@ -166,5 +166,17 @@
     "newsletter": "Marketing",
     "edition_label": "Friday the 11th and Monday the 14th of September",
     "run_date": "2026-09-15"
+  },
+  {
+    "filename": "tldr_ai_pool_2026-09-18_digest.html",
+    "newsletter": "AI",
+    "edition_label": "Tuesday the 15th and Wednesday the 16th and Thursday the 17th of September",
+    "run_date": "2026-09-18"
+  },
+  {
+    "filename": "tldr_marketing_pool_2026-09-18_digest.html",
+    "newsletter": "Marketing",
+    "edition_label": "Tuesday the 15th and Wednesday the 16th and Thursday the 17th of September",
+    "run_date": "2026-09-18"
   }
 ]
