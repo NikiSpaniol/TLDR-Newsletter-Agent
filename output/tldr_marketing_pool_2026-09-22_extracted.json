@@ -1,0 +1,189 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": null,
+      "heading": "INSTAGRAM COLLAB POSTS DRIVE HIGHER ORGANIC ENGAGEMENT ACROSS BRAND SIZES (7 MINUTE READ)",
+      "url": "https://emplifi.io/resources/instagram-collaborations-boost-organic-engagement?utm_source=tldrmarketing",
+      "blurb": "More than 73% of brands used Instagram collabs in H1 2026, and collab posts consistently outperformed standard posts. Creator-led collaborations delivered the strongest results, with smaller brands seeing 5X more interactions than non-collab posts. In ecommerce and retail, accepted collabs generated more than 5X the shares and reposts of standard posts. Reels saw the biggest engagement gains.",
+      "source_email": "tldr_marketing_2026-09-18_extracted.json"
+    },
+    {
+      "ref": 2,
+      "section": null,
+      "heading": "DO CHATGPT & GOOGLE AI GET YOUR BUSINESS DETAILS RIGHT? (7 MINUTE READ)",
+      "url": "https://herringbone.com/does-ai-get-your-business-details-right/?utm_source=tldrmarketing",
+      "blurb": "AI search often gives inaccurate business information, especially when a company leaves key details vague or unpublished. In a study of 600 businesses, 27% of Google AI Overview answers and 20% of ChatGPT answers included details the business did not publish. Google AI Overviews got 84% of answers right when businesses published clearly, compared with 63% when information was vague or missing. AI systems often fill gaps from third-party directories, so you should audit those listings and keep website copy, Google Business Profiles, and structured data consistent. Agencies can turn this into a quick audit by checking how Google and ChatGPT describe each client and correcting the sources behind inaccurate answers.",
+      "source_email": "tldr_marketing_2026-09-18_extracted.json"
+    },
+    {
+      "ref": 3,
+      "section": null,
+      "heading": "COMPETITOR EMAIL MONITORING: WHAT TO TRACK AND HOW TO DO IT (7 MINUTE READ)",
+      "url": "https://emaillove.com/competitor-email-monitoring?utm_source=tldrmarketing",
+      "blurb": "Competitor email monitoring helps brands spot patterns in how others approach email. Start by tracking 5-8 direct competitors each month and compare their send frequency and offer rates. Read their subject lines to see how they frame promotions and other messages. Open unusual emails and note what stands out or changes over time. Use those findings to identify gaps and choose one idea to test, rather than copying a competitor's strategy.",
+      "source_email": "tldr_marketing_2026-09-18_extracted.json"
+    },
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "THE AMAZON CRO PLAYBOOK: HOW TO OPTIMIZE YOUR LISTINGS AND BEAT YOUR COMPETITORS (18 MINUTE READ)",
+      "url": "https://conversion-rate-experts.com/amazon-cro-playbook/?utm_source=tldrmarketing",
+      "blurb": "Amazon CRO works best as a research and testing process rather than a series of listing tweaks. Start by finding funnel problems in Seller Central, then use customer feedback, reviews, and user testing to identify specific objections and turn them into targeted listing changes. Since Amazon allows only one A/B test per listing and tests can take 8 to 12 weeks, prioritize bold changes and validate ideas through off-platform usability testing before committing to a live experiment. The main image, title, bullets, A+ Content, price, and promotions offer the biggest levers, but sellers should also optimize their advertising when paid traffic converts poorly rather than assuming the listing is the problem.",
+      "source_email": "tldr_marketing_2026-09-18_extracted.json"
+    },
+    {
+      "ref": 5,
+      "section": null,
+      "heading": "HOW TO CREATE A PRODUCT LAUNCH PEOPLE TALK ABOUT (6 MINUTE READ)",
+      "url": "https://thebrandblueprint.substack.com/p/how-to-create-a-product-launch-people?utm_source=tldrmarketing",
+      "blurb": "A product launch only generates lasting attention when it gives people something to do beyond scroll past it, whether that is showing up somewhere in person, guessing what is coming, or filming something unusual enough to send to a friend. The brands getting the most mileage out of a launch treat it as an ongoing event instead of a single announcement, letting creators and customers do the distribution for free. None of it requires a bigger budget, just a reason for people to keep talking after day one.",
+      "source_email": "tldr_marketing_2026-09-18_extracted.json"
+    },
+    {
+      "ref": 6,
+      "section": null,
+      "heading": "PINTEREST UNVEILS VISUAL SEARCH ADS, BRINGING NEW PERFORMANCE ADVERTISING TO VISUAL DISCOVERY (2 MINUTE READ)",
+      "url": "https://newsroom.pinterest.com/en-gb/news/new-pinterest-visual-search-performance-ads/?utm_source=tldrmarketing",
+      "blurb": "Pinterest is turning visual search into a lower-funnel advertising channel through Visual Search Ads, which place sponsored products in search results and Pin closeups as users compare options and approach a purchase decision. More than half of Pinterest's 80 billion monthly searches are commercial, giving advertisers a large pool of users who already show buying intent. It is also adding Priority Products and self-serve A/B testing to give advertisers more control over automated campaigns.",
+      "source_email": "tldr_marketing_2026-09-18_extracted.json"
+    },
+    {
+      "ref": 7,
+      "section": null,
+      "heading": "CUSTOM GPT RETIREMENT AND MIGRATION FAQ (5 MINUTE READ)",
+      "url": "https://help.openai.com/en/articles/20001519-custom-gpt-retirement-and-migration-faq?utm_source=tldrmarketing",
+      "blurb": "OpenAI plans to retire custom GPTs and transition users to plugins across all ChatGPT plans. Existing GPTs remain usable until retirement, with Enterprise creation ending on September 25 and GPTs scheduled to stop running on December 11. Migration will turn GPT instructions into a plugin skill and connected apps into apps, but custom actions will need to be rebuilt separately. Migrated GPTs become read-only, and users should test the replacement before switching. Plugin access and sharing will depend on account and workspace permissions.",
+      "source_email": "tldr_marketing_2026-09-18_extracted.json"
+    },
+    {
+      "ref": 8,
+      "section": "MISCELLANEOUS",
+      "heading": "PERPLEXITY IS BETTING BIG ON CREATORS (3 MINUTE READ)",
+      "url": "https://digiday.com/marketing/perplexity-is-betting-big-on-creators/?utm_source=tldrmarketing",
+      "blurb": "Perplexity has filled a creator marketing role overseeing hundreds of influencer partnerships, 100+ creator campaigns, and multi-million-dollar budgets. The strategy ties creator campaigns to conversions and product adoption, with creators demonstrating real Perplexity use cases rather than simply endorsing the product. AI companies are increasingly using creators to drive product adoption and communicate their value.",
+      "source_email": "tldr_marketing_2026-09-18_extracted.json"
+    },
+    {
+      "ref": 9,
+      "section": "MISCELLANEOUS",
+      "heading": "OPENAI REPORTS 6 NEW INSTANCES OF \u2018CONCERNING MODEL BEHAVIOR' SINCE MARCH (3 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html?utm_source=tldrmarketing",
+      "blurb": "OpenAI disclosed cases of unexpected model behavior. In two cases, models inserted instructions into chat summaries to hide mistakes from users. Another model used a leaked API key without authorization and fabricated data. OpenAI is creating a new framework for investigating and publicly reporting these incidents as pressure grows for stronger AI safety measures.",
+      "source_email": "tldr_marketing_2026-09-18_extracted.json"
+    },
+    {
+      "ref": 10,
+      "section": "QUICK LINKS",
+      "heading": "THE SEOFOMO STATE OF AI SEARCH OPTIMIZATION REPORT (7 MINUTE READ)",
+      "url": "https://hub.seofomo.co/surveys/state-ai-search-optimization/?utm_source=tldrmarketing",
+      "blurb": "AI search is now a budget priority, but attribution still makes its impact difficult to prove.",
+      "source_email": "tldr_marketing_2026-09-18_extracted.json"
+    },
+    {
+      "ref": 11,
+      "section": "QUICK LINKS",
+      "heading": "AI OVERVIEWS CUT CTR BY 23.1% IN FRANCE (5 MINUTE READ)",
+      "url": "https://ahrefs.com/blog/ai-overviews-france-impact/?utm_source=tldrmarketing",
+      "blurb": "Every extra point of AI Overview exposure costs sites roughly a point of click-through rate, a relationship that held steady across nearly 1,000 domains in France.",
+      "source_email": "tldr_marketing_2026-09-18_extracted.json"
+    },
+    {
+      "ref": 12,
+      "section": "QUICK LINKS",
+      "heading": "EU TO RESTRICT SOCIAL MEDIA FOR KIDS UNDER 15 (2 MINUTE READ)",
+      "url": "https://mashable.com/tech/eu-social-media-ban-kids?utm_source=tldrmarketing",
+      "blurb": "The law's reach extends past social apps to video platforms, online gaming, AI chatbots, and app stores, requiring companies to prove their products are safe by design.",
+      "source_email": "tldr_marketing_2026-09-18_extracted.json"
+    },
+    {
+      "ref": 13,
+      "section": null,
+      "heading": "A SMALL BUT GROWING NUMBER OF FOUNDERS ARE BETTING ON BRINGING PEOPLE TOGETHER OFFLINE (5 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/?utm_source=tldrmarketing",
+      "blurb": "Founders are investing in businesses built around offline connection. New ventures include social groups, hands-on craft schools, and shared gaming experiences. People are wanting real-world interaction as technology makes socializing more isolated. Some founders are also targeting younger consumers seeking alternatives to traditional education or more meaningful ways to spend time offline.",
+      "source_email": "tldr_marketing_2026-09-21_extracted.json"
+    },
+    {
+      "ref": 14,
+      "section": null,
+      "heading": "CREATOR CONTENT PREFERRED IN AI RECOMMENDATIONS (3 MINUTE READ)",
+      "url": "https://www.marketingdive.com/news/creator-content-preferred-in-ai-recommendations-heres-what-the-numbers-sa/830523/?utm_source=tldrmarketing",
+      "blurb": "Creator content is particularly relevant to younger shoppers, with 65% of Gen Z and millennials preferring AI recommendations that cite creators. However, only 29% say those citations increase their likelihood of purchasing. Creators are most useful for discovering brands and comparing products. Credibility matters more than audience size when consumers assess their recommendations.",
+      "source_email": "tldr_marketing_2026-09-21_extracted.json"
+    },
+    {
+      "ref": 15,
+      "section": null,
+      "heading": "5 LEVERS DRIVE CAC, SAYS AD PRO (3 MINUTE READ)",
+      "url": "https://www.practicalecommerce.com/5-levers-drive-cac-says-ad-pro?utm_source=tldrmarketing",
+      "blurb": "Lowering CAC on Meta and Google starts with giving platforms the right signals and creative. Ads should lead with novel hooks tied to customer pain points and use language that reflects the target audience. Brands should optimize for new-customer purchases rather than total purchases. Then, test creative across personas, angles, and formats. 5 levers ultimately drive CAC: the offer, creative, account structure, landing page, and optimization signals.",
+      "source_email": "tldr_marketing_2026-09-21_extracted.json"
+    },
+    {
+      "ref": 16,
+      "section": null,
+      "heading": "WHY BUILDING A FREE AUDIENCE IS KEEPING YOU BROKE (5 MINUTE READ)",
+      "url": "https://theindiepreneur.substack.com/p/why-building-a-free-audience-is-keeping?utm_source=tldrmarketing",
+      "blurb": "Free audiences are much harder to monetize than paying customers. A campaign generated 3 paid subscribers from 7,500+ free readers versus 34 from roughly 350 existing customers. Instead of building an audience or product in isolation, build a small product, share the process publicly, and build relationships with potential customers. This creates distribution and trust while validating demand before scaling.",
+      "source_email": "tldr_marketing_2026-09-21_extracted.json"
+    },
+    {
+      "ref": 17,
+      "section": null,
+      "heading": "SAVE YOUR SPOT \u2192",
+      "url": "https://standingongiants.gradual.us/public/events/what-it-actually-takes-to-win-on-reddit-with-rachel-duffy-from-the-times-and-standing-on-giants-x15zfqo2du?utm_campaign=Primary09212026&utm_source=tldrnewsletter&utm_medium=newsletter",
+      "blurb": "",
+      "source_email": "tldr_marketing_2026-09-21_extracted.json"
+    },
+    {
+      "ref": 18,
+      "section": null,
+      "heading": "SEMRUSH MCP USE CASES: 16 PROMPTS FOR CLAUDE OR CHATGPT (14 MINUTE READ)",
+      "url": "https://www.semrush.com/blog/semrush-mcp-use-case/?utm_source=tldrmarketing",
+      "blurb": "Semrush MCP connects Semrush data to Claude and ChatGPT for live SEO research through natural language. The guide shows how to apply it across common SEO workflows using 16 copy-paste prompts. Examples walk through finding keyword opportunities, analyzing competitors, and diagnosing SEO issues without manually working through Semrush.",
+      "source_email": "tldr_marketing_2026-09-21_extracted.json"
+    },
+    {
+      "ref": 19,
+      "section": null,
+      "heading": "AI-ASSISTED CREATIVITY: 6 B2B MARKETERS SHARE HOW AI FITS INTO THEIR PROCESS (WEBINAR)",
+      "url": "https://exitfive.com/live/ai-assisted-creativity-6-b2b-marketers/?utm_source=tldrmarketing",
+      "blurb": "A panel of B2B marketers on September 25 will share how they use AI across creative workflows, from brainstorming through production. This session focuses on tools and prompts teams rely on and what they've stopped using. It also covers how to balance AI's speed with creative quality and includes live Q&A plus a vote on which workflow attendees plan to try.",
+      "source_email": "tldr_marketing_2026-09-21_extracted.json"
+    },
+    {
+      "ref": 20,
+      "section": "MISCELLANEOUS",
+      "heading": "GOOGLE \u2018AI CONTRIBUTION PILOT' TESTS PAYING WEBSITES WHEN THEY'RE USED IN AI RESULTS (2 MINUTE READ)",
+      "url": "https://9to5google.com/2026/09/17/google-ai-contribution-pilot-tests-paying-websites-when-theyre-used-in-ai-results/?utm_source=tldrmarketing",
+      "blurb": "Google is testing a model that pays publishers when their content materially contributes to AI-generated search results. The AI Contribution Pilot includes dozens of mostly small and midsized publishers across various industries. It could create a new revenue stream as AI Overviews reduce traffic from traditional search and establish a model for compensating publishers based on their content's contribution to AI answers.",
+      "source_email": "tldr_marketing_2026-09-21_extracted.json"
+    },
+    {
+      "ref": 21,
+      "section": "MISCELLANEOUS",
+      "heading": "HOW TO READ A DESIGN BRIEF: TRUEROLL GOLF BRAND IDENTITY CASE STUDY (5 MINUTE READ)",
+      "url": "https://dribbble.com/stories/2026/09/16/cl-deswave-boris-sage-brand-identity-trueroll-case-study?utm_source=tldrmarketing",
+      "blurb": "A design brief often reveals only what clients know how to articulate. The real brief may emerge later through casual comments about how the brand will actually be used. For TrueRoll Golf Club, that meant designing for golf courses rather than travelers. The identity used familiar green and gold and minimal golf imagery. Designing for physical applications also shaped the system. Listen beyond the form and design for the brand's real audience and use cases.",
+      "source_email": "tldr_marketing_2026-09-21_extracted.json"
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "OPENAI AND MICROSOFT SAW THE PUBLISHER TRAFFIC PROBLEM COMING (3 MINUTE READ)",
+      "url": "https://searchenginewatch.com/openai-and-microsoft-saw-the-publisher-traffic-problem-coming-court-filing-says/?utm_source=tldrmarketing",
+      "blurb": "OpenAI and Microsoft reportedly knew AI search could cut publisher traffic.",
+      "source_email": "tldr_marketing_2026-09-21_extracted.json"
+    },
+    {
+      "ref": 23,
+      "section": "QUICK LINKS",
+      "heading": "GLOBALLY, MORE PEOPLE EXPECT AI TO CAUSE JOB LOSS THAN GROWTH (16 MINUTE READ)",
+      "url": "https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/?utm_source=tldrmarketing",
+      "blurb": "Across 34 of 37 countries surveyed, more people expect AI to eliminate jobs than create them.",
+      "source_email": "tldr_marketing_2026-09-21_extracted.json"
+    }
+  ],
+  "dropped": []
+}

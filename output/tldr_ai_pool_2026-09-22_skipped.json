@@ -1,0 +1,32 @@
+[
+  {
+    "ref": 10,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "HELIX 2.5 (2 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/Z97lGm",
+    "blurb": "Figure introduced Helix 2.5, a humanoid control model pretrained on its Index dataset and tested zero-shot across 30 Bay Area homes. Without collecting training data in those homes, the robots performed tasks including tidying rooms, folding towels, and making beds.",
+    "source_email": "tldr_ai_2026-09-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 17,
+    "section": "QUICK LINKS",
+    "heading": "INSTINCT CONCIERGE CAN NOW HANDLE PHONE CALLS (1 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/Cztkx4",
+    "blurb": "Instinct is rolling out Concierge, a white-glove service for tasks that require human interaction, including phone calls, high-end bookings, and customer service.",
+    "source_email": "tldr_ai_2026-09-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 24,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "THE INFERENCE GAP (56 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/7D00OK",
+    "blurb": "The gap between what a model can do and what an ordinary user can reliably make it do is widening. That gap could be unrecoverable if the industry is not mindful. The model is only half the system. Inference determines how much of the frontier you get to see.",
+    "source_email": "tldr_ai_2026-09-21_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  }
+]
