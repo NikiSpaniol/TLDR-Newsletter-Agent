@@ -190,5 +190,17 @@
     "newsletter": "Marketing",
     "edition_label": "Friday the 18th and Monday the 21st of September",
     "run_date": "2026-09-22"
+  },
+  {
+    "filename": "tldr_ai_pool_2026-09-25_digest.html",
+    "newsletter": "AI",
+    "edition_label": "Tuesday the 22nd and Wednesday the 23rd and Thursday the 24th of September",
+    "run_date": "2026-09-25"
+  },
+  {
+    "filename": "tldr_marketing_pool_2026-09-25_digest.html",
+    "newsletter": "Marketing",
+    "edition_label": "Tuesday the 22nd and Wednesday the 23rd and Thursday the 24th of September",
+    "run_date": "2026-09-25"
   }
 ]

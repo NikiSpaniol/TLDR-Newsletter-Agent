@@ -1,0 +1,164 @@
+{
+  "kept": [
+    {
+      "ref": 8,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INTRODUCING GROK 4.7 (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/0xk7iD",
+      "blurb": "Grok 4.7 enhances coding and knowledge work capabilities with improved self-verification and safeguards, using a new, larger base model. It offers competitive pricing with $2 per million input tokens and $6 per million output tokens. Excelling in various benchmarks, it shows top-notch safety features, especially in cybersecurity tasks, limiting risky command execution."
+    },
+    {
+      "ref": 9,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "XIAOMI OPEN-SOURCES MIMO-V2.6 PRO AND FLASH MODELS (2 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/xiaomi-open-sources-mimo-v2-6-pro-and-flash-models/?utm_source=tldrai",
+      "blurb": "Xiaomi MiMo-V2.6 Pro and Flash are omnimodal models that can coordinate agents to construct and visually test interactive 3D scenes. They can create Blender assets, control a robotic arm from camera feeds, produce frontends and presentations, assemble videos, and compose music as scores and MIDI. The models are now available in AI Studio, MiMo Code, MiMo Desktop, Xiaomi's MiMo API Platform, and OpenRouter. Xiaomi has published the technical report, training environments, and RL code alongside the models."
+    },
+    {
+      "ref": 10,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "ANTHROPIC TESTS FABLE 5.2 AND OPUS 5.5 AHEAD OF THE RELEASE (3 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/anthropic-tests-fable-5-2-and-opus-5-5-ahead-of-the-release/?utm_source=tldrai",
+      "blurb": "Anthropic is starting to test its upcoming frontier model in the wild. Several people have posted outputs that seem to come from a newer, more advanced model. Anthropic may be announcing Opus 5.5 this week. The model is rumored to be priced at $4 per million input tokens and $20 per million output tokens."
+    },
+    {
+      "ref": 11,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "META'S MUSE PERSONAL AI AGENT TOPS CHATGPT, GROK AND CLAUDE FOR POST-LAUNCH DOWNLOADS (4 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html?utm_source=tldrai",
+      "blurb": "Meta's Muse AI app has surged to the top of the iOS App Store charts in the US, outpacing ChatGPT and other AI tools with 730,000 downloads shortly after its release. Powered by the Muse Spark AI models, the app allows users to manage digital assistants for tasks like filling forms and organizing emails. While Muse's popularity highlights growing consumer interest, privacy concerns persist, with Amazon blocking the app over security risks, although Shopify has partnered with Meta to integrate agentic checkout."
+    },
+    {
+      "ref": 12,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "THE CURRENT BALANCE OF POWER IN OPEN MODELS (17 MINUTE READ)",
+      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open?utm_source=tldrai",
+      "blurb": "The gap from open to closed models available to users has been decreasing over the last 3 years. Open model usage is exploding in high-value industries. Open-weight models have passed an inflection point in economic viability. Chinese labs are clearly maintaining their status as the leaders of the open-weight AI ecosystem."
+    },
+    {
+      "ref": 13,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "SWARM SCALING (13 MINUTE READ)",
+      "url": "https://www.tobyord.com/writing/swarm-scaling?utm_source=tldrai",
+      "blurb": "Scaling up the number of agents in a swarm by 10x doesn't get as much performance as using 10x as many tokens with one agent. This shortfall accumulates quickly for larger scale-ups, with the swarm falling further and further behind. However, swarms can theoretically achieve the same task in much less time as they are run in parallel. The speedup is substantial, so swarms are useful in situations where a large premium is paid for speed."
+    },
+    {
+      "ref": 14,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "THE GREAT UNBUNDLING OF INTELLIGENCE (8 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/w7x1ek",
+      "blurb": "Agent economics are pushing AI from frontier-by-default toward capability-level routing, where judgment, ranking, search, and verification use cheaper specialized systems. Frontier models may handle fewer but harder tasks as applications become intelligence compilers that recombine services efficiently."
+    },
+    {
+      "ref": 15,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "THE BUSINESS OF BUILDING GOD (13 MINUTE READ)",
+      "url": "https://www.strangeloopcanon.com/p/the-business-of-building-god?utm_source=tldrai",
+      "blurb": "AI labs like OpenAI and Anthropic lead with a small model advantage but face competition as costs rise and open-source models close the gap. To sustain profits, labs aim to expand into new sectors, ranging from ads to robotics, while also exploring automation through recursive self-improvement (RSI). However, the path is fraught with uncertainty as enormous financial and talent investments may only maintain a temporary edge amid shifting economic and regulatory landscapes."
+    },
+    {
+      "ref": 18,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "BRINGING DEVIN CLOUD TO YOUR TERMINAL (2 MINUTE READ)",
+      "url": "https://devin.ai/blog/devin-cloud-in-your-terminal?utm_source=tldrai",
+      "blurb": "Developers can now create, steer, resume, and watch Devin Cloud sessions from their terminal. Devin CLI can now transfer any ask to Devin to continue iterating on with its own cloud VM. Users can continue to observe and steer progress directly from the terminal as if Devin were working locally. Cognition is offering free SWE-2 sessions until October 8 so developers can try Devin Cloud from the terminal."
+    },
+    {
+      "ref": 19,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "QWEN'S RECREATIONWORLD TRAINS AGENTS TO REBUILD APPS (GITHUB REPO)",
+      "url": "https://github.com/QwenLM/RecreationWorld?utm_source=tldrai",
+      "blurb": "RecreationWorld is a five-platform framework for training hybrid computer-use agents to explore GUIs, implement software with coding tools, and visually verify their work."
+    },
+    {
+      "ref": 20,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "MIMO-V2.6: SCALING REINFORCEMENT LEARNING TOWARDS SELF-IMPROVEMENT (9 MINUTE READ)",
+      "url": "https://www.alphaxiv.org/abs/2609.mimo-scaling-reinforcement-learning?utm_source=tldrai",
+      "blurb": "Reinforcement learning is the central training paradigm for advancing large foundation models towards self-improvement. The Mimo-V2.6 series is an omni-model family that pushes the frontier of model intelligence by scaling RL compute. Training was kept stable at scale by freezing the MoE router and establishing a multi-layer defense against reward hacking. The training dynamics, RL environments, and RL framework have been open-sourced to facilitate reproduction and further research on scaled RL and model self-improvement."
+    },
+    {
+      "ref": 22,
+      "section": "MISCELLANEOUS",
+      "heading": "AI COMES FOR THE IF STATEMENT (4 MINUTE READ)",
+      "url": "https://tomtunguz.com/ai-comes-for-the-if-statement?utm_source=tldrai",
+      "blurb": "New AI models like Jev2 and SemIf streamline the if-then decision-making process, cutting costs by 99% and improving accuracy from 47% to over 80% in tests. These advancements optimize coding primitives, potentially transforming AI's economic model by using specialized systems for production. Specialization in these models promises significant cost savings while maintaining high accuracy."
+    },
+    {
+      "ref": 23,
+      "section": "MISCELLANEOUS",
+      "heading": "ADVISORY GROUP ON MATHEMATICS AND ARTIFICIAL INTELLIGENCE (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/ygwjOV",
+      "blurb": "OpenAI has trained a new internal model that solved the Navier\u2013Stokes Millennium Prize problem and over 100 open mathematical challenges. In response, OpenAI established an independent advisory group involving prominent mathematicians to guide the responsible development and dissemination of math-related AI capabilities. This group will independently assess, advise, and communicate these advances to ensure AI's mathematical benefits align with community needs."
+    },
+    {
+      "ref": 25,
+      "section": "QUICK LINKS",
+      "heading": "AWS LAUNCHES STRANDS HARNESS, AN AGENT THAT BRINGS ITS OWN EVERYTHING BUT THE MODEL (6 MINUTE READ)",
+      "url": "https://thelettertwo.com/2026/09/21/aws-strands-harness?utm_source=tldrai",
+      "blurb": "AWS' new Strands harness is a ready-to-run agent that can search the web, run commands, edit files, remember what it did yesterday, and hand off work to helper agents."
+    },
+    {
+      "ref": 26,
+      "section": "QUICK LINKS",
+      "heading": "STEPFUN'S STEP 5 PREVIEW (4 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2102213621963243704.html?utm_source=tldrai",
+      "blurb": "Step 5 Preview has 600B total and 27B active parameters and matches Kimi K3 (max) at around 2.8 times lower cost per task."
+    },
+    {
+      "ref": 27,
+      "section": "QUICK LINKS",
+      "heading": "ALIBABA UNVEILS AI CHIP TO DRIVE 20GW OF DATA CENTERS BY 2032 (2 MINUTE READ)",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-unveils-ai-chip-drive-022139864.html?utm_source=tldrai",
+      "blurb": "Alibaba's new Zhenwu V900 accelerator triples the performance of its predecessor."
+    },
+    {
+      "ref": 28,
+      "section": "QUICK LINKS",
+      "heading": "AIKIDO ALTAR: OPEN-WEIGHT AI FOR SOVEREIGN SECURITY (9 MINUTE READ)",
+      "url": "https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security?utm_source=tldrai",
+      "blurb": "Aikido Altar is an open-weight AI model that enhances Aikido Machine's pentesting capabilities while operating entirely within a customer's infrastructure."
+    },
+    {
+      "ref": 29,
+      "section": "QUICK LINKS",
+      "heading": "KEV (GITHUB REPO)",
+      "url": "https://github.com/jaredpalmer/kev?utm_source=tldrai",
+      "blurb": "Kev is an open-source family of small Jev-like decision models that run locally and return calibrated probabilities for yes/no, multiple-choice, and rating questions."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "WORRIED ABOUT SENDING YOUR DATA TO AN AI YOU DON'T CONTROL? (SPONSOR)",
+      "url": "https://www.vastdata.com/lp/confidential-ai?utm_source=TLDR-primary&utm_medium=paiddigital&utm_campaign=Q327-Global-ADOP-MUC-UnboundedLaunch&utm_content=header_worried_about_sending&utm_term=2026-09-22_tldr_ai",
+      "blurb": "AI security goes far beyond choosing the right model. Right now, teams are (rightly) asking where AI runs, who has access, and what data they can reach.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 16,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "YOU'RE USING AI, BUT WHAT'S YOUR ROADMAP? (SPONSOR)",
+      "url": "https://www.gartner.com/en/articles/ai-roadmap?utm_source=tldr&utm_medium=display&utm_campaign=GTR_GB_2026_GTR_PD_DS7_AITLDRNL&utm_term=hubpage&sp=FpkB6Eap2iIODVAfR_34BBty",
+      "blurb": "Anyone can build with AI, but you need to get the sequence right if you want to scale. Based on the 4,000 AI case studies and use cases in Gartner's AI Hub [17], teams with an AI roadmap are better at managing risk and actually achieving goals. To learn how to sequence your AI initiatives, read the blog [16]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 21,
+      "section": "MISCELLANEOUS",
+      "heading": "PRODUCT MANAGER, APPLIED AI AT TLDR ($200K BASE + $60K BONUS, FULLY REMOTE)",
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr",
+      "blurb": "TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We're looking for a builder who has shipped real products/systems with LLMs. Click here to learn more [21].",
+      "drop_reason": "drop-list domain (jobs.ashbyhq.com)"
+    },
+    {
+      "ref": 24,
+      "section": "QUICK LINKS",
+      "heading": "HOW TO BUILD THE ACCOUNTABILITY CHAIN FOR AI AGENT DECISIONS (SPONSOR)",
+      "url": "https://airia.com/resources/the-state-of-enterprise-ai-risk/?utm_source=tldr_ai&utm_medium=newsletter&utm_campaign=09222026quicklinks",
+      "blurb": "Airia's State of Enterprise AI Risk report breaks down the 5 sources of risk and lays out the governance model for reconstructing and governing agent actions. Download the eBook [24]",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

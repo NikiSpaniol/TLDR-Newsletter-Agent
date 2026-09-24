@@ -1,0 +1,149 @@
+{
+  "kept": [
+    {
+      "ref": 4,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GPT-6 SOL AND LUNA (9 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/RM8wFX",
+      "blurb": "OpenAI introduced GPT-6 Sol and Luna as faster, more affordable counterparts to GPT-6 Astra, bringing advances in coding, factuality, computer use, and professional tasks to lower-cost models."
+    },
+    {
+      "ref": 5,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "CLAUDE OPUS 5.5 (3 MINUTE READ)",
+      "url": "https://www.anthropic.com/claude-opus-5-5?utm_source=tldrai",
+      "blurb": "Anthropic introduced Claude Opus 5.5, saying it matched Claude Fable 5.1 on most work while costing 40% less to run than Opus 5. The model also underwent external evaluations and achieved Anthropic's strongest result to date on its automated behavioral audit."
+    },
+    {
+      "ref": 6,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "SWE-BENCH PRO V2 (9 MINUTE READ)",
+      "url": "https://labs.scale.com/leaderboard/swe_bench_pro_public_v2?utm_source=tldrai",
+      "blurb": "SWE-BENCH PRO V2 releases with 642 tasks from 11 repositories, correcting previous task errors and optimizing evaluation processes. Performance drops for AI models, with OpenAI GPT-5 and Claude Opus 4.1 only scoring around 23% on the public set, highlighting the benchmark's increased challenge and realism compared to SWE-Bench Verified. Notably, top models show consistent results across tasks and languages, while smaller models falter under complex, multi-file scenarios."
+    },
+    {
+      "ref": 7,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "TRAINING AI FROM REAL-WORLD TOOL USE (19 MINUTE READ)",
+      "url": "https://www.perplexity.ai/hub/blog/learning-from-real-world-experience?utm_source=tldrai",
+      "blurb": "Perplexity combined rejection sampling fine-tuning with hint-guided self-distillation so its Computer model could learn from both successful sessions and user-corrected failures."
+    },
+    {
+      "ref": 8,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "VINOD KHOSLA'S TWO MOATS FOR PERSONAL AI (1 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/ZXLK5a",
+      "blurb": "Personal AI may ultimately compete on two moats: trust and task completion. Vinod Khosla says users will stay loyal to companies they trust with sensitive data and products that reliably finish work, while Meta faces a trust disadvantage."
+    },
+    {
+      "ref": 9,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "WHAT A TASK COSTS ON OPUS 5.5 (22 MINUTE READ)",
+      "url": "https://claude.com/blog/what-a-task-costs-on-opus-5-5?utm_source=tldrai",
+      "blurb": "Opus 5.5 reduces token costs by offering cheaper input and output tokens, with additional savings from extensive use of cache reads. Transaction costs depend on the number of turns, cache utilization, and model selection, impacting tasks based on session length and complexity."
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GOOGLE PUBLISHES RRSI FOR SELF-IMPROVING AI AGENTS (5 MINUTE READ)",
+      "url": "https://regularized-rsi.com/?utm_source=tldrai",
+      "blurb": "Google has introduced RRSI, a method that regularizes how AI agent harnesses recursively improve themselves to reduce benchmark overfitting and encourage changes that transfer to new tasks. Across eight benchmarks, it improved out-of-distribution performance while using fewer policy tokens."
+    },
+    {
+      "ref": 14,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "HARDWARE-AGNOSTIC MODELS IN VLLM (10 MINUTE READ)",
+      "url": "https://pytorch.org/blog/hardware-agnostic-models-in-vllm/?utm_source=tldrai",
+      "blurb": "vLLM introduces hardware-agnostic layers to support models across diverse hardware while maintaining high performance. These layers achieve up to 96.6% efficiency of native implementations on NVIDIA H100 GPUs while remaining torch compilable and extensible. This ensures vLLM adapts to new GPU advancements without neglecting users of older and niche accelerators."
+    },
+    {
+      "ref": 15,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "KEEPING LARGE MOE TRAINING WITHIN FIXED GPU MEMORY (20 MINUTE READ)",
+      "url": "https://arxiv.org/abs/2609.14306?utm_source=tldrai",
+      "blurb": "A set of scheduling techniques bounds four major memory bottlenecks in large-scale MoE training, expert dispatch, vocabulary projection, checkpointing, and optimizer state, without approximating the computation."
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "CHINA'S BIGGEST MEMORY MAKER SAYS IT HAS CAUGHT UP WITH SAMSUNG AND MICRON (4 MINUTE READ)",
+      "url": "https://thenextweb.com/news/cxmt-dram-fifth-generation-mass-production-memory-shortage?utm_source=tldrai",
+      "blurb": "ChangXin Memory Technologies, China's largest maker of DRAM, says that its process capabilities are now on par with the most advanced mass-produced nodes in the industry. The company's fifth-generation DRAM platform has entered mass production. The platform yields at least 50% more dies per wafer than the previous generation. There are already two products running on the platform, both 24-gigabit LPDDR5X and holding 50% more data than the equivalent chips CXMT made before."
+    },
+    {
+      "ref": 17,
+      "section": "MISCELLANEOUS",
+      "heading": "THE BIOLOGICAL COMPUTING CO. PARTNERS WITH AWS TO SELL ITS NEURON-DERIVED AI VIDEO MODEL (3 MINUTE READ)",
+      "url": "https://thenextweb.com/news/biological-computing-co-aws-neuron-derived-ai-video-model?utm_source=tldrai",
+      "blurb": "The Biological Computing Co. is a startup that grows living neurons to improve AI models. It has partnered with AWS to bring a neuron-derived AI video model to paying customers. The neurons themselves will stay in the lab. TBC uses them during discovery, then turns what they learn into a lightweight software layer. The design means that customers won't need to maintain any biological hardware or change how they work. The optimized model runs on standard GPUs and cloud accelerators at the same capacity a company would rent for any other generative model."
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "BETTER GPT-6 PROMPT CACHING (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/MWm2Xs",
+      "blurb": "OpenAI improved prompt caching for GPT-6 with higher default cache hit rates, discounts for shared prefixes reused within 30 minutes, and new tools for monitoring and diagnosing cache performance."
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "PEOPLE NEED TO START PAYING ATTENTION TO THE ISSUE OF DERIVED DATA IN AI TRAINING (2 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2102311135441547405.html?utm_source=tldrai",
+      "blurb": "Derived data is creative content that is rewritten by AI before it is trained on."
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "INVOLUTION WITHOUT EXPORT IS WASTED EFFORT (28 MINUTE READ)",
+      "url": "https://earnedintuition.substack.com/p/involution-without-export-is-wasted?utm_source=tldrai",
+      "blurb": "If you don't go overseas, all that grinding was for nothing."
+    },
+    {
+      "ref": 23,
+      "section": "QUICK LINKS",
+      "heading": "GPT-6 ASTRA BREAKS AN OLD ENIGMA MESSAGE (2 MINUTE READ)",
+      "url": "https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html?utm_source=tldrai",
+      "blurb": "GPT-6 Astra analyzed the still-unbroken Enigma messages and decided the most promising message was Nr. 172, MVUEH."
+    },
+    {
+      "ref": 24,
+      "section": "QUICK LINKS",
+      "heading": "META ADMITS MUSE'S LIKENESS TO OPENCLAW ISN'T A COINCIDENCE (4 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/?utm_source=tldrai",
+      "blurb": "Meta admits Muse draws heavy inspiration from the open-source project OpenClaw, despite being built from scratch."
+    },
+    {
+      "ref": 25,
+      "section": "QUICK LINKS",
+      "heading": "ALTMAN AND AMODEI EXPECTED TO JOIN UN SECURITY COUNCIL MEETING ABOUT AI (2 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html?utm_source=tldrai",
+      "blurb": "OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei will address the UN Security Council on AI safety and regulation amid mounting concerns about AI risks."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 10,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "THE MOST FLEXIBLE AI MEETING APP NOW HAS AN MCP SERVER (SPONSOR)",
+      "url": "https://go.granola.ai/adops-tldr-tech?utm_source=affiliate&utm_medium=tldr-ai&utm_campaign=general&utm_content=newsletter_header_most_flexible_ai&utm_term=2026-09-23_tldr_ai",
+      "blurb": "Your meetings happen in hallways, coffeeshops, and restaurants. Granola moves with you to catch every detail from desktop to Apple Watch. And now the Granola MCP server [11] lets you ask Claude to update your CRM with meeting context, have ChatGPT organize tasks in Linear, and turn meeting insights into automated workflows. Start free [12] with code TLDR1MO",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "WHEN THE MOST ADVANCED AI MODELS AND MOST VALUABLE DATA CAN'T MEET. (SPONSOR)",
+      "url": "http://www.vastdata.com/lp/confidential-ai?utm_medium=paiddigital&utm_source=TLDR-quick&utm_campaign=Q327-Global-ADOP-MUC-UnboundedLaunch",
+      "blurb": "Enterprises won't expose sensitive data to infrastructure they don't control. Model builders won't put proprietary weights somewhere they can't trust. Learn how VAST Data is removing that trust barrier [18].",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "WHO OWNS YOUR INTELLIGENCE? THE CEOS OF DIGITALOCEAN, OPENHANDS, AND DAYTONA TAKE ON THAT QUESTION IN SF, OCT 12\u201313 (SPONSOR)",
+      "url": "https://www.digitalocean.com/open-intelligence-summit?utm_source=tldr-newsletter&utm_medium=sponsorship&utm_campaign=ois-2026&utm_content=ai-quicklinks2-sept-23",
+      "blurb": "The argument isn't \"is open source cheaper\" anymore; it's \"who owns the intelligence.\" Two days on exactly that at the Open Intelligence Summit, also featuring OpenRouter's Peter Walker on what developers really run. Invite-only. Request a seat via our partner link \u2192 [22]",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}
