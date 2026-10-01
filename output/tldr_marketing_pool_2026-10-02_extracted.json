@@ -1,0 +1,245 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": null,
+      "heading": "CONVENIENCE OR DISCOVERY: WHICH MISSION WILL YOUR STORE SERVE? (12 MINUTE READ)",
+      "url": "https://www.mckinsey.com/industries/retail/our-insights/convenience-or-discovery-which-mission-will-your-store-serve?utm_source=tldrmarketing",
+      "blurb": "AI is splitting physical retail into two distinct missions. Convenience stores should reduce friction with easy navigation and reactive service. Discovery stores should drive dwell time through immersive experiences and specialized associates. More than 90% of consumers prioritize locations that fit their daily routines, while 78% cite product testing and 76% cite product guidance as drivers of discovery visits.",
+      "source_email": "tldr_marketing_2026-09-29_extracted.json"
+    },
+    {
+      "ref": 2,
+      "section": null,
+      "heading": "THERE IS NO AEO ALGORITHM TO HACK (4 MINUTE READ)",
+      "url": "https://marketingadvice.substack.com/p/there-is-no-aeo-algorithm-to-hack?utm_source=tldrmarketing",
+      "blurb": "AEO is not an SEO ranking game with factors to reverse engineer. AI visibility depends on whether a brand is clearly associated with a category and supported by credible evidence. Fix positioning gaps and answer real buyer questions. Build comparison content that helps buyers evaluate vendors. Strengthen third-party corroboration instead of manufacturing mentions. Then track commercial prompts and connect AI visibility to buyer conversations and pipeline, not just brand mentions.",
+      "source_email": "tldr_marketing_2026-09-29_extracted.json"
+    },
+    {
+      "ref": 3,
+      "section": null,
+      "heading": "ALMOST NOBODY GETS XML SITEMAPS RIGHT (4 MINUTE READ)",
+      "url": "https://joost.blog/broken-sitemaps/?utm_source=tldrmarketing",
+      "blurb": "XML sitemaps tell search engines which URLs a site wants in search results. They should contain canonical, working URLs that the site wants indexed. Google attempts to crawl each URL as listed, so redirects, errors, noindex pages, or conflicting canonicals make the sitemap less useful and can waste crawl activity. Missing or repeated \u2018lastmod' dates can be acceptable. Fields like \u2018priority' and \u2018changefreq' are ignored by Google.",
+      "source_email": "tldr_marketing_2026-09-29_extracted.json"
+    },
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "DOES REDDIT HAVE AN ASTROTURFING PROBLEM? (8 MINUTE READ)",
+      "url": "https://www.petervijeh.com/projects/reddit-astroturf?utm_source=tldrmarketing",
+      "blurb": "Reddit is often treated as a source of unbiased product advice. However, some buying recommendations are unusually concentrated among a small group of accounts. The top 5% of brand-heavy accounts produced 11.3% of knife recommendations, versus 7.9% expected by chance. For three brands, that share reached 20% to 31%. This could indicate astroturfing, where paid accounts create the appearance of organic recommendations, but their histories looked more like genuine fans.",
+      "source_email": "tldr_marketing_2026-09-29_extracted.json"
+    },
+    {
+      "ref": 5,
+      "section": "MISCELLANEOUS",
+      "heading": "THE USEFULNESS OF ATTRIBUTION FOR AI SEARCH (6 MINUTE READ)",
+      "url": "https://www.growth-memo.com/p/the-collapse-of-attribution?utm_source=tldrmarketing",
+      "blurb": "AI is making click-based attribution less useful as discovery increasingly happens through AI answers that never generate a website visit. Treat attribution as one imperfect signal rather than a definitive measure of channel value. Triangulate exposure, behavioral, and business metrics such as AI Share of Voice and CRM data. Use incrementality testing where possible to measure causal impact, especially for activities that attribution cannot capture.",
+      "source_email": "tldr_marketing_2026-09-29_extracted.json"
+    },
+    {
+      "ref": 6,
+      "section": "MISCELLANEOUS",
+      "heading": "DISSECTING WHY CANVA IS PARTNERING WITH JIO (5 MINUTE READ)",
+      "url": "https://shorts.growthx.club/p/jio-the-final-boss-of-saas-distribution?utm_source=tldrmarketing",
+      "blurb": "Canva is using Jio's 524.4M customers to tackle a freemium problem. Many casual users get enough value from Free to justify paying for Pro. Bundling Pro with Jio plans lets users experience premium features without making a separate purchase. The real test is what happens after the bundle ends. Canva needs to see whether users build habits around Pro and become willing to pay for it.",
+      "source_email": "tldr_marketing_2026-09-29_extracted.json"
+    },
+    {
+      "ref": 7,
+      "section": "QUICK LINKS",
+      "heading": "WENDY'S DROPS AN EMO ALBUM: \u201cSONGS TO LISTEN TO IN A WENDY'S PARKING LOT\u201d (3 MINUTE READ)",
+      "url": "https://www.wendys.com/blog/wendysr-square-deal-blog/wendys-drops-emo-album-songs-listen-wendys-parking-lot?utm_source=tldrmarketing",
+      "blurb": "Wendy's dropped a full emo EP for late-night food runs.",
+      "source_email": "tldr_marketing_2026-09-29_extracted.json"
+    },
+    {
+      "ref": 8,
+      "section": "QUICK LINKS",
+      "heading": "THE \"ARE YOU STILL THAT PERSON?\" TRICK (2 MINUTE READ)",
+      "url": "https://www.marketingideas.com/p/psst-are-you-still-that-person?utm_source=tldrmarketing",
+      "blurb": "Use identity-based emails to re-engage churned customers and dead leads.",
+      "source_email": "tldr_marketing_2026-09-29_extracted.json"
+    },
+    {
+      "ref": 9,
+      "section": null,
+      "heading": "WHO GETS PAID WHEN AI DOES THE SHOPPING? (5 MINUTE READ)",
+      "url": "https://www.a16z.news/p/who-gets-paid-when-ai-does-the-shopping?utm_source=tldrmarketing",
+      "blurb": "AI shopping assistants could weaken marketplaces' advertising and commission economics by owning the customer relationship and sending orders directly to fulfillment providers. Amazon generated $69 billion in advertising revenue in 2025, so losing control of product discovery could threaten a major profit pool even if it keeps fulfilling orders. Platforms like Shopify and Toast have more reason to welcome agents because they can gain new sales while still earning software and payments revenue. The outcome depends on whether agents create new demand or simply reroute existing orders, since new purchases can offset lower profit per order.",
+      "source_email": "tldr_marketing_2026-09-30_extracted.json"
+    },
+    {
+      "ref": 10,
+      "section": null,
+      "heading": "WALMART'S COLLECTIBLES PLAY IS SHOWING US WHERE RETAIL IS HEADING (7 MINUTE READ)",
+      "url": "https://www.futurecommerce.com/posts/insiders-240-walmarts-collectibles-play-is-showing-us-where-retail-is-heading?utm_source=tldrmarketing",
+      "blurb": "Walmart is using limited-time draws to sell scarce collectibles, including basketball cards, NeeDoh toys, and Pok\u00e9mon boxes. Shoppers enter during a set window and are randomly selected instead of racing to checkout. The format creates anticipation and gives collectors a reason to discuss entry rules and results online. It shows how intentional friction can turn scarce products into experiences rather than simple transactions.",
+      "source_email": "tldr_marketing_2026-09-30_extracted.json"
+    },
+    {
+      "ref": 11,
+      "section": null,
+      "heading": "I WENT MINI VIRAL ON SUBSTACK (AFTER 9 MONTHS OF CRICKETS) (4 MINUTE READ)",
+      "url": "https://maggieblackburn.beehiiv.com/p/i-went-mini-viral-on-substack-after-9-months-of-crickets?utm_source=tldrmarketing",
+      "blurb": "The author grew her Substack from 90 to 770 subscribers in four days. She did it with a reintroduction post featuring a photo, recognizable past employers, and an honest story about leaving corporate work. She then shared subscriber numbers in real time to keep momentum going. To stay consistent, she built a Claude Skill to help create Substack notes on a set cadence, then had a VA schedule them. An email is required to read the full post.",
+      "source_email": "tldr_marketing_2026-09-30_extracted.json"
+    },
+    {
+      "ref": 12,
+      "section": null,
+      "heading": "MONEY-BACK GUARANTEE VS. FREE TRIAL: WHICH SHOULD YOUR SUBSCRIPTION APP RUN? (11 MINUTE READ)",
+      "url": "https://www.revenuecat.com/blog/growth/money-back-guarantee?utm_source=tldrmarketing",
+      "blurb": "Asking users to pay upfront with a refund safety net lets ad campaigns optimize for real purchases instead of trial starts, giving Meta and TikTok a cleaner signal of who will pay. Few customers claim refunds, so a lower conversion rate can be offset by higher-intent subscribers. Guarantees work best in web or app-to-web funnels, since the app stores control in-app refunds.",
+      "source_email": "tldr_marketing_2026-09-30_extracted.json"
+    },
+    {
+      "ref": 13,
+      "section": null,
+      "heading": "JEV: DECISION AI FOR GTM (7 MINUTE READ)",
+      "url": "https://newsletter.gtmengineering.ai/p/jev-engineering-for-gtm-and-why-it?utm_source=tldrmarketing",
+      "blurb": "Jev is a new decision model that returns labels, scores, and yes/no answers with calibrated confidence instead of generated text, making it a cheap fit for classification and routing in Clay. It connects through an HTTP API column in about 10 minutes. Keep the input state short, since extra context can lower accuracy. Add an \"unclear\" option and write criteria that don't overlap. Set stricter confidence thresholds for hard-to-undo actions, then gate paid enrichment and LLM writing on the result.",
+      "source_email": "tldr_marketing_2026-09-30_extracted.json"
+    },
+    {
+      "ref": 14,
+      "section": null,
+      "heading": "AI AND THE AGENCY OF THE FUTURE (WEBINAR)",
+      "url": "https://41nlpt.share-na2.hsforms.com/2yjIu8NrJTRuNUFfySOEKUg?utm_source=tldrmarketing",
+      "blurb": "Blin Kazazi and Dan Hinckley will discuss where AI fits inside an agency today. They'll cover what's changing in search and client demand, what the agency of the future looks like, and what agency owners get wrong about AI. The free webinar will take place today at 11 AM CT.",
+      "source_email": "tldr_marketing_2026-09-30_extracted.json"
+    },
+    {
+      "ref": 15,
+      "section": "MISCELLANEOUS",
+      "heading": "LINKEDIN IS MY MEDIUM (4 MINUTE READ)",
+      "url": "https://morningfyi.substack.com/p/linkedin-is-my-medium?utm_source=tldrmarketing",
+      "blurb": "An artist created an AI-generated version of herself who is more polished and corporate than her real-world self. She uses AI to generate LinkedIn posts and images depicting promotions, luxury offices, leadership roles, and eventually a corporate scandal. The project satirizes LinkedIn's culture of self-promotion and professional visibility while questioning where performance ends and genuine professional identity begins. The irony is that the satire itself generates visibility and could make the artist more employable.",
+      "source_email": "tldr_marketing_2026-09-30_extracted.json"
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "WHY STRONG PMMS ARE STRUGGLING TO LAND JOBS (AND WHAT TO DO ABOUT IT) (9 MINUTE READ)",
+      "url": "https://www.courageous-careers.com/land-your-next-pmm-job?utm_source=tldrmarketing",
+      "blurb": "Strong PMMs are struggling to land jobs because companies are hiring cautiously and looking for candidates who fit specific business needs. Job seekers experience three common roadblocks: broad positioning, forgettable interviews, and explaining experience instead of demonstrating how you would solve the company's problems. The author recommends targeting your positioning around a specific type of company and using a consultative interview approach that diagnoses the company's needs, then structures answers around Process, Situation, Action, and Result. You can also stand out by creating concrete proof of how you would solve a company's problems, such as one candidate who built an ROI calculator for a final interview and had it shared across the company.",
+      "source_email": "tldr_marketing_2026-09-30_extracted.json"
+    },
+    {
+      "ref": 17,
+      "section": "QUICK LINKS",
+      "heading": "MAKE PRODUCT NAMES VERY SPECIFIC (2 MINUTE READ)",
+      "url": "https://app.sciencesays.com/p/make-product-names-very-specific?utm_source=tldrmarketing",
+      "blurb": "Use-specific descriptions help shoppers picture themselves using a product, which raises how useful it seems by 9.7% and purchase intent by up to 9.5%.",
+      "source_email": "tldr_marketing_2026-09-30_extracted.json"
+    },
+    {
+      "ref": 18,
+      "section": null,
+      "heading": "TOGETHER WITH [iDHL]",
+      "url": "https://www.idhlagency.com/state-of-ai?utm_source=tldr&utm_medium=paid_newsletter&utm_campaign=H2-Propositions&utm_content=primary_placement_oct_1_header_understand_how_audiences&utm_term=2026-10-01",
+      "blurb": "TLDR MARKETING 2026-10-01",
+      "source_email": "tldr_marketing_2026-10-01_extracted.json"
+    },
+    {
+      "ref": 19,
+      "section": null,
+      "heading": "READ THE STATE OF AI SEARCH REPORT",
+      "url": "https://www.idhlagency.com/state-of-ai?utm_source=tldr&utm_medium=paid_newsletter&utm_campaign=H2-Propositions&utm_content=primary_placement_oct_1_cta_state_ai_search&utm_term=2026-10-01",
+      "blurb": "\ud83d\udcf1",
+      "source_email": "tldr_marketing_2026-10-01_extracted.json"
+    },
+    {
+      "ref": 20,
+      "section": null,
+      "heading": "WHO'S BUYING CHATGPT ADS? (8 MINUTE READ)",
+      "url": "https://bloomberry.com/blog/whos-buying-chatgpt-ads-i-analyzed-15k-advertisers/?utm_source=tldrmarketing",
+      "blurb": "ChatGPT Ads adoption is accelerating, with roughly 15K companies detected using OpenAI's ad tracking pixel. Early adopters skew toward software and tech, growth-stage companies, and US businesses. Reddit advertisers show the strongest overlap, with 9.6% also using ChatGPT Ads. Companies already investing in ChatGPT visibility are also far more likely to advertise there, suggesting some businesses are beginning to treat ChatGPT as a broader acquisition channel spanning organic visibility, referrals, and paid ads.",
+      "source_email": "tldr_marketing_2026-10-01_extracted.json"
+    },
+    {
+      "ref": 21,
+      "section": null,
+      "heading": "THE SECOND PAGE OF GOOGLE WAS A PLACE WEBSITES WENT TO DIE. NOW THEY DIE ON THE FIRST (12 MINUTE READ)",
+      "url": "https://galratner.substack.com/p/the-second-page-of-google-was-a-place?utm_source=tldrmarketing",
+      "blurb": "Search is growing even as the click disappears. Google Search revenue rose 17% to $63.3 billion last quarter, while revenue from the ads it places on publishers' sites fell. The remaining traffic has moved from news, health, and cooking sites to sites that sell products. How-to content no longer pays because the answer strips out the brand, but a buying question can't be answered without naming a product. That makes detailed product documentation the content worth publishing and paywalled expertise the content worth selling.",
+      "source_email": "tldr_marketing_2026-10-01_extracted.json"
+    },
+    {
+      "ref": 22,
+      "section": null,
+      "heading": "DON'T MAKE THEM COUNT (2 MINUTE READ)",
+      "url": "https://www.practicalecommerce.com/dont-make-them-count?utm_source=tldrmarketing",
+      "blurb": "Reduce purchase hesitation on ecommerce pages by expressing quantities in the terms shoppers already use. Gush labels its pack sizes by occasions, while The Farmer's Dog shows portions and prices them per day, so shoppers don't have to calculate how much they need or what it costs. Product pages should spell out bundle contents, show prices per relevant unit, and answer \u201cHow long will this last?\u201d beside the quantity selector. Watching shoppers choose a quantity can show you where unclear options create hesitation.",
+      "source_email": "tldr_marketing_2026-10-01_extracted.json"
+    },
+    {
+      "ref": 23,
+      "section": null,
+      "heading": "WIN REPORT: HOW REWRITING ONE BUTTON INCREASED SIGN-UPS BY 39% (3 MINUTE READ)",
+      "url": "https://conversion-rate-experts.com/exclaimer-free-trial-cta-copy-win-report/?utm_source=tldrmarketing",
+      "blurb": "A clearer CTA can increase conversions by making an existing offer easier to understand and less intimidating. Exclaimer changed its homepage button from \u201cStart free trial\u201d to \u201cTry it free for 14 days,\u201d which made the trial length explicit and framed the action as a low-commitment opportunity. The rewrite increased trial sign-ups by 39% without changing anything else on the page. The result shows that improving how an offer is communicated can sometimes outperform creating a new offer.",
+      "source_email": "tldr_marketing_2026-10-01_extracted.json"
+    },
+    {
+      "ref": 24,
+      "section": null,
+      "heading": "LINKEDIN SPLIT THE FEED IN TWO (AGAIN) (6 MINUTE READ)",
+      "url": "https://www.diandraescobar.com/p/linkedin-split-the-feed-in-two-again?utm_source=tldrmarketing",
+      "blurb": "LinkedIn is testing separate For You and Network feeds, with Network showing only posts from connections and followed accounts. The ranking system itself is unchanged, but connections could become more important for distribution. Comments are now ranked differently for each viewer based on relevance and connections. LinkedIn also launched a Premium proofreading tool and says long-form LinkedIn articles are cited more often in AI search than feed posts.",
+      "source_email": "tldr_marketing_2026-10-01_extracted.json"
+    },
+    {
+      "ref": 25,
+      "section": null,
+      "heading": "YOU'RE TAILORING THE WRONG DOCUMENT (7 MINUTE READ)",
+      "url": "https://www.juliedx.com/insights/blog/linkedin-profile-findability-data?utm_source=tldrmarketing",
+      "blurb": "Stop tailoring your resume for every job and optimize your LinkedIn profile for the roles you actually want. Compare 3-5 target job postings and identify repeated titles, skills, and responsibilities. Use those terms in your headline, About section, current title, skills, and Open to Work settings. Replace internal job titles with market-standard ones and move relevant experience higher on your profile. Small changes to a few fields can improve recruiter relevance faster than rewriting resumes for every application.",
+      "source_email": "tldr_marketing_2026-10-01_extracted.json"
+    },
+    {
+      "ref": 26,
+      "section": "MISCELLANEOUS",
+      "heading": "A BRUTALLY HONEST READ OF APPSFLYER'S STATE OF CREATIVE OPTIMIZATION 2026 (8 MINUTE READ)",
+      "url": "https://lancaric.substack.com/p/a-brutally-honest-read-of-appsflyers?utm_source=tldrmarketing",
+      "blurb": "More AI-generated ad variations aren't producing more winning ads. The growth is concentrated among the biggest spenders and is mostly localization and small edits rather than new ideas. Ad algorithms, meanwhile, put a growing share of spend behind a handful of winners, and the traits that win on video often lose on statics.",
+      "source_email": "tldr_marketing_2026-10-01_extracted.json"
+    },
+    {
+      "ref": 27,
+      "section": "MISCELLANEOUS",
+      "heading": "FREELANCER OR FULL-TIME? LET THE WORK DECIDE (9 MINUTE READ)",
+      "url": "https://creative.artisantalent.com/freelance-vs-full-time-creative-hire?utm_source=tldrmarketing",
+      "blurb": "Choose a staffing model based on the work, not just the workload or budget. Ongoing work that requires ownership and institutional knowledge points toward a full-time hire. Temporary workload spikes or specialized projects are better suited to freelancers or contractors. Contract-to-hire can bridge the gap when it's unclear whether a need will become permanent. Distinguish a temporary capacity problem from an ongoing role before adding headcount.",
+      "source_email": "tldr_marketing_2026-10-01_extracted.json"
+    },
+    {
+      "ref": 28,
+      "section": "MISCELLANEOUS",
+      "heading": "CMOS MUST RETHINK ENTRY-LEVEL TALENT AS AI ALTERS MARKETING NEEDS (2 MINUTE READ)",
+      "url": "https://www.marketingdive.com/news/cmos-must-rethink-entry-level-talent-as-ai-alters-marketing-needs-gartner/831604/?utm_source=tldrmarketing",
+      "blurb": "18% of senior marketing leaders have already eliminated roles due to AI, and a majority of high-performing marketing teams are expected to cut traditional entry-level jobs by 2030. Cutting those roles entirely would break the talent pipeline. Junior hires should instead take on higher-value work earlier, such as evaluating AI outputs and tying recommendations to outcomes, backed by coaching and mentorship.",
+      "source_email": "tldr_marketing_2026-10-01_extracted.json"
+    },
+    {
+      "ref": 29,
+      "section": "QUICK LINKS",
+      "heading": "HOW TO REFRESH YOUR CREATIVE FOR Q5 (4 MINUTE READ)",
+      "url": "https://business.pinterest.com/en-au/blog/refresh-your-creative-for-q5?utm_source=tldrmarketing",
+      "blurb": "Shift Q5 creative from gifting to self-purchase, festive urgency to planning, and seasonal messaging to everyday utility.",
+      "source_email": "tldr_marketing_2026-10-01_extracted.json"
+    },
+    {
+      "ref": 30,
+      "section": "QUICK LINKS",
+      "heading": "AMAZON IS LETTING BRANDS SHAPE ALEXA'S SHOPPING ANSWERS (2 MINUTE READ)",
+      "url": "https://wersm.com/amazon-brands-shape-alexa-shopping-answers/?utm_source=tldrmarketing",
+      "blurb": "Advertisers can now appear in Alexa for Shopping through sponsored prompts and product placements.",
+      "source_email": "tldr_marketing_2026-10-01_extracted.json"
+    }
+  ],
+  "dropped": []
+}

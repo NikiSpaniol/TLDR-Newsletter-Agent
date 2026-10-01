@@ -1,0 +1,22 @@
+[
+  {
+    "ref": 31,
+    "section": "QUICK LINKS",
+    "heading": "HOW WE ENGINEER SAFER AGENTS (14 MINUTE READ)",
+    "url": "https://www.perplexity.ai/hub/blog/how-we-engineer-safer-agents?utm_source=tldrai",
+    "blurb": "AI agents pose security risks as they may inadvertently cross security boundaries while pursuing legitimate goals.",
+    "source_email": "tldr_ai_2026-09-30_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 43,
+    "section": "MISCELLANEOUS",
+    "heading": "THE AI SAFETY COMMUNITY IS UNFORTUNATELY DOING MORE HARM THAN GOOD (7 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/VmBjCJ",
+    "blurb": "Public AI-doom messaging may harden opposition to the industry rather than improve safety discourse. Repeated extinction warnings from lab employees and researchers can politicize AI, intensify public distrust, and increase pressure for restrictive regulation.",
+    "source_email": "tldr_ai_2026-10-01_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  }
+]

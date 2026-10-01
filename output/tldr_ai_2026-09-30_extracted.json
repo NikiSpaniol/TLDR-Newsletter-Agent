@@ -1,0 +1,164 @@
+{
+  "kept": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "SAVE YOUR SEAT",
+      "url": "https://human.registration.goldcast.io/webinar/5eba08f8-7f7d-42a9-8647-49a90116b6f6?utm_source=tldr_ai&utm_medium=newsletter&utm_campaign=brand_agentic_trust&utm_content=webinar_meta_muse_101",
+      "blurb": "\ud83d\ude80"
+    },
+    {
+      "ref": 5,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INTRODUCING DOTS (10 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/TuXnmG",
+      "blurb": "OpenAI introduces \"Dots,\" AI-driven agents powered by GPT-6 Astra, designed to handle tasks autonomously using their own cloud computer. Dots integrate with over 4,000 apps and platforms like ChatGPT, Slack, and Teams, enabling seamless workflow and personalized assistance. They ensure user control with built-in safety measures, allowing for proactive task management while adapting to user goals and feedback."
+    },
+    {
+      "ref": 6,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INTRODUCING GPT-6.1 SOL (6 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/1YT36Q",
+      "blurb": "GPT-6.1 Sol offers near-Astra intelligence at a fifth of the cost, delivering significant improvements for professional tasks and reducing costs for developers. It excels in coding benchmarks, matches Astra's performance on complex PDF queries, and improves business workflow automation while offering enhanced factual accuracy. Available via OpenAI API and multiple user tiers, it provides cost-effective solutions across tasks with substantial safety and transparency enhancements."
+    },
+    {
+      "ref": 7,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "THE FUTURE IS FOR EVERYONE: MUSE FOR SMALL BUSINESS (3 MINUTE READ)",
+      "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business/?utm_source=tldrai",
+      "blurb": "Meta introduced Muse for Small Business, an AI tool to automate tasks for entrepreneurs using Facebook and Instagram analytics, ad accounts, and other tools. The AI can streamline operations and integrates with platforms like Canva for seamless brand management. Muse aims to empower small businesses by saving time and boosting productivity, with free and subscription options available."
+    },
+    {
+      "ref": 8,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "THE WORLD'S BEST GRADUAL DISEMPOWERMENT MODEL ORGANISM: FRONTIER AI LABS (32 MINUTE READ)",
+      "url": "https://www.lesswrong.com/posts/jbttuCF4wFZmXakcj/the-world-s-best-gradual-disempowerment-model-organism?utm_source=tldrai",
+      "blurb": "We now have slightly to moderately superhuman, legibly impressive general AIs across many domains. However, we have made relatively little progress on technical alignment or the moral dimensions of building superintelligence. Government regulation has been ad hoc and inconsistent. AI labs plan to use AIs to solve many facets of the alignment problem as there's too much work for humans to check, and the amount and share of unchecked work seems to be growing."
+    },
+    {
+      "ref": 9,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "SEGMENTATION DRIVES MARKET SHARE WINS IN AI (2 MINUTE READ)",
+      "url": "https://tomtunguz.com/anthropic-repriced-the-enterprise/?utm_source=tldrai",
+      "blurb": "Anthropic and OpenAI have boosted their revenue by implementing strategic customer segmentation and pricing changes. Anthropic introduced enterprise metered billing, while OpenAI slashed Luna's price by 80%, bringing its revenue run rate close to $70 billion. Both companies aim to hit $100 billion in revenue by year's end, with major clients like Amazon and Google still undecided on long-term commitments."
+    },
+    {
+      "ref": 11,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "MCP EVENTS (14 MINUTE READ)",
+      "url": "https://developers.openai.com/plugins/build/mcp-events?utm_source=tldrai",
+      "blurb": "MCP Events lets ChatGPT subscribe to updates from an MCP server. Users choose what to monitor and what ChatGPT should do when an update arrives. ChatGPT supports webhook delivery and callback verification from the draft MCP Events specification. Polling, streaming, and the draft's `gap` and `terminated` control notifications are not supported."
+    },
+    {
+      "ref": 12,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "SIGN IN WITH CHATGPT (6 MINUTE READ)",
+      "url": "https://help.openai.com/en/articles/20001410-sign-in-with-chatgpt?utm_source=tldrai",
+      "blurb": "Sign in with ChatGPT lets people use their ChatGPT identity to access supported external applications. It can be used to sign in on a participating partner site or when connecting an app from the ChatGPT plugin directory. Sign in with ChatGPT is available globally to authenticated ChatGPT users. Initial participating partners include Airtable, GitLab, HubSpot, Notion, Supabase, and Vercel."
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "D1 (2 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2105003472332693869.html?utm_source=tldrai",
+      "blurb": "d1 is a decision model that outperforms Jev on Hugging Face's Decision Index. It is built for fast, structured decision-making in software environments. Decision models are a good fit when the answer is a structured decision, such as in classification, categorization, routing, scoring, or content moderation. d1 is available on the Liquid API and will be available on OpenRouter soon."
+    },
+    {
+      "ref": 14,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "DECISIONS API (1 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2105003318917697873.html?utm_source=tldrai",
+      "blurb": "OpenAI's Decisions API, powered by GPT-6 Luna, is now available in limited preview. Users define questions and possible answers, and the model classifies content, routes requests, or chooses an agent's next action. Text and images can be used as context. Preview access is limited to selected API customers for testing. A broad release is planned in the coming days."
+    },
+    {
+      "ref": 15,
+      "section": "MISCELLANEOUS",
+      "heading": "ADAPTING FOR A WORLD OF SOFTWARE FACTORIES (8 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/NKIGDp",
+      "blurb": "Software factories shift engineers from coding locally toward supervising cloud agents and improving the systems that produce software. Warp expects engineers to own product quality while reducing human touches per PR through measurement, automation, and factory optimization."
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "OPENAI REPORTEDLY IN TALKS TO RAISE $30B ROUND AT $1.4T VALUATION (1 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/?utm_source=tldrai",
+      "blurb": "OpenAI is in talks with investors to raise at least $30 billion in a funding round at a valuation of roughly $1.4 trillion. The company previously raised $122 billion in March in what was supposed to be the last private raise before an IPO. OpenAI has now ruled out a public debut in 2026 due to AI safety issues. The new fundraising will serve as a bridge round to the IPO."
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "ANNOUNCING OUR PARTNERSHIP WITH OPENAI (4 MINUTE READ)",
+      "url": "https://www.baseten.co/blog/baseten-openai-partnership/?utm_source=tldrai",
+      "blurb": "Baseten is partnering with OpenAI to serve open models natively via Codex and the Responses API."
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "ANNOUNCING COHERE'S EMBED 5 MODELS (2 MINUTE READ)",
+      "url": "https://docs.cohere.com/changelog/embed-v5?utm_source=tldrai",
+      "blurb": "Embed 5 has major gains over Embed 4 on visually rich documents, financial filings, parsed PDFs, code, and multilingual retrieval."
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "DEVIN IS NOW UP TO 40% MORE COST-EFFICIENT (3 MINUTE READ)",
+      "url": "https://devin.ai/blog/more-efficient-devin?utm_source=tldrai",
+      "blurb": "Devin is now 30% to 40% cheaper in Fusion and Normal mode, 15% to 20% cheaper in Ultra, and up to 70% cheaper in Devin Review."
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "ASTRA, OPUS 5.5, AND OTHER FRONTIER MODELS DEMONSTRATE JAGGED PERFORMANCE ACROSS SOTA AGENTIC TASKS FROM WEB BROWSING TO ROBOTICS (32 MINUTE READ)",
+      "url": "https://www.fig.inc/blog/astra-opus-5-5-and-other-frontier-models-demonstrate-jagged-performance-across-sota-agentic-tasks-from-web-browsing-to-robotics/?utm_source=tldrai",
+      "blurb": "There is no clear performance leader and high variance in model-task fit on web tasks."
+    },
+    {
+      "ref": 23,
+      "section": "QUICK LINKS",
+      "heading": "GLM-5.3 AND THE SPREAD OF ADVANCED CYBER CAPABILITIES (14 MINUTE READ)",
+      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities?utm_source=tldrai",
+      "blurb": "Anthropic's testing found that attackers can bypass GLM-5.3's safeguards between 64% and 100% of the time with simple techniques."
+    },
+    {
+      "ref": 24,
+      "section": "QUICK LINKS",
+      "heading": "HOW WE ENGINEER SAFER AGENTS (14 MINUTE READ)",
+      "url": "https://www.perplexity.ai/hub/blog/how-we-engineer-safer-agents?utm_source=tldrai",
+      "blurb": "AI agents pose security risks as they may inadvertently cross security boundaries while pursuing legitimate goals."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "META MUSE JUST CHANGED THE INTERNET. NOW WHAT? (SPONSOR)",
+      "url": "https://human.registration.goldcast.io/webinar/5eba08f8-7f7d-42a9-8647-49a90116b6f6?utm_source=tldr_ai&utm_medium=newsletter&utm_campaign=brand_agentic_trust&utm_content=webinar_meta_muse_101",
+      "blurb": "AI AGENTS JUST BECAME MAINSTREAM. Meta's Muse is putting them in the hands of billions, with free access and massive distribution across Facebook, Instagram, and WhatsApp.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 10,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "ONE WEEK OUT: CAN YOU PROVE WHAT YOUR AGENTS SHIPPED? (SPONSOR)",
+      "url": "https://about.gitlab.com/events/transcend/virtual/?utm_medium=sponsorship&utm_source=tldr+&utm_campaign=eg_global_cmp_webcast_ai_en_transcend_virtual&utm_content=ai-secondary-placement_20260930_x",
+      "blurb": "GitLab Transcend is live October 6. See AI-assisted, and autonomous workflows run on one platform with humans setting direction, plus a clear read on climbing AI bills and open-weight model alternatives. Hear from Gene Kim of IT Revolution, Hilton, and Thrive Market. Free, and registration includes the $1,600 Enterprise AI Summit livestream.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 17,
+      "section": "QUICK LINKS",
+      "heading": "22 MODELS, SAME CORRECT ANSWER, 178X COST GAP (SPONSOR)",
+      "url": "https://www.cdata.com/lp/ai-cost-whitepaper/?utm_source=tldr-ai&utm_medium=newsletter_0930&utm_campaign=26Q3_AI_Cost_WP",
+      "blurb": "CData ran 22 models on live enterprise data. All returned the same correct answer at 178x difference in cost. Read the benchmark. [17]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "YOUR AGENTS ARE PAYING 4X FOR THE SAME ANSWER\u00a0(SPONSOR)",
+      "url": "https://www.getguru.com/product/how-it-works?utm_source=tldr-ai&utm_medium=newsletter&utm_campaign=q3-2026-paid-media&utm_content=quick-links-0930",
+      "blurb": "When every agent hits your raw sources, one question can burn 45,000 tokens. Guru verifies knowledge once, then serves it to every agent over MCP at roughly 4x fewer tokens. See how it works [21]",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

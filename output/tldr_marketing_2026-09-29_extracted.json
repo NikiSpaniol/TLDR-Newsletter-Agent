@@ -1,0 +1,102 @@
+{
+  "kept": [
+    {
+      "ref": 7,
+      "section": null,
+      "heading": "CONVENIENCE OR DISCOVERY: WHICH MISSION WILL YOUR STORE SERVE? (12 MINUTE READ)",
+      "url": "https://www.mckinsey.com/industries/retail/our-insights/convenience-or-discovery-which-mission-will-your-store-serve?utm_source=tldrmarketing",
+      "blurb": "AI is splitting physical retail into two distinct missions. Convenience stores should reduce friction with easy navigation and reactive service. Discovery stores should drive dwell time through immersive experiences and specialized associates. More than 90% of consumers prioritize locations that fit their daily routines, while 78% cite product testing and 76% cite product guidance as drivers of discovery visits."
+    },
+    {
+      "ref": 11,
+      "section": null,
+      "heading": "THERE IS NO AEO ALGORITHM TO HACK (4 MINUTE READ)",
+      "url": "https://marketingadvice.substack.com/p/there-is-no-aeo-algorithm-to-hack?utm_source=tldrmarketing",
+      "blurb": "AEO is not an SEO ranking game with factors to reverse engineer. AI visibility depends on whether a brand is clearly associated with a category and supported by credible evidence. Fix positioning gaps and answer real buyer questions. Build comparison content that helps buyers evaluate vendors. Strengthen third-party corroboration instead of manufacturing mentions. Then track commercial prompts and connect AI visibility to buyer conversations and pipeline, not just brand mentions."
+    },
+    {
+      "ref": 13,
+      "section": null,
+      "heading": "ALMOST NOBODY GETS XML SITEMAPS RIGHT (4 MINUTE READ)",
+      "url": "https://joost.blog/broken-sitemaps/?utm_source=tldrmarketing",
+      "blurb": "XML sitemaps tell search engines which URLs a site wants in search results. They should contain canonical, working URLs that the site wants indexed. Google attempts to crawl each URL as listed, so redirects, errors, noindex pages, or conflicting canonicals make the sitemap less useful and can waste crawl activity. Missing or repeated \u2018lastmod' dates can be acceptable. Fields like \u2018priority' and \u2018changefreq' are ignored by Google."
+    },
+    {
+      "ref": 14,
+      "section": null,
+      "heading": "DOES REDDIT HAVE AN ASTROTURFING PROBLEM? (8 MINUTE READ)",
+      "url": "https://www.petervijeh.com/projects/reddit-astroturf?utm_source=tldrmarketing",
+      "blurb": "Reddit is often treated as a source of unbiased product advice. However, some buying recommendations are unusually concentrated among a small group of accounts. The top 5% of brand-heavy accounts produced 11.3% of knife recommendations, versus 7.9% expected by chance. For three brands, that share reached 20% to 31%. This could indicate astroturfing, where paid accounts create the appearance of organic recommendations, but their histories looked more like genuine fans."
+    },
+    {
+      "ref": 15,
+      "section": "MISCELLANEOUS",
+      "heading": "THE USEFULNESS OF ATTRIBUTION FOR AI SEARCH (6 MINUTE READ)",
+      "url": "https://www.growth-memo.com/p/the-collapse-of-attribution?utm_source=tldrmarketing",
+      "blurb": "AI is making click-based attribution less useful as discovery increasingly happens through AI answers that never generate a website visit. Treat attribution as one imperfect signal rather than a definitive measure of channel value. Triangulate exposure, behavioral, and business metrics such as AI Share of Voice and CRM data. Use incrementality testing where possible to measure causal impact, especially for activities that attribution cannot capture."
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "DISSECTING WHY CANVA IS PARTNERING WITH JIO (5 MINUTE READ)",
+      "url": "https://shorts.growthx.club/p/jio-the-final-boss-of-saas-distribution?utm_source=tldrmarketing",
+      "blurb": "Canva is using Jio's 524.4M customers to tackle a freemium problem. Many casual users get enough value from Free to justify paying for Pro. Bundling Pro with Jio plans lets users experience premium features without making a separate purchase. The real test is what happens after the bundle ends. Canva needs to see whether users build habits around Pro and become willing to pay for it."
+    },
+    {
+      "ref": 17,
+      "section": "QUICK LINKS",
+      "heading": "WENDY'S DROPS AN EMO ALBUM: \u201cSONGS TO LISTEN TO IN A WENDY'S PARKING LOT\u201d (3 MINUTE READ)",
+      "url": "https://www.wendys.com/blog/wendysr-square-deal-blog/wendys-drops-emo-album-songs-listen-wendys-parking-lot?utm_source=tldrmarketing",
+      "blurb": "Wendy's dropped a full emo EP for late-night food runs."
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "THE \"ARE YOU STILL THAT PERSON?\" TRICK (2 MINUTE READ)",
+      "url": "https://www.marketingideas.com/p/psst-are-you-still-that-person?utm_source=tldrmarketing",
+      "blurb": "Use identity-based emails to re-engage churned customers and dead leads."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "WEBINAR ON OCT 7TH: HOW CORINTHIA HOTELS USES AI AGENTS TO PERSONALIZE AT SCALE (SPONSOR)",
+      "url": "https://www.optimizely.com/field-notes/events/ai-personalization-webinar-corinthia-hotels?utm_source=tldr&utm_medium=cpc&utm_campaign=global_pers_tldr-newsletter-2_q326_pt_traffic&utm_content=pers-corinthia-hotels-webinar-oct7_header_webinar_oct_7th&utm_term=2026-09-29",
+      "blurb": "96% of brands struggle to execute personalization at scale. Corinthia Hotels is not one of them.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 8,
+      "section": null,
+      "heading": "WORKERS ARE WARMING UP TO AI - BUT GEN Z REMAINS SKEPTICAL (4 MINUTE READ)",
+      "url": "https://www.linkedin.com/pulse/workers-warming-up-ai-gen-z-remains-skeptical-linkedin-news-jukbc/?utm_source=tldrmarketing",
+      "blurb": "AI confidence is growing across the workforce, with 53% of US workers saying AI makes them more efficient. Gen Z remains more hesitant. Only 38% plan to build AI skills in the next 6 months, while 52% are nervous about AI's impact on their jobs. At the same time, AI literacy is becoming more valuable in the workplace. LinkedIn finds it is associated with stronger hiring and promotion outcomes for Gen Z.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    },
+    {
+      "ref": 9,
+      "section": null,
+      "heading": "AUDIT IF YOUR FAQ IS DISCOVERABLE BY SEARCH ENGINES AND LLMS (2 MINUTE READ)",
+      "url": "https://www.linkedin.com/posts/chris-long-marketing_60-second-seo-the-content-in-your-faqs-might-ugcPost-7510318926933860352-BdRQ/?utm_source=tldrmarketing",
+      "blurb": "FAQs can improve visibility in search and AI systems only if the content is present in the page source when it loads. Many FAQ components hide their text until a user clicks to expand them, which means search engines and LLMs may not access the content by default. Use Chrome DevTools to check whether FAQ text remains discoverable after a page reload.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    },
+    {
+      "ref": 10,
+      "section": null,
+      "heading": "CHATGPT READS YOUR YOUTUBE DESCRIPTION, NOT YOUR TRANSCRIPT (1 MINUTE READ)",
+      "url": "https://www.linkedin.com/posts/davidkonitzny_chatgpt-reads-your-youtube-description-not-share-7510237770435616768-sxNC/?utm_source=tldrmarketing",
+      "blurb": "Treat YouTube descriptions like landing pages for AI search. ChatGPT can retrieve a video's title, metadata, and full description, but not its transcript. That makes the description a key source for understanding the video. Include relevant terms and clear context. Use structured sections and timecodes so ChatGPT can understand what the video covers and where specific topics appear.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    },
+    {
+      "ref": 12,
+      "section": null,
+      "heading": "AI MAKES IT DANGEROUSLY EASY TO SCALE A BAD IDEA. (SPONSOR)",
+      "url": "https://synthetic.gatherhq.com/ask?utm_source=tldr&utm_medium=paid_newsletter&utm_campaign=marketing_20260929&utm_content=secondary",
+      "blurb": "Gather builds a simulation of your customers from real interviews. Run strategy simulation, test messaging, positioning, pricing, explore why buyers choose competitors, and get insights instantly.",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}
