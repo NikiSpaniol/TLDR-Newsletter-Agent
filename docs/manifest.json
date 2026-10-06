@@ -226,5 +226,17 @@
     "newsletter": "Marketing",
     "edition_label": "Tuesday the 29th of September and Wednesday the 30th of September and Thursday the 1st of October",
     "run_date": "2026-10-02"
+  },
+  {
+    "filename": "tldr_ai_pool_2026-10-06_digest.html",
+    "newsletter": "AI",
+    "edition_label": "Friday the 2nd and Monday the 5th of October",
+    "run_date": "2026-10-06"
+  },
+  {
+    "filename": "tldr_marketing_pool_2026-10-06_digest.html",
+    "newsletter": "Marketing",
+    "edition_label": "Friday the 2nd and Monday the 5th of October",
+    "run_date": "2026-10-06"
   }
 ]

@@ -1,0 +1,105 @@
+{
+  "kept": [
+    {
+      "ref": 7,
+      "section": null,
+      "heading": "ASK THE CRAFTERQ AGENT ABOUT CRAFTERQ \u2192",
+      "url": "https://crafterq.ai/ai-agents-for-websites?utm_source=tldr&utm_medium=newsletter&utm_campaign=crafterq-2026-q4-marketing&utm_content=cta_ask_crafterq_agent&utm_term=2026-10-02",
+      "blurb": "\ud83d\udcf1"
+    },
+    {
+      "ref": 8,
+      "section": null,
+      "heading": "AI SHOPPING COULD MEAN FEWER RETURNS (2 MINUTE READ)",
+      "url": "https://www.practicalecommerce.com/ai-shopping-could-mean-fewer-returns?utm_source=tldrmarketing",
+      "blurb": "AI shopping could reduce ecommerce returns by helping shoppers resolve uncertainty before they buy. Adobe found that 69% of consumers who used AI for shopping said they were less likely to return an AI-assisted purchase, while AI-referred traffic converted 60% higher than non-AI-referred traffic. Merchants can improve these results by giving AI assistants detailed product information such as specifications, dimensions, compatibility, variants, delivery estimates, reviews, and FAQs. Better product data can help AI recommend products that fit shoppers' needs more accurately, potentially producing both more sales and fewer returns."
+    },
+    {
+      "ref": 9,
+      "section": null,
+      "heading": "MARKETERS ARE REBRANDING AS \u2018ENGINEERS' TO SURVIVE THE AI ERA (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/PjHhyg",
+      "blurb": "The marketing engineer is pitched as part builder and part marketer, someone who deploys AI agents to automate work like media buying and personalized ads while supplying the taste those agents lack. Profound, recently valued at $1.8B, has tied its brand to the title with a dedicated job board, a hackathon, and a podcast. Skeptics see a dressed-up successor to \"digital ninja\" and \"storyteller\" in an attempt to borrow engineering's sense of precision."
+    },
+    {
+      "ref": 10,
+      "section": null,
+      "heading": "HOW BRANDS ARE FIGHTING AI SLOP (6 MINUTE READ)",
+      "url": "https://thebrandblueprint.substack.com/p/how-brands-are-fighting-ai-slop?utm_source=tldrmarketing",
+      "blurb": "Human and physical signals are becoming a way to show that content wasn't machine-made. J.Crew's Barn Jacket campaign featured 160 real, recognizable people across five cities, giving it cultural context that AI can imitate visually but can't manufacture. Other brands are commissioning artists, showing the messy process before a launch, and moving into print and physical retail. The more content AI can produce, the more value shifts to proving what a human did that AI didn't."
+    },
+    {
+      "ref": 11,
+      "section": null,
+      "heading": "REDDIT MODERATOR OUTREACH: HOW TO BUILD REAL RELATIONSHIPS WITH SUBREDDIT MODS (6 MINUTE READ)",
+      "url": "https://www.standingongiants.com/blog/reddit-moderator-outreach/?utm_source=tldrmarketing",
+      "blurb": "Start Reddit moderator outreach by researching the subreddit, reading its rules, and understanding what its members care about. Use a named account with genuine activity, then introduce yourself and your company clearly in the first message. Explain what you can contribute to the community, such as expert answers, product context, or early access, and commit to following its rules without asking for promotional permission upfront. If a moderator says yes, respect its preferred communication style and keep checking in even when you have nothing to promote. Over time, consistent participation can turn moderators into trusted partners and valuable sources of community and product feedback."
+    },
+    {
+      "ref": 12,
+      "section": null,
+      "heading": "AI VISIBILITY AT SCALE: LEARNING FROM 9M PROMPTS AND 400+ ENTERPRISE BRANDS (6 MINUTE READ)",
+      "url": "https://neilpatel.com/blog/ai-visibility-myths-data/?utm_source=tldrmarketing",
+      "blurb": "Data from 9 million AI answers shows that most common GEO assumptions are wrong. Sentiment shows no positive link to citations, and listicles lose out to ordinary, thorough pages. YouTube delivers the biggest third-party lift at 2.8x, ahead of LinkedIn and Reddit, while up to 58% of citations never reappear. Up to 75% of answers citing a brand's page never name the brand, so citation counts alone overstate impact. Volatility tracks the brand far more than the platform, and the most stable performers share deep topical coverage and strong third-party mentions."
+    },
+    {
+      "ref": 13,
+      "section": null,
+      "heading": "HOW TO NEVER RUN OUT OF LINKEDIN POST IDEAS (WEBINAR)",
+      "url": "https://maven.com/p/bd7858/how-to-never-run-out-of-linked-in-post-ideas?utm_source=tldrmarketing",
+      "blurb": "This webinar, on October 28, will cover how to consistently generate LinkedIn post ideas that resonate with an audience and build authority. It will explore the psychology behind getting stuck, then show how to use AI prompts to expand ideation. It will also walk through a step-by-step workflow for making the process easier and more repeatable."
+    },
+    {
+      "ref": 14,
+      "section": null,
+      "heading": "INTRODUCING DOTS (7 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/TQCWes",
+      "blurb": "Dots are always-on AI agents powered by GPT-6 Astra that can work independently toward goals using their own cloud computer and connected apps. They learn your preferences and context over time, then use that knowledge to handle ongoing work without needing step-by-step direction. Dots can also work across ChatGPT, Slack, and Teams. You control what they can access and which actions require approval. OpenAI is also developing specialist dots for specific organizational responsibilities."
+    },
+    {
+      "ref": 15,
+      "section": "MISCELLANEOUS",
+      "heading": "68 SECONDS: HOW ONE FORGOTTEN WEBSITE TOOK DOWN 19 OF MINE (10 MINUTE READ)",
+      "url": "https://nelsonisibor.com/68-seconds-how-one-forgotten-website-took-down-19-of-mine/?utm_source=tldrmarketing",
+      "blurb": "A forgotten WordPress site became the entry point for an attack that infected 19 websites on the same hosting account. The attacker used a stolen password and a file manager plugin to install malware, which spread in 68 seconds and eventually created roughly 400,000 casino spam pages. The malware also hid the pages from site admins, blocked SEO crawlers, and added rogue Google Search Console access. The author details how he contained the breach, traced the source, and rebuilt the sites."
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "HOW CREATORS ARE SHOWING UP IN AI ANSWERS IN 2026 (6 MINUTE READ)",
+      "url": "https://www.kaleighmoore.com/blog/2026/9/30/creator-aeo-how-creators-are-showing-up-in-ai-answers-in-2026?utm_source=tldrmarketing",
+      "blurb": "56% of people who shop with AI prefer recommendations that draw on creator reviews. Creators matter most early, building confidence and shortlists, while ratings and retailer data still carry the final purchase decision. Shoppers want AI to prioritize everyday customers sharing real experiences (52%) over celebrities (13%), and only 21% say a large following makes a creator credible. Interest falls with age, from 65% among Gen Z and Millennials to 34% among Boomers."
+    },
+    {
+      "ref": 17,
+      "section": "QUICK LINKS",
+      "heading": "DISCORD GIVES MORE ADVERTISERS MORE TOOLS TO TARGET ITS USERS (2 MINUTE READ)",
+      "url": "https://arstechnica.com/gadgets/2026/09/discord-gives-advertisers-more-tools-to-target-its-users/?utm_source=tldrmarketing",
+      "blurb": "A self-serve Ads Manager lets smaller studios run campaigns without a direct sales relationship, while Video Quests becomes a reservation-based format for bigger brand moments."
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "REDDIT IS KILLING RSS FEEDS AND ENDING PUBLIC API ACCESS BECAUSE OF AI BOTS (3 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/?utm_source=tldrmarketing",
+      "blurb": "RSS will shut off November 13 and the public API by March, cutting off social listening tools, researchers, and AI assistants."
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "GARTNER PREDICTS AI WILL ALLOW THE MAJORITY OF HIGH-PERFORMING MARKETING TEAMS TO ELIMINATE TRADITIONAL BOTTOM RUNGS OF THE CORPORATE LADDER BY 2030 (2 MINUTE READ)",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-09-29-gartner-predicts-ai-will-allow-the-majority-of-high-performing-marketing-teams-to-eliminate-traditional-bottom-rungs-of-the-corporate-ladder-by-2030?utm_source=tldrmarketing",
+      "blurb": "AI will automate many entry-level marketing tasks by 2030, forcing teams to redesign junior roles."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "TURN YOUR WEBSITE INTO A CONVERSATIONAL AI EXPERIENCE (SPONSOR)",
+      "url": "https://crafterq.ai/ai-agents-for-websites?utm_source=tldr&utm_medium=newsletter&utm_campaign=crafterq-2026-q4-marketing&utm_content=header_turn_website_into&utm_term=2026-10-02",
+      "blurb": "Most websites ask visitors to hunt for information. CrafterQ [5] gives them an AI agent trained on your website and content. It answers questions, engages visitors, captures leads, and helps turn website traffic into customers.",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

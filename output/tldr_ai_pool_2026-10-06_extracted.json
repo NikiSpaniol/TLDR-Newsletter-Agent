@@ -1,0 +1,237 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "CLAUDE-SHAPED SCIENCE (24 MINUTE READ)",
+      "url": "https://www.anthropic.com/research/claude-shaped-science?utm_source=tldrai",
+      "blurb": "Matthew Schwartz describes using AI, notably Claude, to tackle \"Claude-shaped\" scientific problems where LLM capabilities like coding and data parsing excel. This led to BootLoops, a toolkit facilitating quantitative science calculations across diverse fields from ecology to population genetics. Despite initial technical correctness, results required domain experts to refine relevance, illustrating that AI collaborations can rapidly produce technical solutions but still depend on human insight for impactful scientific advances.",
+      "source_email": "tldr_ai_2026-10-02_extracted.json"
+    },
+    {
+      "ref": 2,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI CUTS TIES WITH 3 SAFETY RESEARCHERS, WSJ REPORTS (2 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/?utm_source=tldrai",
+      "blurb": "OpenAI dismissed three safety researchers for sharing confidential information with a third-party AI safety group, according to the WSJ. This follows reports of OpenAI executives ignoring safety warnings and coincides with security issues involving AI agents. Additionally, OpenAI shelved the GPT-6.1 Astra launch due to safety concerns.",
+      "source_email": "tldr_ai_2026-10-02_extracted.json"
+    },
+    {
+      "ref": 3,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "WHY SUPERINTELLIGENT MACHINES MAY BE MOST VALUABLE DOING ROUTINE WORK (19 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/eFoHXy",
+      "blurb": "OpenAI explored the possibility that humanity's main constraint is no longer generating ideas but executing increasingly complex ones. Advanced AI could complement human intelligence by taking on the enormous coordination, engineering, and repetitive work required to turn ambitious scientific ideas into reality.",
+      "source_email": "tldr_ai_2026-10-02_extracted.json"
+    },
+    {
+      "ref": 4,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "WHY MUSE MAY NEVER NEED ADS (10 MINUTE READ)",
+      "url": "https://www.mbi-deepdives.com/no-ads-muse/?utm_source=tldrai",
+      "blurb": "Meta's Muse may avoid advertisements by focusing on trust, offering a transaction-based model where merchants pay fees, not users. Companies like DoorDash and Airbnb are developing proprietary AI agents but face limitations due to their inherent platform bias. Muse's ad-free model leverages user trust and could indirectly influence ad targeting on platforms like Instagram and Facebook, providing Meta with a competitive edge without direct ads within the app.",
+      "source_email": "tldr_ai_2026-10-02_extracted.json"
+    },
+    {
+      "ref": 5,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "MICROSOFT'S FIRST STREAMING TRANSCRIPTION MODEL DEBUTS AT NO. 1 ON ARTIFICIAL ANALYSIS (4 MINUTE READ)",
+      "url": "https://microsoft.ai/news/our-first-streaming-transcription-model/?utm_source=tldrai",
+      "blurb": "Microsoft's MAI-Transcribe and MAI-Voice models provide accurate, fast, low-cost, and chart-topping audio understanding and generation. The company has launched MAI-Transcribe-2-Streaming along with MAI\u2011Voice\u20112.1 and MAI\u2011Voice\u20112.1-Flash, giving users fast and fluid building blocks to create conversational experiences with no compromise on accuracy or voice quality. MAI-Transcribe-2-Streaming delivers low-latency, real-time transcripts in 60 languages, all while supporting automatic, continuous language detection. MAI-Voice-2.1 supports 23 languages and 26 locales, allowing users to keep a single voice everywhere.",
+      "source_email": "tldr_ai_2026-10-02_extracted.json"
+    },
+    {
+      "ref": 6,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "INTRODUCING CLEF: OUR OPEN-SOURCE DECISION MODELS, AND NEW RL FINE-TUNING PLATFORM (10 MINUTE READ)",
+      "url": "https://blog.cloudflare.com/clef-decision-models/?utm_source=tldrai",
+      "blurb": "Clef and Clef-flash are fully Jev-API compatible decision models that help agents programmatically gather context, make decisions, and take actions on tasks. The models are fully open-sourced on Hugging Face under an Apache 2.0 license and can be run locally. Decision models make classifications to help agents decide how to act. They return typed answers with probabilities, allowing agents to programmatically gather context, make decisions, and take actions on tasks, or defer to a human when needed.",
+      "source_email": "tldr_ai_2026-10-02_extracted.json"
+    },
+    {
+      "ref": 7,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "KEV (15 MINUTE READ)",
+      "url": "https://jaredpalmer.com/blog/introducing-kev?utm_source=tldrai",
+      "blurb": "Kev is a family of four open-source decision models ranging from 0.8B to 27B parameters. It uses the same API as TypeSafe's Jev, so applications built with TypeSafe's SDK can switch just by changing the endpoint and model name. The model only scores supplied options and doesn't generate explanations or retrieve missing facts. The code, weights, and evaluation reports are available, but the full 27B training corpus and some evaluation data are private.",
+      "source_email": "tldr_ai_2026-10-02_extracted.json"
+    },
+    {
+      "ref": 8,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "PPLX-DECIDER-V1-27B (HUGGING FACE REPO)",
+      "url": "https://huggingface.co/perplexity-ai/pplx-decider-v1-27b?utm_source=tldrai",
+      "blurb": "pplx-decider-v1-27b is a decision model fine-tuned from Qwen3.8-27B. Its benchmark results are competitive with Jev, beating it in several tests.",
+      "source_email": "tldr_ai_2026-10-02_extracted.json"
+    },
+    {
+      "ref": 9,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GOOGLE RESEARCHERS BUILT AN AGENT FOR AUTOMATED RESEARCH (9 MINUTE READ)",
+      "url": "https://imhgchoi.github.io/agentic-idea-manager/?utm_source=tldrai",
+      "blurb": "AIM is an autonomous system that organizes research ideas, selects promising directions, audits whether implementations match those ideas, and allocates experimental resources across search branches.",
+      "source_email": "tldr_ai_2026-10-02_extracted.json"
+    },
+    {
+      "ref": 10,
+      "section": "MISCELLANEOUS",
+      "heading": "THE WAYMO EFFECT: HOW AI IS QUIETLY MAKING RESEARCH LESS COLLABORATIVE (13 MINUTE READ)",
+      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html?utm_source=tldrai",
+      "blurb": "Waymo and LLMs exemplify how frictionless technologies make research less collaborative by removing necessary human interactions. The convenience of using AI reduces serendipity and critical discourse, which are crucial for innovation and diverse ideas. Funding structures and evaluation systems exacerbate this shift by rewarding speed and output over collaborative effort, risking the degradation of rich, human-driven research culture.",
+      "source_email": "tldr_ai_2026-10-02_extracted.json"
+    },
+    {
+      "ref": 11,
+      "section": "MISCELLANEOUS",
+      "heading": "THE DOT AND THE SWARM (10 MINUTE READ)",
+      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm?utm_source=tldrai",
+      "blurb": "AI systems have surpassed the need for human-devised structures, like intricate management processes, as they self-organize and execute complex tasks efficiently. Tools like Meta's Muse and OpenAI's Dots demonstrate this by acting autonomously and correcting human errors without extensive input. OpenAI's swarm model, used to attempt solving the Navier-Stokes problem, highlights AI's capacity to manage vast, self-directed agents, minimizing traditional management hurdles.",
+      "source_email": "tldr_ai_2026-10-02_extracted.json"
+    },
+    {
+      "ref": 12,
+      "section": "QUICK LINKS",
+      "heading": "OLMO-CORE 3 FOR MOE TRAINING (8 MINUTE READ)",
+      "url": "https://allenai.org/blog/olmocore3?utm_source=tldrai",
+      "blurb": "Olmo-core 3 is an open training framework designed to scale mixture-of-experts models into the trillion-parameter range.",
+      "source_email": "tldr_ai_2026-10-02_extracted.json"
+    },
+    {
+      "ref": 13,
+      "section": "QUICK LINKS",
+      "heading": "AMAZON ENTERS THE DECISION MODEL RACE WITH STRANDS DECIDER 2B (7 MINUTE READ)",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/?utm_source=tldrai",
+      "blurb": "Decider 2B is an open-source model for fast classification, routing, and scoring tasks.",
+      "source_email": "tldr_ai_2026-10-02_extracted.json"
+    },
+    {
+      "ref": 14,
+      "section": "QUICK LINKS",
+      "heading": "PERSONAL COMPUTING 2.0 (9 MINUTE READ)",
+      "url": "https://ideas.imbue.com/p/personal-computing-20?utm_source=tldrai",
+      "blurb": "Personal Computing 2.0 envisions a future where users regain control over their data, fostering privacy and customization in computing environments.",
+      "source_email": "tldr_ai_2026-10-02_extracted.json"
+    },
+    {
+      "ref": 15,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "PRIME INFERENCE: FAST, RELIABLE SERVING FOR FRONTIER OPEN MODELS (18 MINUTE READ)",
+      "url": "https://www.primeintellect.ai/blog/prime-inference?utm_source=tldrai",
+      "blurb": "Prime Inference covers both serverless endpoints and reserved capacity. It offers resilient serving of frontier open-source models on Prime Intellect's GPU infrastructure across multiple data centers. The serving platform has powered large-scale RL rollouts, synthetic data generation, evaluations, and long-running coding agents at Prime, processing nearly a trillion tokens internally every day. Prime's mission is to build frontier open models and the open superintelligence stack for continuously improving agents.",
+      "source_email": "tldr_ai_2026-10-05_extracted.json"
+    },
+    {
+      "ref": 16,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "ALEPH ALPHA RELEASES OPEN-WEIGHT KOLIBRI WITH 1M CONTEXT (3 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/aleph-alpha-releases-open-weight-kolibri-with-1m-context/?utm_source=tldrai",
+      "blurb": "Kolibri is an open-weight English-German Mixture-of-Experts model with 78.1 billion parameters. It supports tool calling and contexts up to one million tokens. The model is available on Hugging Face under the Apache 2.0 license. It is designed for sovereign, mission-critical work in government and regulated industries.",
+      "source_email": "tldr_ai_2026-10-05_extracted.json"
+    },
+    {
+      "ref": 17,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "ANTHROPIC TO INVEST $100 MILLION TO TRAIN AI ENGINEER TALENT (3 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html?utm_source=tldrai",
+      "blurb": "Anthropic is investing $100 million in the Claude Frontier Academy to train 10,000 AI engineers by 2027. The program partners with firms like Accenture and Morgan Stanley to enhance AI fluency and enterprise tech integration. The initiative addresses increasing demand for AI expertise in various industries.",
+      "source_email": "tldr_ai_2026-10-05_extracted.json"
+    },
+    {
+      "ref": 18,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOW MANY AI AGENTS COULD RUN ON THE AI CHIPS SHIPPED THROUGH 2027? (34 MINUTE READ)",
+      "url": "https://epoch.ai/publications/estimating-the-agent-population?utm_source=tldrai",
+      "blurb": "AI chips shipped through 2027 could run tens to hundreds of millions of concurrent frontier-model agents. These agents could supply as many weekly working hours as about 140-720 million full-time employees. Even a modest use of this capacity would require a massive increase in global demand for AI. Using 20% of the estimated central capacity would imply $2.6 trillion to $5.3 trillion a year in API-equivalent spending.",
+      "source_email": "tldr_ai_2026-10-05_extracted.json"
+    },
+    {
+      "ref": 19,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "SMALLER MODELS ARE THE FUTURE OF AI SOVEREIGNTY (10 MINUTE READ)",
+      "url": "https://katecarruthers.com/smaller-models-are-the-future-of-ai-sovereignty-2/?utm_source=tldrai",
+      "blurb": "Australia needs AI sovereignty by retaining control and choice, not relying on external companies for critical capabilities. Smaller, specialized AI models offer practical benefits such as adaptability, cost-efficiency, and easier governance compared to larger, frontier models. Embracing a portfolio approach with open-weight models increases options, fostering managed interdependence without becoming dependent on a single provider.",
+      "source_email": "tldr_ai_2026-10-05_extracted.json"
+    },
+    {
+      "ref": 20,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "AI21 USES KUEUE TO MANAGE A 10,000-GPU FLEET (15 MINUTE READ)",
+      "url": "https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue?utm_source=tldrai",
+      "blurb": "AI21 describes replacing ad hoc GPU-capacity negotiations with queueing and fair scheduling across a shared Google Cloud cluster. A Google Cloud case study says high-priority workloads began 83% sooner under the new setup.",
+      "source_email": "tldr_ai_2026-10-05_extracted.json"
+    },
+    {
+      "ref": 21,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "EXPLORE THE CHECKLIST \u2192",
+      "url": "https://get.safer.io/resources-trust-safety?utm_campaign=industry_leadgen&utm_source=tldrai&utm_medium=sponsored&utm_content=ai_checklist",
+      "blurb": "",
+      "source_email": "tldr_ai_2026-10-05_extracted.json"
+    },
+    {
+      "ref": 22,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "WHISTLE: SPEECH TO TEXT IN 16.9 MB (6 MINUTE READ)",
+      "url": "https://cactuscompute.com/blog/whistle?utm_source=tldrai",
+      "blurb": "Whistle is an open speech recognition model that runs on the same CPU engine as Needle. It can transcribe English, German, French, Spanish, Italian, Dutch, and Polish. At 16.8 MB, the model can run on mobiles, wearables, robots, smart home devices, automobiles, and microcontrollers.",
+      "source_email": "tldr_ai_2026-10-05_extracted.json"
+    },
+    {
+      "ref": 23,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "VX (WEBSITE)",
+      "url": "https://vxlang.org/?utm_source=tldrai",
+      "blurb": "Vx is a systems programming language for heterogeneous computing. It puts hardware topology, memory placement, and reachability directly into the type system. Vx front-loads into type checking a class of bug that normally surfaces as a runtime crash, silent corruption, or an out-of-memory error at training step 1,200. Vx is the right language for things that must be correct and fast across ten kinds of silicon.",
+      "source_email": "tldr_ai_2026-10-05_extracted.json"
+    },
+    {
+      "ref": 24,
+      "section": "MISCELLANEOUS",
+      "heading": "MUSE, DOTS, INSTINCT, AND THE QUESTION EVERY AGENT WILL BE ASKED (5 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/nPqOoK",
+      "blurb": "Agentic services will increasingly need to prove both which agent is acting and whether a real person authorized it. World ID lets users delegate privacy-preserving Proof of Human credentials to agents for access, limits, and approvals.",
+      "source_email": "tldr_ai_2026-10-05_extracted.json"
+    },
+    {
+      "ref": 25,
+      "section": "MISCELLANEOUS",
+      "heading": "HUMAN INTELLIGENCE IS SURPRISING (7 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/LIQGJF",
+      "blurb": "Human intelligence is a recent evolutionary accident, while AI can optimize directly against explicit objectives and rapidly surpass people on measurable tasks. The harder human problem is defining worthwhile objectives without steering models toward the wrong capabilities.",
+      "source_email": "tldr_ai_2026-10-05_extracted.json"
+    },
+    {
+      "ref": 26,
+      "section": "QUICK LINKS",
+      "heading": "MULTIMODAL MODELS LEARN FROM THEIR OWN CRITIQUES (22 MINUTE READ)",
+      "url": "https://arxiv.org/abs/2609.38721?utm_source=tldrai",
+      "blurb": "UniEvo-VL lets a single multimodal model act as both teacher and student, using its own critiques as privileged information during test-time self-improvement.",
+      "source_email": "tldr_ai_2026-10-05_extracted.json"
+    },
+    {
+      "ref": 27,
+      "section": "QUICK LINKS",
+      "heading": "META OPEN SOURCES CODE TO LET YOU MAKE MUSE AI GADGETS (2 MINUTE READ)",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link?utm_source=tldrai",
+      "blurb": "Meta has open-sourced code to allow integration of its Muse AI agent into custom gadgets.",
+      "source_email": "tldr_ai_2026-10-05_extracted.json"
+    },
+    {
+      "ref": 28,
+      "section": "QUICK LINKS",
+      "heading": "TOWARD PROVABLY PRIVATE LEARNING FROM FEDERATED DATA (12 MINUTE READ)",
+      "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/?utm_source=tldrai",
+      "blurb": "Google's new Federated Learning system provides externally verifiable privacy guarantees while shifting computation to the server to improve training speed, accuracy, and device coverage.",
+      "source_email": "tldr_ai_2026-10-05_extracted.json"
+    },
+    {
+      "ref": 29,
+      "section": "QUICK LINKS",
+      "heading": "SOLVING OPEN RESEARCH PROBLEMS TOGETHER (9 MINUTE READ)",
+      "url": "https://research.meta.ai/blog/solving-open-research-problems-together?utm_source=tldrai",
+      "blurb": "Meta partnered with mathematicians to solve open mathematical research problems using its Muse Spark AI models.",
+      "source_email": "tldr_ai_2026-10-05_extracted.json"
+    }
+  ],
+  "dropped": []
+}

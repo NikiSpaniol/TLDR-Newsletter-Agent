@@ -1,0 +1,135 @@
+{
+  "kept": [
+    {
+      "ref": 7,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "PRIME INFERENCE: FAST, RELIABLE SERVING FOR FRONTIER OPEN MODELS (18 MINUTE READ)",
+      "url": "https://www.primeintellect.ai/blog/prime-inference?utm_source=tldrai",
+      "blurb": "Prime Inference covers both serverless endpoints and reserved capacity. It offers resilient serving of frontier open-source models on Prime Intellect's GPU infrastructure across multiple data centers. The serving platform has powered large-scale RL rollouts, synthetic data generation, evaluations, and long-running coding agents at Prime, processing nearly a trillion tokens internally every day. Prime's mission is to build frontier open models and the open superintelligence stack for continuously improving agents."
+    },
+    {
+      "ref": 8,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "ALEPH ALPHA RELEASES OPEN-WEIGHT KOLIBRI WITH 1M CONTEXT (3 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/aleph-alpha-releases-open-weight-kolibri-with-1m-context/?utm_source=tldrai",
+      "blurb": "Kolibri is an open-weight English-German Mixture-of-Experts model with 78.1 billion parameters. It supports tool calling and contexts up to one million tokens. The model is available on Hugging Face under the Apache 2.0 license. It is designed for sovereign, mission-critical work in government and regulated industries."
+    },
+    {
+      "ref": 9,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "ANTHROPIC TO INVEST $100 MILLION TO TRAIN AI ENGINEER TALENT (3 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html?utm_source=tldrai",
+      "blurb": "Anthropic is investing $100 million in the Claude Frontier Academy to train 10,000 AI engineers by 2027. The program partners with firms like Accenture and Morgan Stanley to enhance AI fluency and enterprise tech integration. The initiative addresses increasing demand for AI expertise in various industries."
+    },
+    {
+      "ref": 10,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOW MANY AI AGENTS COULD RUN ON THE AI CHIPS SHIPPED THROUGH 2027? (34 MINUTE READ)",
+      "url": "https://epoch.ai/publications/estimating-the-agent-population?utm_source=tldrai",
+      "blurb": "AI chips shipped through 2027 could run tens to hundreds of millions of concurrent frontier-model agents. These agents could supply as many weekly working hours as about 140-720 million full-time employees. Even a modest use of this capacity would require a massive increase in global demand for AI. Using 20% of the estimated central capacity would imply $2.6 trillion to $5.3 trillion a year in API-equivalent spending."
+    },
+    {
+      "ref": 11,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "SMALLER MODELS ARE THE FUTURE OF AI SOVEREIGNTY (10 MINUTE READ)",
+      "url": "https://katecarruthers.com/smaller-models-are-the-future-of-ai-sovereignty-2/?utm_source=tldrai",
+      "blurb": "Australia needs AI sovereignty by retaining control and choice, not relying on external companies for critical capabilities. Smaller, specialized AI models offer practical benefits such as adaptability, cost-efficiency, and easier governance compared to larger, frontier models. Embracing a portfolio approach with open-weight models increases options, fostering managed interdependence without becoming dependent on a single provider."
+    },
+    {
+      "ref": 12,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "AI21 USES KUEUE TO MANAGE A 10,000-GPU FLEET (15 MINUTE READ)",
+      "url": "https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue?utm_source=tldrai",
+      "blurb": "AI21 describes replacing ad hoc GPU-capacity negotiations with queueing and fair scheduling across a shared Google Cloud cluster. A Google Cloud case study says high-priority workloads began 83% sooner under the new setup."
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "EXPLORE THE CHECKLIST \u2192",
+      "url": "https://get.safer.io/resources-trust-safety?utm_campaign=industry_leadgen&utm_source=tldrai&utm_medium=sponsored&utm_content=ai_checklist",
+      "blurb": ""
+    },
+    {
+      "ref": 14,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "WHISTLE: SPEECH TO TEXT IN 16.9 MB (6 MINUTE READ)",
+      "url": "https://cactuscompute.com/blog/whistle?utm_source=tldrai",
+      "blurb": "Whistle is an open speech recognition model that runs on the same CPU engine as Needle. It can transcribe English, German, French, Spanish, Italian, Dutch, and Polish. At 16.8 MB, the model can run on mobiles, wearables, robots, smart home devices, automobiles, and microcontrollers."
+    },
+    {
+      "ref": 15,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "VX (WEBSITE)",
+      "url": "https://vxlang.org/?utm_source=tldrai",
+      "blurb": "Vx is a systems programming language for heterogeneous computing. It puts hardware topology, memory placement, and reachability directly into the type system. Vx front-loads into type checking a class of bug that normally surfaces as a runtime crash, silent corruption, or an out-of-memory error at training step 1,200. Vx is the right language for things that must be correct and fast across ten kinds of silicon."
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "MUSE, DOTS, INSTINCT, AND THE QUESTION EVERY AGENT WILL BE ASKED (5 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/nPqOoK",
+      "blurb": "Agentic services will increasingly need to prove both which agent is acting and whether a real person authorized it. World ID lets users delegate privacy-preserving Proof of Human credentials to agents for access, limits, and approvals."
+    },
+    {
+      "ref": 17,
+      "section": "MISCELLANEOUS",
+      "heading": "HUMAN INTELLIGENCE IS SURPRISING (7 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/LIQGJF",
+      "blurb": "Human intelligence is a recent evolutionary accident, while AI can optimize directly against explicit objectives and rapidly surpass people on measurable tasks. The harder human problem is defining worthwhile objectives without steering models toward the wrong capabilities."
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "MULTIMODAL MODELS LEARN FROM THEIR OWN CRITIQUES (22 MINUTE READ)",
+      "url": "https://arxiv.org/abs/2609.38721?utm_source=tldrai",
+      "blurb": "UniEvo-VL lets a single multimodal model act as both teacher and student, using its own critiques as privileged information during test-time self-improvement."
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "META OPEN SOURCES CODE TO LET YOU MAKE MUSE AI GADGETS (2 MINUTE READ)",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link?utm_source=tldrai",
+      "blurb": "Meta has open-sourced code to allow integration of its Muse AI agent into custom gadgets."
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "TOWARD PROVABLY PRIVATE LEARNING FROM FEDERATED DATA (12 MINUTE READ)",
+      "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/?utm_source=tldrai",
+      "blurb": "Google's new Federated Learning system provides externally verifiable privacy guarantees while shifting computation to the server to improve training speed, accuracy, and device coverage."
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "SOLVING OPEN RESEARCH PROBLEMS TOGETHER (9 MINUTE READ)",
+      "url": "https://research.meta.ai/blog/solving-open-research-problems-together?utm_source=tldrai",
+      "blurb": "Meta partnered with mathematicians to solve open mathematical research problems using its Muse Spark AI models."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "WHAT'S NEXT IN AI IS BEING BUILT IN OPEN SOURCE (SPONSOR)",
+      "url": "https://hubs.la/Q04y-51s0",
+      "blurb": "PyTorch, vLLM, Ray: the open source stack behind modern AI is moving fast. At PyTorch Conference, Oct 20\u201321 in San Jose, learn from the engineers and researchers building it. Go deep into distributed training, inference, kernels, and performance, and leave with techniques you can take into production.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "BUILDING AI SAFELY MEANS THINKING BEYOND LAUNCH. (SPONSOR)",
+      "url": "https://get.safer.io/resources-trust-safety?utm_campaign=industry_leadgen&utm_source=tldrai&utm_medium=sponsored&utm_content=ai_checklist",
+      "blurb": "Thorn created a practical child safety checklist covering safeguards to consider across development, deployment, and ongoing maintenance. Use it to assess your current approach, spot potential gaps, and see where child safety can fit across the AI lifecycle.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "USE REDIS TO SCALE YOUR WORKLOADS WITHOUT SCALING YOUR RAM BILL (SPONSOR)",
+      "url": "https://redis.io/blog/your-data-is-growing-your-ram-bill-doesnt-have-to/?utm_medium=paid-newsletter&utm_source=tldr",
+      "blurb": "Scale your data without letting memory costs become the constraint. See how Redis helps teams handle large workloads as rising RAM prices make it harder for workloads to grow.",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

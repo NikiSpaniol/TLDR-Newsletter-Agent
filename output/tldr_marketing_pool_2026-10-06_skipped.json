@@ -1,0 +1,32 @@
+[
+  {
+    "ref": 3,
+    "section": null,
+    "heading": "MARKETERS ARE REBRANDING AS \u2018ENGINEERS' TO SURVIVE THE AI ERA (3 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/PjHhyg",
+    "blurb": "The marketing engineer is pitched as part builder and part marketer, someone who deploys AI agents to automate work like media buying and personalized ads while supplying the taste those agents lack. Profound, recently valued at $1.8B, has tied its brand to the title with a dedicated job board, a hackathon, and a podcast. Skeptics see a dressed-up successor to \"digital ninja\" and \"storyteller\" in an attempt to borrow engineering's sense of precision.",
+    "source_email": "tldr_marketing_2026-10-02_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 11,
+    "section": "QUICK LINKS",
+    "heading": "DISCORD GIVES MORE ADVERTISERS MORE TOOLS TO TARGET ITS USERS (2 MINUTE READ)",
+    "url": "https://arstechnica.com/gadgets/2026/09/discord-gives-advertisers-more-tools-to-target-its-users/?utm_source=tldrmarketing",
+    "blurb": "A self-serve Ads Manager lets smaller studios run campaigns without a direct sales relationship, while Video Quests becomes a reservation-based format for bigger brand moments.",
+    "source_email": "tldr_marketing_2026-10-02_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 18,
+    "section": null,
+    "heading": "GOOGLE ADS BRINGS A/B TESTING TO PERFORMANCE MAX ASSET GROUPS (1 MINUTE READ)",
+    "url": "https://searchengineland.com/google-ads-brings-a-b-testing-to-performance-max-asset-groups-493229?utm_source=tldrmarketing",
+    "blurb": "Google Ads is rolling out A/B testing for Performance Max asset groups. Advertisers can test new headlines, descriptions, images, or videos against existing creative without immediately replacing it. Tests can isolate changes such as messaging or UGC to measure their impact. Advertisers cannot make other asset changes while a test runs.",
+    "source_email": "tldr_marketing_2026-10-05_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  }
+]
