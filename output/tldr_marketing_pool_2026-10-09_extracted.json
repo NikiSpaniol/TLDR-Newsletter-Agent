@@ -1,0 +1,269 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": null,
+      "heading": "EXPERIENTIAL MARKETING TREND: BRAND GAZETTES (3 MINUTE READ)",
+      "url": "https://www.eventmarketer.com/article/experiential-marketing-trend-of-the-week-brand-gazettes/?utm_source=tldrmarketing",
+      "blurb": "Brand gazettes are becoming a way for brands to extend physical events into tangible content experiences. Publications are designed specifically for an activation and give attendees something to read and keep after the event. Grey Goose used its Gazette to tell stories about the brand's French heritage while Disney recreated the fictional Runway magazine from The Devil Wears Prada 2 as a real 90-page issue. QR codes and other interactive elements can also connect print content to digital experiences.",
+      "source_email": "tldr_marketing_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 2,
+      "section": null,
+      "heading": "CASH-STRAPPED AMERICANS TAP HOME EQUITY AND AI TO KEEP SPENDING (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/DdAI31",
+      "blurb": "Consumers are maintaining spending despite higher prices by finding ways to offset rising costs. Grocery prices are up 32% since 2020, yet spending on cars, clothing, and restaurants still increased in August. Some consumers are using credit or drawing from savings while others are cutting costs elsewhere. AI is also becoming a budgeting tool, with one consumer using ChatGPT to compare grocery prices and save about $100 a month.",
+      "source_email": "tldr_marketing_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 3,
+      "section": null,
+      "heading": "YOU AUTOMATED YOUR BUILD. YOUR GROWTH IS STILL MANUAL (4 MINUTE READ)",
+      "url": "https://expo.dev/blog/you-automated-your-build-your-growth-is-still-manual?utm_source=tldrmarketing",
+      "blurb": "Growth compounds when each marketing activity creates inputs for the next one. The author focuses on 3 growth loops: app installs can improve store visibility, content can inform the next post, and product usage can generate reviews and user content. The content loop is often the slowest because it requires the most manual work, yet it can have significant results. Find the slowest step in each loop and remove unnecessary manual handoffs so each cycle happens faster.",
+      "source_email": "tldr_marketing_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "WE VIBE CODED OUR OWN CALENDLY. OUR AI AGENT PUSHED US TO DO IT, AND IT WAS RIGHT (3 MINUTE READ)",
+      "url": "https://www.saastr.com/we-vibe-coded-our-own-calendly-our-ai-agent-pushed-us-to-do-it-and-it-was-right/?utm_source=tldrmarketing",
+      "blurb": "A 3-person team built its own scheduling tool in 20 mins after its AI agent identified a limitation with Calendly. The custom booker connects scheduling to Salesforce and prospect data, showing each prospect a personalized prospectus and routing them to the right salesperson based on account ownership. The team could have integrated Calendly, but the agent determined that most of the custom logic would still need to be built. The default remains buying software, with custom builds reserved for narrow workflows where proprietary data creates an advantage.",
+      "source_email": "tldr_marketing_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 5,
+      "section": null,
+      "heading": "BUILDING ADVERTISING FOR THE WAY PEOPLE USE AI (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/rYcBcI",
+      "blurb": "OpenAI is testing visual ads in ChatGPT that show products and services through images during image generation. The format lets advertisers demonstrate products in use and link to more information. ChatGPT Ads are also adding conversion tracking and attribution through partners including Hightouch, Tealium, LiveRamp, AppsFlyer, and Triple Whale. Testing starts in the US later this month.",
+      "source_email": "tldr_marketing_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 6,
+      "section": null,
+      "heading": "PREDICTION: THE NEXT MASSIVE GOOGLE UPDATE IS AROUND THE CORNER (16 MINUTE READ)",
+      "url": "https://lilyraynyc.substack.com/p/prediction-the-next-massive-google?utm_source=tldrmarketing",
+      "blurb": "Google tends to rewrite its documentation shortly before a major update, and it has just rewritten its guidance on AI content and authorship. Publishing AI text at scale without manual review now counts as little to no effort, and invented authors with AI headshots count as deception. The GEO tactics built to win AI answers, including self-ranking listicles and paid mentions, repeat old SEO spam patterns that Google has historically shut down. Cutting or consolidating scaled content before an update is often easier than recovering after one.",
+      "source_email": "tldr_marketing_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 7,
+      "section": "MISCELLANEOUS",
+      "heading": "I SHOPPED FOR SOCCER SHOES WITH CHATGPT, CLAUDE, AND MUSE. ONE GOT ME CLOSER TO BUYING (3 MINUTE READ)",
+      "url": "https://kristenberman.substack.com/p/i-shopped-for-soccer-shoes-with-chatgpt?utm_source=tldrmarketing",
+      "blurb": "AI shopping assistants need to balance choice with guidance to build purchase confidence. ChatGPT won by showing 3 soccer shoe options with a recommended pick and clear comparison. Claude offered useful product details but lacked images and purchase links. Muse made shopping more engaging with interactive questions and visuals but recommended the wrong shoes. The test suggests giving shoppers a few options plus a clear recommendation can make AI-assisted purchases easier.",
+      "source_email": "tldr_marketing_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 8,
+      "section": "MISCELLANEOUS",
+      "heading": "THE ECONOMICS OF THE STREAK: LOYALTY PROGRAMS AND STARS (10 MINUTE READ)",
+      "url": "https://destbreso.com/blog/bcs-the-economics-of-the-streak?utm_source=tldrmarketing",
+      "blurb": "Loyalty programs use loss aversion and goal gradients to make accumulated points feel like possessions worth protecting. A 100-day streak can become more motivating to preserve than the underlying habit, while being close to a reward or tier encourages extra spending. Programs also benefit from unredeemed points through breakage and collect purchase data. They can reward behaviors customers already value or drive spending and engagement mainly to avoid losing accumulated progress.",
+      "source_email": "tldr_marketing_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 9,
+      "section": "QUICK LINKS",
+      "heading": "I ANALYZED 1,100+ JOB POSTS WITH CLAUDE CODE. HERE'S WHAT B2B MARKETERS GET PAID (26 MINUTE READ)",
+      "url": "https://newsletter.mkt1.co/p/marketing-salaries-2026?utm_source=tldrmarketing",
+      "blurb": "B2B marketing salaries range from a $119K median for early-career roles to $300K for VP and CMO roles.",
+      "source_email": "tldr_marketing_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 10,
+      "section": null,
+      "heading": "GET YOUR QUESTION MAP. SCHEDULE TIME NOW!",
+      "url": "https://growthx.ai/?utm_source=tldr&utm_medium=directbuy&utm_campaign=Q4FY26_oct6_primary_2_mkting_newsletter&utm_content=demo_cta_question_map_schedule&utm_term=2026-10-07",
+      "blurb": "\ud83d\udcf1",
+      "source_email": "tldr_marketing_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 11,
+      "section": null,
+      "heading": "TIKTOK'S AGENT CHECKOUT ENTERS THE RACE (3 MINUTE READ)",
+      "url": "https://forkast.news/tiktoks-agent-checkout-enters-the-race-inside-the-feed-not-on-the-merchant-site/?utm_source=tldrmarketing",
+      "blurb": "TikTok announced Shopping Assistant and Buy Direct at Advertising Week NYC on October 5, both now in eligibility-based testing in the US. Shopping Assistant is a conversational agent that handles product details, sizing, and availability, then hands the purchase to the in-app browser. Buy Direct is a one-click checkout inside the For You feed using stored payment and address details. Both run on Google's Universal Commerce Protocol, and the brand remains the merchant of record.",
+      "source_email": "tldr_marketing_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 12,
+      "section": null,
+      "heading": "THE EVIDENCE IS CLEAR: AI SEARCH IS COSTING PUBLISHERS (4 MINUTE READ)",
+      "url": "https://digitalcontentnext.org/blog/2026/10/05/the-evidence-is-clear-ai-search-is-costing-publishers/?utm_source=tldrmarketing",
+      "blurb": "AI search is reducing the traffic publishers receive from traditional search while AI referrals remain too small to make up the difference. One study found AI Overviews reduced outbound organic clicks by 39.8%. Pew found traditional-result clicks fell from 15% to 8% when an AI summary appeared. Meanwhile, ChatGPT generated just 0.02% of publisher referrals compared with 7.3% from Google Search.",
+      "source_email": "tldr_marketing_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 13,
+      "section": null,
+      "heading": "WHEN TO DO SALES REMOTELY VS IN-PERSON (2 MINUTE READ)",
+      "url": "https://app.sciencesays.com/p/when-to-do-sales-remotely-vs-in-person?utm_source=tldrmarketing",
+      "blurb": "The best mix of remote and in-person sales meetings depends on product complexity. Using the right mix can improve sales performance by up to 27.3%. For simple products, about 37.9% of meetings held in person produced the best results, while complex products performed worse when sales teams relied only on remote meetings. In-person meetings help build trust and uncover customer needs, which matters more when products require more customization or evaluation. Sales teams should use more in-person meetings early in complex sales relationships, then reduce them as they learn the customer's needs, while still accommodating customers who prefer remote meetings.",
+      "source_email": "tldr_marketing_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 14,
+      "section": null,
+      "heading": "SEO AUDIT CONSOLE - THE TECHNICAL SEO AUDIT MCP SERVER FOR CLAUDE (GITHUB REPO)",
+      "url": "https://github.com/houtini-ai/seo-audit?utm_source=tldrmarketing",
+      "blurb": "SEO Audit Console is an open-source MCP server that runs a technical SEO audit inside Claude by joining Search Console history with a live site crawl. It runs 99 checks and ranks findings by the clicks a fix could recover rather than by severity. It also writes paste-ready fixes such as 301 rules, JSON-LD, and internal links. The core audit needs only a Search Console service account and stores data locally.",
+      "source_email": "tldr_marketing_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 15,
+      "section": null,
+      "heading": "HOW TO WRITE A GREAT EXPERIMENT PLAN (12 MINUTE READ)",
+      "url": "https://www.plg.news/p/how-to-write-a-great-experiment-plan-2e4?utm_source=tldrmarketing",
+      "blurb": "An experiment plan should prevent costly errors, not serve as a ceremony. Start with an evidence-based hypothesis and one primary metric, then size the test around the smallest change worth shipping. Count only users who reached the change, since including everyone assigned dilutes the effect. Before launch, agree on stopping thresholds and on what happens under each outcome, so that early peeks don't drive the decision. After launch, confirm the traffic split holds.",
+      "source_email": "tldr_marketing_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "ADAM HARRIS ON WHY FOLLOWER COUNT IS THE NEW NIELSEN BOX (5 MINUTE READ)",
+      "url": "https://www.netinfluencer.com/adam-harris-on-why-follower-count-is-the-new-nielsen-box/?utm_source=tldrmarketing",
+      "blurb": "Follower count is becoming a poor measure of creator value as platforms increasingly serve content based on interests rather than follows. Adam Harris, co-founder of creator platform Gaggl, says 70% of video views now come from non-followers. Gaggl's campaign data also shows micro-creators generate 5X more engagement than larger creators. Larger creators remain useful for awareness while smaller creators drive deeper engagement. Harris recommends starting with small creator tests before scaling based on results.",
+      "source_email": "tldr_marketing_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 17,
+      "section": "MISCELLANEOUS",
+      "heading": "LLMS ARE QUIETLY WATERMARKING AI CONTENT. NOW WHAT? (6 MINUTE READ)",
+      "url": "https://hendersonmatthew.substack.com/p/watermarked-content-aeo-impact?utm_source=tldrmarketing",
+      "blurb": "AI labs are watermarking generated content by subtly changing word choices during generation. These tiny changes accumulate across longer outputs and can survive copy-paste and light edits. The bigger concern is AEO because labs may filter AI-generated content from training data to avoid model degradation. Teams should monitor branded and non-branded AI prompts to separate retrieved from trained-in visibility. Audit how much content is fully AI-generated and prioritize human rewriting for content that needs to influence future model knowledge.",
+      "source_email": "tldr_marketing_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 18,
+      "section": "MISCELLANEOUS",
+      "heading": "HOW TO SURVIVE A DOUBLE LIFE AS AN OPERATOR-CREATOR (9 MINUTE READ)",
+      "url": "https://www.elenaverna.com/p/how-to-survive-a-double-life-as-an?utm_source=tldrmarketing",
+      "blurb": "Operator-creators run a flywheel where the day job makes the content credible and the audience becomes a distribution channel for the employer. Elena Verna keeps it working by disclosing everything to her employer, audience, and sponsors, ideally before the first day of work. She also sets boundaries up front, keeping the audience as her own while giving Lovable work first claim on her time.",
+      "source_email": "tldr_marketing_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "10 HALLOWEEN EMAILS FROM LAST YEAR TO INSPIRE YOUR CAMPAIGNS (8 MINUTE READ)",
+      "url": "https://emaillove.com/halloween-email-examples-to-inspire-your-campaigns?utm_source=tldrmarketing",
+      "blurb": "Halloween email inspo from Uber, Rest, and TUSHY.",
+      "source_email": "tldr_marketing_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "I EDIT 115+ ARTICLES PER YEAR. HERE ARE THE 5 WAYS I EDIT DRAFTS (8 MINUTE READ)",
+      "url": "https://www.semrush.com/blog/my-editing-approaches-framework/?utm_source=tldrmarketing",
+      "blurb": "Semrush's senior blog editor shares her editing best practices, from fact-checking to giving more feedback than you think you should.",
+      "source_email": "tldr_marketing_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 21,
+      "section": null,
+      "heading": "TOGETHER WITH [Lob]",
+      "url": "https://www.lob.com/no-code-design-suite?utm_source=tldr&utm_medium=sponsored-content&utm_campaign=2026-community-marketing&utm_content=no-code_header_personalized_direct_mail&utm_term=2026-10-08_tldr_marketing",
+      "blurb": "TLDR MARKETING 2026-10-08",
+      "source_email": "tldr_marketing_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 22,
+      "section": null,
+      "heading": "TRY IT \u2192",
+      "url": "https://www.lob.com/no-code-design-suite?utm_source=tldr&utm_medium=sponsored-content&utm_campaign=2026-community-marketing&utm_content=no-code_cta_it&utm_term=2026-10-08_tldr_marketing",
+      "blurb": "\ud83d\udcf1",
+      "source_email": "tldr_marketing_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 23,
+      "section": null,
+      "heading": "YOUNG ENTREPRENEURS ARE DELAYING DOMAIN ADOPTION, NOT ABANDONING IT (3 MINUTE READ)",
+      "url": "https://circleid.com/posts/young-entrepreneurs-are-delaying-domain-adoption-not-abandoning-it?utm_source=tldrmarketing",
+      "blurb": "Young entrepreneurs are starting businesses on social platforms before investing in websites and domains once they gain traction. Among 18- to 29-year-olds, domain registration interest fell from 55% in spring 2023 to 17% in spring 2026. Websites remain valued for credibility and permanence, while search visibility is a major purchase driver. More than half say AI-assisted website builders would make adoption more appealing by reducing the cost and complexity of building a web presence.",
+      "source_email": "tldr_marketing_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 24,
+      "section": null,
+      "heading": "THE NEXT HURDLE FOR AI AGENTS: GETTING WEBSITES TO LET THEM IN (5 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/?utm_source=tldrmarketing",
+      "blurb": "AI agents like Muse and ChatGPT are able to complete tasks such as shopping and booking for users but are often blocked by websites' anti-bot systems. Some blocks are intentional while others mistakenly flag agents as malicious bots. Meta, Walmart, Stripe, and others are developing an open standard to distinguish authorized AI agents from bad bots and give businesses more control over agent access.",
+      "source_email": "tldr_marketing_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 25,
+      "section": null,
+      "heading": "HOW TO PLAN 2027 WHEN TRAFFIC IS DOWN AND AI WON'T ATTRIBUTE (5 MINUTE READ)",
+      "url": "https://www.growth-memo.com/p/how-to-plan-2027-when-traffic-is?utm_source=tldrmarketing",
+      "blurb": "Build the 2027 marketing plan around AI visibility, brand mentions, community participation, branded search, and other signals that happen before a website visit. Start by identifying which AI engines, communities, publications, and sources influence buyers in your category, then budget specific hours and owners for digital PR, off site content, community work, and proprietary research. Measure exposure, branded search, and business outcomes together each month because no single metric captures influence when attribution is incomplete. Fund proven tactics at full capacity, cap new experiments with clear owners and kill dates, and reallocate the budget each quarter based on what the three layer measurement shows.",
+      "source_email": "tldr_marketing_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 26,
+      "section": null,
+      "heading": "PERFORMANCE MAX AND ADVANTAGE+ GRADE THEIR OWN HOMEWORK (7 MINUTE READ)",
+      "url": "https://karandhir.substack.com/p/performance-max-and-advantage-grade?utm_source=tldrmarketing",
+      "blurb": "Meta Advantage+ and Google Performance Max should be treated as optimization tools, not independent proof of advertising impact, because the platforms control buying, attribution, and reporting. Optmyzr found Performance Max overlapped with existing Search keywords in 91% of 503 Google Ads accounts. The same problem appears in Meta and Google reporting because platforms can count modeled conversions and prioritize brand searches, existing customers, and other users who were already likely to convert. When making budget decisions, rely on randomized incrementality tests, auditable holdouts, finance reconciliations, and visibility into what the system actually bought rather than platform-reported ROAS alone.",
+      "source_email": "tldr_marketing_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 27,
+      "section": null,
+      "heading": "PINTEREST LAUNCHES BEAUTY GUIDES TO TURN INSPIRATION INTO ACTION (2 MINUTE READ)",
+      "url": "https://newsroom.pinterest.com/news/pinterest-launches-beauty-guides-to-turn-inspiration-into-action/?utm_source=tldrmarketing",
+      "blurb": "Tapping \"Get the Guide\" on a hair or nail Pin now generates a personalized guide for recreating the look. Pinterest's visual understanding tech identifies details like hairstyle, color, nail shape, and finish, then an LLM turns them into salon talking points, step-by-step instructions, and relevant products.",
+      "source_email": "tldr_marketing_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 28,
+      "section": "MISCELLANEOUS",
+      "heading": "BRANDS USING PACKAGING TO DISRUPT AN INDUSTRY (5 MINUTE READ)",
+      "url": "https://thebrandblueprint.substack.com/p/brands-using-packaging-to-disrupt?utm_source=tldrmarketing",
+      "blurb": "Packaging is one of the few marketing channels that keeps working after the sale, since a product left on the counter or posted online gets seen again for free. Graza's squeeze bottles made olive oil easier to cook with and recognizable from across an aisle. One Trick Pony flipped its peanut butter jar upside down to fix the stirring problem, which also sets it apart on the shelf. Juliet's cylinders strip out the cues that make boxed wine look cheap. The common thread is packaging that changes how a product is used or perceived, not just how it looks.",
+      "source_email": "tldr_marketing_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 29,
+      "section": "MISCELLANEOUS",
+      "heading": "GLASTONBURY VS THE INTERNET: WHAT R/GLASTONBURY_FESTIVAL DID WHEN TICKETS SOLD OUT (7 MINUTE READ)",
+      "url": "https://www.standingongiants.com/blog/glastonbury-reddit-tickets-sold-out/?utm_source=tldrmarketing",
+      "blurb": "Glastonbury's Reddit community shows how brands can turn high-stress moments into stronger loyalty by giving people a place to share experiences and help each other. After tickets sold out in 42 minutes, the subreddit created a dedicated thread for winners and naturally enforced norms that kept celebrations from alienating people who missed out. Roughly one in six comments focused on missing confirmation emails, yet experienced ticket buyers quickly answered questions and reassured anxious strangers. The result was a community that provided practical support, shared expertise, and even connected strangers who ended up buying tickets and attending the festival together.",
+      "source_email": "tldr_marketing_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 30,
+      "section": "MISCELLANEOUS",
+      "heading": "WHY MARKETERS ARE ACTING LIKE NIGHTCLUB PROMOTERS (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/44yl9l",
+      "blurb": "Brands are competing for consumer and creator attention with rave-like events and extravagant trips designed to create experiences worth sharing. Events increasingly function as content-generation engines that reach audiences beyond attendees through social feeds. As brand events become more common, standard cocktail parties and brunches struggle to stand out.",
+      "source_email": "tldr_marketing_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 31,
+      "section": "QUICK LINKS",
+      "heading": "GOOGLE EMAIL SHARES NUMBER OF PREFERRED SOURCE SUBSCRIBERS (2 MINUTE READ)",
+      "url": "https://www.seroundtable.com/google-preferred-source-subscribers-email-42244.html?utm_source=tldrmarketing",
+      "blurb": "Google is emailing site owners their Preferred Source selections and encouraging them to add a button so users can choose their site to appear more often in Top Stories, AI Overviews, and AI Mode.",
+      "source_email": "tldr_marketing_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 32,
+      "section": "QUICK LINKS",
+      "heading": "FAKE INFLUENCERS, REAL MONEY: INSIDE THE AI CREATOR BUSINESS (8 MINUTE READ)",
+      "url": "https://mashable.com/life/ai-influencers-business-creators-comedians?utm_source=tldrmarketing",
+      "blurb": "Real creators are now competing with copies of their own work, some of which build significant followings that funnel to paid subscriptions.",
+      "source_email": "tldr_marketing_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 33,
+      "section": "QUICK LINKS",
+      "heading": "GOOGLE'S NEW IMAGE MODEL NANO BANANA 2.1 GENERATES BETTER IMAGES FOR LESS MONEY (3 MINUTE READ)",
+      "url": "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/?utm_source=tldrmarketing",
+      "blurb": "Nano Banana 2.1 replaces Nano Banana 2 at roughly half the price, and is rolling out across the Gemini app, AI Mode in Search, and Google Ads.",
+      "source_email": "tldr_marketing_2026-10-08_extracted.json"
+    }
+  ],
+  "dropped": []
+}

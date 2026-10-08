@@ -1,0 +1,405 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI IN $30 BILLION ROUND TALKS WITH UAE FUNDS, BLACKROCK (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/PUOHhN",
+      "blurb": "OpenAI is in talks with multiple investment funds from the United Arab Emirates to help anchor a $30 billion round of financing. The UAE funds have discussed forming a syndicate to invest as much as $10 billion in the round. The University of California's endowment fund, BlackRock, Thrive Capital, and Andreessen Horowitz may also participate in the round alongside that syndicate. The fundraise is ongoing, and the details could change.",
+      "source_email": "tldr_ai_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 2,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI TO ADD TEXT WATERMARKS (7 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/0K4IIf",
+      "blurb": "OpenAI said it would add invisible text watermarks to eligible ChatGPT and Codex outputs in the EU to meet AI Act transparency requirements. Its textGrain method subtly alters word selection so generated text can be detected, though editing, translation, and short passages can weaken detection.",
+      "source_email": "tldr_ai_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 3,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INSTINCT IN GROUP CHATS (1 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/TpZLHX",
+      "blurb": "Instinct now lets early-access users add a shared agent to group chats for planning trips, tickets, carpools, and events. Personal Instincts enforce permissions, keep account access separate, and pause sharing when new members join.",
+      "source_email": "tldr_ai_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 4,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "OPENAI'S B2B MARKETPLACE: THE HYPERSCALER OF AI APPS (6 MINUTE READ)",
+      "url": "https://www.akashbajwa.co/p/openais-b2b-marketplace-the-hyperscaler?utm_source=tldrai",
+      "blurb": "The OpenAI B2B marketplace opened on September 29 with 32 partners. OpenAI wants to position itself as the platform that the wider AI ecosystem is built on and relies on for distribution. This will consolidate AI sprawl and make it easier for customers to budget. If the marketplace gains traction, we may see an evolution similar to the cloud ecosystem where labs and AI apps co-sell, apps get charged a listing fee, and buyers receive one invoice for their spend.",
+      "source_email": "tldr_ai_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 5,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOW DEVIN'S MEMORY AND DREAMING WORK (4 MINUTE READ)",
+      "url": "https://devin.ai/blog/memory-and-dreaming?utm_source=tldrai",
+      "blurb": "Devin's new Memory system carries preferences, corrections, and project learnings across sessions, while Dreaming periodically reorganizes and connects that information. The process deduplicates memories, links them to past sessions and artifacts, and can derive new knowledge from accumulated work.",
+      "source_email": "tldr_ai_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 6,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOW TO BUILD AN AI-NATIVE SOFTWARE FACTORY (19 MINUTE READ)",
+      "url": "https://www.theaithinker.com/p/how-to-build-an-ai-native-software?utm_source=tldrai",
+      "blurb": "A practical look at the infrastructure companies need around coding agents once usage scales beyond individual developers. Using Uber's software factory as the main case study, it covers cloud execution, model gateways, agent identity, testing, migrations, code review, and measuring economics such as cost per merged pull request.",
+      "source_email": "tldr_ai_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 7,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "REFLECTION INTRODUCES BEAM MODEL (8 MINUTE READ)",
+      "url": "https://reflection.ai/blog/introducing-beam?utm_source=tldrai",
+      "blurb": "Beam is a 501B-parameter sparse Mixture-of-Experts model with 23B active parameters trained for coding, reasoning, and agentic workloads. The model used 23.8T pretraining tokens and more than 100M reinforcement-learning rollouts, with open weights and developer artifacts planned for release later in October.",
+      "source_email": "tldr_ai_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 8,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "ANNOUNCING D1 WITH VISION (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/DilGg3",
+      "blurb": "d1, a decision model from Liquid AI, now supports images, text, or both as inputs. The model costs 19x to 200x less than GPT-6.1 Sol and Claude Opus 5.5 and answers significantly faster on every task. It outputs probabilities for yes/no, choice, or score questions in one forward pass without generating tokens. Text decisions are made in 200 to 300 milliseconds.",
+      "source_email": "tldr_ai_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 9,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "FRAMEFIELDS (GITHUB REPO)",
+      "url": "https://github.com/gatewai-dev/framefields?utm_source=tldrai",
+      "blurb": "Framefields is an npm package built for coding agents. It enables agents to create Photoshop-inspired compositing and VFX, After Effects-style motion, typography, and keyframing, and Blender-style 3D scenes, cameras, and models. The agent writes a TypeScript composition, checks frames, and renders an MP4. Framefields renders directly on GPU hardware in Node.js and modern WebGPU browsers.",
+      "source_email": "tldr_ai_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 10,
+      "section": "MISCELLANEOUS",
+      "heading": "TWO ROOM-TEMPERATURE ANTIFERROMAGNETIC SEMICONDUCTOR CANDIDATES (11 MINUTE READ)",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors?utm_source=tldrai",
+      "blurb": "Ferromagnets' atomic magnets all point the same way, adding their magnetic effects. Antiferromagnets have neighboring atomic magnets that point opposite ways and exactly cancel out magnetically. There is an intense drive in computer memory research to create materials in between these two extremes. This post details how a team of AI agents designed a candidate magnet for next-generation computer memory that has zero net magnetism yet still sorts electrons by spin.",
+      "source_email": "tldr_ai_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 11,
+      "section": "MISCELLANEOUS",
+      "heading": "OPENAI EXPANDS ADS IN CHATGPT (5 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/aHiUC5",
+      "blurb": "OpenAI introduced a new visual ad format in ChatGPT alongside expanded measurement tools, partnerships, and brand-suitability work. The company positioned advertising as a way to support broader access to ChatGPT while giving businesses another channel to reach users during product discovery and decision-making.",
+      "source_email": "tldr_ai_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 12,
+      "section": "QUICK LINKS",
+      "heading": "ASSET LIGHT SOFTWARE (14 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/032kyB",
+      "blurb": "Software businesses are shifting from fixed costs toward variable, consumption-based costs as AI automates junior work and commoditizes software creation.",
+      "source_email": "tldr_ai_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 13,
+      "section": "QUICK LINKS",
+      "heading": "NVIDIA'S $20 BILLION GROQ DEAL FACES LAWSUIT ALLEGING STARTUP'S STOCKHOLDERS WERE SHORTCHANGED (3 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html?utm_source=tldrai",
+      "blurb": "The deal was allegedly made without the stockholder vote that Delaware law requires and without any process designed to test or maximize the value of what Nvidia bought.",
+      "source_email": "tldr_ai_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 14,
+      "section": "QUICK LINKS",
+      "heading": "10 TAKEAWAYS FROM TIBO SOTTIAUX (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/ZmPSUL",
+      "blurb": "OpenAI's Tibo Sottiaux expects agents to take most internet actions, model pickers to disappear, and models to improve roughly 10x within a year.",
+      "source_email": "tldr_ai_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 15,
+      "section": "QUICK LINKS",
+      "heading": "SELF-MODELING INTERVENTIONS MODULATE EMERGENT MISALIGNMENT (23 MINUTE READ)",
+      "url": "https://www.lesswrong.com/posts/7wrzfaiCq3u8xkY5G/self-modeling-interventions-modulate-emergent-misalignment?utm_source=tldrai",
+      "blurb": "Interventions on AI models' self-models, through self-recognition and self-report, can modulate and mitigate Emergent Misalignment.",
+      "source_email": "tldr_ai_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 16,
+      "section": "QUICK LINKS",
+      "heading": "LIVING MODELS PAIRS GEMMA 4 WITH BOTANIC-1 TO HELP DECODE PLANT DNA (7 MINUTE READ)",
+      "url": "https://deepmind.google/models/gemma/gemmaverse/living-models/?utm_source=tldrai",
+      "blurb": "Living Models pairs Gemma 4 with BOTANIC-1, compressing years of crop genetics into hours.",
+      "source_email": "tldr_ai_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 17,
+      "section": "QUICK LINKS",
+      "heading": "NORTH 2: ENTERPRISE AI WITHOUT COMPROMISES (5 MINUTE READ)",
+      "url": "https://cohere.com/blog/introducing-north-2?utm_source=tldrai",
+      "blurb": "Cohere's North 2 platform eliminates trade-offs in security, intelligence, cost, and control for enterprises adopting agentic AI.",
+      "source_email": "tldr_ai_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "ETCHED FIELDS FUNDING OFFERS AT $40B+ VALUATION, SOURCES SAY (3 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/?utm_source=tldrai",
+      "blurb": "While it seems like a fast timetable to raise another mega round (Etched raised $700 million at a $21 billion valuation a couple of months ago), the company is pursuing a particularly expensive segment of the AI industry: building full AI hardware systems powered by proprietary chips.",
+      "source_email": "tldr_ai_2026-10-06_extracted.json"
+    },
+    {
+      "ref": 19,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "MISTRAL LARGE 4 (9 MINUTE READ)",
+      "url": "https://mistral.ai/news/mistral-large-4/?utm_source=tldrai",
+      "blurb": "Mistral Large 4 is a one-trillion-parameter multimodal model positioned as a European alternative to leading closed and open AI systems.",
+      "source_email": "tldr_ai_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 20,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "NANO BANANA 2.1 (5 MINUTE READ)",
+      "url": "https://deepmind.google/models/model-cards/nano-banana-2-1/?utm_source=tldrai",
+      "blurb": "Nano Banana 2.1 is a member of the Gemini 3 series of models. It can take text and image inputs and output images and text. Based on Gemini 3.6 Flash, the model has a token context window of up to 1 million. Nano Banana 2.1 is available in the Gemini app and API, Google AI Studio, Google Search AI Mode, Google Ads, Google Flow, and Google Stitch.",
+      "source_email": "tldr_ai_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 21,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "SHARING AI PROGRESS IN MATHEMATICS (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/IGdcy2",
+      "blurb": "OpenAI has released a broad range of mathematical results produced by an internal frontier model. It has published the results in a GitHub repository along with protocols for paper revisions and citations. The repository contains formalizations of many of the proofs in Lean and will be updated with more formalizations as they are obtained. It also includes 10 summaries of the model's reasoning, estimations of compute spent in terms of Pro usage on ChatGPT, and statistics about the number of attempted problems.",
+      "source_email": "tldr_ai_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 22,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "THE CYBER RISK DISCOURSE IS BROKEN (11 MINUTE READ)",
+      "url": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken?utm_source=tldrai",
+      "blurb": "Open-weight models potentially pose an untenable risk to society's functionality. Chinese companies continue to release open-weight models with strong cyber capabilities. GLM-5.3 crosses a threshold of capability, but there is little public evidence that much has changed. Some say that open-weight models will result in a crippling of cyber infrastructure - after many years of debating open-weight risks, we will finally start to get some real answers.",
+      "source_email": "tldr_ai_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 23,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "BUILDING FASTER EMERGENCY PATCHING SYSTEMS (8 MINUTE READ)",
+      "url": "https://projectzero.google/2026/10/emergency-patching.html?utm_source=tldrai",
+      "blurb": "Google Project Zero examined how large software vendors can patch urgent vulnerabilities faster than their normal release cycles allow. The guide breaks down the full remediation pipeline (from triage and development through testing, delivery, and activation) and highlights systems designed for exceptional security incidents.",
+      "source_email": "tldr_ai_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 24,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "INTRODUCING PERSONAL AGENT PROTOCOL (5 MINUTE READ)",
+      "url": "https://sierra.ai/blog/introducing-personal-agent-protocol?utm_source=tldrai",
+      "blurb": "The Personal Agent Protocol is an open standard that Meta and Sierra are developing along with other industry partners. It is designed to handle authentication, empower consumers, and give companies visibility into what personal agents do through their websites, APIs, or company agents. Consumers decide what access to give their personal agents, and companies set parameters for what those agents can do. The protocol is open for anyone to implement.",
+      "source_email": "tldr_ai_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 25,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "DECISIONS API IS NOW AVAILABLE IN PUBLIC BETA (1 MINUTE READ)",
+      "url": "https://community.openai.com/t/decisions-api-is-now-available-in-public-beta/1403877?utm_source=tldrai",
+      "blurb": "OpenAI's Decisions API is now available to all developers in public beta. It makes decisions up to 10 times faster than GPT-6 Luna through the Responses API. The Decisions API accepts text and image inputs and supports three kinds of outputs: predicates, choices, and scores. It costs $0.10 per 1 million input tokens - there are no cache-read, cache-write, or output-token charges.",
+      "source_email": "tldr_ai_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 26,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "EMBEDDINGGEMMA 2 (5 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/?utm_source=tldrai",
+      "blurb": "EmbeddingGemma 2 is a 740M-parameter model that maps text, code, images, audio, and video into a shared embedding space. Built for on-device inference and released under Apache 2.0, it enables multimodal search and retrieval without sending data to the cloud.",
+      "source_email": "tldr_ai_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 27,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "BUILDING THE MOST DIVERSE UMI DATASET IN ROBOTICS (16 MINUTE READ)",
+      "url": "https://pantheon.inc/research/diverse-umi?utm_source=tldrai",
+      "blurb": "Pantheon rapidly assembled a robust UMI data collection operation, creating a diverse dataset to improve dexterous manipulation in robotics. They built custom infrastructure and hardware, drastically reducing data collection costs from $60/hr to $10/hr while ensuring data diversity. By incorporating innovative freeform and scripted methodologies, Pantheon accumulated over a million unique tasks, overcoming traditional data limitations for enhanced AI model training.",
+      "source_email": "tldr_ai_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 28,
+      "section": "MISCELLANEOUS",
+      "heading": "A $12B DEEPSEEK RAISE IS REPORTEDLY CLOSE, WITH TENCENT AND CATL AMONG BACKERS (3 MINUTE READ)",
+      "url": "https://yellow.com/news/deepseek-12b-raise-close-tencent-catl?utm_source=tldrai",
+      "blurb": "DeepSeek is nearing a $12 billion raise, surpassing its initial 50 billion yuan target, with Tencent and CATL as major contributors. The funding boost follows the release of DeepSeek's latest AI model, with expectations it might reach 100 billion yuan. The company is also preparing for a potential Shanghai STAR Market IPO, employing CITIC Securities for assistance.",
+      "source_email": "tldr_ai_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 29,
+      "section": "MISCELLANEOUS",
+      "heading": "IN RACE WITH US, CHINA STRUGGLES TO RECRUIT FOREIGN AI RESEARCHERS (6 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/AKQUVH",
+      "blurb": "China has made recruiting the world's best scientists a national priority. It introduced a visa for scientists and is offering lucrative research grants. Foreigners are not coming despite those efforts. The number of Chinese scientists working in the US has risen rather than declined.",
+      "source_email": "tldr_ai_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 30,
+      "section": "QUICK LINKS",
+      "heading": "HARK DEBUTS AN AI AGENT A YEAR BEFORE ITS FIRST DEVICES (2 MINUTE READ)",
+      "url": "https://thenextweb.com/news/hark-pro-agent-hardware-europe?utm_source=tldrai",
+      "blurb": "Hark has released an AI agent that buys groceries, books cars, and pays bills.",
+      "source_email": "tldr_ai_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 31,
+      "section": "QUICK LINKS",
+      "heading": "CLAUDE NOW WORKS WITH GOOGLE DOCS, SHEETS, AND SLIDES (4 MINUTE READ)",
+      "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides?utm_source=tldrai",
+      "blurb": "Claude now integrates with Google Docs, Sheets, and Slides for all paid plans, allowing direct editing within files.",
+      "source_email": "tldr_ai_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 32,
+      "section": "QUICK LINKS",
+      "heading": "US-CHINA AI GAP HITS 3%, AND DEEPSEEK V4.1 FLASH NOW LEADS ON AGENTIC CODING BENCHMARKS (12 MINUTE READ)",
+      "url": "https://www.techtimes.com/articles/328620/20261006/us-china-ai-gap-hits-3-deepseek-v41-flash-now-leads-agentic-coding-benchmarks.htm?utm_source=tldrai",
+      "blurb": "DeepSeek V4.1 Flash, a Chinese AI model, now leads in agentic coding benchmarks, surpassing US competitors.",
+      "source_email": "tldr_ai_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 33,
+      "section": "QUICK LINKS",
+      "heading": "AICR V1.0: OPEN, STABLE, AND VERIFIABLE GPU CLUSTER CONFIGURATION (6 MINUTE READ)",
+      "url": "https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration?utm_source=tldrai",
+      "blurb": "NVIDIA's AI Cluster Runtime (AICR) v1.0 offers version-locked, validated recipes for stable GPU-accelerated Kubernetes cluster configurations.",
+      "source_email": "tldr_ai_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 34,
+      "section": "QUICK LINKS",
+      "heading": "ANTHROPIC EXPANDS VERIFIED ACCESS TO CYBER CAPABILITIES (4 MINUTE READ)",
+      "url": "https://www.anthropic.com/news/cyber-verification-program?utm_source=tldrai",
+      "blurb": "Anthropic expanded its Cyber Verification Program into three access tiers for qualifying security professionals, providing its most capable models with reduced cyber blocking.",
+      "source_email": "tldr_ai_2026-10-07_extracted.json"
+    },
+    {
+      "ref": 35,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GPT-6 AND INTELLIGENT UI FOR EVERYONE (7 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/jzR1OT",
+      "blurb": "OpenAI's GPT-6 introduces Intelligent UI to 1.2 billion ChatGPT users, enhancing responses with text, visuals, and interactive elements. It combines UI with data for dynamic, custom responses, and improves answer quality for complex queries. GPT-6 also features enhanced safety, ensuring better risk recognition and adherence to safeguards.",
+      "source_email": "tldr_ai_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 36,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INTRODUCING CLAUDE HAIKU 5.5 (5 MINUTE READ)",
+      "url": "https://www.anthropic.com/claude-haiku-5-5?utm_source=tldrai",
+      "blurb": "Claude Haiku 5.5 is optimized for high-volume, cost-sensitive tasks, offering lower operating costs and faster performance for applications like summaries and customer support. The model provides significant pricing advantages, being 75% cheaper than Haiku 4.5 for tasks involving prompts up to 100,000 tokens. Enhanced safety and cybersecurity safeguards make Haiku 5.5 more secure, with broader availability across major cloud platforms like AWS and Azure.",
+      "source_email": "tldr_ai_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 37,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GROK BOT WILL USE CLAUDE OPUS 5.5, MIDJOURNEY, AND SUNO, SAYS MUSK (2 MINUTE READ)",
+      "url": "https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk?utm_source=tldrai",
+      "blurb": "Elon Musk's Grok Bot will integrate Anthropic's Claude Opus 5.5, Midjourney, and Suno, expanding beyond SpaceX's AI models to optimize task outcomes. This update follows reports of access issues with Grok on mobile and web. Grok Bot competes with personal AI agents like Meta's Muse, despite privacy concerns from some early users.",
+      "source_email": "tldr_ai_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 38,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "MULTIMODAL EMBEDDINGS BEYOND A SINGLE VECTOR (17 MINUTE READ)",
+      "url": "https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector?utm_source=tldrai",
+      "blurb": "The Perplexity team launched PPLX-EMBED-V2-LATE, providing multi-vector, multimodal embeddings that enable richer retrieval across text and images. These models retain token-level vectors and utilize a shared embedding space, leading to improved retrieval on benchmarks like ViDoRe(V3). Available in two sizes, 0.6B and 9B, they offer industry-leading performance for various retrieval tasks while maintaining efficiency.",
+      "source_email": "tldr_ai_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 39,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "ANTHROPIC'S CORPORATE STRUCTURE (5 MINUTE READ)",
+      "url": "https://www.lesswrong.com/posts/Hb5aCFtLuHc5uvAgX/anthropic-s-corporate-structure?utm_source=tldrai",
+      "blurb": "Anthropic isn't very transparent about its corporate structure. It is in the public's interest for the company to be transparent about who controls and governs increasingly capable AI models. This article looks at what is publicly known about Anthropic's corporate structure. It focuses on the aspects relevant to control of Anthropic's business rather than the parts that are only about economic benefits.",
+      "source_email": "tldr_ai_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 40,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "OPEN D1: EDGE DECISION MODELS FOR TEXT, VISION, AND AUDIO (6 MINUTE READ)",
+      "url": "https://www.liquid.ai/blog/d1-open?utm_source=tldrai",
+      "blurb": "Liquid AI released two new open-weight decision models, d1-3B and d1-OMNI-600M, available on Hugging Face.",
+      "source_email": "tldr_ai_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 41,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "INTRODUCING OPENDOCROUTER: EVERY DOCUMENT MODEL UNDER ONE API (5 MINUTE READ)",
+      "url": "https://www.llamaindex.ai/blog/introducing-opendocrouter?utm_source=tldrai",
+      "blurb": "OpenDocRouter is a platform for document-to-Markdown parsing using the latest open-source and frontier models. Each model runs a versioned recipe consisting of prompts, processing, and settings. The API accepts PDFs, PNG, JPEG, or URLs to those file formats. Users can toggle between synchronous responses, where the result is returned directly, and asynchronous responses, where a job is created that requires polling.",
+      "source_email": "tldr_ai_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 42,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "HUMANITY'S SIXTH SENSE: BENCHMARKING INTUITIVE VISUAL REASONING IN MULTIMODAL MODELS (1 MINUTE READ)",
+      "url": "https://labs.scale.com/papers/humanitys-sixth-sense?utm_source=tldrai",
+      "blurb": "This paper presents a benchmark for evaluating intuitive visual reasoning capabilities in multimodal models.",
+      "source_email": "tldr_ai_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 43,
+      "section": "MISCELLANEOUS",
+      "heading": "ORACLE, BROADCOM, AND SPACEX SEEK BLOCKBUSTER DEBT DEALS TO PAY FOR AI CHIPS (7 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/j9brHp",
+      "blurb": "Broadcom has been working to arrange more than $50 billion in financing for OpenAI's custom AI chip. Apollo and Blackstone are among the lenders Broadcom has talked to about participating in the deal. Oracle is separately in talks with Apollo and Goldman Sachs to arrange money for a big purchase of chips. SpaceX has talked to lenders in recent days about a $40 billion chip financing for Nvidia chips.",
+      "source_email": "tldr_ai_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 44,
+      "section": "MISCELLANEOUS",
+      "heading": "TONY FADELL ON WHY THE FIRST WAVE OF AI GADGETS FAILED \u2014 AND WHAT COMES NEXT (6 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/?utm_source=tldrai",
+      "blurb": "Tony Fadell highlights the failure of early AI gadgets like the Rabbit R1, citing their inability to address real consumer needs and establish trust. Meta's recent AI assistant, Muse, faced security issues, showing the challenge of securing personal AI. Fadell suggests that successful AI assistants must operate on-device for privacy, with Apple being well-positioned due to its hardware and consumer trust, despite lacking a proprietary AI model.",
+      "source_email": "tldr_ai_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 45,
+      "section": "MISCELLANEOUS",
+      "heading": "WHY TEXAS IS MAKING DATA CENTERS WAIT (29 MINUTE READ)",
+      "url": "https://a16z.com/why-texas-is-making-data-centers-wait/?utm_source=tldrai",
+      "blurb": "Texas paused issuing new data center permits due to its overwhelmed grid and speculative projects filling its approval queue. The state aims to ensure projects can support their grid upgrades and align with community needs regarding resources like water and noise. To manage demand, Texas is considering allowing data centers to bring their own power on-site or increase flexibility with grid connections to address capacity constraints.",
+      "source_email": "tldr_ai_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 46,
+      "section": "QUICK LINKS",
+      "heading": "NVIDIA, MICROSOFT KICK OFF A NEW BEGINNING FOR WINDOWS PCS WITH RTX SPARK AND AI AGENTS (6 MINUTE READ)",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/?utm_source=tldrai",
+      "blurb": "NVIDIA and Microsoft announced a collaboration to integrate AI agents into Windows PCs, leveraging RTX Spark technology and Microsoft's new Execution Containers for securely running agents.",
+      "source_email": "tldr_ai_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 47,
+      "section": "QUICK LINKS",
+      "heading": "GOOGLE EXPANDS SYNTHID DETECTOR GLOBALLY (1 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/?utm_source=tldrai",
+      "blurb": "Google expanded SynthID Detector globally, letting anyone check images, video, or audio for watermarks from Google and partners including OpenAI and NVIDIA.",
+      "source_email": "tldr_ai_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 48,
+      "section": "QUICK LINKS",
+      "heading": "MAI-CODE-1.1-FLASH: BETTER, FASTER, AT A QUARTER OF THE COST (1 MINUTE READ)",
+      "url": "https://microsoft.ai/news/mai-code-1-1-flash-br-better-faster-at-a-quarter-of-the-cost/?utm_source=tldrai",
+      "blurb": "Microsoft released MAI-Code-1.1-Flash, an AI model that's faster and costs a quarter of previous iterations.",
+      "source_email": "tldr_ai_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 49,
+      "section": "QUICK LINKS",
+      "heading": "FIRED OPENAI RESEARCHERS ASK COMPANY TO PRESERVE VISIBILITY INTO AI REASONING (6 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/6X0FXh",
+      "blurb": "The fired employees say they are concerned that AI companies could end up losing the ability to monitor AI systems' chain-of-thought.",
+      "source_email": "tldr_ai_2026-10-08_extracted.json"
+    },
+    {
+      "ref": 50,
+      "section": "QUICK LINKS",
+      "heading": "INTRODUCING PLAYGROUND: CREATE AND PLAY CUSTOM GAMES (1 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/?utm_source=tldrai",
+      "blurb": "Google Playground is an experimental AI gaming platform for creating custom games.",
+      "source_email": "tldr_ai_2026-10-08_extracted.json"
+    }
+  ],
+  "dropped": []
+}

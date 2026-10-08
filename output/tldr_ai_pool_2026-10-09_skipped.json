@@ -1,0 +1,72 @@
+[
+  {
+    "ref": 3,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "INSTINCT IN GROUP CHATS (1 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/TpZLHX",
+    "blurb": "Instinct now lets early-access users add a shared agent to group chats for planning trips, tickets, carpools, and events. Personal Instincts enforce permissions, keep account access separate, and pause sharing when new members join.",
+    "source_email": "tldr_ai_2026-10-06_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 8,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "ANNOUNCING D1 WITH VISION (2 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/DilGg3",
+    "blurb": "d1, a decision model from Liquid AI, now supports images, text, or both as inputs. The model costs 19x to 200x less than GPT-6.1 Sol and Claude Opus 5.5 and answers significantly faster on every task. It outputs probabilities for yes/no, choice, or score questions in one forward pass without generating tokens. Text decisions are made in 200 to 300 milliseconds.",
+    "source_email": "tldr_ai_2026-10-06_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 12,
+    "section": "QUICK LINKS",
+    "heading": "ASSET LIGHT SOFTWARE (14 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/032kyB",
+    "blurb": "Software businesses are shifting from fixed costs toward variable, consumption-based costs as AI automates junior work and commoditizes software creation.",
+    "source_email": "tldr_ai_2026-10-06_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 14,
+    "section": "QUICK LINKS",
+    "heading": "10 TAKEAWAYS FROM TIBO SOTTIAUX (4 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/ZmPSUL",
+    "blurb": "OpenAI's Tibo Sottiaux expects agents to take most internet actions, model pickers to disappear, and models to improve roughly 10x within a year.",
+    "source_email": "tldr_ai_2026-10-06_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 38,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "MULTIMODAL EMBEDDINGS BEYOND A SINGLE VECTOR (17 MINUTE READ)",
+    "url": "https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector?utm_source=tldrai",
+    "blurb": "The Perplexity team launched PPLX-EMBED-V2-LATE, providing multi-vector, multimodal embeddings that enable richer retrieval across text and images. These models retain token-level vectors and utilize a shared embedding space, leading to improved retrieval on benchmarks like ViDoRe(V3). Available in two sizes, 0.6B and 9B, they offer industry-leading performance for various retrieval tasks while maintaining efficiency.",
+    "source_email": "tldr_ai_2026-10-08_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 43,
+    "section": "MISCELLANEOUS",
+    "heading": "ORACLE, BROADCOM, AND SPACEX SEEK BLOCKBUSTER DEBT DEALS TO PAY FOR AI CHIPS (7 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/j9brHp",
+    "blurb": "Broadcom has been working to arrange more than $50 billion in financing for OpenAI's custom AI chip. Apollo and Blackstone are among the lenders Broadcom has talked to about participating in the deal. Oracle is separately in talks with Apollo and Goldman Sachs to arrange money for a big purchase of chips. SpaceX has talked to lenders in recent days about a $40 billion chip financing for Nvidia chips.",
+    "source_email": "tldr_ai_2026-10-08_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 49,
+    "section": "QUICK LINKS",
+    "heading": "FIRED OPENAI RESEARCHERS ASK COMPANY TO PRESERVE VISIBILITY INTO AI REASONING (6 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/6X0FXh",
+    "blurb": "The fired employees say they are concerned that AI companies could end up losing the ability to monitor AI systems' chain-of-thought.",
+    "source_email": "tldr_ai_2026-10-08_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "kept": [
+    {
+      "ref": 8,
+      "section": null,
+      "heading": "EXPERIENTIAL MARKETING TREND: BRAND GAZETTES (3 MINUTE READ)",
+      "url": "https://www.eventmarketer.com/article/experiential-marketing-trend-of-the-week-brand-gazettes/?utm_source=tldrmarketing",
+      "blurb": "Brand gazettes are becoming a way for brands to extend physical events into tangible content experiences. Publications are designed specifically for an activation and give attendees something to read and keep after the event. Grey Goose used its Gazette to tell stories about the brand's French heritage while Disney recreated the fictional Runway magazine from The Devil Wears Prada 2 as a real 90-page issue. QR codes and other interactive elements can also connect print content to digital experiences."
+    },
+    {
+      "ref": 9,
+      "section": null,
+      "heading": "CASH-STRAPPED AMERICANS TAP HOME EQUITY AND AI TO KEEP SPENDING (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/DdAI31",
+      "blurb": "Consumers are maintaining spending despite higher prices by finding ways to offset rising costs. Grocery prices are up 32% since 2020, yet spending on cars, clothing, and restaurants still increased in August. Some consumers are using credit or drawing from savings while others are cutting costs elsewhere. AI is also becoming a budgeting tool, with one consumer using ChatGPT to compare grocery prices and save about $100 a month."
+    },
+    {
+      "ref": 10,
+      "section": null,
+      "heading": "YOU AUTOMATED YOUR BUILD. YOUR GROWTH IS STILL MANUAL (4 MINUTE READ)",
+      "url": "https://expo.dev/blog/you-automated-your-build-your-growth-is-still-manual?utm_source=tldrmarketing",
+      "blurb": "Growth compounds when each marketing activity creates inputs for the next one. The author focuses on 3 growth loops: app installs can improve store visibility, content can inform the next post, and product usage can generate reviews and user content. The content loop is often the slowest because it requires the most manual work, yet it can have significant results. Find the slowest step in each loop and remove unnecessary manual handoffs so each cycle happens faster."
+    },
+    {
+      "ref": 11,
+      "section": null,
+      "heading": "WE VIBE CODED OUR OWN CALENDLY. OUR AI AGENT PUSHED US TO DO IT, AND IT WAS RIGHT (3 MINUTE READ)",
+      "url": "https://www.saastr.com/we-vibe-coded-our-own-calendly-our-ai-agent-pushed-us-to-do-it-and-it-was-right/?utm_source=tldrmarketing",
+      "blurb": "A 3-person team built its own scheduling tool in 20 mins after its AI agent identified a limitation with Calendly. The custom booker connects scheduling to Salesforce and prospect data, showing each prospect a personalized prospectus and routing them to the right salesperson based on account ownership. The team could have integrated Calendly, but the agent determined that most of the custom logic would still need to be built. The default remains buying software, with custom builds reserved for narrow workflows where proprietary data creates an advantage."
+    },
+    {
+      "ref": 14,
+      "section": null,
+      "heading": "BUILDING ADVERTISING FOR THE WAY PEOPLE USE AI (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/rYcBcI",
+      "blurb": "OpenAI is testing visual ads in ChatGPT that show products and services through images during image generation. The format lets advertisers demonstrate products in use and link to more information. ChatGPT Ads are also adding conversion tracking and attribution through partners including Hightouch, Tealium, LiveRamp, AppsFlyer, and Triple Whale. Testing starts in the US later this month."
+    },
+    {
+      "ref": 15,
+      "section": null,
+      "heading": "PREDICTION: THE NEXT MASSIVE GOOGLE UPDATE IS AROUND THE CORNER (16 MINUTE READ)",
+      "url": "https://lilyraynyc.substack.com/p/prediction-the-next-massive-google?utm_source=tldrmarketing",
+      "blurb": "Google tends to rewrite its documentation shortly before a major update, and it has just rewritten its guidance on AI content and authorship. Publishing AI text at scale without manual review now counts as little to no effort, and invented authors with AI headshots count as deception. The GEO tactics built to win AI answers, including self-ranking listicles and paid mentions, repeat old SEO spam patterns that Google has historically shut down. Cutting or consolidating scaled content before an update is often easier than recovering after one."
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "I SHOPPED FOR SOCCER SHOES WITH CHATGPT, CLAUDE, AND MUSE. ONE GOT ME CLOSER TO BUYING (3 MINUTE READ)",
+      "url": "https://kristenberman.substack.com/p/i-shopped-for-soccer-shoes-with-chatgpt?utm_source=tldrmarketing",
+      "blurb": "AI shopping assistants need to balance choice with guidance to build purchase confidence. ChatGPT won by showing 3 soccer shoe options with a recommended pick and clear comparison. Claude offered useful product details but lacked images and purchase links. Muse made shopping more engaging with interactive questions and visuals but recommended the wrong shoes. The test suggests giving shoppers a few options plus a clear recommendation can make AI-assisted purchases easier."
+    },
+    {
+      "ref": 17,
+      "section": "MISCELLANEOUS",
+      "heading": "THE ECONOMICS OF THE STREAK: LOYALTY PROGRAMS AND STARS (10 MINUTE READ)",
+      "url": "https://destbreso.com/blog/bcs-the-economics-of-the-streak?utm_source=tldrmarketing",
+      "blurb": "Loyalty programs use loss aversion and goal gradients to make accumulated points feel like possessions worth protecting. A 100-day streak can become more motivating to preserve than the underlying habit, while being close to a reward or tier encourages extra spending. Programs also benefit from unredeemed points through breakage and collect purchase data. They can reward behaviors customers already value or drive spending and engagement mainly to avoid losing accumulated progress."
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "I ANALYZED 1,100+ JOB POSTS WITH CLAUDE CODE. HERE'S WHAT B2B MARKETERS GET PAID (26 MINUTE READ)",
+      "url": "https://newsletter.mkt1.co/p/marketing-salaries-2026?utm_source=tldrmarketing",
+      "blurb": "B2B marketing salaries range from a $119K median for early-career roles to $300K for VP and CMO roles."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "PSA: YOUR BRAND ALREADY HAS AN AI FINGERPRINT (SPONSOR)",
+      "url": "https://markup.ai/brand-profile/?utm_source=tldr&utm_medium=newsletter&utm_campaign=2026-10-06_tldr_marketing_primary_markup_ai&utm_content=header_psa_brand_already&utm_term=2026-10-06_tldr_marketing",
+      "blurb": "You don't have to guess how AI interprets your brand. Markup AI's Free Brand Profile [5] analyzes your publicly available content to articulate your voice, distinctive writing patterns, target personas, and preferred terminology.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 12,
+      "section": null,
+      "heading": "STOP ASKING YOUR VISITORS TO HUNT FOR INFO. LET THEM TALK TO YOUR WEBSITE INSTEAD (SPONSOR)",
+      "url": "https://crafterq.ai/?utm_source=tldr&utm_medium=newsletter&utm_campaign=crafterq-2026-q4-marketing",
+      "blurb": "Turn your website from pages people browse into conversations that convert. CRAFTERQ [12] learns from your content and gives every visitor an AI agent that answers questions, recommends next steps, and captures leads \u2014 helping turn website traffic into customers. SEE HOW IT WORKS. [13]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "CLEAN UP YOUR UA TAGS (1 MINUTE READ)",
+      "url": "https://www.linkedin.com/posts/chloe-christine-allerton_universal-analytics-stopped-processing-data-share-7512584065355657219-xIPh/?utm_source=tldrmarketing",
+      "blurb": "Search Google Tag Manager for old \u201cUniversal Analytics\u201d or \u201cUA-\u201d tags, pause them for a week, then remove them if nothing breaks.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    }
+  ]
+}

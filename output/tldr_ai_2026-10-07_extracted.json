@@ -1,0 +1,142 @@
+{
+  "kept": [
+    {
+      "ref": 8,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "MISTRAL LARGE 4 (9 MINUTE READ)",
+      "url": "https://mistral.ai/news/mistral-large-4/?utm_source=tldrai",
+      "blurb": "Mistral Large 4 is a one-trillion-parameter multimodal model positioned as a European alternative to leading closed and open AI systems."
+    },
+    {
+      "ref": 9,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "NANO BANANA 2.1 (5 MINUTE READ)",
+      "url": "https://deepmind.google/models/model-cards/nano-banana-2-1/?utm_source=tldrai",
+      "blurb": "Nano Banana 2.1 is a member of the Gemini 3 series of models. It can take text and image inputs and output images and text. Based on Gemini 3.6 Flash, the model has a token context window of up to 1 million. Nano Banana 2.1 is available in the Gemini app and API, Google AI Studio, Google Search AI Mode, Google Ads, Google Flow, and Google Stitch."
+    },
+    {
+      "ref": 10,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "SHARING AI PROGRESS IN MATHEMATICS (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/IGdcy2",
+      "blurb": "OpenAI has released a broad range of mathematical results produced by an internal frontier model. It has published the results in a GitHub repository along with protocols for paper revisions and citations. The repository contains formalizations of many of the proofs in Lean and will be updated with more formalizations as they are obtained. It also includes 10 summaries of the model's reasoning, estimations of compute spent in terms of Pro usage on ChatGPT, and statistics about the number of attempted problems."
+    },
+    {
+      "ref": 11,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "THE CYBER RISK DISCOURSE IS BROKEN (11 MINUTE READ)",
+      "url": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken?utm_source=tldrai",
+      "blurb": "Open-weight models potentially pose an untenable risk to society's functionality. Chinese companies continue to release open-weight models with strong cyber capabilities. GLM-5.3 crosses a threshold of capability, but there is little public evidence that much has changed. Some say that open-weight models will result in a crippling of cyber infrastructure - after many years of debating open-weight risks, we will finally start to get some real answers."
+    },
+    {
+      "ref": 12,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "BUILDING FASTER EMERGENCY PATCHING SYSTEMS (8 MINUTE READ)",
+      "url": "https://projectzero.google/2026/10/emergency-patching.html?utm_source=tldrai",
+      "blurb": "Google Project Zero examined how large software vendors can patch urgent vulnerabilities faster than their normal release cycles allow. The guide breaks down the full remediation pipeline (from triage and development through testing, delivery, and activation) and highlights systems designed for exceptional security incidents."
+    },
+    {
+      "ref": 14,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "INTRODUCING PERSONAL AGENT PROTOCOL (5 MINUTE READ)",
+      "url": "https://sierra.ai/blog/introducing-personal-agent-protocol?utm_source=tldrai",
+      "blurb": "The Personal Agent Protocol is an open standard that Meta and Sierra are developing along with other industry partners. It is designed to handle authentication, empower consumers, and give companies visibility into what personal agents do through their websites, APIs, or company agents. Consumers decide what access to give their personal agents, and companies set parameters for what those agents can do. The protocol is open for anyone to implement."
+    },
+    {
+      "ref": 15,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "DECISIONS API IS NOW AVAILABLE IN PUBLIC BETA (1 MINUTE READ)",
+      "url": "https://community.openai.com/t/decisions-api-is-now-available-in-public-beta/1403877?utm_source=tldrai",
+      "blurb": "OpenAI's Decisions API is now available to all developers in public beta. It makes decisions up to 10 times faster than GPT-6 Luna through the Responses API. The Decisions API accepts text and image inputs and supports three kinds of outputs: predicates, choices, and scores. It costs $0.10 per 1 million input tokens - there are no cache-read, cache-write, or output-token charges."
+    },
+    {
+      "ref": 16,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "EMBEDDINGGEMMA 2 (5 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/?utm_source=tldrai",
+      "blurb": "EmbeddingGemma 2 is a 740M-parameter model that maps text, code, images, audio, and video into a shared embedding space. Built for on-device inference and released under Apache 2.0, it enables multimodal search and retrieval without sending data to the cloud."
+    },
+    {
+      "ref": 17,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "BUILDING THE MOST DIVERSE UMI DATASET IN ROBOTICS (16 MINUTE READ)",
+      "url": "https://pantheon.inc/research/diverse-umi?utm_source=tldrai",
+      "blurb": "Pantheon rapidly assembled a robust UMI data collection operation, creating a diverse dataset to improve dexterous manipulation in robotics. They built custom infrastructure and hardware, drastically reducing data collection costs from $60/hr to $10/hr while ensuring data diversity. By incorporating innovative freeform and scripted methodologies, Pantheon accumulated over a million unique tasks, overcoming traditional data limitations for enhanced AI model training."
+    },
+    {
+      "ref": 19,
+      "section": "MISCELLANEOUS",
+      "heading": "A $12B DEEPSEEK RAISE IS REPORTEDLY CLOSE, WITH TENCENT AND CATL AMONG BACKERS (3 MINUTE READ)",
+      "url": "https://yellow.com/news/deepseek-12b-raise-close-tencent-catl?utm_source=tldrai",
+      "blurb": "DeepSeek is nearing a $12 billion raise, surpassing its initial 50 billion yuan target, with Tencent and CATL as major contributors. The funding boost follows the release of DeepSeek's latest AI model, with expectations it might reach 100 billion yuan. The company is also preparing for a potential Shanghai STAR Market IPO, employing CITIC Securities for assistance."
+    },
+    {
+      "ref": 20,
+      "section": "MISCELLANEOUS",
+      "heading": "IN RACE WITH US, CHINA STRUGGLES TO RECRUIT FOREIGN AI RESEARCHERS (6 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/AKQUVH",
+      "blurb": "China has made recruiting the world's best scientists a national priority. It introduced a visa for scientists and is offering lucrative research grants. Foreigners are not coming despite those efforts. The number of Chinese scientists working in the US has risen rather than declined."
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "HARK DEBUTS AN AI AGENT A YEAR BEFORE ITS FIRST DEVICES (2 MINUTE READ)",
+      "url": "https://thenextweb.com/news/hark-pro-agent-hardware-europe?utm_source=tldrai",
+      "blurb": "Hark has released an AI agent that buys groceries, books cars, and pays bills."
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "CLAUDE NOW WORKS WITH GOOGLE DOCS, SHEETS, AND SLIDES (4 MINUTE READ)",
+      "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides?utm_source=tldrai",
+      "blurb": "Claude now integrates with Google Docs, Sheets, and Slides for all paid plans, allowing direct editing within files."
+    },
+    {
+      "ref": 23,
+      "section": "QUICK LINKS",
+      "heading": "US-CHINA AI GAP HITS 3%, AND DEEPSEEK V4.1 FLASH NOW LEADS ON AGENTIC CODING BENCHMARKS (12 MINUTE READ)",
+      "url": "https://www.techtimes.com/articles/328620/20261006/us-china-ai-gap-hits-3-deepseek-v41-flash-now-leads-agentic-coding-benchmarks.htm?utm_source=tldrai",
+      "blurb": "DeepSeek V4.1 Flash, a Chinese AI model, now leads in agentic coding benchmarks, surpassing US competitors."
+    },
+    {
+      "ref": 24,
+      "section": "QUICK LINKS",
+      "heading": "AICR V1.0: OPEN, STABLE, AND VERIFIABLE GPU CLUSTER CONFIGURATION (6 MINUTE READ)",
+      "url": "https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration?utm_source=tldrai",
+      "blurb": "NVIDIA's AI Cluster Runtime (AICR) v1.0 offers version-locked, validated recipes for stable GPU-accelerated Kubernetes cluster configurations."
+    },
+    {
+      "ref": 25,
+      "section": "QUICK LINKS",
+      "heading": "ANTHROPIC EXPANDS VERIFIED ACCESS TO CYBER CAPABILITIES (4 MINUTE READ)",
+      "url": "https://www.anthropic.com/news/cyber-verification-program?utm_source=tldrai",
+      "blurb": "Anthropic expanded its Cyber Verification Program into three access tiers for qualifying security professionals, providing its most capable models with reduced cyber blocking."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "NOBODY APPROVED YOUR AGENTS. THEY'RE IN PRODUCTION ANYWAY. (SPONSOR)",
+      "url": "https://zenity.io/resources/events/ai-agent-security-summit-nyc?utm_source=tldr&utm_medium=sponsored&utm_campaign=tldr-ai-newsletter&utm_content=primary-1007_header_nobody_approved_agents&utm_term=2026-10-07",
+      "blurb": "Copilot. Cursor. Agentforce. Your teams switched on agents months ago. Ask who reviewed them, then what they can reach. That gap is now its own market: GARTNER'S EMERGING MARKET QUADRANT FOR AI APPLICATION SECURITY named Zenity one of two startup Market Shapers, after naming it the Company to Beat in AI Agent Governance. READ THE REPORT [5]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "WHAT AI IS RUNNING IN PRODUCTION AND WHO OWNS IT? (SPONSOR)",
+      "url": "https://www.collibra.com/learn/ai-trust-score?utm_source=mediadirect&utm_medium=paid-display&utm_campaign=GBL-26-Q3-BAN-AI-trust-score-tldr",
+      "blurb": "Models and agents ship faster than governance can track. Score your stack on 12 checks, from lineage to risk tiering, and find trust gaps keeping pilots out of production. Five minutes; answers stay in your browser. Get your AI Trust Score. [13]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 18,
+      "section": "MISCELLANEOUS",
+      "heading": "PRODUCT MANAGER, APPLIED AI AT TLDR ($225K BASE + $60K BONUS, FULLY REMOTE)",
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr&sp=Azpxuhac1UTjxgboaD0qUokw",
+      "blurb": "TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We're looking for a builder who has shipped real products/systems with LLMs. Click here to learn more [18].",
+      "drop_reason": "drop-list domain (jobs.ashbyhq.com)"
+    }
+  ]
+}
