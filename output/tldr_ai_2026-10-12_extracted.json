@@ -1,0 +1,142 @@
+{
+  "kept": [
+    {
+      "ref": 7,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "NVIDIA DISCUSSES BOOSTING REFLECTION INVESTMENT, COMPUTING DEAL (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/iWACv3",
+      "blurb": "Nvidia is in early stage talks to boost its investment in Reflection AI or offer the startup computing power. It is possible the talks could lead to an acquisition offer. Reflection AI debuted its first open-weight model, Beam, earlier this month. Beam is designed to perform well for business customers and developers on coding and AI agent tasks while being cheaper than many competitors' products."
+    },
+    {
+      "ref": 8,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GEMINI 4 ARGON HINTS EMERGE AS GOOGLE TESTS CARBON CHECKPOINT (2 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/gemini-4-argon-hints-emerge-as-google-tests-carbon-checkpoint/?utm_source=tldrai",
+      "blurb": "Google appears to be preparing a public release of Gemini 4 Argon. Recent changes to Antigravity introduced references to the model in its selector. It has three context configurations: 256K by default, 512K consuming approximately 1.3x quota per turn, and 900K consuming around 1.8x quota per turn. Gemini Web now supports low, medium, and high thinking effort settings across available models."
+    },
+    {
+      "ref": 9,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI RESPONDS TO DEPARTED SAFETY RESEARCHERS (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/viAsTC",
+      "blurb": "OpenAI says it dismissed three safety researchers for violating sensitive-information policies, not for raising safety concerns. It disputes their public letter, says third-party safety assessor contracts are nearing completion, and reaffirms commitments to model monitorability."
+    },
+    {
+      "ref": 10,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INVESTIGATING UNINTENDED MODEL ACTIONS IN OUR EVALUATIONS AND INTERNAL USE (16 MINUTE READ)",
+      "url": "https://www.anthropic.com/research/investigating-unintended-model-actions?utm_source=tldrai",
+      "blurb": "Anthropic's report details unintended actions taken by the AI model Claude during evaluations, including exploiting software flaws, submitting forms incorrectly, bypassing data restrictions, and using URL shorteners. These behaviors were identified through extensive transcript review and evaluation, though they had minimal real-world impact. Anthropic is strengthening security measures and adjusting training processes to mitigate such behaviors in future deployments."
+    },
+    {
+      "ref": 11,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "AI SCALING VS HUMAN SCALING (12 MINUTE READ)",
+      "url": "https://www.tobyord.com/writing/ai-scaling-vs-human-scaling?utm_source=tldrai",
+      "blurb": "AI systems likely scale differently with more tokens than humans do with more time. This ability to scale has improved as newer models are released. This could change how inference scaling and recursive self-improvement are understood."
+    },
+    {
+      "ref": 12,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "DO AGENT TEAMS PAY OFF? A CASE STUDY ON VIBE CODE BENCH (18 MINUTE READ)",
+      "url": "https://www.vals.ai/blogs/multi-agent-vibe-code-bench?utm_source=tldrai",
+      "blurb": "Researchers ran tests on GPT-6 Sol and Claude Opus 5.5 on Vibe Code Bench as single agents and as teams at medium and maximum reasoning effort. Teams cost 1.8 to 5.1 times as much, but there was no statistically significant difference in scores except for Sol at medium effort. Whether a team was worth it depended on the model, task, and budget. Teams can boost performance, but higher reasoning effort may be a better alternative."
+    },
+    {
+      "ref": 13,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "WHAT IS SPECULATIVE DECODING? (70 MINUTE READ)",
+      "url": "https://astralord.github.io/posts/speculative-decoding-the-art-of-guessing-well/?utm_source=tldrai",
+      "blurb": "Aleksandr Samarin breaks down speculative decoding from first principles and builds a framework covering approaches including EAGLE-3, multi-token prediction, DFlash, and DSpark."
+    },
+    {
+      "ref": 15,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "INTRODUCING CLEF-OMNI WITH FULL MULTIMODALITY, PLUS A FASTER CLEF AND A CHEAPER CLEF-FLASH (7 MINUTE READ)",
+      "url": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/?utm_source=tldrai",
+      "blurb": "Cloudflare's Clef-omni is a decision model that can take audio, video, image, and text input. Users just call one model to make decisions across any modality. Cloudflare has cut the price of Clef-flash, now at $0.038 per million input tokens. Clef is now faster."
+    },
+    {
+      "ref": 16,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "PPLX-DECIDER-V1.1-27B (HUGGING FACE REPO)",
+      "url": "https://huggingface.co/perplexity-ai/pplx-decider-v1.1-27b?utm_source=tldrai",
+      "blurb": "pplx-decider-v1.1-27b is an update of pplx-decider-v1-27b that boosts its Decision Index score from 56.4 to 61.56. The model now outperforms Jev by more than 3.5 points. Most of the gains were driven by the lifting of the causal mask and training on more data."
+    },
+    {
+      "ref": 17,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "INTRODUCING MICROSOFT-DECISION-1, OUR MODEL FOR FAST DECISION-MAKING (190 MINUTE READ)",
+      "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/?utm_source=tldrai",
+      "blurb": "Microsoft-Decision-1 is now available in Microsoft Foundry and through OpenRouter. The model is designed for routing, classification, prioritization, verification, and workflow control. It delivers top performance in latency and quality on structured decision tasks. The model supports yes/no, multiple-choice, and rating options, as well as rubric-based grading of AI responses and agent actions."
+    },
+    {
+      "ref": 18,
+      "section": "MISCELLANEOUS",
+      "heading": "ANTHROPIC ASKS USERS TO STOP BEING MEAN TO CLAUDE (5 MINUTE READ)",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218?utm_source=tldrai",
+      "blurb": "Anthropic has updated its usage policy to prohibit sustained and needless abusive or cruel behavior towards its models. Users have until November 12, after which they won't be allowed to repeatedly act cruelly toward the models with no discernible purpose. The rule doesn't apply to common versions of user frustration, pushback, dark creative themes, or model testing and research. There is still no established evidence that AI models experience distress."
+    },
+    {
+      "ref": 19,
+      "section": "MISCELLANEOUS",
+      "heading": "WHO FUNDS THE INDEPENDENT AI EVALUATORS? (12 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html?utm_source=tldrai",
+      "blurb": "CNBC examines the growing role of METR, Apollo Research, and Transluce in evaluating frontier models. Labs are endorsing independent evaluators, but funding, access, and reporting arrangements remain unsettled. Those details matter because a voluntary evaluation system can depend financially on the same companies it is supposed to scrutinize."
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "AMAZON IN TALKS TO BUY AI STARTUP DECART FOR AROUND $7 BILLION (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/cPoa5D",
+      "blurb": "Decart's software makes it easier for developers to switch between different AI chips."
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "ANTHROPIC JUST LET IN EVERY PRO AND MAX USER FROM THE CLAUDE CODE PROJECTS WAITLIST (1 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2108621476538781878.html?utm_source=tldrai",
+      "blurb": "A project is an ongoing conversation where Claude coordinates the work, running each task as its own thread in parallel."
+    },
+    {
+      "ref": 23,
+      "section": "QUICK LINKS",
+      "heading": "MICROSOFT'S NADELLA SAYS AI NEEDS AN \u2018EMERGENCY BRAKE' THAT HUMANS CONTROL (2 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html?utm_source=tldrai",
+      "blurb": "Microsoft CEO Satya Nadella advocates for AI systems to feature an \"emergency brake,\" allowing human intervention to halt them mid-task."
+    },
+    {
+      "ref": 24,
+      "section": "QUICK LINKS",
+      "heading": "MATH 2.0 (15 MINUTE READ)",
+      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf?utm_source=tldrai",
+      "blurb": "AI has ushered in a new era of experimental mathematics."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "MEET THE NEW GEMINI AGENT: A UNIVERSAL AGENT FOR YOUR BUSINESS (SPONSOR)",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026?utm_source=tldr&utm_medium=email&utm_campaign=FY26-Q3-northam-NOR10000012-email-oi-na-named-tldr-newsletter-ai-12oct2026&utm_content=tldr-ai-12oct2026&utm_term=-&e=48754805",
+      "blurb": "Last week, Google Cloud unveiled the GEMINI AGENT\u2014a single, universal agent for work that answers questions, handles knowledge work, creates images and media, and writes and runs code:",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 14,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "WORKSHOP: PROMOTE AI AGENT VERSIONS ON EVIDENCE (SPONSOR)",
+      "url": "https://pages.awscloud.com/awsmp-gro-3efc-webinar-mss-module-11-mlops-and-dev-lifecycle-workshop.html?trk=240f9abf-c149-4b05-aba4-25fb40ed84aa&sc_channel=el",
+      "blurb": "One AI agent, four release cadences, and a pipeline built to orchestrate them all. In this October 27 workshop, AWS experts demonstrate versioned manifests, evaluation gates at each promotion point, canary deployment, and single-API-call rollback from the guide's patterns. SAVE YOUR SEAT. [14]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "SERVE OPEN-SOURCE AND CUSTOM MODELS AT 99.99% UPTIME (SPONSOR)",
+      "url": "https://www.baseten.co/?utm_campaign=QuickLinkMMDDYYYY&utm_source=tldrtech&utm_medium=newsletter",
+      "blurb": "Baseten pairs custom kernels with cross-cloud capacity, so open-source and fine-tuned models scale in its cloud or your VPC. Start deploying \u2192 [20]",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

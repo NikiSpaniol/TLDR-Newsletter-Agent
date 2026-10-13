@@ -1,0 +1,12 @@
+[
+  {
+    "ref": 15,
+    "section": null,
+    "heading": "CHURN HAPPENS EARLY (6 MINUTE READ)",
+    "url": "https://www.valuepaths.com/activation/churn-happens-early/?utm_source=tldrmarketing",
+    "blurb": "SaaS churn is heavily front-loaded, with the biggest drop-off often happening during signup and initial product use before retention stabilizes. Track retention by signup cohort rather than total user churn to identify where new users leave and prioritize fixes with the greatest downstream impact. In one example, reducing signup-to-first-project churn could generate 164 additional paywall views compared with 59 from fixing the paywall step itself. Improve early experiences by helping users reach value milestones quickly, since every user lost early reduces the pool available for later conversions and referrals.",
+    "source_email": "tldr_marketing_2026-10-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  }
+]

@@ -250,5 +250,17 @@
     "newsletter": "Marketing",
     "edition_label": "Tuesday the 6th and Wednesday the 7th and Thursday the 8th of October",
     "run_date": "2026-10-09"
+  },
+  {
+    "filename": "tldr_ai_pool_2026-10-13_digest.html",
+    "newsletter": "AI",
+    "edition_label": "Friday the 9th and Monday the 12th of October",
+    "run_date": "2026-10-13"
+  },
+  {
+    "filename": "tldr_marketing_pool_2026-10-13_digest.html",
+    "newsletter": "Marketing",
+    "edition_label": "Friday the 9th and Monday the 12th of October",
+    "run_date": "2026-10-13"
   }
 ]
