@@ -1,0 +1,42 @@
+[
+  {
+    "ref": 16,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "OPENAI EMPLOYEE ARRESTED OVER HIDDEN RECORDING DEVICE (2 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/mVx0nP",
+    "blurb": "OpenAI said it alerted the FBI after finding a hidden recording device in an executive conference room, leading to the firing and arrest of employee Abdulrahman Alfozan. Prosecutors alleged the device was used to covertly intercept conversations, while OpenAI said it found no evidence that model weights, source code, or customer data were accessed.",
+    "source_email": "tldr_ai_2026-10-14_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 25,
+    "section": "MISCELLANEOUS",
+    "heading": "RAMP GLASS (4 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/JHn8L0",
+    "blurb": "Ramp has launched Glass, an AI workspace that shares company knowledge, reusable skills, and collaborative sessions across teams. Employees have made 6,500+ knowledge edits, while model routing cut AI costs by 30% and automated workflows dramatically expanded feature-request tracking.",
+    "source_email": "tldr_ai_2026-10-14_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 33,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "A HYBRID, MULTI-MODEL AI FUTURE (6 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/rEFrxw",
+    "blurb": "Gavin Baker expects open-weight specialist models and frontier systems to coexist behind routers, reducing model margins while increasing compute demand. He argues existing infrastructure commitments remain financeable and warns that excessive concentration or overbuilding poses greater risks.",
+    "source_email": "tldr_ai_2026-10-15_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  },
+  {
+    "ref": 42,
+    "section": "QUICK LINKS",
+    "heading": "HOW NETFLIX KEEPS LARGE GPU JOBS RUNNING (13 MINUTE READ)",
+    "url": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?utm_source=tldrai",
+    "blurb": "Netflix described the infrastructure it uses to detect faulty GPUs and network hardware, automatically remediate unhealthy machines, and keep distributed training jobs alive through hardware failures.",
+    "source_email": "tldr_ai_2026-10-15_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: blocked (CAPTCHA/paywall)"
+  }
+]

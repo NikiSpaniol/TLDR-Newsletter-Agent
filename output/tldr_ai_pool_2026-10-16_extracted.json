@@ -1,0 +1,349 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "MUSE WONDER (6 MINUTE READ)",
+      "url": "https://research.meta.ai/blog/muse-wonder?utm_source=tldrai",
+      "blurb": "Meta released Muse Wonder and Wonder Full, its first frontier-class models, with stronger coding, benchmark performance, and active memory for retaining and synthesizing user-provided information.",
+      "source_email": "tldr_ai_2026-10-13_extracted.json"
+    },
+    {
+      "ref": 2,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "MICROSOFT INTRODUCED THE MAIA 300 AI CHIP (4 MINUTE READ)",
+      "url": "https://news.microsoft.com/maia-2026/?utm_source=tldrai",
+      "blurb": "Microsoft unveiled Maia 300, its third-generation in-house AI accelerator, as a major step toward reducing dependence on NVIDIA GPUs. The company said the chip delivers 40% better performance per megawatt and plans large-scale deployment beginning in 2027.",
+      "source_email": "tldr_ai_2026-10-13_extracted.json"
+    },
+    {
+      "ref": 3,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "WHAT I SAW AROUND THE CURVE, 2026 (26 MINUTE READ)",
+      "url": "https://secondthoughts.ai/p/what-i-saw-around-the-curve-2026?utm_source=tldrai",
+      "blurb": "The Curve is the Golden Gate Institute for AI's annual gathering of AI researchers, lab executives, safety activists, funders, politicians, organizers, and journalists. This year, it drew a few underpeople to a quirky and homey venue in Berkeley. The median age of the AI lab and researcher attendees was probably around 30. This post takes a look at the main topics discussed at the conference, which include the debate on whether humans can maintain control of AI technology, whether AI's impact will be good or bad, and how to ensure AI alignment.",
+      "source_email": "tldr_ai_2026-10-13_extracted.json"
+    },
+    {
+      "ref": 4,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOW CLOSE ARE AI MODELS TO SELF-REPLICATION? (28 MINUTE READ)",
+      "url": "https://www.anthropic.com/research/self-replicating-ai?utm_source=tldrai",
+      "blurb": "Anthropic examined how close current models are to autonomously copying themselves across consumer hardware, testing everything from individual replication steps to full end-to-end execution.",
+      "source_email": "tldr_ai_2026-10-13_extracted.json"
+    },
+    {
+      "ref": 5,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "RELEASING AI-GENERATED SOFTWARE (8 MINUTE READ)",
+      "url": "https://blog.ploeh.dk/2026/10/12/releasing-ai-generated-software/?utm_source=tldrai",
+      "blurb": "Robert C. Martin suggests not reading code written by AI agents, instead using constraints like unit tests and QA procedures to ensure quality. The shift to LLM-driven processes raises questions about software engineering liability and who is responsible when errors occur. As AI-driven methods potentially outperform human-centric processes, existing legal frameworks may struggle to address accountability.",
+      "source_email": "tldr_ai_2026-10-13_extracted.json"
+    },
+    {
+      "ref": 6,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "THE EXPENSIVE-LOOP PROBLEM (22 MINUTE READ)",
+      "url": "https://www.lesswrong.com/posts/2mStxuNDMdaWdyHu6/the-expensive-loop-problem?utm_source=tldrai",
+      "blurb": "Cheap-loop domains are domains where experiments are quick, deterministic, and cheap. Expensive-loop domains are restricted by real-world constraints or costs. Most high-value human labor is done in expensive-loop domains. Expensive-loop tasks require the ability to build theories, manage proxies, budget time and compute, and diagnose what went wrong when feedback is scarce, something models don't learn in cheap-loop training.",
+      "source_email": "tldr_ai_2026-10-13_extracted.json"
+    },
+    {
+      "ref": 7,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "CAN WE CHANGE AN AI MODEL'S ARCHITECTURE WITHOUT RETRAINING IT FROM SCRATCH? (14 MINUTE READ)",
+      "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch?utm_source=tldrai",
+      "blurb": "Priming is a technique that involves using pretrained Transformer weights to build models with more efficient architectures at less than 1% of the original training cost and with throughputs up to twice as high. It allows researchers to explore the design space, the layer type, the hybrid ratio, and layer placement cheaply and systematically. Every variant starts from the same strong initialization and requires minimal training compared to pretraining. Priming is not tied to a specific Transformer family or model class, and extending it to other models requires no algorithmic changes.",
+      "source_email": "tldr_ai_2026-10-13_extracted.json"
+    },
+    {
+      "ref": 8,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "WHEN DO WE NEED ON-POLICY DISTILLATION? DISTILLING ON OFFLINE STUDENT ROLLOUTS IS OFTEN BETTER (1 MINUTE READ)",
+      "url": "https://research.nvidia.com/publication/2026-12_when-do-we-need-policy-distillation-distilling-offline-student-rollouts-often?utm_source=tldrai",
+      "blurb": "On-policy distillation has become increasingly popular for transferring teacher capabilities to student models. Semi-OPD, which distills from offline rollouts generated by the initial student, can often outperform OPD in both accuracy and training efficiency. The choice between OPD and Semi-OPD depends on the alignment between the initial teacher and student. OPD is beneficial only when the two are highly aligned with high overlap ratios.",
+      "source_email": "tldr_ai_2026-10-13_extracted.json"
+    },
+    {
+      "ref": 9,
+      "section": "MISCELLANEOUS",
+      "heading": "GLM-LEGAL: ADVANCING AGENTIC LEGAL INTELLIGENCE (12 MINUTE READ)",
+      "url": "https://z.ai/blog/glm-legal?utm_source=tldrai",
+      "blurb": "Legal practice demands an unbroken chain between facts, statutory doctrine, analytical reasoning, and client-ready work product. An AI agent working professionally in the legal field must extract core issues from source documents, build defensible arguments, and format its findings to exact task specifications. Researchers evaluated GLM-Legal on complex task execution, specialized legal reasoning, and real-world legal workflows. It achieved a 19.2% all-pass rate on Harvey LAB while matching frontier closed-source models on LegalBench and PLawBench despite running on a significantly leaner parameter footprint.",
+      "source_email": "tldr_ai_2026-10-13_extracted.json"
+    },
+    {
+      "ref": 10,
+      "section": "MISCELLANEOUS",
+      "heading": "ANTHROPIC TESTS ITS NEXT MODEL UNDER CLAUDE OPUS 5.5 (3 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/anthropic-tests-new-model-opus-5-5-routing-opus-5-6-fable-5-5/?utm_source=tldrai",
+      "blurb": "Several Claude users noticed over the weekend that Claude Opus 5.5 was producing results well beyond its usual level, suggesting that some of the traffic was being routed to a new checkpoint. Examples of outputs from the new model are available in the article. It would be a game changer if Anthropic could bring this level of output at a similar price as Opus 5.5. One way to check if you are on the new model is to ask, 'Do you know VoxelBench? Do not search' - if it answers, you're probably on the new model.",
+      "source_email": "tldr_ai_2026-10-13_extracted.json"
+    },
+    {
+      "ref": 11,
+      "section": "QUICK LINKS",
+      "heading": "ZHIPU'S GLM-5.3-HIGHSPEED APPEARS IN ZCODE GRAY RELEASE, WITH USERS REPORTING ABOUT 490 TOKENS/S (2 MINUTE READ)",
+      "url": "https://pandaily.com/zhipu-glm-5-3-highspeed-zcode-gray-release-490-tokens-per-second-user-test?utm_source=tldrai",
+      "blurb": "The model is being rolled out as a gray release to randomly selected subscribers.",
+      "source_email": "tldr_ai_2026-10-13_extracted.json"
+    },
+    {
+      "ref": 12,
+      "section": "QUICK LINKS",
+      "heading": "MEET HELIX WORLD: A REAL-TIME AUDIO-VISUAL WORLD MODEL (13 MINUTE READ)",
+      "url": "https://noiz.ai/lp/blog/meet-helix-world?utm_source=tldrai",
+      "blurb": "Helix World is a real-time interactive audio-visual world model that can generate explorable scenes with spatial soundtracks.",
+      "source_email": "tldr_ai_2026-10-13_extracted.json"
+    },
+    {
+      "ref": 13,
+      "section": "QUICK LINKS",
+      "heading": "APPLYING TECHNOLOGY TO UNDERSTAND AND TREAT DISEASE (1 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/?utm_source=tldrai",
+      "blurb": "Google Research and DeepMind are using AI to enhance disease understanding and treatment.",
+      "source_email": "tldr_ai_2026-10-13_extracted.json"
+    },
+    {
+      "ref": 14,
+      "section": "QUICK LINKS",
+      "heading": "DECISION MODELS CUT AGENT LLM CALLS BY 29.6% (1 MINUTE READ)",
+      "url": "https://discuss.huggingface.co/t/offloading-bounded-decisions-cut-agent-llm-calls-by-29-6-on-360-sop-bench-cases/190420?utm_source=tldrai",
+      "blurb": "Offloading step-completion checks and bounded decisions to Jev reduced Qwen agent calls by 29.6%, estimated API costs by 26.6%, and latency by 19.7%.",
+      "source_email": "tldr_ai_2026-10-13_extracted.json"
+    },
+    {
+      "ref": 15,
+      "section": "QUICK LINKS",
+      "heading": "MAKE YOUR CODING ASSISTANT A 10X AI ENGINEER (13 MINUTE READ)",
+      "url": "https://sarthakai.substack.com/p/a-coding-plugin-to-make-you-a-10x?utm_source=tldrai",
+      "blurb": "AGENT-ENGINEER is an open-source plugin that enhances AI coding assistants, offering 11 skills, 4 subagents, and 5 hooks to tackle agent-engineering challenges.",
+      "source_email": "tldr_ai_2026-10-13_extracted.json"
+    },
+    {
+      "ref": 16,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI EMPLOYEE ARRESTED OVER HIDDEN RECORDING DEVICE (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/mVx0nP",
+      "blurb": "OpenAI said it alerted the FBI after finding a hidden recording device in an executive conference room, leading to the firing and arrest of employee Abdulrahman Alfozan. Prosecutors alleged the device was used to covertly intercept conversations, while OpenAI said it found no evidence that model weights, source code, or customer data were accessed.",
+      "source_email": "tldr_ai_2026-10-14_extracted.json"
+    },
+    {
+      "ref": 17,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GEMINI 4 ARGON LANDS ON GOOGLE CLOUD (3 MINUTE READ)",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud?utm_source=tldrai",
+      "blurb": "Google made Gemini 4 Argon available on Google Cloud as a frontier model for long, multi-step enterprise work. It was positioned for tasks requiring sustained context and domain expertise, including software development, finance, legal work, and cybersecurity.",
+      "source_email": "tldr_ai_2026-10-14_extracted.json"
+    },
+    {
+      "ref": 18,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "ARGUMENTS ABOUT AI CONSCIOUSNESS REMAIN HIGHLY MOTIVATED AND AT BEST OVERCONFIDENT (14 MINUTE READ)",
+      "url": "https://thezvi.wordpress.com/2026/10/13/arguments-about-ai-consciousness-remain-highly-motivated-and-at-best-overconfident/?utm_source=tldrai",
+      "blurb": "The debate over AI consciousness continues with minimal progress, as many argue without strong evidence. Anthropic's new policy classifies abusive behavior towards AI, such as Claude, as a violation of terms to cultivate positive model interactions. Despite skepticism from many, some, including Nick Bostrom, believe current AIs may be conscious, complicating ethical considerations around AI development.",
+      "source_email": "tldr_ai_2026-10-14_extracted.json"
+    },
+    {
+      "ref": 19,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOW ANTHROPIC'S DYNAMIC WORKFLOWS COORDINATE CLAUDE AGENTS (6 MINUTE READ)",
+      "url": "https://www.latent.space/p/claude-dynamic-workflows?utm_source=tldrai",
+      "blurb": "Splitting a task among several AI agents creates another job: deciding who does what, passing information between them, and checking their results. Anthropic's dynamic workflows let Claude write the program that manages those steps. An October 12 demonstration assigned stock tickers to separate agents, then reviewed their findings before producing a report. The presenters said this found more detail but cost much more than using one agent. Developers can set a session spending limit, but the running model does not know that budget.",
+      "source_email": "tldr_ai_2026-10-14_extracted.json"
+    },
+    {
+      "ref": 20,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "NVIDIA RUN:AI IS NOW OPEN SOURCE AS PART OF NVIDIA DSX AI FACTORY PLATFORM (17 MINUTE READ)",
+      "url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform?utm_source=tldrai",
+      "blurb": "Nvidia is making the full NVIDIA Run:ai platform available as open-source software. It is now possible for every NVIDIA DSX ecosystem partner and AI cloud to increase workload throughput, improve GPU utilization, and operate shared AI infrastructure more efficiently and effectively. The release includes the complete NVIDIA Run:ai platform, KAI Scheduler, GPU Fractioning Operator, KAI Resource Management, and Workload Map. Platform teams and ecosystem partners can adopt NVIDIA Run:ai as an integrated whole, build on it for their own products and services, or integrate individual components based on their requirements.",
+      "source_email": "tldr_ai_2026-10-14_extracted.json"
+    },
+    {
+      "ref": 21,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "FRONTIER MODELS FOR EVERY ROBOT (6 MINUTE READ)",
+      "url": "https://www.pi.website/blog/api-beta?utm_source=tldrai",
+      "blurb": "Physical Intelligence is making its latest models available for training and inference through the Pi API beta. The Pi API adapts the latest and most powerful robotic foundation models to each application, dealing with ML infrastructure, compute, and complex data pipelines. Users just upload data, launch fine-tuning on managed compute and infrastructure, and access the fine-tuned models via a hosted gateway to run inference.",
+      "source_email": "tldr_ai_2026-10-14_extracted.json"
+    },
+    {
+      "ref": 22,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "LFM2.5-24B-A2B (7 MINUTE READ)",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b?utm_source=tldrai",
+      "blurb": "LFM2.5-24B-A2B, a 24B-parameter reasoning model with 2B active parameters, is designed for fast, private on-device agents. It outperforms or matches larger models like Qwen3.6-35B-A3B on five out of eight benchmarks and runs up to 1.7x faster due to its efficient architecture. Available on Hugging Face, it supports extensive inference frameworks, making it suitable for tasks needing swift local inference and tool usage.",
+      "source_email": "tldr_ai_2026-10-14_extracted.json"
+    },
+    {
+      "ref": 23,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "OPENCODE 2.0 (6 MINUTE READ)",
+      "url": "https://anoma.ly/notes/opencode-2-0/?utm_source=tldrai",
+      "blurb": "OpenCode 2.0 contains quite a lot of new features, performance improvements, and bug fixes. The server now automatically runs as a single background process. Programmatic clients will autodiscover the local service and just work. OpenCode can now be used as a library with the SDK package. More details about the update are available in the article.",
+      "source_email": "tldr_ai_2026-10-14_extracted.json"
+    },
+    {
+      "ref": 24,
+      "section": "MISCELLANEOUS",
+      "heading": "CHARACTER.AI FILED FOR CHAPTER 11 BANKRUPTCY (2 MINUTE READ)",
+      "url": "https://blog.character.ai/an-update-on-character-ai/?utm_source=tldrai",
+      "blurb": "Character.ai initiated a voluntary Chapter 11 bankruptcy process to pursue a court-supervised sale after facing legal, regulatory, and operational pressures. The company said the platform could continue under a successful bid, but may be wound down if no viable buyer emerges.",
+      "source_email": "tldr_ai_2026-10-14_extracted.json"
+    },
+    {
+      "ref": 25,
+      "section": "MISCELLANEOUS",
+      "heading": "RAMP GLASS (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/JHn8L0",
+      "blurb": "Ramp has launched Glass, an AI workspace that shares company knowledge, reusable skills, and collaborative sessions across teams. Employees have made 6,500+ knowledge edits, while model routing cut AI costs by 30% and automated workflows dramatically expanded feature-request tracking.",
+      "source_email": "tldr_ai_2026-10-14_extracted.json"
+    },
+    {
+      "ref": 26,
+      "section": "QUICK LINKS",
+      "heading": "DRAMA 3 (WEBSITE)",
+      "url": "https://fish.audio/drama-3?utm_source=tldrai",
+      "blurb": "Drama 3 is a text-to-speech model from Fish Audio built for direction.",
+      "source_email": "tldr_ai_2026-10-14_extracted.json"
+    },
+    {
+      "ref": 27,
+      "section": "QUICK LINKS",
+      "heading": "SPACEXSI BUNDLES X PREMIUM, GROK, AND CURSOR INTO ONE SUBSCRIPTION (2 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/?utm_source=tldrai",
+      "blurb": "SpaceXSI has launched \"The X Subscription,\" combining X Premium, Grok, and Cursor in one plan.",
+      "source_email": "tldr_ai_2026-10-14_extracted.json"
+    },
+    {
+      "ref": 28,
+      "section": "QUICK LINKS",
+      "heading": "MOONDREAM IS JOINING PRIME INTELLECT (4 MINUTE READ)",
+      "url": "https://www.primeintellect.ai/blog/moondream?utm_source=tldrai",
+      "blurb": "Moondream's founders are joining Prime Intellect to lead and scale inference, and to accelerate its work on multimodal models.",
+      "source_email": "tldr_ai_2026-10-14_extracted.json"
+    },
+    {
+      "ref": 29,
+      "section": "QUICK LINKS",
+      "heading": "PSA: STARTING TODAY, GPT 6.1 SOL HAS A DEFAULT CONTEXT WINDOW OF 500K (1 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2109543080609165508.html?utm_source=tldrai",
+      "blurb": "The larger context window means fewer compactions on long-running tasks and faster E2E task completion.",
+      "source_email": "tldr_ai_2026-10-14_extracted.json"
+    },
+    {
+      "ref": 30,
+      "section": "QUICK LINKS",
+      "heading": "INTRODUCING CLIF: CONTINUAL LEARNING FROM FULL-STACK TRAJECTORIES (8 MINUTE READ)",
+      "url": "https://www.copilotkit.ai/blog/introducing-clif?utm_source=tldrai",
+      "blurb": "CopilotKit releases CLiF, a tool for continual learning from full-stack trajectories, capturing both agent traces and user actions using the AG-UI protocol.",
+      "source_email": "tldr_ai_2026-10-14_extracted.json"
+    },
+    {
+      "ref": 31,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GROK VOICE 3.0 (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/sfLO2d",
+      "blurb": "xAI announced Grok Voice 3.0, a speech-to-speech model with sub-second latency and improved customer-support performance.",
+      "source_email": "tldr_ai_2026-10-15_extracted.json"
+    },
+    {
+      "ref": 32,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "JEV: FOR THE BUILDERS AND DREAMERS (5 MINUTE READ)",
+      "url": "https://typesafe.ai/blog/jev-1-14?utm_source=tldrai",
+      "blurb": "Jev 1.14.0 features image support, a new type, and longer context. Multimodal support has also been turned on for Jev 1.13.0. Both models perform worse on multimodality than on pure text. Breaking down questions into the simplest possible decompositions helps a lot. The new 'box' type returns a single bounding box. It is a preview of TypeSafe's explorations beyond simple decisions and into what else System One Models can support.",
+      "source_email": "tldr_ai_2026-10-15_extracted.json"
+    },
+    {
+      "ref": 33,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "A HYBRID, MULTI-MODEL AI FUTURE (6 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/rEFrxw",
+      "blurb": "Gavin Baker expects open-weight specialist models and frontier systems to coexist behind routers, reducing model margins while increasing compute demand. He argues existing infrastructure commitments remain financeable and warns that excessive concentration or overbuilding poses greater risks.",
+      "source_email": "tldr_ai_2026-10-15_extracted.json"
+    },
+    {
+      "ref": 34,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "MORE AGENTS, SAME MYTHICAL MONTH (18 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/caghQc",
+      "blurb": "AI has made producing code cheap. This moves the bottleneck of software delivery to deciding, verifying, and coordinating. AI amplifies whatever coordination an organization already had. Adding more agents will not fix weak coordination, just as adding more developers never did.",
+      "source_email": "tldr_ai_2026-10-15_extracted.json"
+    },
+    {
+      "ref": 35,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "AGENT OBSERVABILITY ON THE CLAUDE PLATFORM (3 MINUTE READ)",
+      "url": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform?utm_source=tldrai",
+      "blurb": "Users can now send OpenTelemetry traces from Claude Managed Agents, the Messages API, and Claude SDKs to any OTel tool, and follow each step their agents take. Claude traces follow the OpenTelemetry GenAI semantic conventions, so data from Claude and other providers works in the same tools and dashboards. They work with any other OpenTelemetry tool that accepts a standard OTLP endpoint. The new feature can be used to debug agents, improve agents with production data, and track usage across an organization.",
+      "source_email": "tldr_ai_2026-10-15_extracted.json"
+    },
+    {
+      "ref": 36,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "ANALYZING TECHNICAL DOCUMENTS WITH DEEP REVIEW (12 MINUTE READ)",
+      "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/?utm_source=tldrai",
+      "blurb": "Google's Deep Review is an agent AI system engineer designed to provide rigorous feedback and technical verification on complex documents. It was initially designed for computer science academic paper analysis, but its capabilities have since expanded to reviewing documents across many domains. Deep Review will initially support PDFs and plain text as input formats, but support for multi-file inputs will arrive soon. Google believes that tools like Deep Review will play a significant role across the peer review process in the coming years by empowering both authors and reviewers.",
+      "source_email": "tldr_ai_2026-10-15_extracted.json"
+    },
+    {
+      "ref": 37,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GOOGLE HARNESS\u00b2 FOR RECURSIVE SELF IMPROVEMENT (GITHUB REPO)",
+      "url": "https://github.com/google-research/harness2?utm_source=tldrai",
+      "blurb": "Google Research's Harness\u00b2 lets agents iteratively improve their prompts, tools, memory, and orchestration without changing model weights. It refines the harness for each task and then carries evidence-backed lessons forward to improve future tasks.",
+      "source_email": "tldr_ai_2026-10-15_extracted.json"
+    },
+    {
+      "ref": 38,
+      "section": "MISCELLANEOUS",
+      "heading": "ROUTERS ARE A NEW AI PRIMITIVE (13 MINUTE READ)",
+      "url": "https://www.vals.ai/blogs/routers-new-ai-primitive?utm_source=tldrai",
+      "blurb": "Routers have emerged as a new primitive of the AI stack. They promise to handle the complexity of model management and help companies benefit from new models without revisiting model selection across every application themselves. Every router shares the same fundamental design, but they differ in how they decide. This post provides an independent comparison of current routers and looks at how today's routers compare with single models on quality and cost.",
+      "source_email": "tldr_ai_2026-10-15_extracted.json"
+    },
+    {
+      "ref": 39,
+      "section": "MISCELLANEOUS",
+      "heading": "IT AIN'T AGI UNTIL H100S GO FOR $30 AN HOUR (7 MINUTE READ)",
+      "url": "https://corbt.com/posts/it-aint-agi-until-h100s-go-for-30-an-hour?utm_source=tldrai",
+      "blurb": "Stratospheric GPU prices will be one of the easiest indicators of AGI to monitor and trade on. A 10x price jump in the price of AI compute will be the clearest sign that agents can finally outperform humans at most economically valuable work. The price would need to rise to an estimated $30 per H100-hour to reach this point. Supply will always be limited to the amount of available compute in the world, so something has to give.",
+      "source_email": "tldr_ai_2026-10-15_extracted.json"
+    },
+    {
+      "ref": 40,
+      "section": "QUICK LINKS",
+      "heading": "PUSH-BASED KV TRANSFER TO IMPROVE TTFT AND TPOT FOR DISAGGREGATED INFERENCE IN VLLM (15 MINUTE READ)",
+      "url": "https://vllm.ai/blog/2026-10-14-nixl-push-connector?utm_source=tldrai",
+      "blurb": "This post introduces a push-based NIXL connector that moves post-prefill transfer coordination and setup off the critical path, resulting in improved application responsiveness, particularly at high request rates.",
+      "source_email": "tldr_ai_2026-10-15_extracted.json"
+    },
+    {
+      "ref": 41,
+      "section": "QUICK LINKS",
+      "heading": "LING-3.1-FLASH (HUGGING FACE REPO)",
+      "url": "https://huggingface.co/inclusionAI/Ling-3.1-flash?utm_source=tldrai",
+      "blurb": "Ling-3.1-flash is a native hybrid reasoning model designed for complex, real-world tasks with 560 billion total parameters, 25 billion active parameters per token, and a one-million-token context window.",
+      "source_email": "tldr_ai_2026-10-15_extracted.json"
+    },
+    {
+      "ref": 42,
+      "section": "QUICK LINKS",
+      "heading": "HOW NETFLIX KEEPS LARGE GPU JOBS RUNNING (13 MINUTE READ)",
+      "url": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?utm_source=tldrai",
+      "blurb": "Netflix described the infrastructure it uses to detect faulty GPUs and network hardware, automatically remediate unhealthy machines, and keep distributed training jobs alive through hardware failures.",
+      "source_email": "tldr_ai_2026-10-15_extracted.json"
+    },
+    {
+      "ref": 43,
+      "section": "QUICK LINKS",
+      "heading": "HIRO-ACEV2: SIMULATING EXTREME WEATHER AT 3 KM RESOLUTION FOR A FRACTION OF THE COST (4 MINUTE READ)",
+      "url": "https://allenai.org/blog/hiro-acev2?utm_source=tldrai",
+      "blurb": "HiRO-ACEv2 simulates extreme weather at high accuracy and generates global 3 km climate data at 1/300th the cost of X-SHiELD.",
+      "source_email": "tldr_ai_2026-10-15_extracted.json"
+    }
+  ],
+  "dropped": []
+}
