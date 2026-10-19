@@ -274,5 +274,17 @@
     "newsletter": "Marketing",
     "edition_label": "Tuesday the 13th and Wednesday the 14th and Thursday the 15th of October",
     "run_date": "2026-10-16"
+  },
+  {
+    "filename": "tldr_ai_pool_2026-10-20_digest.html",
+    "newsletter": "AI",
+    "edition_label": "Friday the 16th of October",
+    "run_date": "2026-10-20"
+  },
+  {
+    "filename": "tldr_marketing_pool_2026-10-20_digest.html",
+    "newsletter": "Marketing",
+    "edition_label": "Friday the 16th and Monday the 19th of October",
+    "run_date": "2026-10-20"
   }
 ]

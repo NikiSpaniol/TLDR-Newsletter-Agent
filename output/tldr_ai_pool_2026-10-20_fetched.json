@@ -1,0 +1,285 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "MUSE SPARK OPEN (4 MINUTE READ)",
+      "url": "https://research.meta.ai/blog/muse-spark-open?utm_source=tldrai",
+      "blurb": "Muse Spark Open is an 816B-parameter multimodal open-weight model with 42B active parameters and a 1M-token context window. It was designed for coding and long-horizon agentic tasks and can run locally across two Apple M5 Ultra Mac Studios using MLX.",
+      "source_email": "tldr_ai_2026-10-16_extracted.json",
+      "article_text": "Title: Introducing Muse Spark Open, The Most Capable US Open\u2011Weight Model to Date\n\nURL Source: https://research.meta.ai/blog/muse-spark-open\n\nPublished Time: 2026-10-15T00:00:00.000Z\n\nMarkdown Content:\nMuse Spark Open is available today and brings leading agentic capabilities to your desktop for the first time on Apple M5 Ultra Mac Studios.\n\nToday, we\u2019re releasing the weights for Muse Spark Open, the most capable US open-weight model to date. Muse Spark Open is a natively multimodal model with 816B total parameters (42B active) and a 1M-token context window. Built for coding and agentic work, it excels at long-horizon tasks, complex software engineering, and multi-step reasoning.\n\nWe believe the [future is for everyone](https://www.meta.com/thefutureisforeveryone/), and that includes the freedom to run advanced models wherever, including at home. Muse Spark Open is the first model in its class to run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\n\nMuse Spark Open is available today through API platforms at Baseten, Fireworks AI, Groq, Modal, Nebius, OpenRouter and Together AI. Model weights are available for download on Amazon SageMaker AI, Google Cloud Model Garden, Hugging Face, and Microsoft Foundry Models.\n\nIt runs on leading inference engines like SGLang, vLLM, TensorRT-LLM, Hugging Face Transformers, Apple MLX, llama.cpp, and Unsloth with optimizations for AMD, Apple, Intel, and NVIDIA silicon. Developers can easily further customize the model using the PyTorch framework.\n\n## Key Benchmarks\n\nFor more details about our evaluations, see the [evaluation methodology report](https://research.meta.ai/static/muse-spark-open-evaluation-methodology).\n\n## Optimized for Apple Silicon\n\nLeveraging the latest version of MLX, Muse Spark Open was optimized to run on Mac Studio with M5 Ultra, and together they\u2019re the best way to run a powerful model on your own desktop.\n\nApple\u2019s unified memory architecture lets the M5 Ultra's integrated GPU use up to 512 GB per Mac Studio, so two machines can hold an entire model. And the chip\u2019s 1.2 TB/s of memory bandwidth is fast enough to read the small slice each token needs. The result is two Mac Studios behave like one supercomputer with a terabyte of unified memory.\n\nWe tested a range of agentic workflows running entirely on-device, using Muse Code powered by Muse Spark Open, including shipping real iOS changes to Ice Cubes (an open-source Mastodon client) \u2014 bug fixes, new features, full build \u2014 and driving DaVinci Resolve end to end, with the model reviewing footage frame by frame to find the strongest moments and crop them vertically.\n\n## Available Now\n\nWe\u2019re sharing this work because we want everyone to have access to the best models. The open-weight version of Muse Spark ships with custom, auto-tunable Helion GPU kernels in SGLang, delivering 1.03-3.95\u00d7 kernel-level speedups on NVIDIA and AMD GPUs, and a 3% end-to-end speedup on AMD MI350.\n\n## Safety and Preparedness\n\nReleasing open-weight models is part of how we bring the benefits of personal superintelligence to everyone, and part of how safety work advances across the field.\n\nOpen weights also carry their own [considerations](https://research.meta.ai/blog/developing-capable-models-responsibly), and Muse Spark Open has additional safety post-training for that reason. The results demonstrate strong safeguards across risk categories measured.\n\nWe evaluated the model in line with our [Meta Superintelligence Scaling Framework](https://research.meta.ai/blog/developing-capable-models-responsibly), covering the most severe risks, and it met the thresholds our framework requires for release. Detailed results are in the [Muse Spark Open model card](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B), with a full evaluation report available soon.\n\n## License\n\nWe\u2019re releasing the weights under the Muse Model License with limited commercial terms, which allow many developers to use the model for free.\n\n## Get Started\n\nYou can customize Muse Spark Open for your use case by leveraging PyTorch\u2019s TorchTitan to further tune the model. To run it on Apple silicon, use MLX, which pulls the weights directly from Hugging Face.\n\nMuse Spark Open is available now through Hugging Face: [https://huggingface.co/collections/meta-models/muse-spark-open](https://huggingface.co/collections/meta-models/muse-spark-open)\n\n[MLX Adapter](https://github.com/ml-explore/mlx-lm) for running Muse Spark Open on Mac Studio.\n\nHosted Inference Partners: Together AI, Fireworks, Baseten, Modal, Groq, Nebius, and OpenRouter.\n\nBuilt or published something with Muse Spark Open? Share with us on the [Hugging Face Forums](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B/discussions) \u2014 we\u2019d love to see what you create.\n",
+      "fetch_status": "ok"
+    },
+    {
+      "ref": 2,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INSIDE MICROSOFT'S FRONTIER PRE-TRAINING STACK (18 MINUTE READ)",
+      "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/?utm_source=tldrai",
+      "blurb": "Microsoft detailed the training of MAI-Base-2, a 2.8T-parameter mixture-of-experts model with 80B active parameters that it said surpassed every open-weight model in its held-out pre-training evaluations. The deep dive covers its data strategy, compute efficiency, full-stack infrastructure, and Microsoft's plans to turn internally trained frontier models into enterprise offerings through Foundry.",
+      "source_email": "tldr_ai_2026-10-16_extracted.json",
+      "article_text": "Title: Frontier Pre-training at Microsoft AI | Microsoft AI\n\nURL Source: https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/\n\nPublished Time: Mon, 19 Oct 2026 21:52:28 GMT\n\nMarkdown Content:\n[Skip to main content](https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/#main-content)\n\n[![Image 1: Microsoft](https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png)](https://www.microsoft.com/)\n\n[Source](https://news.microsoft.com/source)\n\nOur Company \n\n[Signal blog](https://news.microsoft.com/signal/)[Official Microsoft Blog](https://blogs.microsoft.com/)[Command Line](https://commandline.microsoft.com/)[Microsoft On The Issues](https://blogs.microsoft.com/on-the-issues/)[Asia](https://news.microsoft.com/apac/)[Canada](https://news.microsoft.com/source/canada/)[Europe, Middle East and Africa](https://news.microsoft.com/europe/)[Latin America](https://news.microsoft.com/es-xl/)[The Code of Us](https://news.microsoft.com/codeofus)\n\n[What's new](https://news.microsoft.com/signal/)[AI](https://news.microsoft.com/source/topics/ai/)[Innovation](https://news.microsoft.com/source/topics/innovation/)[Digital Transformation](https://news.microsoft.com/source/topics/digital-transformation/)[Sustainability](https://news.microsoft.com/source/topics/sustainability/)[Security](https://news.microsoft.com/source/topics/security/)[Work & Life](https://news.microsoft.com/source/topics/work-life/)[Diversity & Inclusion](https://news.microsoft.com/source/topics/diversity-inclusion/)[Unlocked](https://unlocked.microsoft.com/)\n\nMore \n\nOur Company[Signal blog](https://news.microsoft.com/signal/)[Official Microsoft Blog](https://blogs.microsoft.com/)[Command Line](https://commandline.microsoft.com/)[Microsoft On The Issues](https://blogs.microsoft.com/on-the-issues/)[Asia](https://news.microsoft.com/apac/)[Canada](https://news.microsoft.com/source/canada/)[Europe, Middle East and Africa](https://news.microsoft.com/europe/)[Latin America](https://news.microsoft.com/es-xl/)[The Code of Us](https://news.microsoft.com/codeofus)\n\n[What's new](https://news.microsoft.com/signal/)[AI](https://news.microsoft.com/source/topics/ai/)[Innovation](https://news.microsoft.com/source/topics/innovation/)[Digital Transformation](https://news.microsoft.com/source/topics/digital-transformation/)[Sustainability](https://news.microsoft.com/source/topics/sustainability/)[Security](https://news.microsoft.com/source/topics/security/)[Work & Life](https://news.microsoft.com/source/topics/work-life/)[Diversity & Inclusion](https://news.microsoft.com/source/topics/diversity-inclusion/)[Unlocked](https://unlocked.microsoft.com/)\n\nAll Microsoft \n*   [Microsoft 365](https://www.microsoft.com/microsoft-365)\n*   [Azure](https://azure.microsoft.com/en-us?ocid=cmm4r4ppnhp)\n*   [Copilot](https://copilot.com/?fromcode=cmmuaql67jy)\n*   [Windows](https://www.microsoft.com/en-us/windows/)\n*   [Surface](https://www.microsoft.com/surface)\n*   [XBOX](https://www.xbox.com/)\n*   [Deals](https://www.microsoft.com/en-us/store/b/sale?icid=DSM_TopNavDeals)\n*   [Small Business](https://www.microsoft.com/en-us/store/b/business)\n*   [Support](https://support.microsoft.com/en-us)\n\nSoftware\n\n*   [Windows Apps](https://apps.microsoft.com/home)\n*   [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook)\n*   [OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage)\n*   [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)\n*   [OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app)\n*   [Microsoft Edge](https://www.microsoft.com/edge)\n*   [Moving from Skype to Teams](https://support.microsoft.com/en-us/office/moving-from-skype-to-microsoft-teams-free-3c0caa26-d9db-4179-bcb3-930ae2c87570?icid=DSM_All_Skype)\n\nPCs & Devices \n\n*   [Computers](https://www.microsoft.com/en-us/store/b/pc?icid=CNavDevicesPC)\n*   [Shop XBOX](https://www.microsoft.com/en-us/store/b/xbox?icid=DSM_All_ShopXbox)\n*   [Accessories](https://www.microsoft.com/en-us/store/b/accessories?icid=CNavDevicesAccessories)\n*   [VR & mixed reality](https://www.microsoft.com/en-us/store/b/virtualreality?icid=CNavVirtualReality)\n*   [Certified Refurbished](https://www.microsoft.com/en-us/store/b/certified-refurbished-products)\n*   [Trade-in for cash](https://www.microsoft.com/en-us/store/b/microsoft-trade-in)\n\nEntertainment\n\n*   [XBOX Game Pass Ultimate](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?icid=DSM_All_XboxGamePassUltimate)\n*   [PC Game Pass](https://www.xbox.com/en-us/games/store/pc-game-pass/cfq7ttc0kgq8?icid=CNavAllPCGamePass)\n*   [XBOX games](https://www.microsoft.com/en-us/store/b/xboxgames?icid=DSM_All_XboxGames)\n*   [PC games](https://apps.microsoft.com/games)\n\nBusiness\n\n*   [Microsoft AI](https://www.microsoft.com/en-us/ai?icid=DSM_All_AI)\n*   [Microsoft Security](https://www.microsoft.com/en-us/security)\n*   [Dynamics 365](https://www.microsoft.com/en-us/dynamics-365)\n*   [Microsoft 365 for business](https://www.microsoft.com/en-us/microsoft-365/business)\n*   [Microsoft Power Platform](https://www.microsoft.com/en-us/power-platform)\n*   [Windows 365](https://www.microsoft.com/en-us/windows-365)\n*   [Small Business](https://www.microsoft.com/en-us/store/b/business?icid=CNavBusinessStore)\n*   [Digital Sovereignty](https://www.microsoft.com/en-us/sovereignty?icid=DSM_More_Sovereignty)\n\nDeveloper & IT \n\n*   [Azure](https://azure.microsoft.com/en-us/)\n*   [Microsoft Developer](https://developer.microsoft.com/en-us/)\n*   [Microsoft Learn](https://learn.microsoft.com/)\n*   [Support for AI marketplace apps](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_All_SupportAIMarketplace&ocid=cmm3atxvn98)\n*   [Microsoft Tech Community](https://techcommunity.microsoft.com/)\n*   [Microsoft Marketplace](https://marketplace.microsoft.com/?icid=DSM_All_Marketplace&ocid=cmm3atxvn98)\n*   [Software companies](https://www.microsoft.com/software-development-companies?icid=DSM_All_SoftwareCompanies&ocid=cmm3atxvn98)\n*   [Visual Studio](https://visualstudio.microsoft.com/)\n\nOther\n\n*   [Microsoft Rewards](https://www.microsoft.com/rewards)\n*   [Free downloads & security](https://www.microsoft.com/en-us/download)\n*   [Education](https://www.microsoft.com/en-us/education)\n*   [Gift cards](https://www.microsoft.com/en-us/store/b/gift-cards?icid=DSM_All_GiftCards)\n*   [Licensing](https://www.microsoft.com/licensing/)\n*   [Unlocked stories](https://unlocked.microsoft.com/)\n\n[View Sitemap](https://www.microsoft.com/en-us/sitemap)\n\nCancel \n\nSearch\n\n[](https://microsoft.ai/)\n\n*   [Models](https://microsoft.ai/models/ \"Models\") ## Latest models\n\nDiscover the latest MAI models, designed for real-world intelligence\n\n[![Image 2: Two large watercolor curly brackets face each other on a white background. The left bracket is blue and green, while the right bracket is pink and orange.](https://microsoft.ai/wp-content/uploads/2026/05/code-2.png) ### MAI-Code-1.1-Flash](https://microsoft.ai/models/mai-code-1-flash/)[![Image 3: Two watercolor speech bubbles overlapping on a light background; one bubble is pink and yellow, the other is green.](https://microsoft.ai/wp-content/uploads/2026/05/MAI_Voice-5-1.png) ### MAI-Voice-2.1](https://microsoft.ai/models/mai-voice-2-1/)[![Image 4: A watercolor illustration of a soundwave with soft, overlapping peaks in green, pink, and yellow tones on a light gray background.](https://microsoft.ai/wp-content/uploads/2026/05/transcribe-1.png) ### MAI-Transcribe-2](https://microsoft.ai/models/mai-transcribe-2/)[![Image 5: A watercolor illustration of a thought bubble made up of overlapping pastel circles in pink, yellow, green, and blue, set against a light gray background.](https://microsoft.ai/wp-content/uploads/2026/05/thinking-1.png) ### MAI-Thinking-1](https://microsoft.ai/models/mai-thinking-1/)[![Image 6: Watercolor illustration of two flowers with green stems and leaves. The petals are painted in shades of pink, yellow, orange, and green, set against a plain white background.](https://microsoft.ai/wp-content/uploads/2026/05/image-5.png) ### MAI-Image-2.6](https://microsoft.ai/models/mai-image-2-6/)  [All models](https://microsoft.ai/models/ \"All models\")  ![Image 7: Two large watercolor curly brackets face each other on a white background. The left bracket is blue and green, while the right bracket is pink and orange.](https://microsoft.ai/wp-content/uploads/2026/05/code-2.png) \n## [MAI-Code-1.1-Flash](https://microsoft.ai/models/mai-code-1-flash/)\n\nHelps your engineering team write better code faster, with a lightweight, agentic model built into GitHub Copilot and VS Code. ![Image 8: Two watercolor speech bubbles overlapping on a light background; one bubble is pink and yellow, the other is green.](https://microsoft.ai/wp-content/uploads/2026/05/MAI_Voice-5-1.png) \n## [MAI-Voice-2.1](https://microsoft.ai/models/mai-voice-2-1/)\n\nDelivers expressive, low-latency speech that holds up across long generations. ![Image 9: A watercolor illustration of a soundwave with soft, overlapping peaks in green, pink, and yellow tones on a light gray background.](https://microsoft.ai/wp-content/uploads/2026/05/transcribe-1.png) \n## [MAI-Transcribe-2](https://microsoft.ai/models/mai-transcribe-2/)\n\nTurn noisy audio into precise, domain-specific transcripts, with leading FLEURS and Artificial Analysis accuracy scores. ![Image 10: A watercolor illustration of a thought bubble made up of overlapping pastel circles in pink, yellow, green, and blue, set against a light gray background.](https://microsoft.ai/wp-content/uploads/2026/05/thinking-1.png) \n## [MAI-Thinking-1](https://microsoft.ai/models/mai-thinking-1/)\n\nBuilt for the complex problems that matter most, with competitive reasoning and top SWE-Bench Pro results at a mid-weight price. ![Image 11: Watercolor illustration of two flowers with green stems and leaves. The petals are painted in shades of pink, yellow, orange, and green, set against a plain white background.](https://microsoft.ai/wp-content/uploads/2026/05/image-5.png) \n## [MAI-Image-2.6](https://microsoft.ai/models/mai-image-2-6/)\n\nCreate stunning, design-ready images from any text or photo prompt, with best-in-class Arena ELO scores at a lower price.     \n*   [Blog](https://microsoft.ai/blog/ \"Blog\") ## Featured stories\n\nThe latest breakthroughs and updates from within our team\n\n  ![Image 12: A digital illustration of textured pink and orange clouds against a blue sky.](https://microsoft.ai/wp-content/uploads/2026/10/grain_clouds_sunset-1.webp) ## [Frontier Pre-training at Microsoft AI](https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/)\n\n 15 min read     ![Image 13: A large group of light pink commas arranged in a flowing wave pattern against a textured blue background.](https://microsoft.ai/wp-content/uploads/2026/10/quotation_marks_swarm_5664.webp) ## [Our first streaming transcription model debuts at no. 1 on Artificial Analysis](https://microsoft.ai/news/our-first-streaming-transcription-model/)\n\n 5 min read     ![Image 14: Illustration of two rows of diverse people walking sideways, each wearing colorful, stylish clothing against a light blue background.](https://microsoft.ai/wp-content/uploads/2026/09/Humanist_AI_v1_BLUE.webp) ## [Humanist AI in practice: A public consultation on our Code of Conduct for MAI Models](https://microsoft.ai/news/mai-code-of-conduct/)\n\n 6 min read      [All stories](https://microsoft.ai/blog/ \"All stories\")   \n*   [Careers](https://microsoft.ai/careers/ \"Careers\") \n*   [Code of Conduct](https://microsoft.ai/code-of-conduct/ \"Code of Conduct\") \n\n[THE HUMANIST REVIEW OF AI](https://humanistreview.ai/ \"THE HUMANIST REVIEW OF AI\")\n\n[THE HUMANIST REVIEW OF AI](https://humanistreview.ai/ \"THE HUMANIST REVIEW OF AI\")\n\n*   [Contact](https://support.microsoft.com/contactus)\n*   [Privacy & Cookies](https://www.microsoft.com/en-us/privacy/privacystatement)\n*   [Terms](https://www.microsoft.com/en-us/legal/terms-of-use)\n*   [Trademarks](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks)\n*   [Microsoft.com](https://www.microsoft.com/)\n\n*   [LinkedIn](https://www.linkedin.com/company/microsoft-ai/ \"LinkedIn\")\n*   [Instagram](https://www.instagram.com/microsoftai/ \"Instagram\")\n*   [X](https://www.x.com/MicrosoftAI \"X\")\n\nOff- [x] Accessibility Mode \n\nOff- [x] Accessibility Mode \n\n Lab Notes \n\n# Frontier Pre-training at Microsoft AI\n\nFrontier Pre-training at\n\nMicrosoft AI\n\n October 15, 2026 \n\n Lab Notes \n\n*   [LI](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmicrosoft.ai%2Fnews%2Ffrontier-pre-training-at-microsoft-ai%2F&title=Frontier+Pre-training+at+Microsoft+AI&source=https%3A%2F%2Fmicrosoft.ai%2Fnews%2Ffrontier-pre-training-at-microsoft-ai%2F \"Share on LinkedIn\")\n*   [X](https://x.com/intent/tweet?text=Frontier+Pre-training+at+Microsoft+AI&url=https%3A%2F%2Fmicrosoft.ai%2Fnews%2Ffrontier-pre-training-at-microsoft-ai%2F \"Share on X\")\n*   [FB](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmicrosoft.ai%2Fnews%2Ffrontier-pre-training-at-microsoft-ai%2F \"Share on Facebook\")\n\n[Download the PDF](https://microsoft.ai/pdf/Frontier-Pre-training-at-Microsoft-AI.pdf?v=2)\n\nIn June, we announced [MAI-Thinking-1](https://microsoft.ai/wp-content/uploads/2026/06/main_20260602_2.pdf), a general-purpose foundation model post-trained on top of MAI-Base-1 with strong reasoning performance. We\u2019ve recently completed pre-training our new state-of-the-art model, MAI-Base-2, an MoE foundation model with 80 billion active and 2.8 trillion total parameters.\n\nMAI-Base-2 outperforms every open-weight model we tested on our held-out evaluations. It is 4-12x more pre-training FLOPs-efficient than the strongest open base model, DeepSeek-V4-Pro-Base (see Figure 3 below), and we have put that saving into training a larger model.\n\nFigure 1 shows the performance of MAI-Base-2 and other models with at least one trillion total parameters across a range of pre-training evaluations (lower is better).\n\nPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1TZWN1cml0eS1Qb2xpY3kiIGNvbnRlbnQ9ImRlZmF1bHQtc3JjICdub25lJzsgc2NyaXB0LXNyYyAndW5zYWZlLWlubGluZScgJ3Vuc2FmZS1ldmFsJzsgc3R5bGUtc3JjICd1bnNhZmUtaW5saW5lJzsgaW1nLXNyYyBkYXRhOiBibG9iOiBodHRwczovL21pY3Jvc29mdC5haS93cC1jb250ZW50L3VwbG9hZHMvOyBmb250LXNyYyBkYXRhOiBodHRwczovL21pY3Jvc29mdC5haTsgbWVkaWEtc3JjIGRhdGE6IGJsb2I6IGh0dHBzOi8vbWljcm9zb2Z0LmFpL3dwLWNvbnRlbnQvdXBsb2Fkcy87Ij48c3R5bGU+DQpAZm9udC1mYWNle2ZvbnQtZmFtaWx5OiJCcmFkZm9yZCBMTCI7Zm9udC13ZWlnaHQ6NDUwO2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtZGlzcGxheTpzd2FwO3NyYzp1cmwoImh0dHBzOi8vbWljcm9zb2Z0LmFpL3dwLWNvbnRlbnQvdGhlbWVzL3dwLWJhc2UtdGhlbWUvZGlzdC9hc3NldHMvQnJhZGZvcmRMTFdlYi1SZWd1bGFyLUM2U2ppRmM4LndvZmYyIikgZm9ybWF0KCJ3b2ZmMiIpO31AZm9udC1mYWNle2ZvbnQtZmFtaWx5OiJCcmFkZm9yZCBMTCI7Zm9udC13ZWlnaHQ6NDUwO2ZvbnQtc3R5bGU6aXRhbGljO2ZvbnQtZGlzcGxheTpzd2FwO3NyYzp1cmwoImh0dHBzOi8vbWljcm9zb2Z0LmFpL3dwLWNvbnRlbnQvdGhlbWVzL3dwLWJhc2UtdGhlbWUvZGlzdC9hc3NldHMvQnJhZGZvcmRMTFdlYi1JdGFsaWMtQ0E3ZWw2OVgud29mZjIiKSBmb3JtYXQoIndvZmYyIik7fUBmb250LWZhY2V7Zm9udC1mYW1pbHk6IkJyYWRmb3JkIExMIjtmb250LXdlaWdodDo2MDA7Zm9udC1zdHlsZTpub3JtYWw7Zm9udC1kaXNwbGF5OnN3YXA7c3JjOnVybCgiaHR0cHM6Ly9taWNyb3NvZnQuYWkvd3AtY29udGVudC90aGVtZXMvd3AtYmFzZS10aGVtZS9kaXN0L2Fzc2V0cy9CcmFkZm9yZExMV2ViLUJvbGQtQkpxdnFwTUEud29mZjIiKSBmb3JtYXQoIndvZmYyIik7fUBmb250LWZhY2V7Zm9udC1mYW1pbHk6IkJyYWRmb3JkIExMIjtmb250LXdlaWdodDo2MDA7Zm9udC1zdHlsZTppdGFsaWM7Zm9udC1kaXNwbGF5OnN3YXA7c3JjOnVybCgiaHR0cHM6Ly9taWNyb3NvZnQuYWkvd3AtY29udGVudC90aGVtZXMvd3AtYmFzZS10aGVtZS9kaXN0L2Fzc2V0cy9CcmFkZm9yZExMV2ViLUJvbGRJdGFsaWMtQjZhMkdCWVQud29mZjIiKSBmb3JtYXQoIndvZmYyIik7fUBmb250LWZhY2V7Zm9udC1mYW1pbHk6IlJlZCBIYXQgTW9ubyI7Zm9udC13ZWlnaHQ6NDAwO2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtZGlzcGxheTpzd2FwO3NyYzp1cmwoImh0dHBzOi8vbWljcm9zb2Z0LmFpL3dwLWNvbnRlbnQvdGhlbWVzL3dwLWJhc2UtdGhlbWUvZGlzdC9hc3NldHMvUmVkSGF0TW9uby1SZWd1bGFyLUNFRjRhdmUtLndvZmYyIikgZm9ybWF0KCJ3b2ZmMiIpO31AZm9udC1mYWNle2ZvbnQtZmFtaWx5OiJSZWQgSGF0IE1vbm8iO2ZvbnQtd2VpZ2h0OjUwMDtmb250LXN0eWxlOm5vcm1hbDtmb250LWRpc3BsYXk6c3dhcDtzcmM6dXJsKCJodHRwczovL21pY3Jvc29mdC5haS93cC1jb250ZW50L3RoZW1lcy93cC1iYXNlLXRoZW1lL2Rpc3QvYXNzZXRzL1JlZEhhdE1vbm8tTWVkaXVtLUJ4SkVDd01sLndvZmYyIikgZm9ybWF0KCJ3b2ZmMiIpO30NCi5oYnBiLCAuaGJwYiAqLCAuaGJwYiAqOjpiZWZvcmUsIC5oYnBiICo6OmFmdGVyIHsgYm94LXNpemluZzpib3JkZXItYm94OyB9DQpib2R5IHsgbWFyZ2luOjA7IGNvbG9yOiM1RDUyNEI7IC13ZWJraXQtZm9udC1zbW9vdGhpbmc6YW50aWFsaWFzZWQ7IH0NCg0KLmhicGIgeyBkaXNwbGF5OmJsb2NrOyBjb2xvcjojNUQ1MjRCOw0KICAgICAgICBmb250LWZhbWlseToiQnJhZGZvcmQgTEwiLCJJb3dhbiBPbGQgU3R5bGUiLCJQYWxhdGlubyBMaW5vdHlwZSIsUGFsYXRpbm8sR2VvcmdpYSxzZXJpZjsgZm9udC13ZWlnaHQ6NDUwOyB9DQouaGJwYiBzdmcgeyBkaXNwbGF5OmJsb2NrOyB3aWR0aDoxMDAlOyBoZWlnaHQ6YXV0bzsgb3ZlcmZsb3c6dmlzaWJsZTsgfQ0KDQouaGJwYiB0ZXh0IHsgZmlsbDojNUQ1MjRCOyB9DQouaGJwYiB0ZXh0LnQgICB7IGZvbnQtZmFtaWx5OiJCcmFkZm9yZCBMTCIsIklvd2FuIE9sZCBTdHlsZSIsIlBhbGF0aW5vIExpbm90eXBlIixQYWxhdGlubyxHZW9yZ2lhLHNlcmlmOw0KICAgICAgICAgICAgICAgICBmb250LXdlaWdodDo0NTA7IGZvbnQtc2l6ZToyNHB4OyBsZXR0ZXItc3BhY2luZzotMC4wMWVtOyB9DQouaGJwYiB0ZXh0LnYgICB7IGZvbnQtZmFtaWx5OiJSZWQgSGF0IE1vbm8iLHVpLW1vbm9zcGFjZSwiU0YgTW9ubyIsIkNhc2NhZGlhIE1vbm8iLE1lbmxvLENvbnNvbGFzLG1vbm9zcGFjZTsNCiAgICAgICAgICAgICAgICAgZm9udC13ZWlnaHQ6NTAwOyBmb250LXNpemU6MTZweDsgdGV4dC1hbmNob3I6bWlkZGxlOyBmb250LXZhcmlhbnQtbnVtZXJpYzp0YWJ1bGFyLW51bXM7IH0NCi5oYnBiIHRleHQueXQgIHsgZm9udC1mYW1pbHk6IlJlZCBIYXQgTW9ubyIsdWktbW9ub3NwYWNlLCJTRiBNb25vIiwiQ2FzY2FkaWEgTW9ubyIsTWVubG8sQ29uc29sYXMsbW9ub3NwYWNlOw0KICAgICAgICAgICAgICAgICBmb250LXdlaWdodDo1MDA7IGZvbnQtc2l6ZToxM3B4OyB0ZXh0LWFuY2hvcjplbmQ7IG9wYWNpdHk6LjU7IGZvbnQtdmFyaWFudC1udW1lcmljOnRhYnVsYXItbnVtczsgfQ0KLmhicGIgdGV4dC55YSAgeyBmb250LWZhbWlseToiUmVkIEhhdCBNb25vIix1aS1tb25vc3BhY2UsIlNGIE1vbm8iLCJDYXNjYWRpYSBNb25vIixNZW5sbyxDb25zb2xhcyxtb25vc3BhY2U7DQogICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OjUwMDsgZm9udC1zaXplOjE0cHg7IHRleHQtYW5jaG9yOm1pZGRsZTsgfQ0KLmhicGIgdGV4dC54biAgeyBmb250LWZhbWlseToiUmVkIEhhdCBNb25vIix1aS1tb25vc3BhY2UsIlNGIE1vbm8iLCJDYXNjYWRpYSBNb25vIixNZW5sbyxDb25zb2xhcyxtb25vc3BhY2U7DQogICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OjUwMDsgZm9udC1zaXplOjE0cHg7IH0NCi5oYnBiIC5ncmlkIHsgc3Ryb2tlOiM1RDUyNEI7IHN0cm9rZS1vcGFjaXR5Oi4xOyBzdHJva2Utd2lkdGg6MTsgfQ0KLmhicGIgLmJhc2UgeyBzdHJva2U6IzVENTI0Qjsgc3Ryb2tlLW9wYWNpdHk6LjM1OyBzdHJva2Utd2lkdGg6MTsgfQ0KDQovKiBmaWd1cmUgY2FwdGlvbiwgYXMgd3JpdHRlbiBpbiB0aGUgYmxvZyAqLw0KLmhicGIgLmZjYXAgeyBtYXJnaW46MThweCAwIDA7IGZvbnQtZmFtaWx5OiJSZWQgSGF0IE1vbm8iLHVpLW1vbm9zcGFjZSwiU0YgTW9ubyIsIkNhc2NhZGlhIE1vbm8iLE1lbmxvLENvbnNvbGFzLG1vbm9zcGFjZTsNCiAgICAgICAgICAgICAgZm9udC13ZWlnaHQ6NTAwOyBmb250LXNpemU6MTNweDsgbGluZS1oZWlnaHQ6MS41NTsgY29sb3I6Izc1Njk1RjsgfQ0KDQovKiBkZXNrdG9wOiB3aG9sZSBmcmFtZSBhcyBvbmUgc2NhbGVkIFNWRy4gbW9iaWxlOiBzdGFja2VkIGNhcmRzLiAqLw0KLmhicGIgLndpZGUgeyBkaXNwbGF5OmJsb2NrOyB9DQouaGJwYiAubmFycm93IHsgZGlzcGxheTpub25lOyB9DQouaGJwYiAuY2FyZHN0YWNrID4gc3ZnICsgc3ZnIHsgbWFyZ2luLXRvcDoxMnB4OyB9DQoNCkBtZWRpYSAobWF4LXdpZHRoOjYwMHB4KSB7DQogIC5oYnBiIC53aWRlIHsgZGlzcGxheTpub25lOyB9DQogIC5oYnBiIC5uYXJyb3cgeyBkaXNwbGF5OmJsb2NrOyB9DQogIC8qIGNhcmRzIHJlbmRlciBhdCByb3VnaGx5IDAuNTUgc2NhbGUgd2hlbiBzdGFja2VkIG9uIGEgcGhvbmUsIHNvIGludGVybmFsIHR5cGUgc3RlcHMgdXAgKi8NCiAgLmhicGIgdGV4dC50ICB7IGZvbnQtc2l6ZTozNHB4OyB9DQogIC5oYnBiIHRleHQudiAgeyBmb250LXNpemU6MThweDsgfQ0KICAuaGJwYiB0ZXh0Lnl0IHsgZm9udC1zaXplOjE4cHg7IH0NCiAgLmhicGIgdGV4dC55YSB7IGZvbnQtc2l6ZToxOXB4OyB9DQogIC5oYnBiIHRleHQueG4geyBmb250LXNpemU6MTZweDsgfQ0KICAuaGJwYiAuZmNhcCB7IGZvbnQtc2l6ZToxMS41cHg7IG1hcmdpbi10b3A6MTRweDsgfQ0KfQ0KDQouaGJwYiAuYmFyIHsgdHJhbnNmb3JtOnNjYWxlWSgxKTsgdHJhbnNmb3JtLWJveDp2aWV3LWJveDsgfQ0KLmhicGIgLmxhYiB7IG9wYWNpdHk6MTsgfQ0KQG1lZGlhIChwcmVmZXJzLXJlZHVjZWQtbW90aW9uOiBuby1wcmVmZXJlbmNlKSB7DQogIC5oYnBiLmFuaW0gLmJhciB7IHRyYW5zZm9ybTpzY2FsZVkoMCk7IHRyYW5zaXRpb246dHJhbnNmb3JtIDFzIGN1YmljLWJlemllcigwLjQzLDAuMTk1LDAuMDIsMSk7IH0NCiAgLmhicGIuYW5pbSAubGFiIHsgb3BhY2l0eTowOyB0cmFuc2l0aW9uOm9wYWNpdHkgLjVzIGN1YmljLWJlemllcigwLjQzLDAuMTk1LDAuMDIsMSk7IH0NCiAgLmhicGIuYW5pbS5wbGF5IC5iYXIgeyB0cmFuc2Zvcm06c2NhbGVZKDEpOyB9DQogIC5oYnBiLmFuaW0ucGxheSAubGFiIHsgb3BhY2l0eToxOyB9DQp9DQoNCi5oYnBiIC5zciB7IHBvc2l0aW9uOmFic29sdXRlOyB3aWR0aDoxcHg7IGhlaWdodDoxcHg7IHBhZGRpbmc6MDsgbWFyZ2luOi0xcHg7DQogICAgICAgICAgICBvdmVyZmxvdzpoaWRkZW47IGNsaXA6cmVjdCgwIDAgMCAwKTsgd2hpdGUtc3BhY2U6bm93cmFwOyBib3JkZXI6MDsgfQ0KPC9zdHlsZT4NCg0KPGRpdiBjbGFzcz0iaGJwYiIgaWQ9ImhicGIiPg0KICA8ZGl2IGNsYXNzPSJ3aWRlIiBpZD0iaGJwYi13aWRlIj48L2Rpdj4NCiAgPGRpdiBjbGFzcz0ibmFycm93IiBpZD0iaGJwYi1uYXJyb3ciPjwvZGl2Pg0KICA8cCBjbGFzcz0iZmNhcCI+RmlndXJlIDE6IEhlbGQtb3V0IGJpdHMgcGVyIGJ5dGUgKGxvd2VyIGlzIGJldHRlcikgb24gaW50ZXJuYWwgY29kZSwgUUEsIE1hdGgsIGFuZCBTVEVNIGV2YWx1YXRpb24gc2V0cy4gKk1pTW8tVjIuNi1Qcm8tUkwsIFF3ZW4zLjgtMi40VC1BOTVCLCBhbmQgS2ltaSBLMyBhcmUgcG9zdC10cmFpbmVkIG1vZGVscy48L3A+DQogIDxkaXYgY2xhc3M9InNyIiBpZD0iaGJwYi1zciI+PC9kaXY+DQo8L2Rpdj4NCg0KPHNjcmlwdD4NCihmdW5jdGlvbiAoKSB7DQogIC8vIEFzIGluIHRoZSBzb3VyY2UsIG9ubHkgdGhlIE1BSSBtb2RlbHMgZ2V0IHRoZWlyIG93biBjb2xvdXI7IGV2ZXJ5IG90aGVyIG1vZGVsIHNoYXJlcyB0YW4uDQogIHZhciBURUFMID0gJyM2MjhDOEMnLCBPUkFOR0UgPSAnI0M0NUEzMCcsIEdSRUVOID0gJyM4NkE5ODQnLCBUQU4gPSAnI0M2QUQ5NScsIENSRUFNID0gJyNGRUY5RUQnOw0KDQogIC8vIExhYiBtYXJrcyBpbiBhIHJvdyB1bmRlciB0aGUgYmFycyAoQnJhbmRmZXRjaCBhc3NldHMsIGZsYXR0ZW5lZCB0byBvbmUgaW5rIGNvbG91cjsgTUFJIGZyb20gdGhlIE1BSSB3b3JkbWFyaykNCiAgdmFyIE1BUktTID0geyJkcyI6IHsidyI6IDE1MiwgImgiOiAxMTIsICJkIjogImRhdGE6aW1hZ2UvcG5nO2Jhc2U2NCxpVkJPUncwS0dnb0FBQUFOU1VoRVVnQUFBSmdBQUFCd0NBWUFBQURpMWJuT0FBQXdYRWxFUVZSNDJ1MTllWnhkVlpYdXQ5YmU1OXlxREJDbVFtWUlHYUJDUUMxRkJCODN0a0JpVWdrWk9HRXdBOUphUHUzNVBYM04wNmMzMS9iWmJiZnQ2eFlidFJxQlRBdzVaS3BVUWhIQnJ0dG8yNkFGb2xES0lGQWdSRUl6aFpDcWU4N2VhNzAvenIxSkVUSlVKVldwQkxOLzVBY2hxWHZQMmZ2YmExN2ZJaHhlZTFwVUFBaUZBam83TzZuM0g5VFh4MW9zUWdIb1lIeHhGRVVtam1NLy8vSnBrMjFJZHdEME9zak92R1hGNmtjQU1BQTVKRGJ3TUlaMnJFS2h3TzN0N1R4KzYxWTZvYkhSRjR2RnZSMGlSMUZFY1J6N2dYd09WYVZGaXhiUjR3ODlkRnh0RGJVcjlDd21SdXBrNDlKVjZ5WWZCdGdodEZTVjVzNmR5L1gxOWJvem9LWk1tWExFTWNBUll1MEltL01qSEdzTmk2SEF5ZXZkOEsvTDJpTmZqQkg3eWo0T21DU3JTcThGVWVQblF4djhRMDkzT1NGR1lOaHNZKzY1NE9ZVlAzeTBVQ2h3SHk3QWtDLzdoeXFwME43T0tKV0VpQVNBQjREcnJwcHhvdlA0Z0hmcGVVRm82MG5vZEZFOVNVV1BKYksxb1NwQWdCajJ0Y2ErWks5TWY3NHcvZmd0aTFmZHZYWWdiM3djeC82NkdSZU9kRjQvNCtBVVJCWXFZb3dabHBiRGp3RjRkRk5ycXprVXBOaWhBREJDVlR5b1l0R2lSUVFBaXhZVmxkNHVmN1V2d0dwdmIrZGlzZWdxaDhOWFhqbjU5QnFxdlZUU2RLcDMybUNZVGd6RG5GRW9sQUJTZ1VCVlJiZmJXd293dkx5SGJEQ2pkdGp3R2ZOblR2bHZTOWUwL2JncWVmYm5aYS9JUGtNMGQ5VGtnT3lZY3BvS0ViR0NIVlNKQXJvWXdMZGZHejFhME5FeG9KTHozUW93S2hRSzFON2V6blYxZFpvWjBQVmFMQmFyQjZyYlVVWTdzRllzN2hwQVZXTjg4K2JOTkduU0pLbitQbzdqcWswbEM2SnBKMG5DbHdZMWRxcDM2V1hXNnBGcUxienpTRk12S2VBcVdvK3lyeWFxZ0prcmV0VVphNjF6L3NVa1NXOEcwbDhEd0lvNGxnR3lPVFIxdUNJWGtrSlZRUVNvbWxTOEdxYjhsVE0vUHZiT09INHlpc0J4REgvUVM0Y0RiL2VBSmszS0d3QW9sVXArTjdlUTgvazgxOVdoeHJsd1dDakRja0VvTmdjWTc0VmNtcml5VDdyRG8ycTMvZVkzTDNkM2RIUnNWM1c3V3ZrODdHbkh6L2h2cExpS0NSOWo4SmxFUU9vY3ZQZENSS3BFVEh2WkUxVjF1VEN3SXRvdVhqNjdlRlhyYndaU2RSZUxSWW1pS2NjTlEvZ1RVaDNyc21kakFGQVJuOHZsVE9ya0g1ZXNiUGw4RkVWaEhNZkpZUWtHb0FCd1p4UlJmWDI5RWhVRktEa0FhR3hzSEhZa3A2ZVE0Wk9ZZUx5eFpyU0tuS3JLeHl2a0dIZ2RwY0F3Y0JxS0kxdUdHZ0FnRzdxYUlPelJicFRyVDMzUDYrZWNNZjFsSnZvOWlKNFg3NS8yNHA4QTNDWVZQclltekYza1JDK0hTSU0xbHAxemNPcWRpaENZbVppNUw3ZE5SU1NYeTFueGJzT21yZTdxdHJhMkxVMU5UVUZ6YzdNYkNGVlZsYmFCNTNQWTRtVG5SVUU3REFGaU5rbVNpTEgyTCtiUG5Ici8wamhlV3lnVWJGVXlIeXoyYmJGWVJNVzdsa0dYWUZFVW1mck5tNmxZeWdBRkFOZGRNL1Uwbi9MRjNzdUZvYlhuQUJnaml2ZFk1dTJuTEtJUWtZcHhwYWo4ODNieDI4c0lNOHhnM3ZGNzd3V0F2SzVLbzZ5MThON0RlUTlWZFFDNEtoWDY0VzFLWUEwRDlLdlhYbjNybzJ2dXUrK1ZmRDV2UzczZWEzOVg5Zk91bWZueFQ5Zlc1SnFUSkhVN0N3RlZGV1ltdy95NlMzWEIwalhyV2dHZ29hRWgrSGxIaDZNaHRNa0tBQmQzQXJvZFRDUzN0N2R6SE1jT0FENHhhOHJKT1p1N3hFUG11ckoreUJwenRBMHNWQVJlQkNMaVBVZ1VTcWpjMjh4bjIyRUE3YVRXVlRVelVRQ285ejVESW1VYnpOblBqUktvdUhKWnFxQWlvbjE2WndLVW1GM3FraThPQnJnQVlCS0FVblpaenFUc1JaVGVlYWxZUkJUQVVSelE2bXVqNlY4bnBOKzVKVzU3bVhhRU9PUUFHLzlVeU9kTnNWUnlDK2RNK3pTYm9Ja2dhLzFMYjN6VERnYXdPanM3cVZnc2VnQnk3YXpHOTZ2RkFnYk5acVpUb0F3SGp5Uk5CWUFRUUpxQmdRRVl3ZzRyaVBwZ1AxYkFSenYvZ0FJcXFrcloyci8zVlBVMnNNWTcrZG52dDdoL3l3NXhoUjl3RTNiU0pFR3BoTURZT2xVRlZBbjB6dThnSWhJUklTVWJoc0ZYVlBtS2hWZE0vOT",
+      "fetch_status": "ok"
+    },
+    {
+      "ref": 3,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "D1-ULTRA: INTRODUCING THE WORLD'S BEST DECISION MODEL (3 MINUTE READ)",
+      "url": "https://www.liquid.ai/blog/d1-ultra?utm_source=tldrai",
+      "blurb": "Liquid AI's d1-ultra is a multimodal decision model designed for complex real-world tasks like detecting defects on circuit boards. The model processes text and images and provides better-calibrated answers and higher accuracy than previous models like Jev 1.14. Available on the Liquid API, d1-ultra is priced at $0.042 per million input tokens and will soon be accessible via Vercel and OpenRouter.",
+      "source_email": "tldr_ai_2026-10-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 4,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "NEURAL NETWORKS ARE ALREADY CLEAN (65 MINUTE READ)",
+      "url": "https://already-clean.goodfire.com/?utm_source=tldrai",
+      "blurb": "The cause of polysemanticity in early model organisms was thought to be superposition. This convinced much of the field that networks pack concepts arbitrarily, but what looked like arbitrary packing was mostly recursive generalization, which is less concerning. This means networks can be studied directly, instead of needing to be untangled first. The outlook for mechanistic interpretability may be far better than we thought.",
+      "source_email": "tldr_ai_2026-10-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 5,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "THE GRADIENT IS A COVARIANCE (8 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/F54ab4",
+      "blurb": "Reinforcement learning, on-policy distillation, and supervised fine-tuning on near-policy data change only a small fraction of parameters. Small and sparse are different claims. The expected gradient is a covariance, the Fisher is a variance, and the Fisher caps the gradient for any reward. At one position, the Fisher is the variance of logit sensitivities: whatever moves every candidate together counts for nothing. None of this needs on-policy sampling - it needs a score centered under the sampling distribution.",
+      "source_email": "tldr_ai_2026-10-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 6,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "MO' TURNS, MO' PROBLEMS (6 MINUTE READ)",
+      "url": "https://ianbarber.blog/2026/10/15/mo-turns-mo-problems/?utm_source=tldrai",
+      "blurb": "Doing reinforcement learning for agent use-cases is conceptually not at all that complicated. For each problem, you set up a VM with a harness and a fresh model context, send the prompt, let the model make tool calls, score the whole thing at the end, and update the weights. Agentic post-training means there's more than the model to consider. Even when the harness is consistent, you can still go off-policy with the trajectories themselves. Agents spawn subagents, make parallel tool calls, and compact large sessions, which adds complexity.",
+      "source_email": "tldr_ai_2026-10-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 7,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "KREA 3 (WEBSITE)",
+      "url": "https://www.krea.ai/krea-3?utm_source=tldrai",
+      "blurb": "Krea 3 is an image editing model built for production. It can finish an edit in under eight seconds, costing only $0.06 per image. The model was built for production and is four times faster than Nano Banana Pro. It can combine up to eight references into one picture.",
+      "source_email": "tldr_ai_2026-10-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 8,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "NVIDIA RELEASED NEMOTRON 3.5 SUPER VL (5 MINUTE READ)",
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/?utm_source=tldrai",
+      "blurb": "Nvidia released Nemotron 3.5 Super VL, a multimodal reasoning model that scored 26.5 on Artificial Analysis' Intelligence Index while using substantially fewer output tokens than its predecessor. The company also introduced the smaller Nemotron 3.5 Bolt 74B-A9B and near-lossless NVFP4 quantized weights.",
+      "source_email": "tldr_ai_2026-10-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 9,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GPT-LIVE-1.1 (1 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2110797830361436604.html?utm_source=tldrai",
+      "blurb": "GPT-Live-1.1 features new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese. The voices have better accents, and there is less 'checking'. The model is available in ChatGPT, Codex, and dots. It is rolling out now to all users and coming soon to the API.",
+      "source_email": "tldr_ai_2026-10-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 10,
+      "section": "MISCELLANEOUS",
+      "heading": "ANTHROPIC EXPANDED INDEPENDENT ACCESS TO ITS AI SAFETY WORK (3 MINUTE READ)",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators?utm_source=tldrai",
+      "blurb": "Anthropic began giving METR employee-like access to models, training information, safeguards, and other internal material so it could independently assess frontier-model risks and publish its conclusions.",
+      "source_email": "tldr_ai_2026-10-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 11,
+      "section": "MISCELLANEOUS",
+      "heading": "OPEN WEIGHT TAKES 71.5% OF TOKENS AND 23% OF SPEND (7 MINUTE READ)",
+      "url": "https://vercel.com/blog/ai-gateway-production-index-october-2026?utm_source=tldrai",
+      "blurb": "Open-weight models now process more than seven in ten gateway tokens and account for nearly one in four dollars. Their share of spend has more than quadrupled since June. Almost one in three teams changed their most-used lab in September, an index record. Jev was the fastest-adopted model in AI Gateway history, but it only accounted for about 0.27% of gateway spend.",
+      "source_email": "tldr_ai_2026-10-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 12,
+      "section": "QUICK LINKS",
+      "heading": "FLUX 3 IMAGE KLEIN (4 MINUTE READ)",
+      "url": "https://bfl.ai/blog/flux-3-image-klein?utm_source=tldrai",
+      "blurb": "Black Forest Labs released FLUX 3 Image Klein, a 5.6B-parameter open-weight model that supports text-to-image generation, editing, native 4K output, and up to 10 reference images.",
+      "source_email": "tldr_ai_2026-10-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 13,
+      "section": "QUICK LINKS",
+      "heading": "PERPLEXITY OPEN-SOURCED ITS AGENT SANDBOX (4 MINUTE READ)",
+      "url": "https://www.perplexity.ai/hub/blog/open-sourcing-space?utm_source=tldrai",
+      "blurb": "Perplexity has open-sourced SPACE, the sandbox infrastructure behind its Computer agent.",
+      "source_email": "tldr_ai_2026-10-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 14,
+      "section": "QUICK LINKS",
+      "heading": "INTRODUCING HANDWIRED: JAVASCRIPT AS NEURAL NETWORKS (1 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/cWe75r",
+      "blurb": "Handwired converts ordinary JavaScript code into neural networks that reproduce exact program outputs without training or GPUs.",
+      "source_email": "tldr_ai_2026-10-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 15,
+      "section": "QUICK LINKS",
+      "heading": "HOW CODEX HAPPENED (40 MINUTE READ)",
+      "url": "https://every.to/p/how-codex-happened?utm_source=tldrai",
+      "blurb": "OpenAI's Codex evolved from a failed cloud launch to becoming the cornerstone of OpenAI's products, gaining over 40 million weekly users.",
+      "source_email": "tldr_ai_2026-10-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 16,
+      "section": null,
+      "heading": "TOGETHER WITH [WorkOS]",
+      "url": "https://workos.com/pipes?utm_source=tldrai&utm_medium=newsletter&utm_campaign=q42026&utm_content=header_workos_pipes_connect&utm_term=2026-10-19_tldr_ai",
+      "blurb": "TLDR AI 2026-10-19",
+      "source_email": "tldr_ai_2026-10-19_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 17,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "ANTHROPIC COMMITS EQUITY TO PUBLIC BENEFIT (1 MINUTE READ)",
+      "url": "https://www.anthropic.com/news/public-benefit-fund?utm_source=tldrai",
+      "blurb": "Anthropic announced plans to allocate an initial 5% of its equity to a new Public Benefit Fund, with additional contributions tied to valuation growth. The fund will support initiatives such as addressing AI's economic and labor impacts.",
+      "source_email": "tldr_ai_2026-10-19_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 18,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI TESTING NEW \"AURORA\" GPT-IMAGE MODEL ON ARENA (3 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/openai-possibly-testing-gpt-image-3/?utm_source=tldrai",
+      "blurb": "Three new model references briefly appeared in OpenAI's API and in blind arena tests this weekend. aurora-red-alpha, aurora-green-alpha, and aurora-blue-alpha appear to be image models and could possibly be GPT Image 3. In tests, red ran faster than green but was lower quality, while green was slower but looked better. Examples of images generated by the models are available in the article.",
+      "source_email": "tldr_ai_2026-10-19_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 19,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOW TO TRUST YOUR CODING AGENTS MORE (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/VT4HHo",
+      "blurb": "Reliable coding agents require better code architecture, strong invariants, and automated verification rather than extensive prompting or human review. Analyze past agent mistakes and code reviews to redesign systems that prevent recurring failures by default.",
+      "source_email": "tldr_ai_2026-10-19_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 20,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOW AI IS RESHAPING ANTHROPIC'S WORKFORCE (17 MINUTE READ)",
+      "url": "https://www.anthropic.com/research/employment-at-anthropic?utm_source=tldrai",
+      "blurb": "Anthropic reported a decline in junior technical hiring, with entry-level workers falling from 27% to 9% of technical hires since early 2025. Employees reported productivity gains from Claude, but increased AI output also shifted work toward supervising agents and made human attention a growing bottleneck.",
+      "source_email": "tldr_ai_2026-10-19_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 21,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "SEARCH & FETCH (8 MINUTE READ)",
+      "url": "https://api-docs.deepseek.com/guides/search/?utm_source=tldrai",
+      "blurb": "DeepSeek's Search and Fetch APIs give agents and RAG applications access to live web content. The Search API finds web pages for a query and returns structured results. The Fetch API retrieves a single web page and returns its content as Markdown. Both are raw JSON APIs. They use the same bearer authentication as the DeepSeek API.",
+      "source_email": "tldr_ai_2026-10-19_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 22,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "DEEPSEEK-V4.1-FLASH-1017 (HUGGING FACE REPO)",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017?utm_source=tldrai",
+      "blurb": "DeepSeek-V4.1-Flash-1017 delivers substantial improvements across reasoning, coding, agentic tasks, and visual benchmarks. It also reduces task execution time and output length, advancing the performance-cost Pareto frontier across multiple agent harnesses. DeepSeek-V4.1-Flash combines cross-layer KV cache reuse in Compressed Sparse Attention 2 with FP4 KV caching, reducing its global KV cache footprint to 890 bytes per token. Its persistent KV cache footprint is roughly 1/8 of that of DeepSeek-V4-Flash. The model delivers substantially better performance than the baseline despite its much smaller KV cache footprint.",
+      "source_email": "tldr_ai_2026-10-19_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 23,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "HOW THE CLAUDE CODE TEAM DOES CODE REVIEW (18 MINUTE READ)",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/?utm_source=tldrai",
+      "blurb": "The Claude Code team has restructured its code review process to handle increased volume efficiently by automating most review stages. Key changes include continuous review, automated verifications, multi-layer checks before human intervention, and a tiered risk system for approvals.",
+      "source_email": "tldr_ai_2026-10-19_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 24,
+      "section": "MISCELLANEOUS",
+      "heading": "A BENCHMARK MAP OF THE US ECONOMY (16 MINUTE READ)",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/?utm_source=tldrai",
+      "blurb": "The Benchmark Map is a project aimed at building a comprehensive, continuously updated resource for understanding AI capabilities across the economy. Initial findings suggest that 90% of American working hours are spent on tasks with little or no coverage from existing benchmarks. This makes it very hard to know how good AI models are at the work Americans actually do.",
+      "source_email": "tldr_ai_2026-10-19_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 25,
+      "section": "MISCELLANEOUS",
+      "heading": "REPLIT SWITCHES ITS DEFAULT AI PROVIDER TO OPENAI (3 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/?utm_source=tldrai",
+      "blurb": "Replit replaced Anthropic with OpenAI as its preferred provider for Replit Agent, citing cost, performance, and partnership considerations. CEO Amjad Masad clarified that users could still select Claude and other supported models.",
+      "source_email": "tldr_ai_2026-10-19_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 26,
+      "section": "QUICK LINKS",
+      "heading": "CLAUDE REVEALS ECDSA CURVE ORIGINS (9 MINUTE READ)",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins?utm_source=tldrai",
+      "blurb": "Claude revealed the origins of ECDSA curve seeds, showing they were derived using a C library's lrand48 random number generator seeded with Unix timestamps, rather than hash algorithms or backdoors.",
+      "source_email": "tldr_ai_2026-10-19_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 27,
+      "section": "QUICK LINKS",
+      "heading": "STACK OVERFLOW FOR AGENTS TRIPLES SIGNUPS WITH CHATGPT PLUGIN (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/24IIkx",
+      "blurb": "Stack Overflow for Agents saw a 3x increase in signups overnight after integrating a ChatGPT plugin.",
+      "source_email": "tldr_ai_2026-10-19_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 28,
+      "section": "QUICK LINKS",
+      "heading": "QUALCOMM SAYS AI LABS WANT 100B-PARAMETER MODELS RUNNING ON PHONES BY 2028 (2 MINUTE READ)",
+      "url": "https://thenextweb.com/news/qualcomm-cristiano-amon-ai-companies-phones-2028?utm_source=tldrai",
+      "blurb": "AI companies want phones that run 100B-plus-parameter models continuously by 2028, and some are already starting to build their own phones.",
+      "source_email": "tldr_ai_2026-10-19_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    }
+  ],
+  "dropped": []
+}

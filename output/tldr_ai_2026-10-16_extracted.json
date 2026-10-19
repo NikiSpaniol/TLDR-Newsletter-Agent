@@ -1,0 +1,135 @@
+{
+  "kept": [
+    {
+      "ref": 6,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "MUSE SPARK OPEN (4 MINUTE READ)",
+      "url": "https://research.meta.ai/blog/muse-spark-open?utm_source=tldrai",
+      "blurb": "Muse Spark Open is an 816B-parameter multimodal open-weight model with 42B active parameters and a 1M-token context window. It was designed for coding and long-horizon agentic tasks and can run locally across two Apple M5 Ultra Mac Studios using MLX."
+    },
+    {
+      "ref": 7,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INSIDE MICROSOFT'S FRONTIER PRE-TRAINING STACK (18 MINUTE READ)",
+      "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/?utm_source=tldrai",
+      "blurb": "Microsoft detailed the training of MAI-Base-2, a 2.8T-parameter mixture-of-experts model with 80B active parameters that it said surpassed every open-weight model in its held-out pre-training evaluations. The deep dive covers its data strategy, compute efficiency, full-stack infrastructure, and Microsoft's plans to turn internally trained frontier models into enterprise offerings through Foundry."
+    },
+    {
+      "ref": 8,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "D1-ULTRA: INTRODUCING THE WORLD'S BEST DECISION MODEL (3 MINUTE READ)",
+      "url": "https://www.liquid.ai/blog/d1-ultra?utm_source=tldrai",
+      "blurb": "Liquid AI's d1-ultra is a multimodal decision model designed for complex real-world tasks like detecting defects on circuit boards. The model processes text and images and provides better-calibrated answers and higher accuracy than previous models like Jev 1.14. Available on the Liquid API, d1-ultra is priced at $0.042 per million input tokens and will soon be accessible via Vercel and OpenRouter."
+    },
+    {
+      "ref": 9,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "NEURAL NETWORKS ARE ALREADY CLEAN (65 MINUTE READ)",
+      "url": "https://already-clean.goodfire.com/?utm_source=tldrai",
+      "blurb": "The cause of polysemanticity in early model organisms was thought to be superposition. This convinced much of the field that networks pack concepts arbitrarily, but what looked like arbitrary packing was mostly recursive generalization, which is less concerning. This means networks can be studied directly, instead of needing to be untangled first. The outlook for mechanistic interpretability may be far better than we thought."
+    },
+    {
+      "ref": 10,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "THE GRADIENT IS A COVARIANCE (8 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/F54ab4",
+      "blurb": "Reinforcement learning, on-policy distillation, and supervised fine-tuning on near-policy data change only a small fraction of parameters. Small and sparse are different claims. The expected gradient is a covariance, the Fisher is a variance, and the Fisher caps the gradient for any reward. At one position, the Fisher is the variance of logit sensitivities: whatever moves every candidate together counts for nothing. None of this needs on-policy sampling - it needs a score centered under the sampling distribution."
+    },
+    {
+      "ref": 11,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "MO' TURNS, MO' PROBLEMS (6 MINUTE READ)",
+      "url": "https://ianbarber.blog/2026/10/15/mo-turns-mo-problems/?utm_source=tldrai",
+      "blurb": "Doing reinforcement learning for agent use-cases is conceptually not at all that complicated. For each problem, you set up a VM with a harness and a fresh model context, send the prompt, let the model make tool calls, score the whole thing at the end, and update the weights. Agentic post-training means there's more than the model to consider. Even when the harness is consistent, you can still go off-policy with the trajectories themselves. Agents spawn subagents, make parallel tool calls, and compact large sessions, which adds complexity."
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "KREA 3 (WEBSITE)",
+      "url": "https://www.krea.ai/krea-3?utm_source=tldrai",
+      "blurb": "Krea 3 is an image editing model built for production. It can finish an edit in under eight seconds, costing only $0.06 per image. The model was built for production and is four times faster than Nano Banana Pro. It can combine up to eight references into one picture."
+    },
+    {
+      "ref": 14,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "NVIDIA RELEASED NEMOTRON 3.5 SUPER VL (5 MINUTE READ)",
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/?utm_source=tldrai",
+      "blurb": "Nvidia released Nemotron 3.5 Super VL, a multimodal reasoning model that scored 26.5 on Artificial Analysis' Intelligence Index while using substantially fewer output tokens than its predecessor. The company also introduced the smaller Nemotron 3.5 Bolt 74B-A9B and near-lossless NVFP4 quantized weights."
+    },
+    {
+      "ref": 15,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GPT-LIVE-1.1 (1 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2110797830361436604.html?utm_source=tldrai",
+      "blurb": "GPT-Live-1.1 features new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese. The voices have better accents, and there is less 'checking'. The model is available in ChatGPT, Codex, and dots. It is rolling out now to all users and coming soon to the API."
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "ANTHROPIC EXPANDED INDEPENDENT ACCESS TO ITS AI SAFETY WORK (3 MINUTE READ)",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators?utm_source=tldrai",
+      "blurb": "Anthropic began giving METR employee-like access to models, training information, safeguards, and other internal material so it could independently assess frontier-model risks and publish its conclusions."
+    },
+    {
+      "ref": 17,
+      "section": "MISCELLANEOUS",
+      "heading": "OPEN WEIGHT TAKES 71.5% OF TOKENS AND 23% OF SPEND (7 MINUTE READ)",
+      "url": "https://vercel.com/blog/ai-gateway-production-index-october-2026?utm_source=tldrai",
+      "blurb": "Open-weight models now process more than seven in ten gateway tokens and account for nearly one in four dollars. Their share of spend has more than quadrupled since June. Almost one in three teams changed their most-used lab in September, an index record. Jev was the fastest-adopted model in AI Gateway history, but it only accounted for about 0.27% of gateway spend."
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "FLUX 3 IMAGE KLEIN (4 MINUTE READ)",
+      "url": "https://bfl.ai/blog/flux-3-image-klein?utm_source=tldrai",
+      "blurb": "Black Forest Labs released FLUX 3 Image Klein, a 5.6B-parameter open-weight model that supports text-to-image generation, editing, native 4K output, and up to 10 reference images."
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "PERPLEXITY OPEN-SOURCED ITS AGENT SANDBOX (4 MINUTE READ)",
+      "url": "https://www.perplexity.ai/hub/blog/open-sourcing-space?utm_source=tldrai",
+      "blurb": "Perplexity has open-sourced SPACE, the sandbox infrastructure behind its Computer agent."
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "INTRODUCING HANDWIRED: JAVASCRIPT AS NEURAL NETWORKS (1 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/cWe75r",
+      "blurb": "Handwired converts ordinary JavaScript code into neural networks that reproduce exact program outputs without training or GPUs."
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "HOW CODEX HAPPENED (40 MINUTE READ)",
+      "url": "https://every.to/p/how-codex-happened?utm_source=tldrai",
+      "blurb": "OpenAI's Codex evolved from a failed cloud launch to becoming the cornerstone of OpenAI's products, gaining over 40 million weekly users."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "YOUR AGENT BUILT THE APP. NOW HELP IT LAUNCH. (SPONSOR)",
+      "url": "https://developer.godaddy.com/en/docs/api-users?utm_source=tldrai&utm_medium=newsletter&utm_campaign=explore&utm_content=header_agent_built_app&utm_term=2026-10-16_tldr_ai",
+      "blurb": "Working code is just the start. The GoDaddy Developer Platform lets your AI agent deploy your app, register an available domain with your approval, connect it to your app, and set up professional email.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 12,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "WEBINAR: SEPARATING REAL IT AUTONOMY FROM THE HYPE (SPONSOR)",
+      "url": "https://www.atera.com/webinars/autonomous-it-separating-hype-from-real-autonomy-281026/?utm_source=TLDR&utm_medium=email&utm_campaign=TLDR_AI",
+      "blurb": "\u201cAutonomous IT\u201d is suddenly everywhere, but almost no two vendors define it the same way \u2013 making it nearly impossible for buyers to tell the genuine autonomy from rebranded automation. Atera's VPs of Product Marketing and IT [12] will break down how to define the category, assess autonomous capabilities, and use them effectively. Save your virtual seat. [12]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "TURN ANY AI AGENT INTO YOUR PERSONAL SHOPPER (SPONSOR)",
+      "url": "https://shop.md/?utm_source=Paid&utm_medium=Newsletter&utm_campaign=Shop-Launch&utm_content=TLDR-AI",
+      "blurb": "Make any agent your personal shopper. Add the skill at shop.md [18] for your size and order history from Shop. Checkout happens in the conversation and you approve every purchase. Start shopping now. [18]",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

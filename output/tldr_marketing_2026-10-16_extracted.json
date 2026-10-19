@@ -1,0 +1,107 @@
+{
+  "kept": [
+    {
+      "ref": 8,
+      "section": null,
+      "heading": "WHAT'S WORKING IN B2B GTM IN 2026 (7 MINUTE READ)",
+      "url": "https://www.growthunhinged.com/p/2026-state-of-b2b-gtm-report?utm_source=tldrmarketing",
+      "blurb": "Founder-led sales remains a leading GTM motion until companies reach $10M ARR. Networking and introductions rank as the most effective channel, while intimate events come second. AI search is now a core channel for 39% of B2B companies, up 11 percentage points year over year, and 41% are experimenting with it. Track whether AI tools recommend the right products and pricing. Use buying signals such as content engagement and website visits to prioritize outreach."
+    },
+    {
+      "ref": 9,
+      "section": null,
+      "heading": "CITIZENLAB DETAILS NEW SPYWARE TRIGGERED BY ONLINE ADVERTISING (2 MINUTE READ)",
+      "url": "https://www.engadget.com/2287417/citizenlab-details-new-spyware-triggered-by-online-advertising/?utm_source=tldrmarketing",
+      "blurb": "Discover-Tech, an Israeli firm presenting itself as an ad vendor, displayed 442 million ads on more than 120,000 websites and apps, including the BBC, The New York Times, and Duolingo. Some of those ads carried zero-click spyware that infected phones and computers simply by appearing on screen, with targets ranging from Al Jazeera journalists to NATO and NVIDIA staff. It is the first confirmed case of government-backed zero-click spyware delivered through online ads. Google has since blocked Discover-Tech from its ad platforms."
+    },
+    {
+      "ref": 10,
+      "section": null,
+      "heading": "HOW TO PITCH LOCAL NEWSROOMS IN THE US (9 MINUTE READ)",
+      "url": "https://www.buzzstream.com/blog/how-to-pitch-local-newsrooms/?utm_source=tldrmarketing",
+      "blurb": "Local news pitches are more effective when they target the right journalist, demonstrate a clear community impact, and provide everything needed to produce the story. Local newsrooms have declined by 81% since 2002, making relevant, ready-to-use pitches especially important. Start by reviewing journalists' recent coverage, then contact assignment editors at TV stations or editors at print and digital outlets when appropriate. Tailor pitches to the format: print needs a clear story and supporting data, TV needs visuals and local people to interview, and radio needs an available guest who can speak. Include a timely local angle, relevant data, quotes, visuals, and event details, and send the pitch before the newsroom's morning planning meeting."
+    },
+    {
+      "ref": 11,
+      "section": null,
+      "heading": "WHY BRANDS NEED TO FUEL A LIFE, NOT FILL A FEED (4 MINUTE READ)",
+      "url": "https://business.pinterest.com/en-au/blog/design-the-exit/?_sp=7b571d78-3f73-49e3-ad3e-a4deb121e1f1.1792018446862&utm_source=tldrmarketing",
+      "blurb": "Pinterest reports that 40% of Gen Z wish social media had never been invented and 63% intentionally unplug. Design campaigns that drive real-world action rather than endless scrolling. Show how a product fits into the audience's desired lifestyle instead of making the product the hero. Turn inspiration into action with personalized recommendations and specific next steps such as shopping lists or linked outfits. Remove friction with tools that help people follow through."
+    },
+    {
+      "ref": 12,
+      "section": null,
+      "heading": "THE ART OF BRAND MERCH (8 MINUTE READ)",
+      "url": "https://fatemaraja.substack.com/p/the-art-of-brand-merch?utm_source=tldrmarketing",
+      "blurb": "People wear merch to say something about themselves, not to promote a company. A logo on a T-shirt or water bottle asks customers to carry a message without giving them a reason, and only works when the logo already means something. Strong merch does one of three jobs. It signals belonging through a recognizable color or shape, sells more product by being designed around how that product gets used, or lets in people who can't yet afford the core product."
+    },
+    {
+      "ref": 16,
+      "section": null,
+      "heading": "HOW LONG SHOULD A REEL BE? UNDER 3 MINUTES ON INSTAGRAM, LONGER ON TIKTOK (12 MINUTE READ)",
+      "url": "https://virev.ai/blog/how-long-should-a-reel-be?utm_source=tldrmarketing",
+      "blurb": "Video length barely matters on Instagram until the 3-minute mark, where recommendations to new audiences stop. Reels from 10 seconds to 3 minutes all perform within 2% of each creator's median, while longer ones fall to 0.91x. TikTok rewards length instead, with 3-to-10-minute videos earning 1.22x and beating the same creator's 10-to-19-second clips for 68% of creators."
+    },
+    {
+      "ref": 17,
+      "section": null,
+      "heading": "YOUR NEWSLETTER ISN'T THE UNSUBSCRIBE PROBLEM (3 MINUTE READ)",
+      "url": "https://www.audiencebridge.io/p/your-newsletter-isn-t-the-unsubscribe-problem?utm_source=tldrmarketing",
+      "blurb": "Google Postmaster Tools evaluates unsubscribe compliance across all email systems sending from the same domain. If someone unsubscribes from a newsletter but still receives CRM or sales emails, Google may flag the domain. Sync unsubscribe lists across platforms and use distinct From addresses and List-IDs for each mailing list. Verify that every system supports one-click unsubscribes and removes recipients within 48 hours. Compliance status can take 1-2 weeks to update."
+    },
+    {
+      "ref": 18,
+      "section": "MISCELLANEOUS",
+      "heading": "A STANDING HOLDOUT IS THE ONLY AUDIT AN ALGORITHM CANNOT ARGUE WITH (7 MINUTE READ)",
+      "url": "https://karandhir.substack.com/p/a-standing-holdout-is-the-only-audit?utm_source=tldrmarketing",
+      "blurb": "Standing holdouts are a measurement method that reserves a portion of markets or audiences from automated ad campaigns to measure whether advertising generates incremental sales. Uber cut $100 million of its $150 million annual rider acquisition budget without reducing app installs, while Airbnb recovered to 95% of its 2019 traffic levels before resuming marketing spend. A standing holdout reserves 5% to 10% of markets and rotates them on a fixed schedule to measure advertising performance over time. Each test defines its markets, measurement period, success thresholds, and budget decisions in advance. If holdout results conflict with the platform's reported returns beyond a predefined margin, the holdout results determine budget decisions."
+    },
+    {
+      "ref": 19,
+      "section": "MISCELLANEOUS",
+      "heading": "AI AGENTS BUY THROUGH YOUR OWN CHECKOUT, AND DISPUTES STILL LAND ON YOU (8 MINUTE READ)",
+      "url": "https://okaneland.com/study/can-an-ai-agent-buy-from-you/?utm_source=tldrmarketing",
+      "blurb": "In-chat AI checkouts are built for physical goods sold to US buyers through big platforms. Google, Microsoft, and ChatGPT all exclude subscriptions or say nothing about them. Independent sellers instead meet agents like Amazon's Buy for Me and Meta's Muse on their own checkout pages, where guest purchase and saved-wallet support decide whether an order completes. Visa bars merchants from requiring dispute waivers on agent purchases, so chargebacks still land on the seller."
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "YOUR TEAM SAYS AI SAVES THEM TIME. HERE'S HOW TO FIND OUT IF IT DOES (15 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/VzgkdF",
+      "blurb": "The best way to measure AI value is to measure it against a control group."
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "AMAZON LAUNCHES NEW BEE \u2018PERSONAL AI' DEVICES THAT LISTEN TO CONVERSATIONS (3 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html?utm_source=tldrmarketing",
+      "blurb": "Unlike Echo, which waits for a wake word, the new devices record continuously to build conversation summaries and recurring-theme goals."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "MARKETERS, STOP TYPING. WISPR FLOW TURNS YOUR VOICE INTO POLISHED COPY IN EVERY APP (SPONSOR)",
+      "url": "https://ref.wisprflow.ai/tldr-oct16-marketing-primary-headline?sp=ET3PmUqr33cG9k0aKbNtmwOJ",
+      "blurb": "You write all day: briefs, campaign emails, Slack threads, ad copy, prompts. Wispr Flow [5] lets you say it instead. Talk naturally and it types clean, polished text in whatever app you're in, filler words gone, formatting right.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 13,
+      "section": null,
+      "heading": "SWITCHING AI MEETING NOTETAKERS? GET UP TO 12 MONTHS OF WISPR FLOW FREE (SPONSOR)",
+      "url": "https://ref.wisprflow.ai/tldr-oct16-marketing-secondary-headline?sp=rLJ08DxMZn5-lTZmPeixTnNk",
+      "blurb": "Paying for an AI meeting notetaker? If your plan qualifies, switch to Wispr Flow [14] and we cover the time left on it with Wispr credit, plus 3 bonus months. Up to 12 months free. Meeting notes and voice dictation in one subscription. Claim your free months [15]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "HOW TO AUTOMATE AN AEO-FOCUSED BLOG ENGINE (5 MINUTE VIDEO)",
+      "url": "https://www.linkedin.com/posts/elainezelby_aeo-ugcPost-7516008556752699392-dXp-/?utm_source=tldrmarketing",
+      "blurb": "A walkthrough of how Tofu fully automated its blog with a Claude agent for $63/week.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    }
+  ]
+}

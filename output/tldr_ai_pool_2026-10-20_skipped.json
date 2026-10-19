@@ -1,0 +1,262 @@
+[
+  {
+    "ref": 3,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "D1-ULTRA: INTRODUCING THE WORLD'S BEST DECISION MODEL (3 MINUTE READ)",
+    "url": "https://www.liquid.ai/blog/d1-ultra?utm_source=tldrai",
+    "blurb": "Liquid AI's d1-ultra is a multimodal decision model designed for complex real-world tasks like detecting defects on circuit boards. The model processes text and images and provides better-calibrated answers and higher accuracy than previous models like Jev 1.14. Available on the Liquid API, d1-ultra is priced at $0.042 per million input tokens and will soon be accessible via Vercel and OpenRouter.",
+    "source_email": "tldr_ai_2026-10-16_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 4,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "NEURAL NETWORKS ARE ALREADY CLEAN (65 MINUTE READ)",
+    "url": "https://already-clean.goodfire.com/?utm_source=tldrai",
+    "blurb": "The cause of polysemanticity in early model organisms was thought to be superposition. This convinced much of the field that networks pack concepts arbitrarily, but what looked like arbitrary packing was mostly recursive generalization, which is less concerning. This means networks can be studied directly, instead of needing to be untangled first. The outlook for mechanistic interpretability may be far better than we thought.",
+    "source_email": "tldr_ai_2026-10-16_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 5,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "THE GRADIENT IS A COVARIANCE (8 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/F54ab4",
+    "blurb": "Reinforcement learning, on-policy distillation, and supervised fine-tuning on near-policy data change only a small fraction of parameters. Small and sparse are different claims. The expected gradient is a covariance, the Fisher is a variance, and the Fisher caps the gradient for any reward. At one position, the Fisher is the variance of logit sensitivities: whatever moves every candidate together counts for nothing. None of this needs on-policy sampling - it needs a score centered under the sampling distribution.",
+    "source_email": "tldr_ai_2026-10-16_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 6,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "MO' TURNS, MO' PROBLEMS (6 MINUTE READ)",
+    "url": "https://ianbarber.blog/2026/10/15/mo-turns-mo-problems/?utm_source=tldrai",
+    "blurb": "Doing reinforcement learning for agent use-cases is conceptually not at all that complicated. For each problem, you set up a VM with a harness and a fresh model context, send the prompt, let the model make tool calls, score the whole thing at the end, and update the weights. Agentic post-training means there's more than the model to consider. Even when the harness is consistent, you can still go off-policy with the trajectories themselves. Agents spawn subagents, make parallel tool calls, and compact large sessions, which adds complexity.",
+    "source_email": "tldr_ai_2026-10-16_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 7,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "KREA 3 (WEBSITE)",
+    "url": "https://www.krea.ai/krea-3?utm_source=tldrai",
+    "blurb": "Krea 3 is an image editing model built for production. It can finish an edit in under eight seconds, costing only $0.06 per image. The model was built for production and is four times faster than Nano Banana Pro. It can combine up to eight references into one picture.",
+    "source_email": "tldr_ai_2026-10-16_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 8,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "NVIDIA RELEASED NEMOTRON 3.5 SUPER VL (5 MINUTE READ)",
+    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/?utm_source=tldrai",
+    "blurb": "Nvidia released Nemotron 3.5 Super VL, a multimodal reasoning model that scored 26.5 on Artificial Analysis' Intelligence Index while using substantially fewer output tokens than its predecessor. The company also introduced the smaller Nemotron 3.5 Bolt 74B-A9B and near-lossless NVFP4 quantized weights.",
+    "source_email": "tldr_ai_2026-10-16_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 9,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "GPT-LIVE-1.1 (1 MINUTE READ)",
+    "url": "https://threadreaderapp.com/thread/2110797830361436604.html?utm_source=tldrai",
+    "blurb": "GPT-Live-1.1 features new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese. The voices have better accents, and there is less 'checking'. The model is available in ChatGPT, Codex, and dots. It is rolling out now to all users and coming soon to the API.",
+    "source_email": "tldr_ai_2026-10-16_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 10,
+    "section": "MISCELLANEOUS",
+    "heading": "ANTHROPIC EXPANDED INDEPENDENT ACCESS TO ITS AI SAFETY WORK (3 MINUTE READ)",
+    "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators?utm_source=tldrai",
+    "blurb": "Anthropic began giving METR employee-like access to models, training information, safeguards, and other internal material so it could independently assess frontier-model risks and publish its conclusions.",
+    "source_email": "tldr_ai_2026-10-16_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 11,
+    "section": "MISCELLANEOUS",
+    "heading": "OPEN WEIGHT TAKES 71.5% OF TOKENS AND 23% OF SPEND (7 MINUTE READ)",
+    "url": "https://vercel.com/blog/ai-gateway-production-index-october-2026?utm_source=tldrai",
+    "blurb": "Open-weight models now process more than seven in ten gateway tokens and account for nearly one in four dollars. Their share of spend has more than quadrupled since June. Almost one in three teams changed their most-used lab in September, an index record. Jev was the fastest-adopted model in AI Gateway history, but it only accounted for about 0.27% of gateway spend.",
+    "source_email": "tldr_ai_2026-10-16_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 12,
+    "section": "QUICK LINKS",
+    "heading": "FLUX 3 IMAGE KLEIN (4 MINUTE READ)",
+    "url": "https://bfl.ai/blog/flux-3-image-klein?utm_source=tldrai",
+    "blurb": "Black Forest Labs released FLUX 3 Image Klein, a 5.6B-parameter open-weight model that supports text-to-image generation, editing, native 4K output, and up to 10 reference images.",
+    "source_email": "tldr_ai_2026-10-16_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 13,
+    "section": "QUICK LINKS",
+    "heading": "PERPLEXITY OPEN-SOURCED ITS AGENT SANDBOX (4 MINUTE READ)",
+    "url": "https://www.perplexity.ai/hub/blog/open-sourcing-space?utm_source=tldrai",
+    "blurb": "Perplexity has open-sourced SPACE, the sandbox infrastructure behind its Computer agent.",
+    "source_email": "tldr_ai_2026-10-16_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 14,
+    "section": "QUICK LINKS",
+    "heading": "INTRODUCING HANDWIRED: JAVASCRIPT AS NEURAL NETWORKS (1 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/cWe75r",
+    "blurb": "Handwired converts ordinary JavaScript code into neural networks that reproduce exact program outputs without training or GPUs.",
+    "source_email": "tldr_ai_2026-10-16_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 15,
+    "section": "QUICK LINKS",
+    "heading": "HOW CODEX HAPPENED (40 MINUTE READ)",
+    "url": "https://every.to/p/how-codex-happened?utm_source=tldrai",
+    "blurb": "OpenAI's Codex evolved from a failed cloud launch to becoming the cornerstone of OpenAI's products, gaining over 40 million weekly users.",
+    "source_email": "tldr_ai_2026-10-16_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 16,
+    "section": null,
+    "heading": "TOGETHER WITH [WorkOS]",
+    "url": "https://workos.com/pipes?utm_source=tldrai&utm_medium=newsletter&utm_campaign=q42026&utm_content=header_workos_pipes_connect&utm_term=2026-10-19_tldr_ai",
+    "blurb": "TLDR AI 2026-10-19",
+    "source_email": "tldr_ai_2026-10-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 17,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "ANTHROPIC COMMITS EQUITY TO PUBLIC BENEFIT (1 MINUTE READ)",
+    "url": "https://www.anthropic.com/news/public-benefit-fund?utm_source=tldrai",
+    "blurb": "Anthropic announced plans to allocate an initial 5% of its equity to a new Public Benefit Fund, with additional contributions tied to valuation growth. The fund will support initiatives such as addressing AI's economic and labor impacts.",
+    "source_email": "tldr_ai_2026-10-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 18,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "OPENAI TESTING NEW \"AURORA\" GPT-IMAGE MODEL ON ARENA (3 MINUTE READ)",
+    "url": "https://www.testingcatalog.com/openai-possibly-testing-gpt-image-3/?utm_source=tldrai",
+    "blurb": "Three new model references briefly appeared in OpenAI's API and in blind arena tests this weekend. aurora-red-alpha, aurora-green-alpha, and aurora-blue-alpha appear to be image models and could possibly be GPT Image 3. In tests, red ran faster than green but was lower quality, while green was slower but looked better. Examples of images generated by the models are available in the article.",
+    "source_email": "tldr_ai_2026-10-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 19,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "HOW TO TRUST YOUR CODING AGENTS MORE (2 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/VT4HHo",
+    "blurb": "Reliable coding agents require better code architecture, strong invariants, and automated verification rather than extensive prompting or human review. Analyze past agent mistakes and code reviews to redesign systems that prevent recurring failures by default.",
+    "source_email": "tldr_ai_2026-10-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 20,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "HOW AI IS RESHAPING ANTHROPIC'S WORKFORCE (17 MINUTE READ)",
+    "url": "https://www.anthropic.com/research/employment-at-anthropic?utm_source=tldrai",
+    "blurb": "Anthropic reported a decline in junior technical hiring, with entry-level workers falling from 27% to 9% of technical hires since early 2025. Employees reported productivity gains from Claude, but increased AI output also shifted work toward supervising agents and made human attention a growing bottleneck.",
+    "source_email": "tldr_ai_2026-10-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 21,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "SEARCH & FETCH (8 MINUTE READ)",
+    "url": "https://api-docs.deepseek.com/guides/search/?utm_source=tldrai",
+    "blurb": "DeepSeek's Search and Fetch APIs give agents and RAG applications access to live web content. The Search API finds web pages for a query and returns structured results. The Fetch API retrieves a single web page and returns its content as Markdown. Both are raw JSON APIs. They use the same bearer authentication as the DeepSeek API.",
+    "source_email": "tldr_ai_2026-10-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 22,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "DEEPSEEK-V4.1-FLASH-1017 (HUGGING FACE REPO)",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017?utm_source=tldrai",
+    "blurb": "DeepSeek-V4.1-Flash-1017 delivers substantial improvements across reasoning, coding, agentic tasks, and visual benchmarks. It also reduces task execution time and output length, advancing the performance-cost Pareto frontier across multiple agent harnesses. DeepSeek-V4.1-Flash combines cross-layer KV cache reuse in Compressed Sparse Attention 2 with FP4 KV caching, reducing its global KV cache footprint to 890 bytes per token. Its persistent KV cache footprint is roughly 1/8 of that of DeepSeek-V4-Flash. The model delivers substantially better performance than the baseline despite its much smaller KV cache footprint.",
+    "source_email": "tldr_ai_2026-10-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 23,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "HOW THE CLAUDE CODE TEAM DOES CODE REVIEW (18 MINUTE READ)",
+    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/?utm_source=tldrai",
+    "blurb": "The Claude Code team has restructured its code review process to handle increased volume efficiently by automating most review stages. Key changes include continuous review, automated verifications, multi-layer checks before human intervention, and a tiered risk system for approvals.",
+    "source_email": "tldr_ai_2026-10-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 24,
+    "section": "MISCELLANEOUS",
+    "heading": "A BENCHMARK MAP OF THE US ECONOMY (16 MINUTE READ)",
+    "url": "https://www.mercor.com/research/labor-index/benchmark-map/?utm_source=tldrai",
+    "blurb": "The Benchmark Map is a project aimed at building a comprehensive, continuously updated resource for understanding AI capabilities across the economy. Initial findings suggest that 90% of American working hours are spent on tasks with little or no coverage from existing benchmarks. This makes it very hard to know how good AI models are at the work Americans actually do.",
+    "source_email": "tldr_ai_2026-10-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 25,
+    "section": "MISCELLANEOUS",
+    "heading": "REPLIT SWITCHES ITS DEFAULT AI PROVIDER TO OPENAI (3 MINUTE READ)",
+    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/?utm_source=tldrai",
+    "blurb": "Replit replaced Anthropic with OpenAI as its preferred provider for Replit Agent, citing cost, performance, and partnership considerations. CEO Amjad Masad clarified that users could still select Claude and other supported models.",
+    "source_email": "tldr_ai_2026-10-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 26,
+    "section": "QUICK LINKS",
+    "heading": "CLAUDE REVEALS ECDSA CURVE ORIGINS (9 MINUTE READ)",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins?utm_source=tldrai",
+    "blurb": "Claude revealed the origins of ECDSA curve seeds, showing they were derived using a C library's lrand48 random number generator seeded with Unix timestamps, rather than hash algorithms or backdoors.",
+    "source_email": "tldr_ai_2026-10-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 27,
+    "section": "QUICK LINKS",
+    "heading": "STACK OVERFLOW FOR AGENTS TRIPLES SIGNUPS WITH CHATGPT PLUGIN (4 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/24IIkx",
+    "blurb": "Stack Overflow for Agents saw a 3x increase in signups overnight after integrating a ChatGPT plugin.",
+    "source_email": "tldr_ai_2026-10-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 28,
+    "section": "QUICK LINKS",
+    "heading": "QUALCOMM SAYS AI LABS WANT 100B-PARAMETER MODELS RUNNING ON PHONES BY 2028 (2 MINUTE READ)",
+    "url": "https://thenextweb.com/news/qualcomm-cristiano-amon-ai-companies-phones-2028?utm_source=tldrai",
+    "blurb": "AI companies want phones that run 100B-plus-parameter models continuously by 2028, and some are already starting to build their own phones.",
+    "source_email": "tldr_ai_2026-10-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  }
+]

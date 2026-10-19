@@ -1,0 +1,18 @@
+[
+  {
+    "ref": 1,
+    "heading": "MUSE SPARK OPEN (4 MINUTE READ)",
+    "url": "https://research.meta.ai/blog/muse-spark-open?utm_source=tldrai",
+    "summary": "Meta released Muse Spark Open, an 816-billion-parameter open-weight AI model with 42 billion active parameters and a 1-million-token context window designed for coding and agentic tasks. The model is optimized to run on consumer hardware for the first time, specifically on two Apple M5 Ultra Mac Studios using the MLX framework, leveraging the chip's unified memory architecture to create what functions as a single supercomputer with a terabyte of memory. The model is available immediately through multiple platforms including Hugging Face, cloud providers like Google Cloud and AWS SageMaker, and inference partners such as Together AI and Groq, with support across multiple inference engines and hardware optimizations for AMD, Apple, Intel, and NVIDIA processors. Meta demonstrated real-world capabilities including autonomous iOS development work and video editing tasks performed entirely on-device, and released the weights under a limited commercial license allowing many developers free use. The release includes additional safety post-training measures and meets Meta's Superintelligence Scaling Framework thresholds for responsible deployment.",
+    "strategic_hook": "none.",
+    "source_email": "tldr_ai_2026-10-16_extracted.json"
+  },
+  {
+    "ref": 2,
+    "heading": "INSIDE MICROSOFT'S FRONTIER PRE-TRAINING STACK (18 MINUTE READ)",
+    "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/?utm_source=tldrai",
+    "summary": "I cannot provide an accurate summary of this article because the provided text does not contain the actual article content. The material furnished consists almost entirely of website navigation menus, styling code, and embedded metadata from the Microsoft AI website. While a heading and URL indicate the article is titled \"Frontier Pre-training at Microsoft AI,\" the substantive article text itself\u2014beyond a brief introductory paragraph\u2014is not included in what was provided. The single paragraph that appears states that Microsoft completed pre-training MAI-Base-2, a mixture-of-experts foundation model with 80 billion active and 2.8 trillion total parameters, and that it outperforms open-weight models while being 4-12x more pre-training FLOPs-efficient than DeepSeek-V4-Pro-Base. Without access to the full 18-minute read, I cannot accurately capture the key specifics, mechanisms, or complete significance of the work.",
+    "strategic_hook": "none.",
+    "source_email": "tldr_ai_2026-10-16_extracted.json"
+  }
+]
