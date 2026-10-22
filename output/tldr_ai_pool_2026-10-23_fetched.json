@@ -1,0 +1,525 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "MINIMAX M3.1 FLASH: REDEFINING AGENT PERFORMANCE AND COST (4 MINUTE READ)",
+      "url": "https://www.minimax.io/blog/minimax-m31f?utm_source=tldrai",
+      "blurb": "MiniMax M3.1 Flash delivers a generational leap in agentic tasks, coding, Computer Use, and cybersecurity. It makes online inference nearly three times faster and reduces usage costs by 70%. The model is now available through the MiniMax API, M Plan, and MiniMax Code. MiniMax plans to release the model weights at a later date.",
+      "source_email": "tldr_ai_2026-10-20_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 2,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "MERCURY 3 (4 MINUTE READ)",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3?utm_source=tldrai",
+      "blurb": "Inception Labs' Mercury 3 is a diffusion-based language model that reportedly outperformed GPT-6 Luna and Claude Haiku 5.5 on multiple benchmarks while generating over 1,000 tokens per second.",
+      "source_email": "tldr_ai_2026-10-20_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 3,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INTRODUCING CLAIRIC, A NEW SYSTEM ONE CLASS OF EXTRACTION MODELS (16 MINUTE READ)",
+      "url": "https://blog.cloudflare.com/clairic-extraction-model?utm_source=tldrai",
+      "blurb": "Clairic can extract, compute, estimate, and forecast values from unstructured inputs. It is an 'extraction model', a new class of System One-style model that returns values directly extracted from the input, computed from it, or predicted beyond it. The model doesn't generate any tokens, so it can't produce a mistyped answer or hallucinate in the same way LLMs can. It can still make mistakes, but its outputs come with confidence scores to help users evaluate whether it is appropriate to trust the model or to take a second look.",
+      "source_email": "tldr_ai_2026-10-20_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 4,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "INSIDE META'S GIGAWATT-SCALE AI SUPERCLUSTER (14 MINUTE READ)",
+      "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/?utm_source=tldrai",
+      "blurb": "Meta details the engineering behind Prometheus, its gigawatt-scale AI supercluster supporting the Muse model family. It explores its infrastructure design, plans to scale toward roughly one million GPUs, and closed-loop liquid cooling technology.",
+      "source_email": "tldr_ai_2026-10-20_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 5,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "AI BENCHMARKS: CLIMBING THE WRONG HILLS (24 MINUTE READ)",
+      "url": "https://research.contrary.com/report/ai-benchmarks-climbing-the-wrong-hills?utm_source=tldrai",
+      "blurb": "AI benchmarks are now shaping how models are evaluated in training and the capabilities they are designed to have. Poorly constructed benchmarks could push the industry in the wrong direction. Creating benchmarks impervious to benchmaxxing requires expertise in measuring what we actually want from AI systems. As benchmaxxing continues, researchers must decide which hills they want to climb and whether today's benchmarks actually reward progress in that direction.",
+      "source_email": "tldr_ai_2026-10-20_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 6,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "IMPORT AI 477: IN WHICH I TELL THE IMF THE SINGULARITY HAS BEGUN (22 MINUTE READ)",
+      "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the?utm_source=tldrai",
+      "blurb": "AI's impact on national security and economic trajectories marks the onset of the singularity, accelerating scientific and technological progress. AI systems like Claude, ChatGPT, and Gemini are already solving complex problems in disciplines like mathematics, biology, and robotics, indicating potential for widespread innovation. To capitalize on these advancements, there needs to be significant infrastructure development and careful governance to navigate the associated risks and ensure equitable benefits.",
+      "source_email": "tldr_ai_2026-10-20_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 7,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "INTRODUCING EXA 3.0 (3 MINUTE READ)",
+      "url": "https://exa.ai/blog/exa-3?utm_source=tldrai",
+      "blurb": "Exa 3.0 leads on evaluations spanning coding, finance, deep research, and company intelligence. The release includes Exa Lite, a new search type priced at $4 per 1,000 requests. Exa runs its own crawler and an independent index, tracking over 2 trillion URLs, serving 100 billion pages, and growing around what its customers search for. The index includes 1.27B ecommerce listings with prices and availability, over 211 million local businesses with hours and ratings, real-time news, sports, weather, and market data, and information on flights, local events, transit, and podcasts.",
+      "source_email": "tldr_ai_2026-10-20_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 8,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "INTRODUCING TORCHNEURON: NATIVE PYTORCH BACKEND FOR AWS TRAINIUM (27 MINUTE READ)",
+      "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/?utm_source=tldrai",
+      "blurb": "TorchNeuron is an open-source native PyTorch backend for Trainium. It uses the model code, the libraries, and the tools developers already use on Trainium. TorchNeuron supports eager execution for research and debugging. It has been released in public Beta under the Apache 2.0 open source licence.",
+      "source_email": "tldr_ai_2026-10-20_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 9,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "OFFICE INTELLIGENCE FOR LONG-RUNNING AI WORK (3 MINUTE READ)",
+      "url": "https://officeintelligence.github.io/?utm_source=tldrai",
+      "blurb": "Office Intelligence explores how AI agents can use evidence, create useful work artifacts, and carry knowledge across tasks. The project focuses on environments, datasets, and learning methods for sustained knowledge work.",
+      "source_email": "tldr_ai_2026-10-20_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 10,
+      "section": "MISCELLANEOUS",
+      "heading": "NSCALE AND ANTHROPIC ARE REPORTEDLY IN TALKS FOR YET ANOTHER $45B COMPUTE DEAL (1 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/?utm_source=tldrai",
+      "blurb": "Anthropic and Nscale may be on the verge of announcing another $45 billion compute deal. The two companies announced a $45 billion compute deal only a little over a month ago. Both companies are currently pursuing IPOs. Anthropic is still expected to go public this year. Nscale is experiencing investor pushback over its proposed valuation of $30 billion.",
+      "source_email": "tldr_ai_2026-10-20_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 11,
+      "section": "MISCELLANEOUS",
+      "heading": "AI LAB OFFERS FREE PLUMBING AND HVAC REPAIRS ACROSS THREE CITIES TO TRAIN AI ROBOTS (2 MINUTE READ)",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning?utm_source=tldrai",
+      "blurb": "AI lab HUMXN is subsidizing plumbing, electrical, HVAC, air-duct cleaning, and carpet cleaning in Minneapolis, Chicago, and Miami so it can gather real-world data to train AI robots. The laborers doing the jobs will wear cameras to record their work inside real homes. People living in the three cities the program is running in can check whether they qualify on the HUMXN Free Home Service webpage.",
+      "source_email": "tldr_ai_2026-10-20_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 12,
+      "section": "QUICK LINKS",
+      "heading": "THE THIN ORCHESTRATOR: HOW WE MADE OUR AI AGENTS MORE RELIABLE BY GIVING THE ROUTER LESS TO DO (11 MINUTE READ)",
+      "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/?utm_source=tldrai",
+      "blurb": "Meta built an orchestrator that routes workflows to specialized AI agents without performing any of the domain work itself.",
+      "source_email": "tldr_ai_2026-10-20_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 13,
+      "section": "QUICK LINKS",
+      "heading": "HOW TO SHAPE YOUR SLIDES AND VIDEOS WITH GEMINI NOTEBOOK (1 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/?utm_source=tldrai",
+      "blurb": "Gemini Notebook offers tools to create slides and videos with AI-driven design suggestions.",
+      "source_email": "tldr_ai_2026-10-20_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 14,
+      "section": "QUICK LINKS",
+      "heading": "IMPROVING AI CODING IN OLDER PROGRAMMING LANGUAGES (6 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/8YWZqn",
+      "blurb": "OpenAI reported major improvements in coding and software migration across languages such as COBOL, Fortran, and Visual Basic.",
+      "source_email": "tldr_ai_2026-10-20_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 15,
+      "section": "QUICK LINKS",
+      "heading": "PUSH-BASED KV TRANSFER TO IMPROVE TTFT AND TPOT FOR DISAGGREGATED INFERENCE IN VLLM (11 MINUTE READ)",
+      "url": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/?utm_source=tldrai",
+      "blurb": "The vLLM engine introduced a push-based KV transfer to minimize time-to-first-token (TTFT) and time-per-output-token (TPOT) in disaggregated inference setups.",
+      "source_email": "tldr_ai_2026-10-20_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 16,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "DEEPINFER (GITHUB REPO)",
+      "url": "https://github.com/deepseek-ai/DeepInfer?utm_source=tldrai",
+      "blurb": "DeepInfer is the inference framework that powers DeepSeek's large-scale production services. This repository contains a version for offline inference with the core features needed for serving at scale. It allows anyone to run DeepSeek-V4.1-Flash on NVIDIA SM100 GPUs or Huawei Ascend 950 NPUs. A KV cache system, VE/Prefill/Decode disaggregation, and load balancing across data-parallel replicas for both prefill and decode are still required for a complete inference service.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 17,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GOOGLE AND META BRING NATIVE PYTORCH SUPPORT TO TPUS (17 MINUTE READ)",
+      "url": "https://pytorch.org/blog/introducing-torchtpu/?utm_source=tldrai",
+      "blurb": "TorchTPU is an open-source PyTorch backend designed to make running and migrating models to Google's TPUs easier. It supports training and inference through optimized eager execution, torch.compile integration, and native hardware acceleration.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 18,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "VOXTRAL 3: VOICE AGENT SDK & SPEECH MODELS IN 50+ LANGUAGES (7 MINUTE READ)",
+      "url": "https://mistral.ai/news/voxtral-3/?utm_source=tldrai",
+      "blurb": "Voxtral 3 offers advanced speech-to-text and text-to-speech capabilities across 50+ languages. Featuring models like Small Transcribe 3 for multilingual transcription and Mini TTS 3 for natural emotional speech, it includes a voice agent SDK combining real-time listening, reasoning, and speaking, enabling seamless interactions and task execution over phone or web.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 19,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "THE NEXT BOTTLENECK IN AI FOR SCIENCE (9 MINUTE READ)",
+      "url": "https://www.mixtureofexperts.co/p/the-next-bottleneck-in-ai-for-science?utm_source=tldrai",
+      "blurb": "AI is speeding up individual research tasks, but the overall process of turning predictions into validated discoveries is still constrained. If AI is able to push science, it will also push economic growth, as a big part of economic growth is innovation and scientific discovery. Discovery is still constrained by the types of tasks that AI is not yet good at. This post looks at where the bottleneck is today, how that is evolving, and what impact this has on scientific research more broadly.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 20,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "THE GAP BETWEEN GPUS AND COMPUTE (4 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/gj3YyX",
+      "blurb": "AI infrastructure operators face seemingly unlimited compute demand, but financing, power availability, hardware deployment, and public opposition constrain supply. Older GPUs retain value longer than expected, while securing capital and reliably operating clusters are becoming competitive advantages.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 21,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "THE AGE OF REASONING (25 MINUTE READ)",
+      "url": "https://metisreasoning.ai/whitepaper/the-age-of-reasoning-2026-10.pdf?utm_source=tldrai",
+      "blurb": "Metis Reasoning proposes an AlphaGo-inspired architecture that separates verified knowledge from learned reasoning strategies. By explicitly tracking evidence, uncertainty, and reasoning steps, the framework aims to reduce hallucinations, enable auditable conclusions, and improve generalization across domains.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 22,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "REVIEW OF THE \"MISALIGNMENT IN HIGH-STAKES SETTINGS\" SECTION IN ANTHROPIC'S RISK REPORT (30 MINUTE READ)",
+      "url": "https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review/?utm_source=tldrai",
+      "blurb": "METR reviewed Anthropic's \"Misalignment in high-stakes settings\" and largely agrees that the misalignment risk of covered models is low due to limited capabilities, not robust safeguards. However, current evaluations may not reliably identify risks if they increase, and benchmarks fail to assess models' ability to deceive Anthropic's monitoring systems. Recent incidents revealed undetected real-world misalignments, challenging claims of low risk and suggesting deficiencies in Anthropic's monitoring and risk assessments, leading to recommendations for comprehensive red-teaming and expanded risk frameworks.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 23,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "BUILDING LAMINAR: RAMP'S MANAGED AGENTS PLATFORM (14 MINUTE READ)",
+      "url": "https://builders.ramp.com/post/building-laminar?utm_source=tldrai",
+      "blurb": "Laminar is an in-house agent harness for Ramp's agentic products. It features secure conversation history storage, session compaction, standard interfaces for tool calling, message queuing and steering, subagents, multiplayer chat support, observability tooling, and much more. The first version of Laminar was built in six weeks with a small team of obsessive, experienced engineers who worked with and steered the agents. Its code was generated entirely by agents using the most powerful models available at the time. While building in-house has become cheaper, Ramp still needs good engineers to be on-call, keep the platform healthy, and figure out what product teams actually need and how it fits into the bigger picture.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 24,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "LLM-D (WEBSITE)",
+      "url": "https://llm-d.ai/?utm_source=tldrai",
+      "blurb": "llm-d is a Kubernetes-native stack for distributed LLM inference. It runs vLLM, SGLang, and more across clusters, turning single-node engines into production-grade serving on local hardware. llm-d provides tested deployment recipes for common production patterns that are adaptable starting points across models, hardware, and workloads. It runs production LLM inference across GPUs, TPUs, XPUs, CPUs, and emerging NPUs with consistent performance patterns, so teams can deploy once and scale anywhere with predictable cost and behavior.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 25,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "MAKING EVERY HARNESS DURABLE (7 MINUTE READ)",
+      "url": "https://vercel.com/blog/making-every-harness-durable?utm_source=tldrai",
+      "blurb": "Vercel's durable-harness allows agent harnesses to run durably in the cloud out-of-the-box. It allows users to run Pi, OpenCode, Codex, and Claude Code durably on Vercel or self-hosted on their own Postgres instance. durable-harness ensures that sessions survive crashes mid-turn and keep running even if the browser disconnects. Turns that lose function partway through continue from the log on a new one without manual retry and without repeating what already finished.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 26,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "DEEPSEEK V4.1 FLASH: LARGE-SCALE INFERENCE DEPLOYMENT (15 MINUTE READ)",
+      "url": "https://zhuanlan.zhihu.com/p/2095560295930508953?utm_source=tldrai",
+      "blurb": "DeepInfer combines distributed inference, caching, load balancing, and speculative decoding to improve efficiency. DeepSeek processes 155 trillion tokens daily per cluster and earns $38 in revenue per GPU-hour while open-sourcing much of its inference framework.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 27,
+      "section": "MISCELLANEOUS",
+      "heading": "OPENAI ACQUIRES ORCHESTRA BIO TO ACCELERATE DRUG DEVELOPMENT (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/Li6OXX",
+      "blurb": "OpenAI acquired Orchestra Bio to combine its AI-powered drug development coordination platform with Rosalind, its suite of life sciences AI tools.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 28,
+      "section": "MISCELLANEOUS",
+      "heading": "COXON DAY (48 MINUTE READ)",
+      "url": "https://www.thenewcritic.com/p/coxon-day?utm_source=tldrai",
+      "blurb": "On September 8, Jacob Coxon, a 27-year-old machine learning researcher who had resigned from Anthropic, warned the world that AI companies were not acting responsibly and that they were gambling with people's lives by racing straight to self-improving superintelligence. Many researchers seriously believe that AI could kill all humans. While Anthropic may be trying its best, it still doesn't have a plan to solve alignment for superintelligence and is not on track to.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 29,
+      "section": "MISCELLANEOUS",
+      "heading": "SUNDAR PICHAI ON GOOGLE'S AI STRATEGY AND COMPUTE TRADEOFFS (15 MINUTE READ)",
+      "url": "https://www.bigtechnology.com/p/sundar-pichai-googles-frontier-imperative?utm_source=tldrai",
+      "blurb": "Google CEO Sundar Pichai discussed the company's commitment to frontier AI research, including sacrificing short-term cloud revenue to allocate compute to model development.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 30,
+      "section": "QUICK LINKS",
+      "heading": "SUPERHUMAN HARDWARE DESIGN IS THE EASY PART (18 MINUTE READ)",
+      "url": "https://www.a16z.news/p/superhuman-hardware-design-is-the?utm_source=tldrai",
+      "blurb": "The interface between the digital and physical world is lossy - this lossiness will shape when and how future superhuman hardware engineers will emerge.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 31,
+      "section": "QUICK LINKS",
+      "heading": "MEMCURRENT: DESIGNING PERSISTENT MEMORY FOR PRODUCTION AGENTS (15 MINUTE READ)",
+      "url": "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents?utm_source=tldrai",
+      "blurb": "MemCurrent is a persistent memory architecture for production agents that can triple an agent's pass rate over no memory while also making it faster and cheaper.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 32,
+      "section": "QUICK LINKS",
+      "heading": "BEYOND G-MEAN\u00b2: COMPLEMENTARY METRICS FOR MONITORABILITY (27 MINUTE READ)",
+      "url": "https://alignment.openai.com/beyond-gmean-squared/?utm_source=tldrai",
+      "blurb": "OpenAI introduces two metrics to address limitations of g-mean\u00b2 in measuring model monitorability.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 33,
+      "section": "QUICK LINKS",
+      "heading": "ELEVEN REALTIME (WEBSITE)",
+      "url": "https://elevenlabs.io/realtime?utm_source=tldrai",
+      "blurb": "Eleven Realtime is a new class of Speech-to-Speech models for building natural voice agents.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 34,
+      "section": "QUICK LINKS",
+      "heading": "CHATGPT NOW LETS YOU LOCK YOUR CHATS (2 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/?utm_source=tldrai",
+      "blurb": "Locked chats are kept separate from regular chat history, pinned conversations, and chat search results.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 35,
+      "section": "QUICK LINKS",
+      "heading": "META'S MUSE REACHES 10 MILLION US DOWNLOADS IN 40 DAYS (1 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/?utm_source=tldrai",
+      "blurb": "Meta's AI companion Muse reached 10.2 million US downloads within 40 days, a milestone previously achieved by only 11 other apps.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 36,
+      "section": "QUICK LINKS",
+      "heading": "SPARK-X2.6-4B: STRONGER ON-DEVICE AI AGENTS (3 MINUTE READ)",
+      "url": "https://huggingface.co/XHToken/Spark-X2.6-4B?utm_source=tldrai",
+      "blurb": "SparkLLM released Spark-X2.6-4B, an open-source model with improved coding, reasoning, long-context, and agentic capabilities through post-training.",
+      "source_email": "tldr_ai_2026-10-21_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 37,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "CLAUDE DUET (5 MINUTE READ)",
+      "url": "https://claude.com/resources/articles/claude-duet?utm_source=tldrai",
+      "blurb": "Anthropic has unveiled Claude Duet, a proactive AI agent powered by Opus 5.5 that monitors connected apps, prioritizes tasks, and works autonomously while requesting approval before certain actions. The research preview initially targeted US Pro and Max subscribers through a waitlist.",
+      "source_email": "tldr_ai_2026-10-22_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 38,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INTRODUCING FLINT (7 MINUTE READ)",
+      "url": "https://recursive.com/updates/introducing-recursive-flint?utm_source=tldrai",
+      "blurb": "Recursive Flint is a mixture-of-experts model built for fast agentic coding on local hardware. It has 40 billion total parameters but activates just 2.5 billion per token. It was built from scratch by a small team of people and agents in under four months. Flint generates more than 125 tokens per second on an M4 Pro MacBook Pro and more than 150 tokens per second on a 64GB NVIDIA RTX Spark at short contexts. It can be used as a daily coding model to complete tasks locally without sending data to a remote server.",
+      "source_email": "tldr_ai_2026-10-22_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 39,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI MODELS ARE COMING TO GOOGLE CLOUD (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/YF7u8T",
+      "blurb": "OpenAI's frontier models and Codex agentic workflows are coming to Google Cloud's Model Garden. The integration will give customers native access to these models to power complex agentic workflows at scale. It will pair OpenAI's frontier models with Google Cloud's built-in access controls, centralized data governance, and high-performance infrastructure to support demanding enterprise workloads. OpenAI models will soon be available in Google Antigravity and the Gemini Agent.",
+      "source_email": "tldr_ai_2026-10-22_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 40,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "IF INTELLIGENCE IS GETTING CHEAP, WHAT REMAINS EXPENSIVE? (7 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/DMzqkD",
+      "blurb": "Long Lake argues that acquiring established service businesses solves AI deployment barriers through customer trust, expert knowledge, proprietary data, and aligned incentives. Backed by $7.5B, the company has partnered with 40 businesses to turn automation into measurable operating gains.",
+      "source_email": "tldr_ai_2026-10-22_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 41,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOW DOES FABLE 5.1 HIDE MESSAGES IN IMAGES? (15 MINUTE READ)",
+      "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images?utm_source=tldrai",
+      "blurb": "Language models can encode messages in images. These messages can be decoded by the same language model even if no information about the encoding method is passed. The act of decoding the hidden messages is obvious if the tool calls of the decoding model are monitored. The encoded messaging is surprisingly hard to spot, and it could be used as a precursor to steganography in images.",
+      "source_email": "tldr_ai_2026-10-22_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 42,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "CLAUDE MODS: FLIPPING THE HARNESS INSIDE OUT (11 MINUTE READ)",
+      "url": "https://www.latent.space/p/claude-mods?utm_source=tldrai",
+      "blurb": "Claude Mods flips the agent harness paradigm to face the human, creating a customizable \"Attention Interface\" for Claude AI. Mods are TypeScript or JavaScript functions that alter Claude Code's behavior in real-time, allowing users to design how Claude interacts with them. This shift lets users program the human-agent interface and even have Claude build mods, enhancing workflow and decision-making.",
+      "source_email": "tldr_ai_2026-10-22_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 43,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "CLAUDE API VERSION 2026-10-21 IS NOW AVAILABLE (1 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2113013247209021918.html?utm_source=tldrai",
+      "blurb": "The Claude API has received its first official version release since 2023. Anthropic plans to release versions more often so developers can handle breaking changes before a new model requires them. 2023-06-10 is not deprecated. New major versions of the Anthropic SDKs and CLI are out today and default to the new API. A migration guide is available.",
+      "source_email": "tldr_ai_2026-10-22_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 44,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "MAMMOTH-1 AND ELEPHANT-1: FRONTIER DECISION MODELS (20 MINUTE READ)",
+      "url": "https://labs.baseten.co/articles/mammoth-1-and-elephant-1-frontier-decision-models?utm_source=tldrai",
+      "blurb": "Mammoth-1 and Elephant-1, decision models from Base Labs, top benchmarks like the Jev Decision Index and Artificial Analysis Decision Index.",
+      "source_email": "tldr_ai_2026-10-22_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 45,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "ANNOUNCING HUMMING: FAST, FLEXIBLE KERNELS FOR QUANTIZED INFERENCE (19 MINUTE READ)",
+      "url": "https://vllm.ai/blog/2026-10-21-humming?utm_source=tldrai",
+      "blurb": "Humming is a general-purpose kernel library for quantized inference. It features broad device support, extensive quantization support, and strong execution performance. Humming's unified architecture makes it straightforward to tune execution parameters and collect pipelines for different workloads.",
+      "source_email": "tldr_ai_2026-10-22_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 46,
+      "section": "MISCELLANEOUS",
+      "heading": "OPENAI'S PHP PATCHER (11 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/ESr8Z4",
+      "blurb": "OpenAI coordinated with PHP maintainers and security partners to patch critical vulnerabilities discovered using GPT-5.6 Sol and independently by Wiz. The company also released a PHP vulnerability checker and proposed a framework for coordinating responses to AI-discovered security flaws.",
+      "source_email": "tldr_ai_2026-10-22_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 47,
+      "section": "MISCELLANEOUS",
+      "heading": "OPENCLAW CREATOR SAYS HE SPENT $10 MILLION IN TOKENS LAST MONTH (4 MINUTE READ)",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/21/openclaw-creator-says-he-spent-10-million-in-tokens-last-month/5304573?utm_source=tldrai",
+      "blurb": "Peter Steinberger, the creator of OpenClaw and now a member of technical staff at OpenAI, estimates that he spent around $10 million in tokens running AI workloads last month, all from out of investors' pockets. Steinberger has a virtually unlimited token budget, allowing him to work differently from others in the industry. This article collects some of his answers during a conversation with Cloudflare's CTO at the Cloudflare Connect 2026 conference.",
+      "source_email": "tldr_ai_2026-10-22_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 48,
+      "section": "QUICK LINKS",
+      "heading": "A RESPONSE FROM DARIO AMODEI (8 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2112732230124818891.html?utm_source=tldrai",
+      "blurb": "Dario Amodei responds to a post regarding Anthropic's stance on AI safety by listing the things that the company did in the past year that were pro-safety and commercially costly to it.",
+      "source_email": "tldr_ai_2026-10-22_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 49,
+      "section": "QUICK LINKS",
+      "heading": "OPENAI CLI (GITHUB REPO)",
+      "url": "https://github.com/openai/openai-cli?utm_source=tldrai",
+      "blurb": "This repository contains the official CLI for the OpenAI API.",
+      "source_email": "tldr_ai_2026-10-22_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 50,
+      "section": "QUICK LINKS",
+      "heading": "COMPUTER USE ON THE PHONE ITSELF: A 2B MODEL THAT OPERATES ANDROID APPS (4 MINUTE READ)",
+      "url": "https://getopposable.com/blog/computer-use-on-the-phone?utm_source=tldrai",
+      "blurb": "GUI-Owl 1.5 is a 2-billion-parameter screen model that can read an Android screen through the accessibility service and tap and type in any other app.",
+      "source_email": "tldr_ai_2026-10-22_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 51,
+      "section": "QUICK LINKS",
+      "heading": "MONACO LAUNCHES AGENT MATRIX FOR REVENUE GROWTH (1 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/OMNqkl",
+      "blurb": "Agent Matrix is a platform that coordinates multiple AI agents working continuously toward revenue growth.",
+      "source_email": "tldr_ai_2026-10-22_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 52,
+      "section": "QUICK LINKS",
+      "heading": "CONTAINED: OCT 21, 2026 LITELLM RELEASE V1.107.0 COMPROMISED (11 MINUTE READ)",
+      "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026?utm_source=tldrai",
+      "blurb": "A malicious LiteLLM package was published to PyPI and was live for approximately 2 hours before it was pulled.",
+      "source_email": "tldr_ai_2026-10-22_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    }
+  ],
+  "dropped": []
+}

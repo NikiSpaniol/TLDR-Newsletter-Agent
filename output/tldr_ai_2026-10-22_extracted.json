@@ -1,0 +1,142 @@
+{
+  "kept": [
+    {
+      "ref": 6,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "CLAUDE DUET (5 MINUTE READ)",
+      "url": "https://claude.com/resources/articles/claude-duet?utm_source=tldrai",
+      "blurb": "Anthropic has unveiled Claude Duet, a proactive AI agent powered by Opus 5.5 that monitors connected apps, prioritizes tasks, and works autonomously while requesting approval before certain actions. The research preview initially targeted US Pro and Max subscribers through a waitlist."
+    },
+    {
+      "ref": 7,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INTRODUCING FLINT (7 MINUTE READ)",
+      "url": "https://recursive.com/updates/introducing-recursive-flint?utm_source=tldrai",
+      "blurb": "Recursive Flint is a mixture-of-experts model built for fast agentic coding on local hardware. It has 40 billion total parameters but activates just 2.5 billion per token. It was built from scratch by a small team of people and agents in under four months. Flint generates more than 125 tokens per second on an M4 Pro MacBook Pro and more than 150 tokens per second on a 64GB NVIDIA RTX Spark at short contexts. It can be used as a daily coding model to complete tasks locally without sending data to a remote server."
+    },
+    {
+      "ref": 8,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI MODELS ARE COMING TO GOOGLE CLOUD (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/YF7u8T",
+      "blurb": "OpenAI's frontier models and Codex agentic workflows are coming to Google Cloud's Model Garden. The integration will give customers native access to these models to power complex agentic workflows at scale. It will pair OpenAI's frontier models with Google Cloud's built-in access controls, centralized data governance, and high-performance infrastructure to support demanding enterprise workloads. OpenAI models will soon be available in Google Antigravity and the Gemini Agent."
+    },
+    {
+      "ref": 9,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "IF INTELLIGENCE IS GETTING CHEAP, WHAT REMAINS EXPENSIVE? (7 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/DMzqkD",
+      "blurb": "Long Lake argues that acquiring established service businesses solves AI deployment barriers through customer trust, expert knowledge, proprietary data, and aligned incentives. Backed by $7.5B, the company has partnered with 40 businesses to turn automation into measurable operating gains."
+    },
+    {
+      "ref": 10,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOW DOES FABLE 5.1 HIDE MESSAGES IN IMAGES? (15 MINUTE READ)",
+      "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images?utm_source=tldrai",
+      "blurb": "Language models can encode messages in images. These messages can be decoded by the same language model even if no information about the encoding method is passed. The act of decoding the hidden messages is obvious if the tool calls of the decoding model are monitored. The encoded messaging is surprisingly hard to spot, and it could be used as a precursor to steganography in images."
+    },
+    {
+      "ref": 11,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "CLAUDE MODS: FLIPPING THE HARNESS INSIDE OUT (11 MINUTE READ)",
+      "url": "https://www.latent.space/p/claude-mods?utm_source=tldrai",
+      "blurb": "Claude Mods flips the agent harness paradigm to face the human, creating a customizable \"Attention Interface\" for Claude AI. Mods are TypeScript or JavaScript functions that alter Claude Code's behavior in real-time, allowing users to design how Claude interacts with them. This shift lets users program the human-agent interface and even have Claude build mods, enhancing workflow and decision-making."
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "CLAUDE API VERSION 2026-10-21 IS NOW AVAILABLE (1 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2113013247209021918.html?utm_source=tldrai",
+      "blurb": "The Claude API has received its first official version release since 2023. Anthropic plans to release versions more often so developers can handle breaking changes before a new model requires them. 2023-06-10 is not deprecated. New major versions of the Anthropic SDKs and CLI are out today and default to the new API. A migration guide is available."
+    },
+    {
+      "ref": 14,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "MAMMOTH-1 AND ELEPHANT-1: FRONTIER DECISION MODELS (20 MINUTE READ)",
+      "url": "https://labs.baseten.co/articles/mammoth-1-and-elephant-1-frontier-decision-models?utm_source=tldrai",
+      "blurb": "Mammoth-1 and Elephant-1, decision models from Base Labs, top benchmarks like the Jev Decision Index and Artificial Analysis Decision Index."
+    },
+    {
+      "ref": 15,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "ANNOUNCING HUMMING: FAST, FLEXIBLE KERNELS FOR QUANTIZED INFERENCE (19 MINUTE READ)",
+      "url": "https://vllm.ai/blog/2026-10-21-humming?utm_source=tldrai",
+      "blurb": "Humming is a general-purpose kernel library for quantized inference. It features broad device support, extensive quantization support, and strong execution performance. Humming's unified architecture makes it straightforward to tune execution parameters and collect pipelines for different workloads."
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "OPENAI'S PHP PATCHER (11 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/ESr8Z4",
+      "blurb": "OpenAI coordinated with PHP maintainers and security partners to patch critical vulnerabilities discovered using GPT-5.6 Sol and independently by Wiz. The company also released a PHP vulnerability checker and proposed a framework for coordinating responses to AI-discovered security flaws."
+    },
+    {
+      "ref": 17,
+      "section": "MISCELLANEOUS",
+      "heading": "OPENCLAW CREATOR SAYS HE SPENT $10 MILLION IN TOKENS LAST MONTH (4 MINUTE READ)",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/21/openclaw-creator-says-he-spent-10-million-in-tokens-last-month/5304573?utm_source=tldrai",
+      "blurb": "Peter Steinberger, the creator of OpenClaw and now a member of technical staff at OpenAI, estimates that he spent around $10 million in tokens running AI workloads last month, all from out of investors' pockets. Steinberger has a virtually unlimited token budget, allowing him to work differently from others in the industry. This article collects some of his answers during a conversation with Cloudflare's CTO at the Cloudflare Connect 2026 conference."
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "A RESPONSE FROM DARIO AMODEI (8 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2112732230124818891.html?utm_source=tldrai",
+      "blurb": "Dario Amodei responds to a post regarding Anthropic's stance on AI safety by listing the things that the company did in the past year that were pro-safety and commercially costly to it."
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "OPENAI CLI (GITHUB REPO)",
+      "url": "https://github.com/openai/openai-cli?utm_source=tldrai",
+      "blurb": "This repository contains the official CLI for the OpenAI API."
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "COMPUTER USE ON THE PHONE ITSELF: A 2B MODEL THAT OPERATES ANDROID APPS (4 MINUTE READ)",
+      "url": "https://getopposable.com/blog/computer-use-on-the-phone?utm_source=tldrai",
+      "blurb": "GUI-Owl 1.5 is a 2-billion-parameter screen model that can read an Android screen through the accessibility service and tap and type in any other app."
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "MONACO LAUNCHES AGENT MATRIX FOR REVENUE GROWTH (1 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/OMNqkl",
+      "blurb": "Agent Matrix is a platform that coordinates multiple AI agents working continuously toward revenue growth."
+    },
+    {
+      "ref": 23,
+      "section": "QUICK LINKS",
+      "heading": "CONTAINED: OCT 21, 2026 LITELLM RELEASE V1.107.0 COMPROMISED (11 MINUTE READ)",
+      "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026?utm_source=tldrai",
+      "blurb": "A malicious LiteLLM package was published to PyPI and was live for approximately 2 hours before it was pulled."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "UPSKILL YOUR AI AGENTS WITH REAL-TIME WEB SEARCH (SPONSOR)",
+      "url": "https://serpapi.com/tldr-ai",
+      "blurb": "Agents are smarter when they can search the web. Give yours access to live search data with SERPAPI.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 12,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "AN INCIDENT RESPONSE SURVIVAL GUIDE FOR THE AI ERA (SPONSOR)",
+      "url": "https://www.datadoghq.com/resources/on-call-survival-guide/?utm_source=tldrnewsletter&utm_medium=newsletter&utm_campaign=dg-content-ebook-2026oncallsurvivalguideforaiera-servicemanagement-incidentresponse-ww-en-701vy000010pgkfyaa-tldr-ai-secondary-102226",
+      "blurb": "AI-integration means engineers can rapidly ship large quantities of code \u2013 but when something breaks, on-call teams need to fix things just as quickly. Datadog's new guide [12] maps a clear division of labor between AI and engineers from triage to post-incident review \u2013 allowing responders to start from assembled evidence, rather than an empty search box. Get the guide. [12]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "GUIDE: SPOT AI SPIKES BEFORE THE BILL ARRIVES (SPONSOR)",
+      "url": "https://1password.com/resources/managing-ai-spend?utm_medium=paid_newsletter&utm_source=tldr&utm_campaign=2026q1_saasmanager_gc_managing-ai-spend_sa&utm_content=quick_link",
+      "blurb": "Learn how AI program leaders, Finance, and IT can work together to manage AI spend and usage. Read it now. [18]",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

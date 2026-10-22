@@ -1,0 +1,117 @@
+{
+  "kept": [
+    {
+      "ref": 5,
+      "section": null,
+      "heading": "CONSUMERS RETHINK VALUE AS UNCERTAINTY AND INFLATION PERSIST (2 MINUTE READ)",
+      "url": "https://www.forrester.com/blogs/consumers-are-rethinking-value-as-uncertainty-and-inflation-persist/?utm_source=tldrmarketing",
+      "blurb": "Consumers are adopting 3 distinct spending behaviors depending on the purchase. Some pay more for premium experiences and better performance. Others balance quality and convenience against price to get the most from every dollar. Those seeking to limit spending choose cheaper alternatives and promotions while protecting budgets for priorities. These behaviors aren't fixed consumer segments. The same person may splurge in one category while trading down in another depending on the occasion and perceived value."
+    },
+    {
+      "ref": 6,
+      "section": null,
+      "heading": "GOOGLE IS FEEDING RANK TRACKERS POISONED SERPS WITH SWAPPED RESULTS, NOZZLE FINDS (3 MINUTE READ)",
+      "url": "https://coywolf.com/news/seo/google-is-feeding-rank-trackers-poisoned-serps-with-swapped-results-nozzle-finds/?utm_source=tldrmarketing",
+      "blurb": "Google has been feeding rank trackers fake search results since September 13. Nozzle found that 8.4% of SERPs were affected across 27M results analyzed. The poisoned pages look normal but retain just 22% of their usual sites. This causes tracked top-10 rankings to disappear 60.2% of the time. Social platforms and forums appear more often in these results. SEO teams should cross-check ranking drops against Google Search Console before assuming their rankings have changed."
+    },
+    {
+      "ref": 7,
+      "section": null,
+      "heading": "PR FOR GEO: 4 WAYS IT CAN INFLUENCE AI VISIBILITY (11 MINUTE READ)",
+      "url": "https://www.buzzstream.com/blog/pr-for-seo/?utm_source=tldrmarketing",
+      "blurb": "PR can improve AI visibility by earning citations for original research, reinforcing how third-party publications describe a brand, building backlinks, and increasing brand awareness. Research tied to customer pain points is more likely to earn useful AI citations than data that is merely related to the business. Consistently using the same brand descriptor in pitches and press releases can also help AI associate a company with its intended category. Measure one specific goal by establishing a baseline and tracking the same prompts across AI platforms over time. Media placements alone do not prove an impact on AI visibility, so report coverage separately from changes in citations, mentions, and recommendations."
+    },
+    {
+      "ref": 11,
+      "section": null,
+      "heading": "META PERFORMANCE UNLOCKED: VIRTUAL EDITION (WEBINAR)",
+      "url": "https://www.events.atmeta.com/performanceunlockedvirtualedition1/?utm_source=tldrmarketing",
+      "blurb": "Meta is bringing performance marketers, growth leaders, and agency partners together for one focused hour on the strategies that drive results during the holiday season. They'll cover seasonal trends, signal optimization, creative diversification, and more. The free webinar will take place on October 22 at 12:30 PM ET."
+    },
+    {
+      "ref": 12,
+      "section": null,
+      "heading": "SPOTIFY LAUNCHES PAID PODCAST MEMBERSHIPS WITH PERKS BEYOND BONUS CONTENT (2 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/?utm_source=tldrmarketing",
+      "blurb": "Spotify is giving podcasters a subscription revenue stream that doesn't depend on ads as it pushes deeper into video podcasts to compete with YouTube. Creators keep 90% of membership revenue and can mix perks like fewer ads, early access, and bonus video across multiple tiers."
+    },
+    {
+      "ref": 13,
+      "section": "MISCELLANEOUS",
+      "heading": "THE DISABILITY INCLUSION EFFECT (3 MINUTE READ)",
+      "url": "https://app.sciencesays.com/p/the-disability-inclusion-effect?utm_source=tldrmarketing",
+      "blurb": "In tests with more than 4,500 participants, Ads featuring a model with a disability made people 33% more likely to choose the product. The lift holds even when people are told the brand cast a wheelchair user only to meet regulations. However, it disappears when the ad calls attention to the disability or portrays the person as vulnerable, since the benefit comes from treating a stigmatized group as ordinary customers."
+    },
+    {
+      "ref": 14,
+      "section": "MISCELLANEOUS",
+      "heading": "I ANALYZED 1,100+ MARKETING JOB POSTS. THEY'RE STUCK IN 2023 (26 MINUTE READ)",
+      "url": "https://newsletter.mkt1.co/p/marketing-job-posts?utm_source=tldrmarketing",
+      "blurb": "Companies are treating AI system-building as one specialist's job rather than a baseline requirement for every marketing hire. Every GTM engineer post asks for AI skills, compared with 47% of marketing posts overall and just 25% of entry-level ones. Only 6% ask candidates to contribute to the shared skills, context, and agents a team runs on, and only 8% ask for proof of AI use."
+    },
+    {
+      "ref": 16,
+      "section": "QUICK LINKS",
+      "heading": "PINTEREST'S HOLIDAY BRAND GUIDE (3 MINUTE READ)",
+      "url": "https://business.pinterest.com/en-AU/pdf/pinterest-smb-holiday-checklist/?utm_source=tldrmarketing",
+      "blurb": "Pinterest users saved 63M festive ideas, while 64% say it boosts shopping confidence and 36% of ad impact comes after 8 weeks."
+    },
+    {
+      "ref": 17,
+      "section": "QUICK LINKS",
+      "heading": "META MUSE EXPOSES USERS' PERSONAL AND BUSINESS SECRETS WHEN THEY SHARE CONVERSATIONS (3 MINUTE READ)",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/?utm_source=tldrmarketing",
+      "blurb": "Muse puts each conversation's title in its share link's web address, so passive DNS records make those links searchable by anyone."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "TOGETHER WITH [TLDR]",
+      "url": "https://advertise.tldr.tech/?utm_source=tldrmarketing&utm_medium=newsletter&utm_campaign=primary10212026&sp=aRjDg6Tv97CtnPwuQeGslrTn",
+      "blurb": "TLDR MARKETING 2026-10-21",
+      "drop_reason": "drop-list domain (advertise.tldr.tech)"
+    },
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "REACH 8 MILLION TECH PROFESSIONALS READING TLDR (SPONSOR)",
+      "url": "https://advertise.tldr.tech/?utm_source=tldrmarketing&utm_medium=newsletter&utm_campaign=primary10212026&sp=aRjDg6Tv97CtnPwuQeGslrTn",
+      "blurb": "Ads get ignored on social media but not in TLDR! Reach marketers, growth leaders and brand teams where they actually pay attention. Learn more about sponsorship opportunities [4].",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 8,
+      "section": null,
+      "heading": "FIND JOBS BEYOND LINKEDIN WITH GOOGLE X-RAY SEARCHES (2 MINUTE READ)",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7516484031471857664/?utm_source=tldrmarketing",
+      "blurb": "Job seekers can use Google X-ray searches to find openings beyond LinkedIn by searching applicant tracking systems like Ashby or Greenhouse directly. For example, \u201csite:jobs.ashbyhq.com (business development OR institutional sales) (crypto OR fintech) (remote OR EMEA OR Europe)\u201d finds relevant roles by title, industry, and location. Swap in different keywords or job boards to fit your search. Verify listings are current and remote roles accept applicants in your country.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    },
+    {
+      "ref": 9,
+      "section": null,
+      "heading": "CHECK IF GOOGLE CAN INDEX YOUR CONTENT WITH A SITE: SEARCH (1 MINUTE READ)",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7518347840113262592/?utm_source=tldrmarketing",
+      "blurb": "To check whether Google can index specific content on a page, copy a snippet of text and search site:[URL] [snippet of text] in Google. Check whether the text appears in the result's meta description. If it does, Google can access that content. If no results appear, test a few other snippets to confirm there may be an indexing issue.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    },
+    {
+      "ref": 10,
+      "section": null,
+      "heading": "7 EXPERT PERSPECTIVES ON HOW TO GET FOUND AND CHOSEN IN 2027 (SPONSOR)",
+      "url": "https://localiq.com/blog/expert-marketing-strategies/?utm_source=tldr_marketing&utm_medium=newsletter",
+      "blurb": "Where should you go big (and where should you go home) when it comes to your 2027 marketing strategy? LocaliQ asked seven experts [10] to share the one marketing strategy, tactic, or tip they're betting on for 2027. Steal their answers >> [10]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 15,
+      "section": "QUICK LINKS",
+      "heading": "DON'T TURN OFF THE AD WITH THE WORST CPA (1 MINUTE READ)",
+      "url": "https://www.linkedin.com/posts/benradack_this-ad-has-the-worst-cpa-in-the-ad-set-share-7517449428618604544-V1DG/?utm_source=tldrmarketing",
+      "blurb": "An ad with a high CPA may appear like a poor performer, but may actually be helping other ads succeed.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    }
+  ]
+}
