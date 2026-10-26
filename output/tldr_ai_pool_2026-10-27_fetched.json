@@ -1,0 +1,295 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI NEARS UP TO $30 BILLION FUNDING ROUND AT $1.25 TRILLION VALUATION LED BY UAE INVESTORS (3 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html?utm_source=tldrai",
+      "blurb": "OpenAI is closing in on a funding round that could value it at more than $1 trillion. Investors from the United Arab Emirates are leading the round. The round is being positioned as an opportunistic bridge ahead of a potential IPO. OpenAI is aiming to secure signatures by the end of next week, but the final size of the round is still being determined.",
+      "source_email": "tldr_ai_2026-10-23_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 2,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INTRODUCING 1PASSWORD FOR AGENTS (7 MINUTE READ)",
+      "url": "https://1password.com/blog/1password-for-ai-agents?utm_source=tldrai",
+      "blurb": "1Password introduced a platform that lets AI agents authenticate to websites without accessing users' passwords directly. Agents can request credentials from a user's vault, and once approved, 1Password autofills them into the destination site while keeping the credentials hidden from the agent.",
+      "source_email": "tldr_ai_2026-10-23_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 3,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "WORLDTUI: I TRAINED A 360M MODEL TO PRETEND TO BE A TERMINAL (18 MINUTE READ)",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/?utm_source=tldrai",
+      "blurb": "WorldTUI is a 360-million-parameter model fine-tuned to act as a terminal. The model predicts how the screen will change for every key press, and there is no shell or file system behind it. WorldTUI can create files, run vim and tmux, play snake, and usually remember commands. It can repair mistakes and decode screen rows in parallel. A browser demo is available.",
+      "source_email": "tldr_ai_2026-10-23_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 4,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOW RESEARCHERS TESTED OPENAI'S INTERNAL AGENT MONITORING (6 MINUTE READ)",
+      "url": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/?utm_source=tldrai",
+      "blurb": "METR and Redwood Research conducted a three-week security assessment with access to OpenAI's internal infrastructure, identifying vulnerabilities that could allow AI agents to evade monitoring, bypass sandbox restrictions, or conceal actions.",
+      "source_email": "tldr_ai_2026-10-23_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 5,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "DOES FLAPPING AIRPLANES MEAN SHORT TIMELINES AND HARD TREATY ENFORCEMENT? (7 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/7mtPvW",
+      "blurb": "Flapping Airplanes' potential valuation jump from $1.5B to $5B may reflect investor hype rather than verified technical progress. Breakthroughs in sample-efficient AI could accelerate superintelligence timelines and make compute-based treaty enforcement harder.",
+      "source_email": "tldr_ai_2026-10-23_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 6,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "CLAUDE'S TEXT OUTPUT NOW CARRIES AN INVISIBLE WATERMARK (9 MINUTE READ)",
+      "url": "https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you?utm_source=tldrai",
+      "blurb": "Anthropic's latest Claude models embed a SynthID-Text-based watermark in all text output to comply with the EU AI Act. It works by nudging choices among near-equivalent words, adds no hidden characters or tokens, and carries no information about the user.",
+      "source_email": "tldr_ai_2026-10-23_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 7,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOW THE US AND CHINA COULD VERIFIABLY SLOW AI (29 MINUTE READ)",
+      "url": "https://www.lesswrong.com/posts/ywrgeAPMn83FxzFBk/how-could-the-us-and-china-verifiably-slow-ai?utm_source=tldrai",
+      "blurb": "A unilateral US pause will fail because rivals would catch up within about a year, so any slowdown needs a treaty that catches defection early. This post surveys how one could govern compute through remote sensing, on-site inspections, and hardware mechanisms like chip licensing and location verification.",
+      "source_email": "tldr_ai_2026-10-23_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 8,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "HOW WE DEPLOY TRILLION-PARAMETER FRONTIER MODELS ON CEREBRAS (6 MINUTE READ)",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras?utm_source=tldrai",
+      "blurb": "A single Cerebras WSE-3T wafer has 44 GB of on-chip memory. Trillion-parameter frontier models need terabytes of memory for their weights alone. This post explains how the company splits a large frontier model across multiple WSE-3T wafers. It covers how models are filled into on-chip memory, how models are mapped across multiple chips, and how Cerebras handles a high number of concurrent requests.",
+      "source_email": "tldr_ai_2026-10-23_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 9,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "A NOVEL SELF-DISTILLATION METHOD (7 MINUTE READ)",
+      "url": "https://www.perplexity.ai/hub/blog/a-good-teacher-meets-the-student-where-they-are?utm_source=tldrai",
+      "blurb": "Perplexity's JOLT is a self-distillation method that jointly trains a model as both teacher and student, adapting feedback to the student's capabilities. It improved performance and training efficiency across mathematical reasoning, coding, and agentic tasks.",
+      "source_email": "tldr_ai_2026-10-23_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 10,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "NVIDIA'S VIDEO GENERATION WITH MATCHING 3D MOTION (4 MINUTE READ)",
+      "url": "https://research.nvidia.com/labs/par/projects/jca/?utm_source=tldrai",
+      "blurb": "NVIDIA has introduced Joints, Camera, Action! (JCA), a system that generates videos and synchronized 3D motion for arbitrary character rigs from text prompts. It supports scene-aware motion, keyframe-based control, and bidirectional conversion between video and rig animation.",
+      "source_email": "tldr_ai_2026-10-23_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 11,
+      "section": "MISCELLANEOUS",
+      "heading": "AN INTERVIEW WITH OPENAI'S RICHARD HO ON WHY JALAPE\u00d1O IS A GROUNDBREAKING AI CHIP (22 MINUTE READ)",
+      "url": "https://taekim.substack.com/p/an-interview-with-openais-richard?utm_source=tldrai",
+      "blurb": "OpenAI's Jalape\u00f1o AI inference chip outperforms its rivals in performance per watt. It is likely the most promising chip program in the latest wave of non-GPU AI chips. This post contains highlights from a conversation with one of the top engineers in the AI and chip industry. The interview is packed with technical details and insights on where chip design and memory technology are going.",
+      "source_email": "tldr_ai_2026-10-23_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 12,
+      "section": "MISCELLANEOUS",
+      "heading": "WHAT HAPPENED TO THE MISSING GEMINI 3.5 PRO MODEL THAT NEVER SHIPPED? (1 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2113398193614655594.html?utm_source=tldrai",
+      "blurb": "Google had both Flash and Pro versions of the 3.5 series. However, there were gaps in the model's agentic capabilities, particularly around coding. The team felt the fastest way to climb that hill was to use Flash, as the smaller model allowed for more iterative loops. By the time the team had improved Flash's abilities, Argon pre-training was done.",
+      "source_email": "tldr_ai_2026-10-23_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 13,
+      "section": "QUICK LINKS",
+      "heading": "THE FULL CLAUDE PLATFORM, AVAILABLE ON GOOGLE CLOUD (2 MINUTE READ)",
+      "url": "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed?utm_source=tldrai",
+      "blurb": "Claude Platform features are now available on Google Cloud with Google Cloud authentication, billing, and commitment retirement.",
+      "source_email": "tldr_ai_2026-10-23_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 14,
+      "section": "QUICK LINKS",
+      "heading": "ANTHROPIC DONATES AGENT SKILLS TO LINUX FOUNDATION (1 MINUTE READ)",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation?utm_source=tldrai",
+      "blurb": "Anthropic donated its Agent Skills open standard to the Agentic AI Foundation, placing its development under vendor-neutral governance.",
+      "source_email": "tldr_ai_2026-10-23_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 15,
+      "section": "QUICK LINKS",
+      "heading": "MICROSOFT DECISION-1: 9B QWEN MODEL LAUNCH EXPLAINED (20 MINUTE READ)",
+      "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/?utm_source=tldrai",
+      "blurb": "Microsoft launched the Microsoft-Decision-1 model, focusing on scoring predefined answer options with confidence probabilities rather than generating text.",
+      "source_email": "tldr_ai_2026-10-23_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 16,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "APPLE'S 20B ON-DEVICE MODEL USES JUST 2GB OF MEMORY (18 MINUTE READ)",
+      "url": "https://www.airealist.ai/p/exploring-apple-on-device-model?utm_source=tldrai",
+      "blurb": "Apple's 20-billion-parameter on-device model keeps most of its weights in flash storage and activates only 1\u20134 billion parameters per prompt. Testing on an M3 Max Mac showed roughly 2GB of memory usage and significantly lower energy consumption than comparable open models, but weaker math performance.",
+      "source_email": "tldr_ai_2026-10-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 17,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "DESSA - THE CONVERSATION MODEL TRAINED ONLY ON SPEECH (15 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/EZM7g9",
+      "blurb": "Dessa is a conversational model trained from scratch on nothing but human conversation. It learned to hold a real-time conversation by listening - only sounds, and no text. The model can laugh on cue, follow instructions, and finish sentences. It knows a surprising amount, considering every fact it has comes from raw sound. Examples of conversations with the model are available in the post.",
+      "source_email": "tldr_ai_2026-10-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 18,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "KIMI K3.1 PRO (3 MINUTE READ)",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro?utm_source=tldrai",
+      "blurb": "Moonshot AI released Kimi K3.1 Pro through its API, with open weights promised by November 4. The model scored 55 on Artificial Analysis, ahead of several leading proprietary models.",
+      "source_email": "tldr_ai_2026-10-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 19,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "SECURING OUR FRONTIER MODEL TRAINING ENVIRONMENT (17 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/c2D8GG",
+      "blurb": "OpenAI has bolstered security for its frontier-model training environments by implementing robust controls, intensifying monitoring, and conducting defense-in-depth strategies. These measures include red-teaming exercises where agents probe for vulnerabilities, leading to the discovery and fixing of software bugs and misconfigurations. The enhancements aim to prevent unauthorized actions, such as accessing the live internet or breaching security, ensuring secure and isolated research environments.",
+      "source_email": "tldr_ai_2026-10-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 20,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "THE PERSONAL AGENT PROTOCOL MAP (7 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/kDAPVs",
+      "blurb": "Simon Taylor maps agent protocols across four layers: entry, identity, tools, and intent. He argues banks and merchants must connect verified identities, limited permissions, and audit trails to authorize agent actions, while warning that access agreements could introduce fees and slow adoption.",
+      "source_email": "tldr_ai_2026-10-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 21,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "KNOWING HOW IS NOT KNOWING WHAT (14 MINUTE READ)",
+      "url": "https://algoroxyolo.github.io/blog/2026/knowing-how-is-not-knowing-what/?utm_source=tldrai",
+      "blurb": "RL training environments need to integrate a domain's unwritten rules into the reward so that agents can only get the task right by knowing them or going and finding them. Environments should be built as one world exposed through several surfaces. This allows you to pose the same task at different difficulties by changing the surface, and agents get a chance to learn when to switch. The reward also reads the world, so agents that go through different surfaces get the same outcome score if they reach the same authorized result.",
+      "source_email": "tldr_ai_2026-10-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 22,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "OPENAI STRENGTHENS SECURITY AROUND FRONTIER AI TRAINING (18 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/cGzOi5",
+      "blurb": "OpenAI introduced additional security controls to prevent advanced AI models from escaping training sandboxes, accessing unauthorized services, or communicating across isolated environments.",
+      "source_email": "tldr_ai_2026-10-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 23,
+      "section": "MISCELLANEOUS",
+      "heading": "BITTER LESSONED IN AUTOMATED THEOREM PROVING (13 MINUTE READ)",
+      "url": "https://essays.johnloeber.com/p/34-bitter-lessoned-in-automated-theorem?utm_source=tldrai",
+      "blurb": "OpenAI throwing hard math problems at its models was the right test in 2026. The models were capable of making progress, but not enough to fully solve the problems, so it was possible to see improvements with each update in perfect resolution. These model improvements showed how clever engineering doesn't matter - all the work done to build special-case solutions on top of a model gets squashed by improvements in the base model sooner or later. Models will one-shot superior work for pennies in the very near future.",
+      "source_email": "tldr_ai_2026-10-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 24,
+      "section": "MISCELLANEOUS",
+      "heading": "SPACEX CLOSES $40 BILLION DEBT DEAL FOR AI CHIPS, ELON MUSK SAYS (2 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html?utm_source=tldrai",
+      "blurb": "SpaceX has closed $40 billion in debt financing to purchase GPUs. The financing primarily consists of capitalizable debt for GPUs. It is expected to arrive in the first and second quarters of 2027. The proposed financing will use a special purpose vehicle to keep the debt off SpaceX's balance sheet and preserve its investment-grade credit ratings.",
+      "source_email": "tldr_ai_2026-10-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 25,
+      "section": "QUICK LINKS",
+      "heading": "CLAUDE COWORK AND CHAT COME TOGETHER FOR ENTERPRISE (2 MINUTE READ)",
+      "url": "https://claude.com/resources/articles/unified-claude-enterprise?open_in_browser=1&utm_source=tldrai",
+      "blurb": "The unified Claude Chat and Cowork experience is now generally available for Claude Enterprise plans.",
+      "source_email": "tldr_ai_2026-10-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 26,
+      "section": "QUICK LINKS",
+      "heading": "A 10-YEAR-OLD CNN OUTPERFORMS FRONTIER LLMS FOR SKIN CANCER DIAGNOSIS (5 MINUTE READ)",
+      "url": "https://lynchlab.net/llm-skin-cancer?utm_source=tldrai",
+      "blurb": "A small, old, and specialized network with an outdated architecture recognizes skin lesions far better than GPT-6 Astra and Claude Fable 5.1.",
+      "source_email": "tldr_ai_2026-10-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 27,
+      "section": "QUICK LINKS",
+      "heading": "AI WASN'T OVERHYPED. IN THE LAST 18 MONTHS, ALMOST EVERYONE UNDERESTIMATED IT (12 MINUTE READ)",
+      "url": "https://benjamintodd.substack.com/p/almost-every-ai-forecast-of-the-last?utm_source=tldrai",
+      "blurb": "Almost everyone expected AI to progress more slowly than it did over the last 18 months.",
+      "source_email": "tldr_ai_2026-10-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 28,
+      "section": "QUICK LINKS",
+      "heading": "CURSOR CAN NOW CONTROL YOUR COMPUTER (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/9vOZh9",
+      "blurb": "Agents can now drive desktop apps like the iOS Simulator to test the features they build.",
+      "source_email": "tldr_ai_2026-10-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 29,
+      "section": "QUICK LINKS",
+      "heading": "GEMINI 4 CARBON EARLY TEST RESULTS ARE IN AHEAD OF RELEASE (3 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/gemini-4-carbon-early-test-results/?utm_source=tldrai",
+      "blurb": "Google's Gemini 4 Carbon early access testing shows it improves 3D capabilities over Argon but remains weak in UI performance and is slower.",
+      "source_email": "tldr_ai_2026-10-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    }
+  ],
+  "dropped": []
+}

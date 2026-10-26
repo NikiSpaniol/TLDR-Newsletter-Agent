@@ -1,0 +1,99 @@
+{
+  "kept": [
+    {
+      "ref": 8,
+      "section": null,
+      "heading": "GOOGLE SEARCH RANKING VOLATILITY GETS HEADED OCTOBER 24TH (3 MINUTE READ)",
+      "url": "https://www.seroundtable.com/google-search-ranking-volatility-heated-42373.html?utm_source=tldrmarketing",
+      "blurb": "Google Search rankings showed significant volatility on October 24, suggesting an unconfirmed update that began Friday and continued into Saturday. SEO tracking tools recorded movement while site owners reported traffic drops and unstable rankings. Some also described declining Google Discover traffic and outdated news results. This follows several bouts of volatility earlier in October and the September spam update, which ran from September 24 to October 8."
+    },
+    {
+      "ref": 9,
+      "section": null,
+      "heading": "PENNSYLVANIA SIGNS AI DECEPTIVE ADVERTISING ACT. WHAT IT MEANS FOR BRANDS (4 MINUTE READ)",
+      "url": "https://www.constellationr.com/research/blog/and-away-we-go-pennsylvania-signs-ai-deceptive-advertising-act-what-it-means-brands?utm_source=tldrmarketing",
+      "blurb": "Pennsylvania's AI Deceptive Advertising Act requires brands to disclose AI-generated content when it creates a false impression about a product or service. Disclosures must appear at the first point of consumer exposure, and the law applies to businesses of all sizes. Since it remains unclear what qualifies as a false impression, brands can reduce legal risk by disclosing AI use more broadly. California and New York are also pursuing their own rules for synthetic advertising."
+    },
+    {
+      "ref": 10,
+      "section": null,
+      "heading": "EVERY STORY NEEDS A VILLAIN. SO DOES YOUR BRAND (6 MINUTE READ)",
+      "url": "https://fatemaraja.substack.com/p/every-story-needs-a-villain-so-does?utm_source=tldrmarketing",
+      "blurb": "Build your brand around one clear enemy that customers already recognize. Dollar Shave Club challenged overpriced razors, while Snickers built years of ads around hunger with its \u201cYou're not you when you're hungry\u201d campaign. Patagonia fights throwaway culture through durable clothing and repair programs. Turn your brand's villain into a content strategy by showing how the problem affects customers and connecting it to the deeper belief your brand stands for."
+    },
+    {
+      "ref": 11,
+      "section": null,
+      "heading": "400,000 FOLLOWERS OR 40 REGULARS (3 MINUTE READ)",
+      "url": "https://communitycatalysts.substack.com/p/meet-the-new-measure-of-influence?utm_source=tldrmarketing",
+      "blurb": "IRL influencers build influence by bringing people together repeatedly, not just attracting online followers. LA Chess Club grew its free weekly chess nights to hundreds of attendees who returned for the connections. With 51% of Gen Z feeling lonely on weekends and 62% wishing online friendships led to more in-person plans, look beyond reach and impressions. Someone who brings 40 people back every week may have more meaningful influence than someone with 400K passive followers."
+    },
+    {
+      "ref": 13,
+      "section": null,
+      "heading": "SUBMIT A URL TO BRAVE SEARCH (WEBSITE)",
+      "url": "https://search.brave.com/submit-url?utm_source=tldrmarketing",
+      "blurb": "You can submit website URLs to be re-fetched by Brave Search, which can help with GEO. Claude's web search is powered by the Brave Search API."
+    },
+    {
+      "ref": 14,
+      "section": null,
+      "heading": "OPTIMIZED TAGGING EXPERIENCE FOR GOOGLE TAG MANAGER (11 MINUTE READ)",
+      "url": "https://www.simoahava.com/analytics/optimized-tagging-experience-google-tag-manager/?utm_source=tldrmarketing",
+      "blurb": "Google Tag Manager's new tagging experience combines Google Tag and GTM into one system, reducing page load overhead by loading destinations through a single container. It also centralizes settings and consent controls for Google Analytics 4, Google Ads, and Floodlight. Before migrating, audit existing settings and permissions to prevent data quality or compliance issues. Test changes in Preview mode and migrate destinations incrementally if settings conflict."
+    },
+    {
+      "ref": 15,
+      "section": "MISCELLANEOUS",
+      "heading": "YOUR MARKETING TEAM WILL BE ON GITHUB WITHIN A YEAR (5 MINUTE READ)",
+      "url": "https://inatoncheva.substack.com/p/your-marketing-team-will-be-on-github?utm_source=tldrmarketing",
+      "blurb": "Once a team shares more than a handful of AI skills and source files, Drive and Claude Projects stop working as their home. The files depend on each other, so teams need a change history to trace off-brand output, one-step rollback, and plain files any AI tool can read. A content team at a B2B SaaS company built that on GitHub without developer support, where every member's Claude reads the same positioning and voice files and a newly pushed skill reaches the whole team at once."
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "GIVE THE MACHINE A MANDATE BEFORE YOU GIVE IT A BUDGET (7 MINUTE READ)",
+      "url": "https://karandhir.substack.com/p/give-the-machine-a-mandate-before?utm_source=tldrmarketing",
+      "blurb": "Knight Capital lost $460M in 45 minutes, and Zillow lost $304M after automated systems made costly decisions without adequate controls. Ad platforms pose similar risks when algorithms control spending without clear limits. Before launching automated campaigns, define what the system can buy and which decisions require approval. Set spending caps for brand searches and existing customers. Use independent holdout tests to measure results and set clear criteria for pausing campaigns."
+    },
+    {
+      "ref": 17,
+      "section": "QUICK LINKS",
+      "heading": "NETFLIX: YOUTUBE PULLS AWAY (5 MINUTE READ)",
+      "url": "https://www.appeconomyinsights.com/p/netflix-youtube-pulls-away?utm_source=tldrmarketing",
+      "blurb": "Americans now spend nearly twice as much time watching YouTube as Netflix on their TVs (not including YouTube TV)."
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "UPDATED GOOGLE PRIVACY POLICY SAYS YOUR GMAIL MIGHT BE USED FOR ADVERTISING (3 MINUTE READ)",
+      "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/?utm_source=tldrmarketing",
+      "blurb": "A recent privacy policy update lets Search use connected Gmail, Drive, and Photos content to personalize ads."
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "STARTUPS DON'T NEED TO GO VIRAL TO WIN CUSTOMERS (3 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/?utm_source=tldrmarketing",
+      "blurb": "Phone outreach and in-person events still reach a large offline client base that viral content misses."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "BETTER MEETING NOTES, LESS CLEANUP, AND UP TO 12 MONTHS OF WISPR FLOW FREE (SPONSOR)",
+      "url": "https://ref.wisprflow.ai/tldr-oct26-marketing-primary-headline?sp=3F8Kj7JltIr65JGLBAEFUpZ5",
+      "blurb": "Your campaign recaps and client follow-ups are only as good as your meeting notes. Wispr Flow Notetaker captures the meeting, then takes a second pass over the audio so names, brands and campaign terms come out right. Less cleanup, better notes.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 12,
+      "section": null,
+      "heading": "GARTNER WEBINAR: HOW CMOS CAN LEAD THE TRANSITION TO ADAPTIVE INTELLIGENCE MARKETING (SPONSOR)",
+      "url": "https://www.gartner.com/en/webinar/975097/1963459-how-cmos-can-lead-ai-transformation-to-adaptive-intelligence-marketing?utm_source=tldr&utm_medium=display&utm_campaign=GML_GB_2026_GML_PD_DS1_AITLDRMARKETING&utm_term=wb",
+      "blurb": "Effective CMOs are increasingly defined by their ability to use AI to support strategic decisionmaking \u2013 rather than just tactical productivity. This Gartner webinar [12] reveals how to build an adaptive intelligence marketing operating model that improves decision quality and governs AI-driven capabilities. Learn to strengthen marketing's influence on enterprise growth. Watch the webinar. [12]",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}
