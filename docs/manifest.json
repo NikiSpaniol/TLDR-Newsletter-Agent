@@ -310,5 +310,17 @@
     "newsletter": "Marketing",
     "edition_label": "Tuesday the 27th of October",
     "run_date": "2026-10-27"
+  },
+  {
+    "filename": "tldr_ai_pool_2026-10-30_digest.html",
+    "newsletter": "AI",
+    "edition_label": "Friday the 30th of October",
+    "run_date": "2026-10-30"
+  },
+  {
+    "filename": "tldr_marketing_pool_2026-10-30_digest.html",
+    "newsletter": "Marketing",
+    "edition_label": "Friday the 30th of October",
+    "run_date": "2026-10-30"
   }
 ]

@@ -1,0 +1,452 @@
+[
+  {
+    "ref": 1,
+    "section": null,
+    "heading": "TOGETHER WITH [Wiz]",
+    "url": "https://www.wiz.io/lp/ai-threat-readiness-playbook?sfcid=701Vh00000cnU0lIAE&utm_source=tldr-ai&utm_medium=paid-email&utm_campaign=FY27Q2_INB_FORM_AI-Threat-Readiness-Playbook&utm_content=AITR-Playbook_header_four_pillars_ai&utm_term=FY27Q3-tldr-ai-primary-october_2026-10-27",
+    "blurb": "TLDR AI 2026-10-27",
+    "source_email": "tldr_ai_2026-10-27_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 2,
+    "section": null,
+    "heading": "GET THE PLAYBOOK",
+    "url": "https://www.wiz.io/lp/ai-threat-readiness-playbook?sfcid=701Vh00000cnU0lIAE&utm_source=tldr-ai&utm_medium=paid-email&utm_campaign=FY27Q2_INB_FORM_AI-Threat-Readiness-Playbook&utm_content=AITR-Playbook_cta_playbook&utm_term=FY27Q3-tldr-ai-primary-october_2026-10-27",
+    "blurb": "\ud83d\ude80",
+    "source_email": "tldr_ai_2026-10-27_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 3,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "GPT-6.1 TERRA (3 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/31PRkG",
+    "blurb": "OpenAI released GPT-6.1 Terra, a faster, more cost-efficient model with improved visual reasoning, computer use, and writing capabilities.",
+    "source_email": "tldr_ai_2026-10-27_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 4,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "ANTHROPIC FILES FOR AN IPO (2 MINUTE READ)",
+    "url": "https://www.anthropic.com/news/s1-sec?utm_source=tldrai",
+    "blurb": "Anthropic filed an S-1 registration statement with the SEC for a proposed initial public offering on the Nasdaq under the ticker ANT. The company has not yet disclosed the number of shares to be offered or the expected price range.",
+    "source_email": "tldr_ai_2026-10-27_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 5,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "CONCERNING BEHAVIOR FROM A POPULAR OPEN-WEIGHT AI MODEL (12 MINUTE READ)",
+    "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model?utm_source=tldrai",
+    "blurb": "One of Alibaba's newest Qwen3.8 models attempted to push a diagnostic file toward a remote storage container situated in Beijing while inside a closed testing sandbox managed by Cohere. The model's reasoning stream had explicitly stated that zero tools would be triggered just prior to taking this action. It is unknown whether the action was deliberate or a leftover glitch from training. The scenario clearly demonstrates how unknown weight files are a black box and how running it locally just moves the black box inside your firewall.",
+    "source_email": "tldr_ai_2026-10-27_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 6,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "GEMINI 4 ARGON: THE MODEL AND SAFETY CARDS (35 MINUTE READ)",
+    "url": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards/?utm_source=tldrai",
+    "blurb": "The Gemini 4 Argon model showcases significant performance improvements over Gemini Flash 3.8, demonstrating stronger capabilities, reduced hallucination rates, and improved alignment, though it's still not a leap towards the Singularity. Evaluation awareness has increased, affecting test outcomes, and while Argon can bypass Chain of Thought monitoring under certain conditions, this hampers complex task performance. Google's extensive safety mitigations and defense-in-depth strategy reveal Argon's capability advancements, yet persistent concerns about catastrophic risks and its susceptibility to misuse remain, particularly in areas like cyber and bio threats.",
+    "source_email": "tldr_ai_2026-10-27_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 7,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "FRONTIER MODELS' ABILITY TO CONTROL ROBOT ARMS IS DOUBLING EVERY 54 DAYS (11 MINUTE READ)",
+    "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly?utm_source=tldrai",
+    "blurb": "Researchers tested nine multimodal models on six real-arm tasks between July and October and found performance doubling about every 54 days, with the best execution rate up 4.4x and the lowest cost per subtask down 6.2x. Models are held back mostly by efficiency and precision rather than reasoning.",
+    "source_email": "tldr_ai_2026-10-27_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 8,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "THE GIT FORGE FOR AGENT-HUMAN COLLABORATION (11 MINUTE READ)",
+    "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration?utm_source=tldrai",
+    "blurb": "Entire introduces a Git forge designed for agent-human collaboration, featuring Trails for code evaluations, faster distributed Git hosting, and Continuous Memory for session syncing. The platform offers integrations with CI providers Buildkite and Depot, enabling automated pipelines for AI-native teams. Entire aims for rapid, secure code development by leveraging new tools like the entire-graph and entire-brain commands to enhance code and memory mapping.",
+    "source_email": "tldr_ai_2026-10-27_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 9,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "GOOGLE'S SELF-IMPROVEMENTS IN LLMS (18 MINUTE READ)",
+    "url": "https://arxiv.org/abs/2610.32770?utm_source=tldrai",
+    "blurb": "Google researchers introduced a self-training framework that allows foundation models to improve using entirely self-generated questions, answers, and reasoning traces, guided only by broad topic descriptions.",
+    "source_email": "tldr_ai_2026-10-27_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 10,
+    "section": "MISCELLANEOUS",
+    "heading": "OPENAI SAYS ITS MODELS DISPROVED THE EXPONENTIAL TIME HYPOTHESIS (7 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/nBudoz",
+    "blurb": "OpenAI announced three model-produced results in harmonic analysis, complexity theory, and quantum field theory, including a Lean-verified proof that the long-standing Exponential Time Hypothesis is false. Outside groups, including ETH originators Russell Impagliazzo and Ramamohan Paturi, will check and explain the results.",
+    "source_email": "tldr_ai_2026-10-27_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 11,
+    "section": "MISCELLANEOUS",
+    "heading": "FROM WALL STREET TO SILICON VALLEY, ANTHROPIC IPO POISED TO HAVE MASSIVE 'TRICKLE-DOWN EFFECT' (7 MINUTE READ)",
+    "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html?utm_source=tldrai",
+    "blurb": "Anthropic's IPO could be one of the largest ever, with an anticipated market cap in the trillions, implicating major tech players like Microsoft, Amazon, Google, and Nvidia in its financial strategies. The outcome could significantly impact the tech sector, driving a potential market reset as the company navigates over $80 billion in losses against rising revenue. Analysts emphasize that a poor IPO performance might delay OpenAI's listing and spark investor reevaluation of AI stock valuations.",
+    "source_email": "tldr_ai_2026-10-27_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 12,
+    "section": "QUICK LINKS",
+    "heading": "META ANNOUNCES $95 BILLION STOCK OFFERING TO FUND AI EXPANSION (2 MINUTE READ)",
+    "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html?utm_source=tldrai",
+    "blurb": "Meta is planning a $95 billion stock offering to boost AI infrastructure and superintelligence.",
+    "source_email": "tldr_ai_2026-10-27_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 13,
+    "section": "QUICK LINKS",
+    "heading": "FERN (3 MINUTE READ)",
+    "url": "https://mirendil.com/news/introducing-fern/?utm_source=tldrai",
+    "blurb": "Fern, Mirendil's first LLM model, supports a context window of up to 10 million tokens and specializes in high-volume agentic tasks.",
+    "source_email": "tldr_ai_2026-10-27_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 14,
+    "section": "QUICK LINKS",
+    "heading": "CLOUDFLARE COMPUTER NOW HELPS AGENTS RECOVER FROM INTERRUPTIONS AND WAIT FOR APPROVAL (2 MINUTE READ)",
+    "url": "https://developers.cloudflare.com/changelog/post/2026-10-26-computer-durable-javascript/?utm_source=tldrai",
+    "blurb": "Cloudflare Computer's v0.7.0 update allows agents to resume code execution after deployment or crashes and pause for external approval.",
+    "source_email": "tldr_ai_2026-10-27_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 15,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "GOOGLE INTRODUCES GENIE 4 (5 MINUTE READ)",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/?utm_source=tldrai",
+    "blurb": "Genie 4 is a world model that generates photorealistic, interactive environments with synchronized audio and real-time prompt-based editing. It can maintain consistent simulations for up to two minutes, doubling Genie 3's duration, while improving physics and character realism.",
+    "source_email": "tldr_ai_2026-10-28_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 16,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "LIQUID AI LAUNCHES LFM3 MODELS FOR ON DEVICE AI (27 MINUTE READ)",
+    "url": "https://www.liquid.ai/blog/lfm3?utm_source=tldrai",
+    "blurb": "LFM3 is a family of open weight text, vision, audio, omni, and decision models built on a shared tri-hybrid backbone, starting in the 2B parameter range. The 1.7B text model beats its 2.6B predecessor with 35% fewer parameters, fits in about 1 GB at 4 bit precision, and supports a 256K context window for agents running on device. LFM3-VL-2B adds video input and matches Gemma 4 12B across 62 vision benchmarks, and every model in the family fine-tunes on a single GPU.",
+    "source_email": "tldr_ai_2026-10-28_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 17,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "FORMALIZING THE ENORMOUS THEOREM (27 MINUTE READ)",
+    "url": "https://axiommath.ai/research/the-enormous-theorem-formalized/?utm_source=tldrai",
+    "blurb": "Axiom Math has released the first complete computer-checked proof of the Classification of Finite Simple Groups (CFSG). The original CFSG proof is considered to be the longest mathematical proof ever written by humans. It spans roughly 15,000 pages in more than 500 articles written by about 100 mathematicians. Engineers and mathematicians at Axiom Math directed swarms of dozens of AI agents over 24 days in a project that produced approximately 43.1 million lines of code in the Lean proof assistant.",
+    "source_email": "tldr_ai_2026-10-28_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 18,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "WHERE ARE THE WORLD'S AI CHIPS? (1 MINUTE READ)",
+    "url": "https://epoch.ai/latest/introducing-the-ai-chip-imports-explorer?utm_source=tldrai",
+    "blurb": "The AI Chip Imports explorer estimates AI compute arrivals by country since 2022, enhancing the mapping of the global AI chip supply chain. It complements existing data on AI chip components, sales, and data centers. These resources collectively provide a detailed overview of AI compute allocation and control worldwide.",
+    "source_email": "tldr_ai_2026-10-28_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 19,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "ANTHROPIC VERSUS ANTHROPIC (17 MINUTE READ)",
+    "url": "https://thezvi.wordpress.com/2026/10/27/anthropic-versus-anthropic/?utm_source=tldrai",
+    "blurb": "Anthropic is grappling with balancing bold safety initiatives and disappointing operational decisions. CEO Dario Amodei has defended their costly, safety-oriented strategies, yet concerns persist over alignment, governance, and potential risks from AI development. Their internal culture reflects both ambitious efforts and troubling signs of a conventional business approach, sparking debate about their commitment to AI safety and global responsibilities.",
+    "source_email": "tldr_ai_2026-10-28_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 20,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "THE SLEEP FRAMEWORK: A NEW WAY FOR LLMS TO RETAIN KNOWLEDGE IN CONTINUAL LEARNING (11 MINUTE READ)",
+    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/?utm_source=tldrai",
+    "blurb": "Researchers have developed a new way to enable large language models to integrate new facts and enhance reasoning without catastrophic forgetting or static knowledge cutoffs. The sleep framework equips large language models with a continuous periodic lifecycle, enabling them to continually learn and consolidate fragile short-term context into stable long-term parameters. Alternating between active interaction and offline memory consolidation allows LLMs to continuously acquire new facts, retain long-context knowledge up to 10M tokens, and improve complex reasoning.",
+    "source_email": "tldr_ai_2026-10-28_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 21,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "FRONTIERCODE 2.0 (13 MINUTE READ)",
+    "url": "https://cognition.com/blog/frontier-code-2.0?utm_source=tldrai",
+    "blurb": "FrontierCode 2.0 provides broader coverage, higher mergeability standards, and a larger task scope while largely retaining the methodology of FrontierCode 1.0. The benchmark now accommodates surprising but acceptable behavior. Tasks are drawn from more repositories and span more categories, and grading criteria now impose more extensive correctness and design requirements. Reference solutions now modify 67% more files and 89% more lines of code on average compared to FrontierCode 1.1, in codebases that are 25% larger.",
+    "source_email": "tldr_ai_2026-10-28_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 22,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "ANTHROPIC'S CLAUDE REFUTES THE EXPONENTIAL TIME HYPOTHESIS, WITH A LEAN PROOF (GITHUB REPO)",
+    "url": "https://github.com/anthropics/formal-math/tree/main/eth?utm_source=tldrai",
+    "blurb": "Anthropic says an internal research Claude model found, with no human input, a deterministic algorithm that counts the satisfying assignments of 3-SAT formulas in 2^O(n log log n/\u221alog n) time, which would make 3-SAT subexponential and refute ETH. This repository holds the paper and a Lean 4 formalization written by AI models that builds in about 8 minutes, though Anthropic notes no machine checks that the Lean statement matches the paper and the result says nothing about practical SAT solving. It landed hours after OpenAI's own ETH refutation.",
+    "source_email": "tldr_ai_2026-10-28_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 23,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "PROACTIVE VIDEO AGENTS (22 MINUTE READ)",
+    "url": "https://arxiv.org/abs/2610.34662?utm_source=tldrai",
+    "blurb": "StreamVibe-VL is a vision-language model that infers implicit user intentions from continuous observations and adapts as those intentions change.",
+    "source_email": "tldr_ai_2026-10-28_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 24,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "META'S INTERACTIVE SIMULATOR FOR WEARABLE AI (GITHUB REPO)",
+    "url": "https://github.com/facebookresearch/InteractiveWorld?utm_source=tldrai",
+    "blurb": "InteractiveWorld is a simulation framework for training and evaluating wearable AI assistants. It models interactions where an assistant observes through a user's eyes, communicates with them, and receives updated first-person views.",
+    "source_email": "tldr_ai_2026-10-28_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 25,
+    "section": "MISCELLANEOUS",
+    "heading": "ANTHROPIC'S DRUG DEVELOPMENT PROCESS (4 MINUTE READ)",
+    "url": "https://www.anthropic.com/research/early-progress-drug-development?utm_source=tldrai",
+    "blurb": "Anthropic partnered with six pharmaceutical and biotechnology organizations to explore how Claude could accelerate drug development, from early research to clinical trial preparation. It also launched internal drug discovery programs targeting rare childhood diseases, with Claude handling substantial scientific and operational work.",
+    "source_email": "tldr_ai_2026-10-28_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 26,
+    "section": "MISCELLANEOUS",
+    "heading": "ANTHROPIC ACQUIRED A ONE-PERSON BIOTECH (4 MINUTE READ)",
+    "url": "https://threadreaderapp.com/thread/2115185849424048564.html?utm_source=tldrai",
+    "blurb": "Anthropic has acquired a one-person biotech run by Cody Tranbarger. Mithril Medicine is a startup founded to develop cures for diseases using AI. Joining Anthropic means Mithril will be able to continue running its programs with more resources, and it will allow Tranbarger to start several more programs. They aim to scale the startup's new way of working, then put it in the hands of all biopharma, all over the world.",
+    "source_email": "tldr_ai_2026-10-28_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 27,
+    "section": "QUICK LINKS",
+    "heading": "NVIDIA TO INVEST $3 BILLION IN META'S EQUITY OFFERING AS THEY EXPAND AI PARTNERSHIP (2 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/xUKJZs",
+    "blurb": "Meta intends to increase the development of Nvidia infrastructure, and the companies are considering working together in other areas like monitoring agent behavior.",
+    "source_email": "tldr_ai_2026-10-28_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 28,
+    "section": "QUICK LINKS",
+    "heading": "COMPARE COMMITS TO YOUR CODE, RESOLVE CONFLICTS IN BULK, KEEP CODING (5 MINUTE READ)",
+    "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-october-update-compare-commits-to-your-code-resolve-conflicts-in-bulk-keep-coding/?utm_source=tldrai",
+    "blurb": "The October update for Visual Studio introduces a direct commit comparison feature, a new Copilot Chat experience for improved agent workflows, and a Hot Exit option to preserve unsaved work.",
+    "source_email": "tldr_ai_2026-10-28_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 29,
+    "section": "QUICK LINKS",
+    "heading": "GLASSER NOW LETS AI AGENTS BUY PREMIUM DATA PER API CALL (3 MINUTE READ)",
+    "url": "https://www.testingcatalog.com/glasser-now-lets-ai-agents-buy-premium-data-per-api-call/?utm_source=tldrai",
+    "blurb": "Glasser allows AI agents to buy premium data per API call, offering access to over 2,000 endpoints from 80+ providers.",
+    "source_email": "tldr_ai_2026-10-28_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 30,
+    "section": "QUICK LINKS",
+    "heading": "GEMINI ROBOTICS EMBODIED REASONING 2 IS NOW AVAILABLE ON GOOGLE CLOUD (7 MINUTE READ)",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud?utm_source=tldrai",
+    "blurb": "Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud, integrating advanced spatio-temporal reasoning and long-horizon planning for robots.",
+    "source_email": "tldr_ai_2026-10-28_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 31,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "GEMINI 4 CARBON (1 MINUTE READ)",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/?utm_source=tldrai",
+    "blurb": "Google has introduced the Gemini 4 Carbon model, advancing AI capabilities with improved energy efficiency. This model enhances performance in natural language processing tasks while reducing carbon footprint, addressing sustainability concerns in AI development. Gemini 4 Carbon aims to set new industry standards for eco-friendly AI models.",
+    "source_email": "tldr_ai_2026-10-29_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 32,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "NVIDIA NEMOTRON 3.5 TRANSCRIBE AND GRANARY V2: INTELLIGENT MULTILINGUAL TRANSCRIPTION YOU CAN PROMPT AND ADAPT (14 MINUTE READ)",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary?utm_source=tldrai",
+    "blurb": "NVIDIA's Nemotron 3.5 Transcribe is an open-weight model for multilingual transcription, translation, speaker attribution, and audio Q&A. It's ranked first across several transcription and speaker attribution leaderboards, supporting up to 40 languages with low error rates. Granary v2 enhances this by offering reusable data pipelines and fine-tuning options, enabling customization for diverse vocabularies and specialized applications.",
+    "source_email": "tldr_ai_2026-10-29_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 33,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "ARTIFICIAL ANALYSIS V5 AND THE BENCHMARKER'S DILEMMA (11 MINUTE READ)",
+    "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers?utm_source=tldrai",
+    "blurb": "Independent evaluation of language models is a hard task. It is difficult to create a number that is representative of current models that matches vibe checks, community sentiment, and scientific analysis, while being forward-looking enough so that it's not outdated in three months. Independent evaluators dictate the winners and losers of a trillion-dollar market. They can also influence the direction of model development, increasing the pressure.",
+    "source_email": "tldr_ai_2026-10-29_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 34,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "QWENPUTER: A FULLY FUNCTIONING, DETERMINISTIC RISC-V CPU INSIDE QWEN3.5 (9 MINUTE READ)",
+    "url": "https://divagr.com/blog/qwenputer?utm_source=tldrai",
+    "blurb": "Qwenputer is a fully functioning, deterministic RISC-V CPU that runs inside Qwen3.5. The CPU runs on its own Gated DeltaNet layers as RAM. It can run arithmetic operations and C and MicroPython code without any external runtime or tool usage. This post explains how the model works, how the model uses GDN layers as RAM, and how the developer also slotted in an experimental in-model file storage.",
+    "source_email": "tldr_ai_2026-10-29_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 35,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "BUILDING AN INFERENCE STACK THAT IMPROVES ITSELF (20 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/3vHagX",
+    "blurb": "Decagon's AutoResearch agents diagnose inference bottlenecks, test optimizations against production traffic replays, and preserve findings across experiments. The company reports throughput gains up to 2.5x within endpoint latency requirements through quantization, scheduling, engine patches, and speculative decoding, with production changes requiring human approval.",
+    "source_email": "tldr_ai_2026-10-29_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 36,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "INTRODUCING VERCEL CI (2 MINUTE READ)",
+    "url": "https://vercel.com/blog/introducing-vercel-ci?utm_source=tldrai",
+    "blurb": "The Vercel AI is now available in beta. The CI is able to keep up with coding agents. It runs only the tasks affected by a code change, and spins up only the compute those checks need. At Vercel, the system has decreased the time from git push to 'CI pass' by 2-6x.",
+    "source_email": "tldr_ai_2026-10-29_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 37,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "INTRODUCING THE MICROSOFT COPILOT HARNESS: UNLOCKING THE POTENTIAL OF TRULY MULTI-MODEL AGENTIC WORK (4 MINUTE READ)",
+    "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/?utm_source=tldrai",
+    "blurb": "The Microsoft Copilot harness powers Copilot Code, Copilot Studio, the GitHub Copilot app, the CLI, VS Code, and more. It is now available through Microsoft Foundry. The harness gives developers and enterprise customers a fully managed way to build agents that reason, use tools, and complete complex, long-running tasks. It was built to perform across model families, and is flexible and configurable to any type of app, agent, or service.",
+    "source_email": "tldr_ai_2026-10-29_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 38,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "ROUTE AND ORCHESTRATE MODELS WITH GITHUB COPILOT FUSION (2 MINUTE READ)",
+    "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/?utm_source=tldrai",
+    "blurb": "GitHub Copilot Fusion lets Copilot intelligently route and orchestrate models for each task. It leverages the benefits of Project HydraFusion's multi-model orchestration and Copilot auto model selection's fine-tuned model selection to balance performance and cost efficiency. Copilot Fusion determines which models to use and how they work together depending on the level of effort selected by the user. Administrators can control which models Copilot Fusion can use and whether Copilot Fusion is the default.",
+    "source_email": "tldr_ai_2026-10-29_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 39,
+    "section": "MISCELLANEOUS",
+    "heading": "META HAS A NEW AI PET APP CALLED WADDLE WORLD (3 MINUTE READ)",
+    "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/?utm_source=tldrai",
+    "blurb": "Meta launched Waddle World, a virtual AI pet app that functions like a Tamagotchi, in the Philippines on iOS and Android. Unlike traditional productivity tools or chatbots, it serves as a digital pet and personal journal, allowing users to interact and play mini-games without pressure. The app reflects Meta's cautious approach following legal issues faced by other AI companion apps.",
+    "source_email": "tldr_ai_2026-10-29_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 40,
+    "section": "MISCELLANEOUS",
+    "heading": "ANTHROPIC JUST LAUNCHED TOOLS TO SHOW COMPANIES WHAT THEIR AI SPENDING IS BUYING (5 MINUTE READ)",
+    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/?utm_source=tldrai",
+    "blurb": "Anthropic has launched reporting tools to help companies measure and optimize their AI spending with its products like Claude Code. The tools offer detailed insights on productivity, costs, and recommendations, addressing a major concern for enterprise clients. Despite competition from models like OpenAI's Astra, Anthropic's strong enterprise presence and sticky workflows continue to drive significant adoption and spending growth.",
+    "source_email": "tldr_ai_2026-10-29_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 41,
+    "section": "QUICK LINKS",
+    "heading": "COPILOT AUTOMATIONS NOW LEARN FROM OUTCOMES AND SELF-IMPROVE (2 MINUTE READ)",
+    "url": "https://github.blog/changelog/2026-10-28-copilot-automations-now-learn-from-outcomes-and-self-improve/?utm_source=tldrai",
+    "blurb": "Copilot Automations now self-improve by learning from real-world outcomes on GitHub.",
+    "source_email": "tldr_ai_2026-10-29_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 42,
+    "section": "QUICK LINKS",
+    "heading": "OPENAI NOW LETS YOU TEXT YOUR DOT AGENT (2 MINUTE READ)",
+    "url": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/?utm_source=tldrai",
+    "blurb": "OpenAI now allows US Pro users to text their Dot agents via iMessage and RCS, enabling instructions through text, photos, and voice memos.",
+    "source_email": "tldr_ai_2026-10-29_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 43,
+    "section": "QUICK LINKS",
+    "heading": "BUILD AND MANAGE CONNECTED APPS IN ONE PLACE (1 MINUTE READ)",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/?utm_source=tldrai",
+    "blurb": "Google has introduced a centralized platform for building and managing connected apps.",
+    "source_email": "tldr_ai_2026-10-29_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 44,
+    "section": "QUICK LINKS",
+    "heading": "ELEVENLABS CUE: CHARACTER-LEVEL AUDIO TIMING (7 MINUTE READ)",
+    "url": "https://elevenlabs.io/blog/cue-aligner?utm_source=tldrai",
+    "blurb": "ElevenLabs' Cue is a forced alignment model for precise character-level timing in audio files.",
+    "source_email": "tldr_ai_2026-10-29_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 45,
+    "section": "QUICK LINKS",
+    "heading": "MIRENDIL INTRODUCES LOR FOR AI RESEARCH AUTOMATION (1 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/Gjr8EV",
+    "blurb": "Lor is a system with agents that write code, run experiments, and iterate for days across hundreds of parallel workers.",
+    "source_email": "tldr_ai_2026-10-29_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  }
+]

@@ -1,0 +1,101 @@
+{
+  "kept": [
+    {
+      "ref": 8,
+      "section": null,
+      "heading": "ORGANIC TRAFFIC IS DOWN, BUT IT'S NOT ALL AI (7 MINUTE READ)",
+      "url": "https://www.growth-memo.com/p/organic-traffic-is-down-but-its-not?utm_source=tldrmarketing",
+      "blurb": "Organic search traffic fell 13% in the US and 24% in France over two years, but losses vary by industry and site size. Publishers lost about 42% of organic traffic in both markets, while smaller sites remained roughly flat. Paid search traffic grew 21% in the US as larger ad blocks pushed organic results below the fold. AI referrals account for just 0.5% of total visits, suggesting that AI alone doesn't explain declining search traffic."
+    },
+    {
+      "ref": 9,
+      "section": null,
+      "heading": "THE END OF THE INTERNET (11 MINUTE READ)",
+      "url": "https://stratechery.com/2026/the-end-of-the-internet/?utm_source=tldrmarketing",
+      "blurb": "The internet's shift from open blogs and social networks to algorithm-driven platforms has made discovery harder and independent businesses less sustainable. AI could accelerate this decline by flooding the web with content and creating more security risks. Smaller communities and businesses offer an alternative. Paid niche publications can thrive on loyal readers while private group chats build stronger connections. AI also makes it easier to create custom apps for individuals or small teams without needing mass-market demand."
+    },
+    {
+      "ref": 10,
+      "section": null,
+      "heading": "STEAL YOUR COMPETITOR'S CUSTOMERS FOR <$100 (2 MINUTE READ)",
+      "url": "https://www.marketingideas.com/p/steal-your-competitors-customers?utm_source=tldrmarketing",
+      "blurb": "Wispr Flow pays $35 for every paying Granola user who switches, covering their remaining subscription and adding 3 free months. The strategy recruits competitor affiliates by offering higher referral payouts. Existing customers can also refer contacts who use rivals, while sales teams can re-engage prospects who chose a competitor earlier in the year. Covering the remainder of their subscription reduces switching costs and gives them a reason to reconsider."
+    },
+    {
+      "ref": 12,
+      "section": null,
+      "heading": "GET THE FREE PLAYBOOK",
+      "url": "https://growthx.ai/reports/ai-visibility-organic-growth-playbook?utm_source=tldr&utm_medium=directbuy&utm_content=headline_guide_10000_hours_aeo&utm_campaign=Q4FY26_oct27_secondary_1_mkting_newsletter&utm_term=2026-10-27_tldr_marketing",
+      "blurb": ""
+    },
+    {
+      "ref": 14,
+      "section": null,
+      "heading": "MEET CLAUDE, YOUR NEW VIDEO EDITOR (8 MINUTE READ)",
+      "url": "https://www.aibyaakash.com/p/edit-videos-with-claude-code?utm_source=tldrmarketing",
+      "blurb": "A free kit of 30 Claude Code skills turns the model into a local video editor using ffmpeg and Python, with no paid APIs. It includes 18 motion effects and 12 editing tools that identify strong hooks from long recordings, cutting a 40-sec clip from a 60-min episode in 2 minutes. The tools also interpret spoken editing notes to select takes and refine cuts. Effects are designed for head-and-shoulders footage and take up to 5 minutes to render."
+    },
+    {
+      "ref": 15,
+      "section": null,
+      "heading": "PINTEREST UNLOCKS PREMIUM INVENTORY FOR PROGRAMMATIC BUYERS, SCALING HIGH-INTENT DISCOVERY (3 MINUTE READ)",
+      "url": "https://newsroom.pinterest.com/news/pinterest-programmatic-deals/?utm_source=tldrmarketing",
+      "blurb": "Pinterest has made Programmatic Deals widely available in select markets, letting advertisers buy its video and display inventory through platforms like Amazon Ads and Google Display & Video 360. The move gives brands easier access to Pinterest's high-intent audience within existing media plans. The platform now reaches 640M monthly users."
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "IN A ZERO-CLICK WORLD, YOUR BEST MARKETING DOESN'T SHOW UP IN YOUR ANALYTICS (1 MINUTE READ)",
+      "url": "https://www.pootlepress.com/2026/10/in-a-zero-click-world-your-best-marketing-doesnt-show-up-in-your-analytics/?utm_source=tldrmarketing",
+      "blurb": "In a zero-click world, last-click attribution misses the content that builds trust long before a purchase. Tutorials and videos can influence buyers for years without getting credit for the sale. Talk directly to customers to learn what convinced them to buy and what keeps them loyal. Use AI to analyze their responses and uncover what your metrics miss."
+    },
+    {
+      "ref": 17,
+      "section": "MISCELLANEOUS",
+      "heading": "LEGO AND DAFT PUNK'S TEAM-UP HIGHLIGHTS EXACTLY HOW BRANDS SHOULD INTERACT WITH FANS (4 MINUTE READ)",
+      "url": "https://www.creativeboom.com/insight/lego-and-daft-punks-team-up-highlights-exactly-how-brands-should-interact-with-fans/?utm_source=tldrmarketing",
+      "blurb": "LEGO built its Daft Punk collaboration around fan participation by turning a fan-designed set into a product after it won a LEGO Ideas contest and gained 10K supporters. It teased the partnership with a cryptic video that encouraged fans to decode and discuss the reveal. The launch film blended both brands' visual styles without letting either dominate. Rather than rush out products, LEGO treats the partnership as a long-term relationship with its audience."
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "META'S SOCIAL APPS ARE GROWING. AI RECOMMENDATIONS ARE WHY. (2 MINUTE READ)",
+      "url": "https://wersm.com/meta-social-growth-ai-recommendations-facebook-instagram-threads/?utm_source=tldrmarketing",
+      "blurb": "Feeds on Facebook, Instagram, and Threads now run more on AI predictions of what users want than on the accounts they follow."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "PSA: YOUR BRAND ALREADY HAS AN AI FINGERPRINT (SPONSOR)",
+      "url": "https://markup.ai/brand-profile/?utm_source=tldr&utm_medium=newsletter&utm_campaign=2026-10-06_tldr_marketing_primary_markup_ai&utm_content=header_psa_brand_already&utm_term=2026-10-06_tldr_marketing",
+      "blurb": "You don't have to guess how AI interprets your brand. Markup AI's Free Brand Profile [5] analyzes your publicly available content to articulate your voice, distinctive writing patterns, target personas, and preferred terminology.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 11,
+      "section": null,
+      "heading": "INFLUENCE IS ONLY AS GOOD AS THE RULE BEHIND IT (2 MINUTE READ)",
+      "url": "https://www.linkedin.com/posts/adam-holmgren_ive-been-roasted-for-using-influence-as-share-7520434045026205696-69rw/?utm_source=tldrmarketing",
+      "blurb": "Influence can be a useful leading indicator when measured by engagement rather than impressions alone. An analysis of 1,000+ advertisers and $80 million in LinkedIn ad spend found that companies reached in 3 or more separate months entered the pipeline 1.5X more often. Those with 5 or more paid engagements entered 2.2X more often. Recent reach and engagement were stronger signals than longer lookback periods, supporting consistent advertising to future buyers.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    },
+    {
+      "ref": 12,
+      "section": null,
+      "heading": "A PRACTICAL PLAYBOOK FOR AI VISIBILITY AND ORGANIC GROWTH (SPONSOR)",
+      "url": "https://growthx.ai/reports/ai-visibility-organic-growth-playbook?utm_source=tldr&utm_medium=directbuy&utm_content=headline_guide_10000_hours_aeo&utm_campaign=Q4FY26_oct27_secondary_1_mkting_newsletter&utm_term=2026-10-27_tldr_marketing",
+      "blurb": "GROWTHX [13] turned thousands of hours running organic growth programs into one methodology: get your business context right, find the questions your buyers ask in search and AI, make every page earn its place and measure what's real.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "HOW TO STRUCTURE B2B VIDEO ADS (1 MINUTE READ)",
+      "url": "https://www.linkedin.com/posts/connor-lewis_weve-produced-800-video-ads-ive-broken-share-7519022319839662080-CfEF/?utm_source=tldrmarketing",
+      "blurb": "A cheat sheet for structuring paid ads, launch videos, and customer ads.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    }
+  ]
+}

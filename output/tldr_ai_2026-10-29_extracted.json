@@ -1,0 +1,143 @@
+{
+  "kept": [
+    {
+      "ref": 7,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GEMINI 4 CARBON (1 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/?utm_source=tldrai",
+      "blurb": "Google has introduced the Gemini 4 Carbon model, advancing AI capabilities with improved energy efficiency. This model enhances performance in natural language processing tasks while reducing carbon footprint, addressing sustainability concerns in AI development. Gemini 4 Carbon aims to set new industry standards for eco-friendly AI models."
+    },
+    {
+      "ref": 8,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "NVIDIA NEMOTRON 3.5 TRANSCRIBE AND GRANARY V2: INTELLIGENT MULTILINGUAL TRANSCRIPTION YOU CAN PROMPT AND ADAPT (14 MINUTE READ)",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary?utm_source=tldrai",
+      "blurb": "NVIDIA's Nemotron 3.5 Transcribe is an open-weight model for multilingual transcription, translation, speaker attribution, and audio Q&A. It's ranked first across several transcription and speaker attribution leaderboards, supporting up to 40 languages with low error rates. Granary v2 enhances this by offering reusable data pipelines and fine-tuning options, enabling customization for diverse vocabularies and specialized applications."
+    },
+    {
+      "ref": 9,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "ARTIFICIAL ANALYSIS V5 AND THE BENCHMARKER'S DILEMMA (11 MINUTE READ)",
+      "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers?utm_source=tldrai",
+      "blurb": "Independent evaluation of language models is a hard task. It is difficult to create a number that is representative of current models that matches vibe checks, community sentiment, and scientific analysis, while being forward-looking enough so that it's not outdated in three months. Independent evaluators dictate the winners and losers of a trillion-dollar market. They can also influence the direction of model development, increasing the pressure."
+    },
+    {
+      "ref": 10,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "QWENPUTER: A FULLY FUNCTIONING, DETERMINISTIC RISC-V CPU INSIDE QWEN3.5 (9 MINUTE READ)",
+      "url": "https://divagr.com/blog/qwenputer?utm_source=tldrai",
+      "blurb": "Qwenputer is a fully functioning, deterministic RISC-V CPU that runs inside Qwen3.5. The CPU runs on its own Gated DeltaNet layers as RAM. It can run arithmetic operations and C and MicroPython code without any external runtime or tool usage. This post explains how the model works, how the model uses GDN layers as RAM, and how the developer also slotted in an experimental in-model file storage."
+    },
+    {
+      "ref": 11,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "BUILDING AN INFERENCE STACK THAT IMPROVES ITSELF (20 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/3vHagX",
+      "blurb": "Decagon's AutoResearch agents diagnose inference bottlenecks, test optimizations against production traffic replays, and preserve findings across experiments. The company reports throughput gains up to 2.5x within endpoint latency requirements through quantization, scheduling, engine patches, and speculative decoding, with production changes requiring human approval."
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "INTRODUCING VERCEL CI (2 MINUTE READ)",
+      "url": "https://vercel.com/blog/introducing-vercel-ci?utm_source=tldrai",
+      "blurb": "The Vercel AI is now available in beta. The CI is able to keep up with coding agents. It runs only the tasks affected by a code change, and spins up only the compute those checks need. At Vercel, the system has decreased the time from git push to 'CI pass' by 2-6x."
+    },
+    {
+      "ref": 14,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "INTRODUCING THE MICROSOFT COPILOT HARNESS: UNLOCKING THE POTENTIAL OF TRULY MULTI-MODEL AGENTIC WORK (4 MINUTE READ)",
+      "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/?utm_source=tldrai",
+      "blurb": "The Microsoft Copilot harness powers Copilot Code, Copilot Studio, the GitHub Copilot app, the CLI, VS Code, and more. It is now available through Microsoft Foundry. The harness gives developers and enterprise customers a fully managed way to build agents that reason, use tools, and complete complex, long-running tasks. It was built to perform across model families, and is flexible and configurable to any type of app, agent, or service."
+    },
+    {
+      "ref": 15,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "ROUTE AND ORCHESTRATE MODELS WITH GITHUB COPILOT FUSION (2 MINUTE READ)",
+      "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/?utm_source=tldrai",
+      "blurb": "GitHub Copilot Fusion lets Copilot intelligently route and orchestrate models for each task. It leverages the benefits of Project HydraFusion's multi-model orchestration and Copilot auto model selection's fine-tuned model selection to balance performance and cost efficiency. Copilot Fusion determines which models to use and how they work together depending on the level of effort selected by the user. Administrators can control which models Copilot Fusion can use and whether Copilot Fusion is the default."
+    },
+    {
+      "ref": 16,
+      "section": "MISCELLANEOUS",
+      "heading": "META HAS A NEW AI PET APP CALLED WADDLE WORLD (3 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/?utm_source=tldrai",
+      "blurb": "Meta launched Waddle World, a virtual AI pet app that functions like a Tamagotchi, in the Philippines on iOS and Android. Unlike traditional productivity tools or chatbots, it serves as a digital pet and personal journal, allowing users to interact and play mini-games without pressure. The app reflects Meta's cautious approach following legal issues faced by other AI companion apps."
+    },
+    {
+      "ref": 17,
+      "section": "MISCELLANEOUS",
+      "heading": "ANTHROPIC JUST LAUNCHED TOOLS TO SHOW COMPANIES WHAT THEIR AI SPENDING IS BUYING (5 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/?utm_source=tldrai",
+      "blurb": "Anthropic has launched reporting tools to help companies measure and optimize their AI spending with its products like Claude Code. The tools offer detailed insights on productivity, costs, and recommendations, addressing a major concern for enterprise clients. Despite competition from models like OpenAI's Astra, Anthropic's strong enterprise presence and sticky workflows continue to drive significant adoption and spending growth."
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "COPILOT AUTOMATIONS NOW LEARN FROM OUTCOMES AND SELF-IMPROVE (2 MINUTE READ)",
+      "url": "https://github.blog/changelog/2026-10-28-copilot-automations-now-learn-from-outcomes-and-self-improve/?utm_source=tldrai",
+      "blurb": "Copilot Automations now self-improve by learning from real-world outcomes on GitHub."
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "OPENAI NOW LETS YOU TEXT YOUR DOT AGENT (2 MINUTE READ)",
+      "url": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/?utm_source=tldrai",
+      "blurb": "OpenAI now allows US Pro users to text their Dot agents via iMessage and RCS, enabling instructions through text, photos, and voice memos."
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "BUILD AND MANAGE CONNECTED APPS IN ONE PLACE (1 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/?utm_source=tldrai",
+      "blurb": "Google has introduced a centralized platform for building and managing connected apps."
+    },
+    {
+      "ref": 23,
+      "section": "QUICK LINKS",
+      "heading": "ELEVENLABS CUE: CHARACTER-LEVEL AUDIO TIMING (7 MINUTE READ)",
+      "url": "https://elevenlabs.io/blog/cue-aligner?utm_source=tldrai",
+      "blurb": "ElevenLabs' Cue is a forced alignment model for precise character-level timing in audio files."
+    },
+    {
+      "ref": 24,
+      "section": "QUICK LINKS",
+      "heading": "MIRENDIL INTRODUCES LOR FOR AI RESEARCH AUTOMATION (1 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/Gjr8EV",
+      "blurb": "Lor is a system with agents that write code, run experiments, and iterate for days across hundreds of parallel workers."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "YOUR GUIDE TO COMPARING PRODUCTION-SCALE AI INFERENCE (SPONSOR)",
+      "url": "https://www.coreweave.com/resources/ebooks/ai-inference-at-production-scale?utm_source=tldr-ai&utm_medium=cpc&utm_campaign=inference-comparison-guide&utm_content=comparison-guide-ai-inference-at-production-scale_ebk_header_guide_comparing_production&utm_term=2026-10-29",
+      "blurb": "Most inference platforms were designed to get products running, not keep them running at production scale.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 12,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "LAUNCH YOUR WEBSITE FASTER THAN EVER WITH FRAMER. NOW WITH AGENTS TO BRING SPEED AND FLEXIBILITY DIRECTLY TO YOUR WORKFLOW. (SPONSOR)",
+      "url": "https://framer.link/mpa4bzx",
+      "blurb": "Framer is a professional website builder where AI agents make real, reviewable changes directly to your site. Trusted by teams at Miro and Perplexity, agents work across your canvas, components, CMS, and SEO to produce editable, production ready updates. Review every change in branches, compare diffs, and launch what works best.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 18,
+      "section": "QUICK LINKS",
+      "heading": "YOUR AI AGENTS HAVE MORE ACCESS THAN YOU THINK. (SPONSOR)",
+      "url": "https://jumpcloud.com/secure-every-identity?utm_source=TLDR&utm_medium=Contributed-Content&utm_campaign=FY26Q1_MorningBrew_AD&utm_content=TLDR10/29",
+      "blurb": "72% of IT leaders report a gap between what AI is permitted to access and what they can prove it accessed. See what JumpCloud's latest research reveals about AI governance [18].",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "GOOGLE UNVEILS AGENT COMPUTE ENGINE - THE INFRASTRUCTURE BEHIND THE LATEST GEMINI DEPLOYMENTS (SPONSOR)",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=fy26q4-googlecloud-blog-ai-in_feed-no-brand-global&utm_content=-&utm_term=-&linkId=64202548",
+      "blurb": "Get an under-the-hood look at the new Agent Compute Engine (announced at AGNTCon + MCPCon), plus expanded agent governance capabilities in Gemini for Business. Read the blog [22].",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}
