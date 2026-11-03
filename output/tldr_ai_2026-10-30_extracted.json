@@ -1,0 +1,143 @@
+{
+  "kept": [
+    {
+      "ref": 8,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "MISTRAL RELEASES WEIGHTS FOR ITS TRILLION-PARAMETER MODEL (4 MINUTE READ)",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/?utm_source=tldrai",
+      "blurb": "Mistral has released the weights for Mistral Large 4, a trillion-parameter model designed for self-hosted deployment and cybersecurity applications. The company claims leading open-weight performance on agentic coding benchmarks and comparable cybersecurity capabilities to GLM-5.3."
+    },
+    {
+      "ref": 9,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI UPDATES ITS MODEL SPEC AROUND FIVE CORE VALUES (7 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/154Wlh",
+      "blurb": "OpenAI updated its Model Spec to organize model behavior around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care."
+    },
+    {
+      "ref": 10,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "THE SURPRISING LEADERSHIP DYNAMICS IN AGENT SWARMS (17 MINUTE READ)",
+      "url": "https://www.raindrop.ai/blog/agent-swarm-leadership/?utm_source=tldrai",
+      "blurb": "Agent swarms are groups of agents that work together to accomplish a task. Researchers created an experiment in which eight agents from four different models worked together to resolve simulated outages to understand how agents organize themselves in a swarm without a designated leader. They discovered two factors that could influence an agent's potential leadership: the agent's underlying models, and the order in which their name was listed in a prompt. This suggests that even seemingly minor details in how an agent swarm is configured can affect how agents coordinate."
+    },
+    {
+      "ref": 11,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "LEAKING MUSE'S CHARTER, META'S MODEL SPEC (13 MINUTE READ)",
+      "url": "https://www.lesswrong.com/posts/TJGPL5FAk9sCioPbE/leaking-muse-s-charter-meta-s-model-spec?utm_source=tldrai",
+      "blurb": "Muse Spark Open often mentions a 'Charter' in its chain of thought. This post reconstructs that document using the chain of thought. Everything is reconstructed from model outputs and not from a leaked document, so it might not be completely accurate."
+    },
+    {
+      "ref": 12,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "AI CAN TURN SECURITY FIXES INTO WORKING EXPLOITS BEFORE USERS RECEIVE AN UPDATE (16 MINUTE READ)",
+      "url": "https://epoch.ai/publications/open-weight-models-patch-gap?utm_source=tldrai",
+      "blurb": "GLM 5.3 can identify and exploit vulnerabilities in recent versions of the Mozilla Firefox browser using security fixes that have been published but not yet shipped to users. Widely available open-weight models can now do much, or even all, of this work on their own. Open-source projects are particularly vulnerable to this kind of attack as their code is publicly available. This threat vector will likely worsen as open-weight cyber capabilities continue to improve."
+    },
+    {
+      "ref": 14,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "DROID 1.0: BUILDING A FRONTIER HARNESS (15 MINUTE READ)",
+      "url": "https://factory.com/news/frontier-harness?utm_source=tldrai",
+      "blurb": "Droid is an agent harness that lets agents run hundreds of tool calls in a single model request. Building a harness optimized for many models makes the harness better. It's hard to separate real progress from adaptations to that model's quirks when you tune against a single model. Working across models ensures the strongest improvements generalize and hold up beyond the model that inspired them."
+    },
+    {
+      "ref": 15,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "HOW META CATCHES BUGS BEFORE CODE SHIPS (9 MINUTE READ)",
+      "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/?utm_source=tldrai",
+      "blurb": "Meta details how it scaled its LLM-powered Just-in-Time Testing system from a research prototype into production infrastructure. The article explores how AI-generated tests catch bugs before code changes land, how the system operates at scale, and what Meta learned about reducing false positives and testing overhead."
+    },
+    {
+      "ref": 16,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "HOW WE'RE TRAINING A FIGMA-FLUENT EDITING MODEL (6 MINUTE READ)",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/?utm_source=tldrai",
+      "blurb": "Post-trained models can compete with frontier models on specialized tasks like Figma editing. Starting with a focused problem can turn progress into meaningful product updates. This post explains how Figma trained a Figma-fluent editing model."
+    },
+    {
+      "ref": 17,
+      "section": "MISCELLANEOUS",
+      "heading": "THE ECONOMICS OF INTELLIGENCE: HOW AND WHEN DOES AGI LEAD TO ECONOMIC TRANSFORMATION? (24 MINUTE READ)",
+      "url": "https://institute.deepmind.com/essays/the-economics-of-intelligence/?utm_source=tldrai",
+      "blurb": "AI models are getting exponentially better in individual competence while lagging behind in coordination. Models already match or outperform experienced specialists on self-contained deliverables across dozens of professions. The labor market reflects the current capabilities of AI systems. Wages and job roles will be the earliest signals of change."
+    },
+    {
+      "ref": 18,
+      "section": "MISCELLANEOUS",
+      "heading": "WHY SAM ALTMAN IS AGAINST A SINGLE SUPERINTELLIGENCE (64 MINUTE READ)",
+      "url": "https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single?utm_source=tldrai",
+      "blurb": "Sam Altman would rather have a trillion AIs of slightly superhuman intelligence join society than one AI of 1 trillion IQ join society. Swarms of agents match a lot of the properties of a resilient society. They keep each other in check and collaborate to work towards goals. AI research shouldn't lead in a centralized direction because agents pushing against each other creates a dynamic equilibrium."
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "INTRODUCING PIKA H3 FLEX (6 MINUTE READ)",
+      "url": "https://pika.art/blog/pika-h3-flex?utm_source=tldrai",
+      "blurb": "Pika H3 Flex is a video generation model that works with up to 12 references, exports five separate audio stems, and finishes at up to 4K."
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "DRAMA 3 JUST LEVELED UP (1 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/g9EjJ7",
+      "blurb": "Fish Audio Drama 3 is the #1 open-weight model on both Artificial Analysis Speech Arenas."
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "INTRODUCING NATURAL DIRECT (6 MINUTE READ)",
+      "url": "https://www.natural.com/blog/direct?utm_source=tldrai",
+      "blurb": "Natural introduces Direct, enabling agents to choose among ACH, Wire, Realtime, and soon paper checks, for diverse financial transactions."
+    },
+    {
+      "ref": 24,
+      "section": "QUICK LINKS",
+      "heading": "THE ESCAPE ROOM ECONOMY (10 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/5pXHvW",
+      "blurb": "Reinforcement learning environments combine tools, tasks, and verifiers to train agents through repeated attempts."
+    },
+    {
+      "ref": 25,
+      "section": "QUICK LINKS",
+      "heading": "THE FX ADAPTER NOW RUNS THE HARNESS ON THE HOST (1 MINUTE READ)",
+      "url": "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox?utm_source=tldrai",
+      "blurb": "The fx adapter now runs the harness on the host using libfx, separating host and sandbox operations."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "IS YOUR HEALTHCARE AI READY FOR DEPLOYMENT? VERIFY WITH PROTEGE'S INDEPENDENT EVALUATIONS (SPONSOR)",
+      "url": "https://withprotege.ai/model-builders/healthcare-evaluation?utm_source=tldr-ai&utm_medium=newsletter&utm_campaign=healthcare-evals&utm_content=ad-insert_header_healthcare_ai_ready&utm_term=2026-10-30",
+      "blurb": "81% of doctors now use AI [5] in daily practice. But three quarters have encountered a hallucination that could have affected patient safety.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "SHOPIFY BRINGS SHOP PAY TO PERSONAL AI AGENTS (SPONSOR)",
+      "url": "https://www.shopify.com/news/fall-26-edition-merchant?utm_source=Paid&utm_medium=Newsletter&utm_campaign=Fall26-Edition&utm_content=TLDR-AI",
+      "blurb": "Shop Pay now works inside Muse from Meta, Claude Duet, and Instinct. Buyers approve every purchase, and their card is never shared with the agent. Try it now. [13]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "WHAT HAPPENS WHEN AI AGENTS START QUERYING YOUR DATA? (SPONSOR)",
+      "url": "https://nextquery.phoenixdata.ai/?utm_source=partner_email&utm_medium=email&utm_campaign=FY26_PHX_OEV_NEXT_QUERY_2026&utm_content=newsletter-tldr",
+      "blurb": "How do data teams keep answers fast, fresh and governed when agents start querying? 20+ production talks from Apple, Coinbase, Intuit, AppLovin, Cisco and more. Free and virtual, Nov 4. Register free [19]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 23,
+      "section": "QUICK LINKS",
+      "heading": "REACH 8 MILLION TECH PROFESSIONALS READING TLDR (SPONSOR)",
+      "url": "https://advertise.tldr.tech/?utm_source=tldrai&utm_medium=newsletter&utm_campaign=quicklinks10302026&sp=cUQ0ieojM_2eAad0CnHIWnDv",
+      "blurb": "Ads get ignored on social media but not in TLDR! Reach AI engineers, researchers and ML leaders where they actually pay attention. Learn more about sponsorship opportunities [23].",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

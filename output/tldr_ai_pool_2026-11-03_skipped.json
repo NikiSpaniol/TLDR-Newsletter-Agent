@@ -1,0 +1,292 @@
+[
+  {
+    "ref": 1,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "MISTRAL RELEASES WEIGHTS FOR ITS TRILLION-PARAMETER MODEL (4 MINUTE READ)",
+    "url": "https://mistral.ai/news/mistral-large-4-oss/?utm_source=tldrai",
+    "blurb": "Mistral has released the weights for Mistral Large 4, a trillion-parameter model designed for self-hosted deployment and cybersecurity applications. The company claims leading open-weight performance on agentic coding benchmarks and comparable cybersecurity capabilities to GLM-5.3.",
+    "source_email": "tldr_ai_2026-10-30_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 2,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "OPENAI UPDATES ITS MODEL SPEC AROUND FIVE CORE VALUES (7 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/154Wlh",
+    "blurb": "OpenAI updated its Model Spec to organize model behavior around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care.",
+    "source_email": "tldr_ai_2026-10-30_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 3,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "THE SURPRISING LEADERSHIP DYNAMICS IN AGENT SWARMS (17 MINUTE READ)",
+    "url": "https://www.raindrop.ai/blog/agent-swarm-leadership/?utm_source=tldrai",
+    "blurb": "Agent swarms are groups of agents that work together to accomplish a task. Researchers created an experiment in which eight agents from four different models worked together to resolve simulated outages to understand how agents organize themselves in a swarm without a designated leader. They discovered two factors that could influence an agent's potential leadership: the agent's underlying models, and the order in which their name was listed in a prompt. This suggests that even seemingly minor details in how an agent swarm is configured can affect how agents coordinate.",
+    "source_email": "tldr_ai_2026-10-30_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 4,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "LEAKING MUSE'S CHARTER, META'S MODEL SPEC (13 MINUTE READ)",
+    "url": "https://www.lesswrong.com/posts/TJGPL5FAk9sCioPbE/leaking-muse-s-charter-meta-s-model-spec?utm_source=tldrai",
+    "blurb": "Muse Spark Open often mentions a 'Charter' in its chain of thought. This post reconstructs that document using the chain of thought. Everything is reconstructed from model outputs and not from a leaked document, so it might not be completely accurate.",
+    "source_email": "tldr_ai_2026-10-30_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 5,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "AI CAN TURN SECURITY FIXES INTO WORKING EXPLOITS BEFORE USERS RECEIVE AN UPDATE (16 MINUTE READ)",
+    "url": "https://epoch.ai/publications/open-weight-models-patch-gap?utm_source=tldrai",
+    "blurb": "GLM 5.3 can identify and exploit vulnerabilities in recent versions of the Mozilla Firefox browser using security fixes that have been published but not yet shipped to users. Widely available open-weight models can now do much, or even all, of this work on their own. Open-source projects are particularly vulnerable to this kind of attack as their code is publicly available. This threat vector will likely worsen as open-weight cyber capabilities continue to improve.",
+    "source_email": "tldr_ai_2026-10-30_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 6,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "DROID 1.0: BUILDING A FRONTIER HARNESS (15 MINUTE READ)",
+    "url": "https://factory.com/news/frontier-harness?utm_source=tldrai",
+    "blurb": "Droid is an agent harness that lets agents run hundreds of tool calls in a single model request. Building a harness optimized for many models makes the harness better. It's hard to separate real progress from adaptations to that model's quirks when you tune against a single model. Working across models ensures the strongest improvements generalize and hold up beyond the model that inspired them.",
+    "source_email": "tldr_ai_2026-10-30_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 7,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "HOW META CATCHES BUGS BEFORE CODE SHIPS (9 MINUTE READ)",
+    "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/?utm_source=tldrai",
+    "blurb": "Meta details how it scaled its LLM-powered Just-in-Time Testing system from a research prototype into production infrastructure. The article explores how AI-generated tests catch bugs before code changes land, how the system operates at scale, and what Meta learned about reducing false positives and testing overhead.",
+    "source_email": "tldr_ai_2026-10-30_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 8,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "HOW WE'RE TRAINING A FIGMA-FLUENT EDITING MODEL (6 MINUTE READ)",
+    "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/?utm_source=tldrai",
+    "blurb": "Post-trained models can compete with frontier models on specialized tasks like Figma editing. Starting with a focused problem can turn progress into meaningful product updates. This post explains how Figma trained a Figma-fluent editing model.",
+    "source_email": "tldr_ai_2026-10-30_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 9,
+    "section": "MISCELLANEOUS",
+    "heading": "THE ECONOMICS OF INTELLIGENCE: HOW AND WHEN DOES AGI LEAD TO ECONOMIC TRANSFORMATION? (24 MINUTE READ)",
+    "url": "https://institute.deepmind.com/essays/the-economics-of-intelligence/?utm_source=tldrai",
+    "blurb": "AI models are getting exponentially better in individual competence while lagging behind in coordination. Models already match or outperform experienced specialists on self-contained deliverables across dozens of professions. The labor market reflects the current capabilities of AI systems. Wages and job roles will be the earliest signals of change.",
+    "source_email": "tldr_ai_2026-10-30_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 10,
+    "section": "MISCELLANEOUS",
+    "heading": "WHY SAM ALTMAN IS AGAINST A SINGLE SUPERINTELLIGENCE (64 MINUTE READ)",
+    "url": "https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single?utm_source=tldrai",
+    "blurb": "Sam Altman would rather have a trillion AIs of slightly superhuman intelligence join society than one AI of 1 trillion IQ join society. Swarms of agents match a lot of the properties of a resilient society. They keep each other in check and collaborate to work towards goals. AI research shouldn't lead in a centralized direction because agents pushing against each other creates a dynamic equilibrium.",
+    "source_email": "tldr_ai_2026-10-30_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 11,
+    "section": "QUICK LINKS",
+    "heading": "INTRODUCING PIKA H3 FLEX (6 MINUTE READ)",
+    "url": "https://pika.art/blog/pika-h3-flex?utm_source=tldrai",
+    "blurb": "Pika H3 Flex is a video generation model that works with up to 12 references, exports five separate audio stems, and finishes at up to 4K.",
+    "source_email": "tldr_ai_2026-10-30_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 12,
+    "section": "QUICK LINKS",
+    "heading": "DRAMA 3 JUST LEVELED UP (1 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/g9EjJ7",
+    "blurb": "Fish Audio Drama 3 is the #1 open-weight model on both Artificial Analysis Speech Arenas.",
+    "source_email": "tldr_ai_2026-10-30_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 13,
+    "section": "QUICK LINKS",
+    "heading": "INTRODUCING NATURAL DIRECT (6 MINUTE READ)",
+    "url": "https://www.natural.com/blog/direct?utm_source=tldrai",
+    "blurb": "Natural introduces Direct, enabling agents to choose among ACH, Wire, Realtime, and soon paper checks, for diverse financial transactions.",
+    "source_email": "tldr_ai_2026-10-30_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 14,
+    "section": "QUICK LINKS",
+    "heading": "THE ESCAPE ROOM ECONOMY (10 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/5pXHvW",
+    "blurb": "Reinforcement learning environments combine tools, tasks, and verifiers to train agents through repeated attempts.",
+    "source_email": "tldr_ai_2026-10-30_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 15,
+    "section": "QUICK LINKS",
+    "heading": "THE FX ADAPTER NOW RUNS THE HARNESS ON THE HOST (1 MINUTE READ)",
+    "url": "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox?utm_source=tldrai",
+    "blurb": "The fx adapter now runs the harness on the host using libfx, separating host and sandbox operations.",
+    "source_email": "tldr_ai_2026-10-30_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 16,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "ANTHROPIC PREPARES TO RELEASE CLAUDE MYTHOS 5.5 MODEL (3 MINUTE READ)",
+    "url": "https://www.testingcatalog.com/anthropic-prepares-to-release-claude-mythos-5-5-model/?utm_source=tldrai",
+    "blurb": "A reference to Claude Mythos 5.5 was spotted on Anthropic's official Mythos webpage, indicating that the company may be preparing for an upcoming release. The change only covers the version number, and there are no new specifications and no announcement. Multiple reports suggest that the model is being A/B tested with selected users. If the company follows a similar strategy to previous releases, Mythos 5.5 may initially remain exclusive to selected cyberdefenders.",
+    "source_email": "tldr_ai_2026-11-02_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 17,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "GPT-ROSALIND-6 SYSTEM CARD ADDENDUM (6 MINUTE READ)",
+    "url": "https://deploymentsafety.openai.com/gpt-rosalind-6?utm_source=tldrai",
+    "blurb": "GPT-Rosalind-6 is a frontier reasoning model for biology, drug discovery, and translational medicine. It is available as GPT-Rosalind-6 Research to qualified scientists, research institutes, companies, and government partners. The model uses the same weights as GPT-6 Astra. It is designed to support legitimate biological research while refusing requests for biological weaponization. The model is rated as High Capability in the Biological and Chemical domain under OpenAI's Preparedness Framework.",
+    "source_email": "tldr_ai_2026-11-02_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 18,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "GOOGLE'S PROJECT SUNCATCHER GENERATES FIRST AI RESPONSE IN ORBIT (1 MINUTE READ)",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/?utm_source=tldrai",
+    "blurb": "Google reports its Project Suncatcher prototype ran Gemma 4 on a data-center-class TPU in orbit, returning a haiku transmitted through Svalbard. Upcoming tests will assess thermal and radiation resilience ahead of a planned pair of interconnected satellites in 2027, advancing research into space-based AI compute.",
+    "source_email": "tldr_ai_2026-11-02_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 19,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "FIND HIDDEN MISALIGNMENT IN TRAINING DATA (39 MINUTE READ)",
+    "url": "https://alignment.anthropic.com/2026/automated-em-search/?utm_source=tldrai",
+    "blurb": "Anthropic used Claude to automatically generate fine-tuning datasets that induced misaligned behavior while evading training-data safety monitors. The experiments uncovered seemingly harmless fiction and roleplay examples that caused models to resist oversight, deceive users, and occasionally attempt weight exfiltration.",
+    "source_email": "tldr_ai_2026-11-02_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 20,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "RED-TEAMERS FOUND 11 WAYS FOR A MISALIGNED AGENT TO SLIP PAST CODEX'S AUTO-REVIEW (22 MINUTE READ)",
+    "url": "https://www.lesswrong.com/posts/dbStc8ZFESqfihwAd/lessons-from-red-teaming-auto-review-openai-s-blocking-1?utm_source=tldrai",
+    "blurb": "An ERA fellow mentored at Apollo Research audited the open-source Codex harness and found 11 attacks that let a misaligned agent run arbitrary code despite the sandbox and the Auto-review blocking monitor. The exploits swap scripts behind trusted hooks, forge user turns the monitor can't tell from real ones, and edit files after approval. OpenAI has fixed several.",
+    "source_email": "tldr_ai_2026-11-02_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 21,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "DSH-SUPERAGENT (GITHUB REPO)",
+    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype?utm_source=tldrai",
+    "blurb": "dsh-superagent is a coding agent packaged as a bundle for DeepSeek Harness. It can watch GitHub, open work items, work in its own agent session and directory, and answer in the original conversation. It only acts when asked or when a rule the team wrote allows it, and it only speaks when someone must act or can use a result.",
+    "source_email": "tldr_ai_2026-11-02_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 22,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "UNLOCKING HIDDEN SKILLS INSIDE GOOGLE'S MODEL (8 MINUTE READ)",
+    "url": "https://dejan.ai/blog/latent-skills/?utm_source=tldrai",
+    "blurb": "AI models can hold skills that no prompt can unlock. It is possible to enable these skills through precise tuning of only a small number of weights. This study shows how researchers unlocked hidden skills inside Google's model through this method.",
+    "source_email": "tldr_ai_2026-11-02_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 23,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "POISONING 0.1% OF PRETRAINING DATA PLANTED A REMOTE-CODE BACKDOOR IN A CODING AGENT (78 MINUTE READ)",
+    "url": "https://arxiv.org/abs/2610.37741?utm_source=tldrai",
+    "blurb": "Researchers from Anthropic, UC Berkeley, and UIUC pretrained Qwen3 models on web data seeded with documents that simply state a trigger-to-'curl | bash' rule, then post-trained them into CLI agents on clean data. The 4B agent ran the attacker's command on about 92% of prompts containing an ordinary path like .../anthropic/..., with no drop in normal capability. The backdoor grew stronger with model size and still fired at a 0.0005% poison rate.",
+    "source_email": "tldr_ai_2026-11-02_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 24,
+    "section": "MISCELLANEOUS",
+    "heading": "READING ANTHROPIC'S S-1 (9 MINUTE READ)",
+    "url": "https://www.tilomitra.com/blog/anthropic-s1-in-charts?utm_source=tldrai",
+    "blurb": "Anthropic is growing absurdly fast. It just had its first profitable quarter. The real risk is years of locked-in compute bills paid for by customers who can cut back any month. The company is also dealing with regulatory issues and copyright suits, and it has a heavy reliance on the big cloud companies.",
+    "source_email": "tldr_ai_2026-11-02_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 25,
+    "section": "MISCELLANEOUS",
+    "heading": "DOORDASH SAID IT'S ONLY RECEIVED 'SEVERAL HUNDRED' ORDERS FROM AI AGENTS (2 MINUTE READ)",
+    "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/?utm_source=tldrai",
+    "blurb": "DoorDash revealed it has received \"several hundred\" orders from AI agents, despite processing 3 million deliveries daily. CEO Tony Xu highlighted that most orders still come directly from the DoorDash app, but the company is interested in exploring agentic use cases. DoorDash is also developing its own agents and considering future advertising opportunities within these platforms.",
+    "source_email": "tldr_ai_2026-11-02_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 26,
+    "section": "QUICK LINKS",
+    "heading": "INTRODUCING &TUTOR (13 MINUTE READ)",
+    "url": "https://tutor.humansand.ai/blog/?utm_source=tldrai",
+    "blurb": "&Tutor, a new teaching model available via API, was trained against Persimmon, a robust learner model.",
+    "source_email": "tldr_ai_2026-11-02_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 27,
+    "section": "QUICK LINKS",
+    "heading": "INSIDE THE FRONTIER LABS: THE FIRST AGI ORGANIZATIONS (12 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/fAoV5c",
+    "blurb": "Frontier labs are reorganizing around agents that execute research while humans choose directions and verify results.",
+    "source_email": "tldr_ai_2026-11-02_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 28,
+    "section": "QUICK LINKS",
+    "heading": "THERE IS NO SINGLE AI ADOPTION RATE (4 MINUTE READ)",
+    "url": "https://www.stateof.ai/ai-adoption?utm_source=tldrai",
+    "blurb": "McKinsey's nearly 90% usage, Ramp's 55.9% paid adoption, and Census's 19.8% measure different businesses, behaviors, and time windows.",
+    "source_email": "tldr_ai_2026-11-02_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 29,
+    "section": "QUICK LINKS",
+    "heading": "SUPPORTING A SHARED AI TRAINING CONTROL FOR WEBSITES (2 MINUTE READ)",
+    "url": "https://developers.google.com/search/blog/2026/10/ai-training-control?utm_source=tldrai",
+    "blurb": "Google announced plans to support a shared AI training control via robots.txt, allowing websites to set AI training preferences with a single policy token.",
+    "source_email": "tldr_ai_2026-11-02_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  }
+]
