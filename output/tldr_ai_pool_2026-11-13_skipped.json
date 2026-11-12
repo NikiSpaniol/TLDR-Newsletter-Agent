@@ -1,0 +1,532 @@
+[
+  {
+    "ref": 1,
+    "section": null,
+    "heading": "TOGETHER WITH [Wiz]",
+    "url": "https://www.wiz.io/lp/securing-ai-agents-101?sfcid=701Py00000RTEWMIA5&utm_source=tldr-ai&utm_medium=paid-email&utm_campaign=FY26Q3_INB_FORM_Securing-AI-Agents-101&utm_content=AI-Agents-101_header_securing_ai_agents&utm_term=FY27Q4-tldr-ai-primary-november_2026-11-10_tldr_ai",
+    "blurb": "TLDR AI 2026-11-10",
+    "source_email": "tldr_ai_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 2,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "CLAUDE FABLE 5.2 AND MYTHOS 5.2 (12 MINUTE READ)",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2?utm_source=tldrai",
+    "blurb": "Anthropic released Claude Fable 5.2 and Mythos 5.2, featuring improvements in coding, reasoning, and vision, with up to 30% faster output generation and lower pricing. The models share the same underlying architecture.",
+    "source_email": "tldr_ai_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 3,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "GOOGLE'S NEW TPU LINEUP (4 MINUTE READ)",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/?utm_source=tldrai",
+    "blurb": "Google introduced TPU 8i Max for massive context windows and higher compute density, alongside TPU 8tx for secure and confidential inference.",
+    "source_email": "tldr_ai_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 4,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "INTRODUCING META EMBER (3 MINUTE READ)",
+    "url": "https://research.meta.ai/blog/muse-ember?utm_source=tldrai",
+    "blurb": "Meta introduced Muse Ember, a small reasoning model optimized for agent tasks such as tool calling, coding, and document parsing. Meta claims it matches Claude Haiku 5.5's highest reasoning score at roughly one-third the cost and outperforms GPT-6 Luna across reasoning settings.",
+    "source_email": "tldr_ai_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 5,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "AI R&D IS ACCELERATING TOWARDS POTENTIAL RSI IN 2027 (62 MINUTE READ)",
+    "url": "https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards?utm_source=tldrai",
+    "blurb": "AI is accelerating AI R&D at Anthropic. The company is now estimated to be several months ahead of the AI 2027 timeline. We may be less than a year away from full RSI, and there are no clear bottlenecks in the way. We now need to prepare for scenarios where critical events happen in 2027 or 2028.",
+    "source_email": "tldr_ai_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 6,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "WHEN DOES THE US BECOME A NET IMPORTER OF TOKENS? (3 MINUTE READ)",
+    "url": "https://tomtunguz.com/when-does-the-us-become-a-net-importer-of-tokens?utm_source=tldrai",
+    "blurb": "The US could become a net importer of AI tokens between 2028 and 2030. Domestic capacity can accommodate roughly 2.5x annual token growth, with faster demand growth or canceled data center projects pushing computation overseas.",
+    "source_email": "tldr_ai_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 7,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "WILL ANTHROPIC GROW INTO ITS COMPUTE BILL? (13 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/Zm8I7b",
+    "blurb": "Anthropic needs an estimated roughly $200 billion in annual revenue to support its average compute commitments through 2030 at current spending ratios. Its $895 billion commitment total exposes it to demand shortfalls, margin compression, delivery delays, and expensive short-term capacity when demand exceeds forecasts.",
+    "source_email": "tldr_ai_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 8,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "TWO KINDS OF TEST-TIME SCALING (28 MINUTE READ)",
+    "url": "https://www.forethought.org/research/two-kinds-of-test-time-scaling?utm_source=tldrai",
+    "blurb": "Test-time scaling trades compute for performance at test time. There are two types of test-time scaling: one allows researchers to trade more compute for more performance per task, but only up to the maximum quantity of per-task compute used during training; and the other lets researchers trade more compute for more performance per task, and lets them do so up to quantities of compute and performance that never occurred during training. Scaling methods that permit the latter change will have a larger impact than test-time scaling considered simply. This essay describes how this may impact the world.",
+    "source_email": "tldr_ai_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 9,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "WHAT OBJECTIVE IS REASONING SOLVING? (12 MINUTE READ)",
+    "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/?utm_source=tldrai",
+    "blurb": "Reasoning is pathfinding in token space. There are many paths from the problem to a correct answer, and the model traverses each of them with each sample. A path is not guaranteed to converge to the correct answer - it's only in aggregate, over the distribution of paths, do we get a high probability of success. RL training directly raises the success probability. The gains credited to 'thinking longer' come from the search paid for during training rather than at inference.",
+    "source_email": "tldr_ai_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 10,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "NVIDIA INTRODUCES HARDWARE-AWARE LLM COMPRESSION (24 MINUTE READ)",
+    "url": "https://arxiv.org/abs/2611.08290?utm_source=tldrai",
+    "blurb": "NVIDIA's AutoCompress framework optimizes LLM pruning for hardware-specific latency, throughput, and memory constraints rather than parameter counts alone. It compressed Nemotron 3.5 Super from 120B to 74B parameters while retaining its performance.",
+    "source_email": "tldr_ai_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 11,
+    "section": "MISCELLANEOUS",
+    "heading": "ANTHROPIC BUYS $3.4 BILLION IN GAS GENERATORS (2 MINUTE READ)",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/?utm_source=tldrai",
+    "blurb": "Anthropic reportedly secured 1.7 gigawatts of Caterpillar gas generators for $3.4 billion, taking over equipment orders from supplier OnePWR. The purchase moves the AI lab deeper into physical infrastructure as power shortages and lengthy grid connection queues constrain data center expansion.",
+    "source_email": "tldr_ai_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 12,
+    "section": "MISCELLANEOUS",
+    "heading": "APPLE INTRODUCES $50 AI USAGE PACKS IN LOGIC PRO (2 MINUTE READ)",
+    "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro?utm_source=tldrai",
+    "blurb": "Apple now sells $49.99 Intelligence Usage Packs in Logic Pro to extend access to cloud-based AI features after users reach their limits. Unused capacity rolls over monthly but expires after 12 months, and purchases cannot be shared through Family Sharing.",
+    "source_email": "tldr_ai_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 13,
+    "section": "QUICK LINKS",
+    "heading": "IS OPUS 5.5 NERFED? (2 MINUTE READ)",
+    "url": "https://threadreaderapp.com/thread/2119192075505893695.html?utm_source=tldrai",
+    "blurb": "Testing shows that the way Opus 5.5 does reasoning may have changed.",
+    "source_email": "tldr_ai_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 14,
+    "section": "QUICK LINKS",
+    "heading": "OPENAI'S CONTROL ROOM CAN HALT RESEARCH MODEL OUTPUT (6 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/qKKt6Y",
+    "blurb": "OpenAI's Control Room centrally authorizes research inference requests and can stop a workload's model output within 35 seconds of intervention.",
+    "source_email": "tldr_ai_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 15,
+    "section": "QUICK LINKS",
+    "heading": "UPDATE ON OCTOBER 2026 SECURITY INCIDENT (4 MINUTE READ)",
+    "url": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update?utm_source=tldrai",
+    "blurb": "The security incident involving unauthorized use of internal Fireworks credentials on October 6 has been traced to a financially motivated cybercriminal threat actor group that sells unauthorized access to large language models to illicit routing gateways.",
+    "source_email": "tldr_ai_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 16,
+    "section": "QUICK LINKS",
+    "heading": "GR00T 2 (28 MINUTE READ)",
+    "url": "https://research.nvidia.com/labs/gear/gr00t-2/?utm_source=tldrai",
+    "blurb": "GR00T 2 is a new generation of foundation world-action models that can predict future video and robot actions together.",
+    "source_email": "tldr_ai_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 17,
+    "section": "QUICK LINKS",
+    "heading": "CHATGPT ENTERPRISE ON AWS MARKETPLACE (1 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/SmAOO4",
+    "blurb": "OpenAI made ChatGPT Enterprise available through AWS Marketplace, allowing organizations to purchase and manage subscriptions through existing AWS billing relationships and apply eligible spending toward AWS commitments.",
+    "source_email": "tldr_ai_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 18,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "GEMINI 4 CARBON IS NOW AVAILABLE (12 MINUTE READ)",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/?utm_source=tldrai",
+    "blurb": "Google's strongest model is now available to all paying developers and enterprises through the API in AI Studio and Gemini for business, and is rolling out to Google AI Ultra subscribers in Antigravity, the Gemini app, and AI Mode in Search. Google says Carbon ranks first on CursorBench 4.0, Perplexity's WANDR, and Zapier's AutomationBench at more than 2x lower cost per task than the next best external model, at the same $2/$10 per million input/output token price as Gemini 4 Argon. The release adds frontier cybersecurity capabilities through the Fairwind Program and previews /swarm, a multi-agent mode in Antigravity.",
+    "source_email": "tldr_ai_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 19,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "WORKING WITH CLAUDE SHEETS, WHITEBOARDS, AND INTERACTIVE CONNECTORS (5 MINUTE READ)",
+    "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors?utm_source=tldrai",
+    "blurb": "Anthropic introduced Claude Sheets, Whiteboards, and Data, new artifact types that let teams build spreadsheets, organize ideas, and create dashboards with Claude without switching apps. Interactive connectors now embed partner apps like Adobe and Atlassian directly in Claude, and plugins from Salesforce, NetSuite, and Workday (in beta) ship with built-in skills for sales, finance, and HR work. Claude Meetings, which will bring Claude into calls to take notes and update documents, is coming soon.",
+    "source_email": "tldr_ai_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 20,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "BUSINESSES AND BUSINESS AGENTS IN CHATGPT (3 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/ktpofo",
+    "blurb": "OpenAI introduced Businesses in ChatGPT, allowing companies to claim their profiles, update business information, provide product feeds with pricing and availability, and track customer engagement. Eligible e-commerce and online service businesses in the US can also launch Business Agents that answer questions and help customers explore their offerings inside ChatGPT. The launch is in beta.",
+    "source_email": "tldr_ai_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 21,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "Q3.5 TIMELINES UPDATE: LOOKS LIKE THE INTELLIGENCE EXPLOSION WILL HAPPEN IN 2027 AFTER ALL (125 MINUTE READ)",
+    "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the?utm_source=tldrai",
+    "blurb": "A Superhuman AI Researcher (SAR) is predicted to arrive at some point in 2027, assuming there is no substantial deliberate slowdown in development. AIs that can automate all white-collar work are predicted to arrive before 2028. Companies are currently not on track to align an SAR, and using a misaligned SAR to do recursive self-improvement will have negative consequences. China will probably be able to steal the training recipe and maybe even the model weights if an SAR is trained in the near future.",
+    "source_email": "tldr_ai_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 22,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "NEURONS AS AN INTERPRETABLE BASIS (15 MINUTE READ)",
+    "url": "https://www.goodfire.com/research/neurons-as-an-interpretable-basis?utm_source=tldrai",
+    "blurb": "Goodfire argues that individual language-model neurons are more interpretable than commonly assumed. Its Neuron Scientist agents generate and test descriptions of neuron functions, suggesting researchers can study model computations directly without always relying on sparse autoencoders to extract interpretable features.",
+    "source_email": "tldr_ai_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 23,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "SUPPRESSING REWARD HACKING THROUGH MODEL WEIGHT ARITHMETIC (3 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/fVvvL5",
+    "blurb": "Researchers subtract code models trained with loose and strict rewards to identify a direction controlling inefficient solutions. Extrapolating beyond the strict model reduced resource-limit failures from 14.5% to 8% without additional training, though excessive extrapolation breaks outputs and stricter rewards can hurt correctness.",
+    "source_email": "tldr_ai_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 24,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "WHY INSTINCT FEELS LIKE A PERSONAL ASSISTANT (20 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/UJSeT6",
+    "blurb": "A twelve-week analysis of one Instinct conversation attributes its appeal to short messages, quick acknowledgments, proactive follow-ups, and approval checks before purchases or outreach. The teardown suggests coordinated task agents and persistent memory underpin the experience, while exposing retention and delivery-verification failures.",
+    "source_email": "tldr_ai_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 25,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "MAI-TRANSCRIBE-2 (125 MINUTE READ)",
+    "url": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/?utm_source=tldrai",
+    "blurb": "MAI-Transcribe-2 is the fastest, most accurate, and cheapest speech recognition model in the world. It has new features like diarization, configurable transcription styles, and word-level timestamps. MAI-Transcribe-2 can handle a broader range of real-world audio than leading models like Gemini 3.5 Transcribe, GPT-Transcribe, Whisper V3-Large, and ScribeV2. The model costs just $0.10 per hour of audio.",
+    "source_email": "tldr_ai_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 26,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "SWARM (/SWARM) (10 MINUTE READ)",
+    "url": "https://antigravity.google/docs/swarm/?utm_source=tldrai",
+    "blurb": "The /swarm command in Google Antigravity runs a team of named agents that split tasks, work on the pieces at the same time, and coordinate on one shared message board. It can be used for tasks that divide cleanly across separate files, packages, or questions, or when a second agent is needed to review and test the changes before a human sees it. The /swarm command is available on Google AI Pro and Google AI Ultra plans in the Google Antigravity App and Antigravity CLI. Every worker is its own agent, so swarms use quotas much faster than single conversations.",
+    "source_email": "tldr_ai_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 27,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "META RELEASES FASTER K-MEANS ALTERNATIVE (GITHUB REPO)",
+    "url": "https://github.com/facebookresearch/faiss/tree/main/contrib/e_means?utm_source=tldrai",
+    "blurb": "Meta FAIR released e-means, a drop-in replacement for k-means that converges to lower losses with up to 10x fewer epochs and faster runtimes on CPUs and GPUs.",
+    "source_email": "tldr_ai_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 28,
+    "section": "MISCELLANEOUS",
+    "heading": "ANTHROPIC'S IPO ROADSHOW (2 MINUTE READ)",
+    "url": "https://www.anthropic.com/news/roadshow-launch?utm_source=tldrai",
+    "blurb": "Anthropic launched the roadshow for its proposed IPO, planning to offer 825 million shares at $70\u2013$78 each. The company applied to list on Nasdaq under the ticker ANT, with most proceeds from newly issued shares going to Anthropic.",
+    "source_email": "tldr_ai_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 29,
+    "section": "MISCELLANEOUS",
+    "heading": "OPENAI ACQUIRES ODESSIA, TRAVEL STARTUP CREATED BY SONDER FOUNDER (3 MINUTE READ)",
+    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/?utm_source=tldrai",
+    "blurb": "OpenAI has acquired an AI travel agent called Odessia. The deal appears to be an acqui-hire. OpenAI has not announced new travel-specific products or plans, but it has several travel-related companies as customers or partners. Odessia's founder previously founded a travel startup called Sonder, focused on short-term leasing of upscale apartments, as a college student in 2014.",
+    "source_email": "tldr_ai_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 30,
+    "section": "QUICK LINKS",
+    "heading": "GOOGLE DEEPMIND USES AI TO VERIFY SIGNAL'S SECURITY (6 MINUTE READ)",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/?utm_source=tldrai",
+    "blurb": "Google DeepMind introduced AlphaProof Code, a multi-agent AI framework that mathematically verified key security properties of Signal's cryptographic protocol at the implementation level.",
+    "source_email": "tldr_ai_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 31,
+    "section": "QUICK LINKS",
+    "heading": "EXECUTORCH WEBGPU: PYTORCH MODELS ON THE GPU, IN THE BROWSER (6 MINUTE READ)",
+    "url": "https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/?utm_source=tldrai",
+    "blurb": "ExecuTorch enables PyTorch models to run in the web browser on the GPU without conversion to another framework's format.",
+    "source_email": "tldr_ai_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 32,
+    "section": "QUICK LINKS",
+    "heading": "MORE THAN 35,000 GROK-BUILT APPS WERE OPEN TO ANYONE WITH THE LINK, INCLUDING SPACEXSI'S OWN (16 MINUTE READ)",
+    "url": "https://blog.claroc.io/ghostshares-grok-build-apps?utm_source=tldrai",
+    "blurb": "Over 35,000 Grok-built apps were public to anyone with the link, including SpaceXSI staff tools and an ICU patient's lab results.",
+    "source_email": "tldr_ai_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 33,
+    "section": "QUICK LINKS",
+    "heading": "INTRODUCING GEMINI FOR HEALTHCARE (13 MINUTE READ)",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare?utm_source=tldrai",
+    "blurb": "Google Cloud announced Gemini for healthcare, a preview release of its Gemini agent with purpose-built healthcare skills, connectors to EHR and claims systems, and HIPAA-supporting governance for providers and payers.",
+    "source_email": "tldr_ai_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 34,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "WHAT'S NEW IN GROK BOT 1.0 (11 MINUTE READ)",
+    "url": "https://flaviocopes.com/grok-bot-1-0/?utm_source=tldrai",
+    "blurb": "Grok Bot 1.0 adds Team Bots you can publish and share, Slack and Microsoft Teams, meetings on Meet and Zoom, shared connectors, and reviewed learnings. It is now a personal assistant that the whole team can talk to in the app, in Slack, in Microsoft Teams, and in video calls. This post covers how to create a Team Bot and publish it, how to bring the bot into Microsoft Teams, how to add a bot to a meeting, and more. It also looks at the new admin controls and what's possible without a team.",
+    "source_email": "tldr_ai_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 35,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "GEMINI DECISIONS API: FAST, CALIBRATED MULTIMODAL DECISIONS (1 MINUTE READ)",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/?utm_source=tldrai",
+    "blurb": "Google's Gemini Decisions API enables fast, calibrated multimodal decision-making by analyzing inputs like images and text. It assesses scenarios and provides actionable insights, such as determining spill severity and recommending cleanup actions.",
+    "source_email": "tldr_ai_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 36,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "RUNWAY PRAXIS-1 IS NOW AVAILABLE: OPEN-WEIGHT ROBOTICS MODEL (3 MINUTE READ)",
+    "url": "https://runway.com/news/company-news/praxis-1-is-now-available?utm_source=tldrai",
+    "blurb": "Runway's Praxis-1, a 27B-parameter open-weight robotics model, is now available under Apache 2.0. The model excels in predicting video and actions, topping NVIDIA's RoboLab-120 leaderboard with a 46.2% success rate across 1,200 episodes. It's accessible on GitHub and Hugging Face, with support for full and LoRA fine-tuning, compatible with NVIDIA hardware, and adaptable for various robotic embodiments.",
+    "source_email": "tldr_ai_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 37,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "MCP VS CLI VS SKILLS: WHAT EACH COSTS IN CONTEXT (11 MINUTE READ)",
+    "url": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/?utm_source=tldrai",
+    "blurb": "MCP servers significantly increase token use, adding thousands of input tokens per request, unlike CLI or skill methods. On Sonnet 5.5, a simple task showed MCP consuming 59,417 tokens with default tools against CLI's 1,421 and skill's 3,315, highlighting the high cost of tool-heavy MCP setups. Implementing Tool Search can cut token costs by deferring tool definitions, reducing upfront toolset costs to under 600 tokens for optimal efficiency.",
+    "source_email": "tldr_ai_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 38,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "DON'T WRITE KERNELS, DERIVE THEM (63 MINUTE READ)",
+    "url": "https://muni.works/research/tang?utm_source=tldrai",
+    "blurb": "Current models rely on hand-written kernels specific to operators, chips, and fusions, limiting flexibility across devices and scenarios. Tang's IR enables on-the-fly derivation of kernels through constructs such as views and comprehensions, eliminating the need for pre-defined kernels.",
+    "source_email": "tldr_ai_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 39,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "ESCAPING SPACE: PART II (28 MINUTE READ)",
+    "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii?utm_source=tldrai",
+    "blurb": "Perplexity tested 12 models against its SPACE agent sandbox: none escaped VM-host isolation, but several bypassed network controls through DNS spoofing and shared-IP exploitation before the flaws were fixed. The experiments also found that capture-the-flag prompts distracted agents from the security boundary being tested.",
+    "source_email": "tldr_ai_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 40,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "LLMS CAN LEARN SOME MULTI-STEP REASONING ON FILLER TOKENS INSTEAD OF VISIBLE COT (9 MINUTE READ)",
+    "url": "https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2?utm_source=tldrai",
+    "blurb": "By changing the training setup and applying LoRAs to Qwen3.6-35B-A3B and gpt-oss-20b, researchers taught models to do some multi-step tasks while emitting only filler tokens, beating an answer-only baseline on three of seven tasks. They also mapped theoretical layer-depth limits and showed empirical walls, with some tasks learned out to 60 steps and others failing after one to three. The work is meant to separate filler-token reasoning from steganographic hidden reasoning when interpreting chain-of-thought.",
+    "source_email": "tldr_ai_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 41,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "ALPHAGENOME 2: PREDICTING HOW DNA SHAPES CELLS AND DISEASE (9 MINUTE READ)",
+    "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/?utm_source=tldrai",
+    "blurb": "AlphaGenome 2 improves prediction of DNA variant effects on specific cell types, aiding in disease understanding and research. It doubles variant identification compared to its predecessor and adapts to analyze new cell states without retraining. Available for non-commercial use, the tool bridges genetics and cell biology, pinpointing disease-relevant genetic mutations in primary human cells.",
+    "source_email": "tldr_ai_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 42,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "BROWSER USE HAS BEEN ROLLING OUT IN ANTIGRAVITY (1 MINUTE READ)",
+    "url": "https://threadreaderapp.com/thread/2120556423474028576.html?utm_source=tldrai",
+    "blurb": "Browser use in Antigravity closes the loop between researching, writing code, and verifying it live. Users control authentication, and downloads pause until they are approved. Agents can use the browser to run multiple tasks at once. A video demo is available in the post.",
+    "source_email": "tldr_ai_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 43,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "A2UI 1.0: BUILD DELIGHTFUL, FAST, RELIABLE, AGENTIC EXPERIENCES (11 MINUTE READ)",
+    "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/?utm_source=tldrai",
+    "blurb": "A2UI is an open protocol for generative UI that lets agents answer with interactive screens. Open-source renderer SDKs are now available for the web, Android, iOS, and agent SDKs for Python, TypeScript, and Dart. A2UI enables apps to draw UIs with native components, securely. Users get the same low latency, high trust, and complete native fidelity whether they reach a company's agent in its own app or in a third-party AI assistant that hosts MCP apps.",
+    "source_email": "tldr_ai_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 44,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "SHOPIFY'S GENERATIVE DISCOVERY MODEL (14 MINUTE READ)",
+    "url": "https://shopify.engineering/generative-discovery?utm_source=tldrai",
+    "blurb": "Shopify deployed a shared generative discovery model for search and recommendation, leveraging semantic-ID tokens to enhance product personalization and relevance. The model improved online and offline metrics, such as a 9.85% lift in conversion rate and significant gains in search relevance.",
+    "source_email": "tldr_ai_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 45,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "OPENAI OPEN-SOURCES MCP EXTENSIONS FOR CHATGPT-NATIVE PLUGINS (1 MINUTE READ)",
+    "url": "https://github.com/openai/mcp-extensions?utm_source=tldrai",
+    "blurb": "The TypeScript and Python packages add ChatGPT-specific features to MCP servers and apps, including sidebar entry points, custom file viewers, composer resource search, and thumbnail part pickers. The SDKs ship with a Bits & Bolts demo plugin and a written spec.",
+    "source_email": "tldr_ai_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 46,
+    "section": "MISCELLANEOUS",
+    "heading": "WHY CONNECTIONS MATTER MORE IN AI (5 MINUTE READ)",
+    "url": "https://www.jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know?utm_source=tldrai",
+    "blurb": "Professional relationships are becoming increasingly important in AI as coding agents commoditize technical execution, frontier research demands more compute resources, and closed-source development makes individual contributions harder to evaluate.",
+    "source_email": "tldr_ai_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 47,
+    "section": "MISCELLANEOUS",
+    "heading": "UNITED MOVES TO BLOCK AI AGENTS (2 MINUTE READ)",
+    "url": "https://www.cnbc.com/2026/11/11/united-airlines-ai-agents.html?utm_source=tldrai",
+    "blurb": "United Airlines is moving to restrict AI-agent access across its platforms and agency channels, citing credential security and liability risks around tasks such as check-in. The restrictions contrast with travel companies including Expedia and Booking that are partnering with agents.",
+    "source_email": "tldr_ai_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 48,
+    "section": "QUICK LINKS",
+    "heading": "NVIDIA BOARD REPORTEDLY PREPARING TO OUST HUANG (3 MINUTE READ)",
+    "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/?utm_source=tldrai",
+    "blurb": "Nvidia's board is preparing to oust CEO Jensen Huang following his admission of an affair with a woman US intelligence agencies believe was recruited by Chinese intelligence.",
+    "source_email": "tldr_ai_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 49,
+    "section": "QUICK LINKS",
+    "heading": "OPENAI WANTS AGENTS TO TELL WEBSITES WHERE YOU ARE (5 MINUTE READ)",
+    "url": "https://joost.blog/agents-sharing-user-signals/?utm_source=tldrai",
+    "blurb": "Two OpenAI engineers recently shared a proposal that suggests a change that will let agents pass user information along to websites to make them look like normal visitors rather than bots.",
+    "source_email": "tldr_ai_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 50,
+    "section": "QUICK LINKS",
+    "heading": "GOOGLE TABLETOP CREATES SHARED INTERACTIVE PLANNING SPACES (1 MINUTE READ)",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop?utm_source=tldrai",
+    "blurb": "Google Labs' Tabletop turns links, files, and prompts into interactive itineraries, polls, expense splitters, and tournament brackets.",
+    "source_email": "tldr_ai_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 51,
+    "section": "QUICK LINKS",
+    "heading": "ELEVENAI (WEBSITE)",
+    "url": "https://elevenlabs.io/elevenai?utm_source=tldrai",
+    "blurb": "ElevenAI is a desktop app that helps amplify work using agents.",
+    "source_email": "tldr_ai_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 52,
+    "section": "QUICK LINKS",
+    "heading": "DATABRICKS GENIE AGENTS (13 MINUTE READ)",
+    "url": "https://www.databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work?utm_source=tldrai",
+    "blurb": "Databricks Genie Agents can now analyze unstructured documents alongside database tables, connect to enterprise tools, and share insights externally with governance controls.",
+    "source_email": "tldr_ai_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 53,
+    "section": "QUICK LINKS",
+    "heading": "AIRBNB'S AI ASSISTANT CUT SUPPORT COST PER BOOKING 17% (1 MINUTE READ)",
+    "url": "https://www.customerexperiencedive.com/news/airbnb-reduces-customer-support-cost-per-booking-17/874307?utm_source=tldrai",
+    "blurb": "Airbnb's AI assistant cut support cost per booking by more than 17%, resolving about 40% of Q3 issues with no human agent.",
+    "source_email": "tldr_ai_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  }
+]

@@ -1,0 +1,142 @@
+{
+  "kept": [
+    {
+      "ref": 6,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GEMINI 4 CARBON IS NOW AVAILABLE (12 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/?utm_source=tldrai",
+      "blurb": "Google's strongest model is now available to all paying developers and enterprises through the API in AI Studio and Gemini for business, and is rolling out to Google AI Ultra subscribers in Antigravity, the Gemini app, and AI Mode in Search. Google says Carbon ranks first on CursorBench 4.0, Perplexity's WANDR, and Zapier's AutomationBench at more than 2x lower cost per task than the next best external model, at the same $2/$10 per million input/output token price as Gemini 4 Argon. The release adds frontier cybersecurity capabilities through the Fairwind Program and previews /swarm, a multi-agent mode in Antigravity."
+    },
+    {
+      "ref": 7,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "WORKING WITH CLAUDE SHEETS, WHITEBOARDS, AND INTERACTIVE CONNECTORS (5 MINUTE READ)",
+      "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors?utm_source=tldrai",
+      "blurb": "Anthropic introduced Claude Sheets, Whiteboards, and Data, new artifact types that let teams build spreadsheets, organize ideas, and create dashboards with Claude without switching apps. Interactive connectors now embed partner apps like Adobe and Atlassian directly in Claude, and plugins from Salesforce, NetSuite, and Workday (in beta) ship with built-in skills for sales, finance, and HR work. Claude Meetings, which will bring Claude into calls to take notes and update documents, is coming soon."
+    },
+    {
+      "ref": 8,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "BUSINESSES AND BUSINESS AGENTS IN CHATGPT (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/ktpofo",
+      "blurb": "OpenAI introduced Businesses in ChatGPT, allowing companies to claim their profiles, update business information, provide product feeds with pricing and availability, and track customer engagement. Eligible e-commerce and online service businesses in the US can also launch Business Agents that answer questions and help customers explore their offerings inside ChatGPT. The launch is in beta."
+    },
+    {
+      "ref": 9,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "Q3.5 TIMELINES UPDATE: LOOKS LIKE THE INTELLIGENCE EXPLOSION WILL HAPPEN IN 2027 AFTER ALL (125 MINUTE READ)",
+      "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the?utm_source=tldrai",
+      "blurb": "A Superhuman AI Researcher (SAR) is predicted to arrive at some point in 2027, assuming there is no substantial deliberate slowdown in development. AIs that can automate all white-collar work are predicted to arrive before 2028. Companies are currently not on track to align an SAR, and using a misaligned SAR to do recursive self-improvement will have negative consequences. China will probably be able to steal the training recipe and maybe even the model weights if an SAR is trained in the near future."
+    },
+    {
+      "ref": 10,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "NEURONS AS AN INTERPRETABLE BASIS (15 MINUTE READ)",
+      "url": "https://www.goodfire.com/research/neurons-as-an-interpretable-basis?utm_source=tldrai",
+      "blurb": "Goodfire argues that individual language-model neurons are more interpretable than commonly assumed. Its Neuron Scientist agents generate and test descriptions of neuron functions, suggesting researchers can study model computations directly without always relying on sparse autoencoders to extract interpretable features."
+    },
+    {
+      "ref": 11,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "SUPPRESSING REWARD HACKING THROUGH MODEL WEIGHT ARITHMETIC (3 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/fVvvL5",
+      "blurb": "Researchers subtract code models trained with loose and strict rewards to identify a direction controlling inefficient solutions. Extrapolating beyond the strict model reduced resource-limit failures from 14.5% to 8% without additional training, though excessive extrapolation breaks outputs and stricter rewards can hurt correctness."
+    },
+    {
+      "ref": 12,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "WHY INSTINCT FEELS LIKE A PERSONAL ASSISTANT (20 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/UJSeT6",
+      "blurb": "A twelve-week analysis of one Instinct conversation attributes its appeal to short messages, quick acknowledgments, proactive follow-ups, and approval checks before purchases or outreach. The teardown suggests coordinated task agents and persistent memory underpin the experience, while exposing retention and delivery-verification failures."
+    },
+    {
+      "ref": 14,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "MAI-TRANSCRIBE-2 (125 MINUTE READ)",
+      "url": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/?utm_source=tldrai",
+      "blurb": "MAI-Transcribe-2 is the fastest, most accurate, and cheapest speech recognition model in the world. It has new features like diarization, configurable transcription styles, and word-level timestamps. MAI-Transcribe-2 can handle a broader range of real-world audio than leading models like Gemini 3.5 Transcribe, GPT-Transcribe, Whisper V3-Large, and ScribeV2. The model costs just $0.10 per hour of audio."
+    },
+    {
+      "ref": 15,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "SWARM (/SWARM) (10 MINUTE READ)",
+      "url": "https://antigravity.google/docs/swarm/?utm_source=tldrai",
+      "blurb": "The /swarm command in Google Antigravity runs a team of named agents that split tasks, work on the pieces at the same time, and coordinate on one shared message board. It can be used for tasks that divide cleanly across separate files, packages, or questions, or when a second agent is needed to review and test the changes before a human sees it. The /swarm command is available on Google AI Pro and Google AI Ultra plans in the Google Antigravity App and Antigravity CLI. Every worker is its own agent, so swarms use quotas much faster than single conversations."
+    },
+    {
+      "ref": 16,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "META RELEASES FASTER K-MEANS ALTERNATIVE (GITHUB REPO)",
+      "url": "https://github.com/facebookresearch/faiss/tree/main/contrib/e_means?utm_source=tldrai",
+      "blurb": "Meta FAIR released e-means, a drop-in replacement for k-means that converges to lower losses with up to 10x fewer epochs and faster runtimes on CPUs and GPUs."
+    },
+    {
+      "ref": 17,
+      "section": "MISCELLANEOUS",
+      "heading": "ANTHROPIC'S IPO ROADSHOW (2 MINUTE READ)",
+      "url": "https://www.anthropic.com/news/roadshow-launch?utm_source=tldrai",
+      "blurb": "Anthropic launched the roadshow for its proposed IPO, planning to offer 825 million shares at $70\u2013$78 each. The company applied to list on Nasdaq under the ticker ANT, with most proceeds from newly issued shares going to Anthropic."
+    },
+    {
+      "ref": 18,
+      "section": "MISCELLANEOUS",
+      "heading": "OPENAI ACQUIRES ODESSIA, TRAVEL STARTUP CREATED BY SONDER FOUNDER (3 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/?utm_source=tldrai",
+      "blurb": "OpenAI has acquired an AI travel agent called Odessia. The deal appears to be an acqui-hire. OpenAI has not announced new travel-specific products or plans, but it has several travel-related companies as customers or partners. Odessia's founder previously founded a travel startup called Sonder, focused on short-term leasing of upscale apartments, as a college student in 2014."
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "GOOGLE DEEPMIND USES AI TO VERIFY SIGNAL'S SECURITY (6 MINUTE READ)",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/?utm_source=tldrai",
+      "blurb": "Google DeepMind introduced AlphaProof Code, a multi-agent AI framework that mathematically verified key security properties of Signal's cryptographic protocol at the implementation level."
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "EXECUTORCH WEBGPU: PYTORCH MODELS ON THE GPU, IN THE BROWSER (6 MINUTE READ)",
+      "url": "https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/?utm_source=tldrai",
+      "blurb": "ExecuTorch enables PyTorch models to run in the web browser on the GPU without conversion to another framework's format."
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "MORE THAN 35,000 GROK-BUILT APPS WERE OPEN TO ANYONE WITH THE LINK, INCLUDING SPACEXSI'S OWN (16 MINUTE READ)",
+      "url": "https://blog.claroc.io/ghostshares-grok-build-apps?utm_source=tldrai",
+      "blurb": "Over 35,000 Grok-built apps were public to anyone with the link, including SpaceXSI staff tools and an ICU patient's lab results."
+    },
+    {
+      "ref": 23,
+      "section": "QUICK LINKS",
+      "heading": "INTRODUCING GEMINI FOR HEALTHCARE (13 MINUTE READ)",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare?utm_source=tldrai",
+      "blurb": "Google Cloud announced Gemini for healthcare, a preview release of its Gemini agent with purpose-built healthcare skills, connectors to EHR and claims systems, and HIPAA-supporting governance for providers and payers."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "CI IS DEAD. LONG LIVE CI. (SPONSOR)",
+      "url": "https://buildkite.com/home/?utm_source=TLDR&utm_medium=newsletter&utm_campaign=2026-09-04_Primary_Buildkite&utm_content=header_what_cursor_openai",
+      "blurb": "Everyone's talking about the bottleneck shifting... our customers just want something stable as they scale, with actually good DX, that gets out of the way.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "BUILD SOFTWARE FACTORIES THAT WORK FOR HUMANS WITH LAUNCHDARKLY RELEASE AUTOPILOT (SPONSOR)",
+      "url": "https://launchdarkly.com/how-it-works/release-autopilot/?utm_source=tldrai&utm_medium=newsletter&utm_campaign=rel-autopilot&utm_term=secondary&utm_content=ra",
+      "blurb": "Most AI software factories end at deploy, and when the automation stops, the risk begins. Release Autopilot helps eliminate that risk with new automation capabilities built to fit the factory you already have, automating releases within the rules engineers set so AI-written code reaches customers faster and safer.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "YOUR BEST AGENT, NOW WORKING WITH YOUR WHOLE TEAM\u00a0(SPONSOR)",
+      "url": "https://www.switchagents.ai/blog-posts/my-agent-is-my-best-teammate-now-it-works-with-my-whole-team?utm_source=tldrai&utm_medium=newsletter&utm_campaign=quicklink111126",
+      "blurb": "See how a PM at Switch AI turned her personal agent from a solo helper into a teammate her whole team works with, in one shared room. Read her story [19].",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

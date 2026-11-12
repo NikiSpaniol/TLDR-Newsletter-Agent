@@ -1,0 +1,157 @@
+{
+  "kept": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "TOGETHER WITH [Wiz]",
+      "url": "https://www.wiz.io/lp/securing-ai-agents-101?sfcid=701Py00000RTEWMIA5&utm_source=tldr-ai&utm_medium=paid-email&utm_campaign=FY26Q3_INB_FORM_Securing-AI-Agents-101&utm_content=AI-Agents-101_header_securing_ai_agents&utm_term=FY27Q4-tldr-ai-primary-november_2026-11-10_tldr_ai",
+      "blurb": "TLDR AI 2026-11-10"
+    },
+    {
+      "ref": 7,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "CLAUDE FABLE 5.2 AND MYTHOS 5.2 (12 MINUTE READ)",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2?utm_source=tldrai",
+      "blurb": "Anthropic released Claude Fable 5.2 and Mythos 5.2, featuring improvements in coding, reasoning, and vision, with up to 30% faster output generation and lower pricing. The models share the same underlying architecture."
+    },
+    {
+      "ref": 8,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GOOGLE'S NEW TPU LINEUP (4 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/?utm_source=tldrai",
+      "blurb": "Google introduced TPU 8i Max for massive context windows and higher compute density, alongside TPU 8tx for secure and confidential inference."
+    },
+    {
+      "ref": 9,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INTRODUCING META EMBER (3 MINUTE READ)",
+      "url": "https://research.meta.ai/blog/muse-ember?utm_source=tldrai",
+      "blurb": "Meta introduced Muse Ember, a small reasoning model optimized for agent tasks such as tool calling, coding, and document parsing. Meta claims it matches Claude Haiku 5.5's highest reasoning score at roughly one-third the cost and outperforms GPT-6 Luna across reasoning settings."
+    },
+    {
+      "ref": 10,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "AI R&D IS ACCELERATING TOWARDS POTENTIAL RSI IN 2027 (62 MINUTE READ)",
+      "url": "https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards?utm_source=tldrai",
+      "blurb": "AI is accelerating AI R&D at Anthropic. The company is now estimated to be several months ahead of the AI 2027 timeline. We may be less than a year away from full RSI, and there are no clear bottlenecks in the way. We now need to prepare for scenarios where critical events happen in 2027 or 2028."
+    },
+    {
+      "ref": 11,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "WHEN DOES THE US BECOME A NET IMPORTER OF TOKENS? (3 MINUTE READ)",
+      "url": "https://tomtunguz.com/when-does-the-us-become-a-net-importer-of-tokens?utm_source=tldrai",
+      "blurb": "The US could become a net importer of AI tokens between 2028 and 2030. Domestic capacity can accommodate roughly 2.5x annual token growth, with faster demand growth or canceled data center projects pushing computation overseas."
+    },
+    {
+      "ref": 12,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "WILL ANTHROPIC GROW INTO ITS COMPUTE BILL? (13 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/Zm8I7b",
+      "blurb": "Anthropic needs an estimated roughly $200 billion in annual revenue to support its average compute commitments through 2030 at current spending ratios. Its $895 billion commitment total exposes it to demand shortfalls, margin compression, delivery delays, and expensive short-term capacity when demand exceeds forecasts."
+    },
+    {
+      "ref": 14,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "TWO KINDS OF TEST-TIME SCALING (28 MINUTE READ)",
+      "url": "https://www.forethought.org/research/two-kinds-of-test-time-scaling?utm_source=tldrai",
+      "blurb": "Test-time scaling trades compute for performance at test time. There are two types of test-time scaling: one allows researchers to trade more compute for more performance per task, but only up to the maximum quantity of per-task compute used during training; and the other lets researchers trade more compute for more performance per task, and lets them do so up to quantities of compute and performance that never occurred during training. Scaling methods that permit the latter change will have a larger impact than test-time scaling considered simply. This essay describes how this may impact the world."
+    },
+    {
+      "ref": 15,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "WHAT OBJECTIVE IS REASONING SOLVING? (12 MINUTE READ)",
+      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/?utm_source=tldrai",
+      "blurb": "Reasoning is pathfinding in token space. There are many paths from the problem to a correct answer, and the model traverses each of them with each sample. A path is not guaranteed to converge to the correct answer - it's only in aggregate, over the distribution of paths, do we get a high probability of success. RL training directly raises the success probability. The gains credited to 'thinking longer' come from the search paid for during training rather than at inference."
+    },
+    {
+      "ref": 16,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "NVIDIA INTRODUCES HARDWARE-AWARE LLM COMPRESSION (24 MINUTE READ)",
+      "url": "https://arxiv.org/abs/2611.08290?utm_source=tldrai",
+      "blurb": "NVIDIA's AutoCompress framework optimizes LLM pruning for hardware-specific latency, throughput, and memory constraints rather than parameter counts alone. It compressed Nemotron 3.5 Super from 120B to 74B parameters while retaining its performance."
+    },
+    {
+      "ref": 17,
+      "section": "MISCELLANEOUS",
+      "heading": "ANTHROPIC BUYS $3.4 BILLION IN GAS GENERATORS (2 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/?utm_source=tldrai",
+      "blurb": "Anthropic reportedly secured 1.7 gigawatts of Caterpillar gas generators for $3.4 billion, taking over equipment orders from supplier OnePWR. The purchase moves the AI lab deeper into physical infrastructure as power shortages and lengthy grid connection queues constrain data center expansion."
+    },
+    {
+      "ref": 18,
+      "section": "MISCELLANEOUS",
+      "heading": "APPLE INTRODUCES $50 AI USAGE PACKS IN LOGIC PRO (2 MINUTE READ)",
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro?utm_source=tldrai",
+      "blurb": "Apple now sells $49.99 Intelligence Usage Packs in Logic Pro to extend access to cloud-based AI features after users reach their limits. Unused capacity rolls over monthly but expires after 12 months, and purchases cannot be shared through Family Sharing."
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "IS OPUS 5.5 NERFED? (2 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2119192075505893695.html?utm_source=tldrai",
+      "blurb": "Testing shows that the way Opus 5.5 does reasoning may have changed."
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "OPENAI'S CONTROL ROOM CAN HALT RESEARCH MODEL OUTPUT (6 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/qKKt6Y",
+      "blurb": "OpenAI's Control Room centrally authorizes research inference requests and can stop a workload's model output within 35 seconds of intervention."
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "UPDATE ON OCTOBER 2026 SECURITY INCIDENT (4 MINUTE READ)",
+      "url": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update?utm_source=tldrai",
+      "blurb": "The security incident involving unauthorized use of internal Fireworks credentials on October 6 has been traced to a financially motivated cybercriminal threat actor group that sells unauthorized access to large language models to illicit routing gateways."
+    },
+    {
+      "ref": 24,
+      "section": "QUICK LINKS",
+      "heading": "GR00T 2 (28 MINUTE READ)",
+      "url": "https://research.nvidia.com/labs/gear/gr00t-2/?utm_source=tldrai",
+      "blurb": "GR00T 2 is a new generation of foundation world-action models that can predict future video and robot actions together."
+    },
+    {
+      "ref": 25,
+      "section": "QUICK LINKS",
+      "heading": "CHATGPT ENTERPRISE ON AWS MARKETPLACE (1 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/SmAOO4",
+      "blurb": "OpenAI made ChatGPT Enterprise available through AWS Marketplace, allowing organizations to purchase and manage subscriptions through existing AWS billing relationships and apply eligible spending toward AWS commitments."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "SECURING AI AGENTS 101 (SPONSOR)",
+      "url": "https://www.wiz.io/lp/securing-ai-agents-101?sfcid=701Py00000RTEWMIA5&utm_source=tldr-ai&utm_medium=paid-email&utm_campaign=FY26Q3_INB_FORM_Securing-AI-Agents-101&utm_content=AI-Agents-101_header_securing_ai_agents&utm_term=FY27Q4-tldr-ai-primary-november_2026-11-10_tldr_ai",
+      "blurb": "AI agents are changing how work gets done. They take on tasks, orchestrate tools, and drive outcomes across environments.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "LIVEKIT 101: BUILD A HUMANLIKE VOICE AGENT IN UNDER AN HOUR, IN YOUR BROWSER (SPONSOR)",
+      "url": "https://livekit.com/events/build-voice-agent-101?utm_source=tldr&utm_medium=sponsoredcontent&utm_campaign=productsignup&utm_content=AInewsletter&utm_term=cloud",
+      "blurb": "Want to build a voice agent using the same tech used at OpenAI, SpaceX, and NVIDIA? Join a 60-minute virtual workshop [13] with LiveKit's Solutions Architecture team, where you'll build your own voice agent in the browser and talk to it before the session ends. Join live and build together. [13]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "GRANOLA NOW DOES THE TYPING TOO (SPONSOR)",
+      "url": "https://www.granola.ai/?via=adops-tldr-tech&dub_id=ZN64oJLZhCnlrs2H&sp=LH4XTUcnR4bE8Nmvwxn1sLG8&utm_source=affiliate&utm_medium=tldr-tech&utm_campaign=general&utm_content=newsletter_cta_start_free_header_most_important_meetings&utm_term=2026-09-22_tldr",
+      "blurb": "Granola just launched Voice Typing. Hold a key and talk to type clean text in any app. Available on Mac and Windows. GET YOUR FIRST MONTH FREE WITH CODE TLDR1MO. [19]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 23,
+      "section": "QUICK LINKS",
+      "heading": "WHERE DO YOUR CLOUD AGENTS ACTUALLY SPEND THEIR HOURS? (SPONSOR)",
+      "url": "https://devin.ai/paid/cloud-agent-benchmark?utm_source=tldr&utm_medium=paid_email&utm_campaign=cloud_agent_benchmark&utm_content=cloud_agent_benchmark_november_header_cognition_studied_how&utm_term=november_2026-11-06",
+      "blurb": "Five months of Global 1000 production data on Devin cloud agents shows writing code is just 23% of productive engineering hours. See where the other 77% goes, and why cost per session fell as usage grew. Download the benchmark report. [23]",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

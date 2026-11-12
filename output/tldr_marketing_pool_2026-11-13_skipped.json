@@ -1,0 +1,302 @@
+[
+  {
+    "ref": 1,
+    "section": null,
+    "heading": "AI SEARCH ACTIVITY IS NEARLY INVISIBLE IN GOOGLE ADS SEARCH TERMS REPORTS: STUDY (4 MINUTE READ)",
+    "url": "https://searchengineland.com/ai-search-activity-invisible-google-ads-search-terms-reports-study-500872?utm_source=tldrmarketing",
+    "blurb": "An analysis of 400+ Google Ads accounts found no significant increase in longer search queries or conversions despite Google's claim that AI Mode queries are three times longer than traditional searches. The findings were consistent across the US, UK, and France, suggesting that AI Overviews and AI Mode activity remains difficult to identify in standard search terms reports. Google may omit low-volume queries or replace actual prompts with approximations of user intent, limiting advertisers' visibility into the searches triggering their ads. As Google reduces keyword-level reporting, paid search is becoming more like paid social, making it harder to understand exactly which queries generate ad impressions and conversions.",
+    "source_email": "tldr_marketing_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 2,
+    "section": null,
+    "heading": "MARKETERS ARE BURNED OUT - AND NO ONE GIVES AF (5 MINUTE READ)",
+    "url": "https://hackernoon.com/marketers-are-burned-out-and-no-one-gives-af?utm_source=tldrmarketing",
+    "blurb": "Leadership treated AI as a shortcut, so output expectations rose as headcount fell. Single marketing roles now cover brand, paid media, SEO, email, and even front-end design, often at junior salaries. Fear of layoffs pushes people to say yes to everything, and the reward is more responsibility rather than more pay. Burnout reflects that structure more than a bad fit for the field, so the fix is sharing credit with sales and measuring success beyond short-term ROI.",
+    "source_email": "tldr_marketing_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 3,
+    "section": null,
+    "heading": "HOW TO TALK TO EVERY ONE OF YOUR CUSTOMERS WITH AI (28 MINUTE READ)",
+    "url": "https://www.aakashg.com/how-to-talk-to-every-one-of-your-customers-with-ai/?utm_source=tldrmarketing",
+    "blurb": "Use AI to automate personalized email conversations with customers at key points in the customer journey, including incomplete sign-ups, trial abandonment, reduced product usage, and cancellations. Connect an AI agent to customer data from a CRM or data warehouse, then use lifecycle triggers to send relevant, plain-text emails that ask one simple question and let customers guide the conversation through follow-ups. Configure the agent to respond quickly and use evaluation loops to check responses against company documentation, brand voice, and predefined guardrails before sending. These campaigns can generate reply rates of 20% to 40% while uncovering customer objections, identifying product issues, and recovering potential conversions.",
+    "source_email": "tldr_marketing_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 4,
+    "section": null,
+    "heading": "GET THE FREE PLAYBOOK",
+    "url": "https://growthx.ai/reports/ai-visibility-organic-growth-playbook?utm_source=tldr&utm_medium=directbuy&utm_content=cta_get_free_playbook&utm_campaign=Q4FY26_nov10_secondary_2_mkting_newsletter&utm_term=2026-11-10_tldr_marketing",
+    "blurb": "",
+    "source_email": "tldr_marketing_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 5,
+    "section": null,
+    "heading": "SUBSTACK SUCCESS SUMMIT (VIRTUAL EVENT)",
+    "url": "https://substacksuccesssummit.com/?utm_source=tldrmarketing",
+    "blurb": "This free 3-day online event runs from November 11-13, featuring 30+ successful creators and experts sharing tactics for growing a Substack audience. The free pass includes access to 30+ expert sessions covering content strategy, Substack Notes, collaborations, and revenue streams. Each 25-minute interview focuses on one proven tactic, with sessions available free for 48 hours after registration.",
+    "source_email": "tldr_marketing_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 6,
+    "section": null,
+    "heading": "EDIT YOUR VIDEOS WITH CLAUDE CODE (5 MINUTE READ)",
+    "url": "https://claudecodevideoguide.paulsyng.com/?utm_source=tldrmarketing",
+    "blurb": "This guide walks beginners through using Claude Code to automate video editing without traditional editing software or coding. After a one-time 30-minute setup, users can upload raw footage and have Claude select the best takes, remove pauses, add captions, and more. They can preview contact sheets and style options before rendering, then give timestamped feedback. Claude saves editing preferences as reusable rules, making future videos faster and more consistent.",
+    "source_email": "tldr_marketing_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 7,
+    "section": "MISCELLANEOUS",
+    "heading": "YAHOO'S ECONOMISTS RAN 25 AD EXPERIMENTS AND COULD NOT TELL PROFIT FROM LOSS (7 MINUTE READ)",
+    "url": "https://karandhir.substack.com/p/yahoos-economists-ran-25-ad-experiments?utm_source=tldrmarketing",
+    "blurb": "Yahoo's research shows that most advertising lift tests lack the statistical power to distinguish profitable campaigns from unprofitable ones, even when they reach millions of people. Its 25 experiments found that the median confidence interval for ROI exceeded 100 percentage points, making it difficult to separate real impact from normal sales fluctuations. Instead of running many small tests, allocate testing budgets to the two or three channels that account for most of your spend, and run larger, longer, repeated experiments. Before launching a test, define its minimum detectable effect and report the confidence interval alongside the estimated lift. Treat results that cannot reliably detect meaningful returns as directional signals, not proof that a channel works.",
+    "source_email": "tldr_marketing_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 8,
+    "section": "MISCELLANEOUS",
+    "heading": "INSIDE CLAY'S GTM MACHINE (9 MINUTE READ)",
+    "url": "https://www.growthunhinged.com/p/inside-clay-s-gtm-machine?utm_source=tldrmarketing",
+    "blurb": "Clay automates almost every step of its sales process except the conversations themselves, with a person editing and approving each draft before it sends. Accounts get a 0 to 100 fit score built partly from custom research, such as whether 10%+ of headcount works in sales. That score feeds a weekly list of each rep's 5 priority accounts. Follow-up emails are written in each rep's own voice, modeled on what they've sent and said on calls.",
+    "source_email": "tldr_marketing_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 9,
+    "section": "QUICK LINKS",
+    "heading": "151 COPYWRITING PROMPTS FOR CHATGPT (1 MINUTE READ)",
+    "url": "https://gist.github.com/greeenredyellow/7b3afc4a590df576120148d63d68dd78?utm_source=tldrmarketing",
+    "blurb": "A collection of simple AI prompts for copywriting.",
+    "source_email": "tldr_marketing_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 10,
+    "section": "QUICK LINKS",
+    "heading": "WHERE INFLUENCERS ARE MOST POPULAR WORLDWIDE (2 MINUTE READ)",
+    "url": "https://www.visualcapitalist.com/countries-that-follow-influencers-the-most/?utm_source=tldrmarketing",
+    "blurb": "Only 21% of US social media users follow influencers, about half the rate in the Philippines and Brazil.",
+    "source_email": "tldr_marketing_2026-11-10_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 11,
+    "section": null,
+    "heading": "CHATGPT JUST BECAME THE NEW GOOGLE BUSINESS PROFILE, AND CMOS FINALLY GET THE NUMBERS (3 MINUTE READ)",
+    "url": "https://www.thestateofbrand.com/news/chatgpt-business-hub-brand-mentions-clicks?utm_source=tldrmarketing",
+    "blurb": "OpenAI launched Businesses in ChatGPT, giving brands verified profiles to update company information and track mentions, profile views, and website clicks. The dashboard offers the first official data on ChatGPT visibility but doesn't reveal the prompts driving mentions. Like Google Business Profile, it could become a standard business listing with ads built in. The launch also introduces Business Agents that let shoppers ask questions and compare products inside ChatGPT.",
+    "source_email": "tldr_marketing_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 12,
+    "section": null,
+    "heading": "ABOUT A THIRD OF AMERICANS HAVE LEFT AN ONLINE COMMUNITY (3 MINUTE READ)",
+    "url": "https://www.pewresearch.org/short-reads/2026/11/06/about-a-third-of-americans-have-left-an-online-community/?utm_source=tldrmarketing",
+    "blurb": "About one-third of adults in the US have left an online community. These include groups where people connect or participate together through social media, forums, messaging, or online games. More than 80% cite losing interest as a reason, while 57% point to too much arguing and 43% to harassment. Other reasons include excessive political discussions (40%) and spending too much time online (37%). Younger adults are more likely to leave, with 44% of those under 30 having exited a community compared with 19% of adults 65 and older.",
+    "source_email": "tldr_marketing_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 13,
+    "section": null,
+    "heading": "POSTSNAG (TOOL)",
+    "url": "https://postsnag.com/?utm_source=tldrmarketing",
+    "blurb": "PostSnag is a Chrome extension and content research tool designed to automatically capture, organize, and analyze viral Facebook posts. It saves posts, Reels, and content from any Facebook profile, business page, or group as you scroll normally. It then sorts and ranks collected posts by likes, comments, shares, video plays, and post times. It's free to install and offers paid plans with additional features.",
+    "source_email": "tldr_marketing_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 14,
+    "section": null,
+    "heading": "CHATGPT IS NOW SHOWING ADS WHILE IMAGES ARE BEING GENERATED (4 MINUTE READ)",
+    "url": "https://officechai.com/ai/chatgpt-is-now-showing-ads-while-images-are-being-generated/?utm_source=tldrmarketing",
+    "blurb": "For free ChatGPT users, image generation now comes with ads attached. Labeled, multi-image units run while a picture renders for US users on the Free and Go plans. They fill the seconds a user already spends waiting for the picture, so the ad interrupts nothing. Free users can opt out of ads, but only by giving up image generation.",
+    "source_email": "tldr_marketing_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 15,
+    "section": "MISCELLANEOUS",
+    "heading": "BEFORE YOU SPEND MORE ON ADS, FIND OUT WHAT HAPPENED TO YOUR LAST 300 LEADS (7 MINUTE READ)",
+    "url": "https://hackernoon.com/before-you-spend-more-on-ads-find-out-what-happened-to-your-last-300-leads?utm_source=tldrmarketing",
+    "blurb": "Reviewing recent leads shows where the process breaks before more money goes into ads. If cost per lead is rising, the campaigns themselves likely need work. If many leads were never contacted, the problem is sales capacity, and more ads would only lengthen the queue. If leads were contacted quickly but rarely qualified, the problem is likely the offer, targeting, or form questions.",
+    "source_email": "tldr_marketing_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 16,
+    "section": "MISCELLANEOUS",
+    "heading": "HOW SOFTWARE BUYERS USE AI (5 MINUTE READ)",
+    "url": "https://www.growth-memo.com/p/how-software-buyers-use-ai?utm_source=tldrmarketing",
+    "blurb": "AI is introducing new software vendors to buyers who already have a shortlist. Wynter's survey found that 63% of buyers with existing vendor candidates added another option through AI. Buyers then use follow-up prompts to compare vendors and evaluate pricing, integrations, setup, and product fit. After using AI, 73% visited vendor websites and 48% used Google to continue their research. Marketers need to build brand awareness before buyers start searching and make sure their products appear in AI recommendations across multiple platforms.",
+    "source_email": "tldr_marketing_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 17,
+    "section": "MISCELLANEOUS",
+    "heading": "WE JUST GOT RID OF TITLES AT BEEHIIV (8 MINUTE READ)",
+    "url": "https://mail.bigdeskenergy.com/p/untitled?utm_source=tldrmarketing",
+    "blurb": "beehiiv eliminated job titles to reduce internal bureaucracy and keep employees focused on customers rather than hierarchy. Managing titles created unnecessary work around leveling, promotions, and pay negotiations. These discussions led to meetings and internal politics without improving the product. Instead, employees are now identified by their job family, with \u201cLead\u201d added for people managers. The company argues that growth should be measured through greater responsibilities and contributions rather than titles or rank.",
+    "source_email": "tldr_marketing_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 18,
+    "section": "QUICK LINKS",
+    "heading": "CREATORS QUIT PRO-AI PLATFORMS (3 MINUTE READ)",
+    "url": "https://app.sciencesays.com/p/creators-quit-pro-ai-platforms?utm_source=tldrmarketing",
+    "blurb": "75% of creators' posts about AI on these platforms are negative, driven by fears of having their work replaced or used for training without consent.",
+    "source_email": "tldr_marketing_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 19,
+    "section": "QUICK LINKS",
+    "heading": "GOOGLE'S HOLIDAY 100 (WEBSITE)",
+    "url": "https://www.google.com/shopping/holiday100?utm_source=tldrmarketing",
+    "blurb": "100 of the year's trending products wrapped by Google Trends.",
+    "source_email": "tldr_marketing_2026-11-11_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 20,
+    "section": null,
+    "heading": "THE NEXT BIG CREATORS WILL BE EXPERTS (4 MINUTE READ)",
+    "url": "https://www.fastcompany.com/91631790/the-next-big-creators-will-be-experts-technology-creators-creator-economy?utm_source=tldrmarketing",
+    "blurb": "Audiences are growing tired of polished, interchangeable creators and increasingly value experts who offer firsthand knowledge, credible stories, and informed perspectives. Brands should look beyond follower counts when choosing creators and prioritize people with deep subject expertise, a proven track record, and the ability to support their claims with evidence. Four qualities matter when evaluating expert voices: a genuine obsession with their subject, the ability to hold attention beyond short clips, transparency about sources and uncertainty, and the willingness to challenge a brand's assumptions. Pairing experienced experts with younger creators who understand modern formats can also help turn specialized knowledge into content that travels widely.",
+    "source_email": "tldr_marketing_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 21,
+    "section": null,
+    "heading": "AS \u2018DEINFLUENCING' TREND SHAPES CHRISTMAS SHOPPING, \u201cBRANDS NEED TO MEAN MORE\u201d (6 MINUTE READ)",
+    "url": "https://lbbonline.com/news/deinfluencing-christmas-shopping-brands-need-to-mean-more?utm_source=tldrmarketing",
+    "blurb": "Deinfluencing encourages consumers to avoid overhyped products and buy less amid cost-of-living pressures. Searches for \u201cdeinfluence me\u201d surged 5,000% year over year in 2026. Consumers are becoming more selective about what they buy and expect brands to prove their value.",
+    "source_email": "tldr_marketing_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 22,
+    "section": null,
+    "heading": "HOW TO PITCH TV NEWS WITH JODI GRALNICK (FORMER CNBC PRODUCER) (14 MINUTE READ)",
+    "url": "https://www.buzzstream.com/blog/jodi-gralnick-podcast/?utm_source=tldrmarketing",
+    "blurb": "Effective TV pitching starts with matching your story to the right outlet, show, producer, and audience. TV needs strong visuals, graphics, and a relevant human guest, while digital can support deeper research, more data, and written quotes. Research each outlet and journalist before pitching, and write subject lines as headlines the outlet would actually publish. Get ahead of predictable news events by offering expert sources and unique perspectives before journalists start building their coverage. Pitches also need a timely news angle, objective audience relevance, and exclusive information, since 99% of pitches are irrelevant to the person receiving them.",
+    "source_email": "tldr_marketing_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 23,
+    "section": null,
+    "heading": "5 GTM PLAYS WORKING RIGHT NOW (9 MINUTE READ)",
+    "url": "https://www.growthunhinged.com/p/5-gtm-plays-working-right-now?utm_source=tldrmarketing",
+    "blurb": "The strongest GTM plays right now take a channel that already converts and automate the manual work around it rather than adding new channels. An AI skill replaced incident.io's ads agency, cutting ABM campaign launches from 2-3 days to 3 minutes. Granola pays 200+ product users with LinkedIn followings to post about it, and those posts average 10x the engagement of its other LinkedIn ads once boosted. Vercel went from 1-2 to 3-6 field events a month without new headcount after building an internal app that automates invites, seating, and follow-up.",
+    "source_email": "tldr_marketing_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 24,
+    "section": null,
+    "heading": "GET THE KIT \u2192",
+    "url": "https://www.lob.com/ebooks/the-holiday-direct-mail-kit?utm_source=tldr&utm_medium=sponsored-content&utm_campaign=2026-community-marketing&utm_content=holiday-direct-mail-kit",
+    "blurb": "",
+    "source_email": "tldr_marketing_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 25,
+    "section": null,
+    "heading": "INTRODUCING REDDIT REVIEWS (3 MINUTE READ)",
+    "url": "https://redditinc.com/news/introducing-reddit-reviews?utm_source=tldrmarketing",
+    "blurb": "Reddit is testing Reddit Reviews, an AI-powered feature that organizes product discussions into dedicated review pages. Each page summarizes what users like and dislike, shows positive, mixed, and negative sentiment, and links to original conversations. Shoppers can filter discussions by topic and browse products by category. The initial rollout covers roughly 10,000 products across 4 categories for US users.",
+    "source_email": "tldr_marketing_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 26,
+    "section": null,
+    "heading": "ADOBE BRINGS AI AGENTS AND NEW CREATIVE TOOLS TO PHOTOSHOP, PREMIERE, AND FIREFLY (2 MINUTE READ)",
+    "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/?utm_source=tldrmarketing",
+    "blurb": "Adobe's new local MCP lets ChatGPT, Claude, and Gemini use features from its Creative Cloud apps, with more endpoints to follow based on usage. Firefly also adds Builder, a Figma-style prototyping tool in private beta, and a video tool that assembles clips with images and sound effects.",
+    "source_email": "tldr_marketing_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 27,
+    "section": "MISCELLANEOUS",
+    "heading": "SMARTLEAD'S BILLBOARDS WERE NEVER FOR THE STREETS (5 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/vVjfQ7",
+    "blurb": "An outbound sales platform bought billboards in 5 cities to be photographed and shared on LinkedIn, not to reach people walking past. Customers appeared as the models, giving each one a reason to post their own board. Copy changed city by city around local in-jokes, and a bench of customer creators kept the photos circulating. With no QR codes or tracked links on any board, branded search still rose 43% and direct traffic 30%.",
+    "source_email": "tldr_marketing_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 28,
+    "section": "MISCELLANEOUS",
+    "heading": "WHAT IS COMMS STRATEGY? A PRACTICAL DEFINITION, WITH THREE REAL EXAMPLES (7 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/V9PJey",
+    "blurb": "Comms strategy turns a brand idea into a plan for what to say and how to reach audiences. This guide breaks down 8 elements, from audience insights and barriers to messaging and channel roles. It uses 3 award-winning cases from the IPA and APG archives to show how this works in practice. AJ Bell built brand awareness through a distinctive audio identity. Uber used local creative to grow in Northern England. TfL encouraged cycling by making it a social activity rather than focusing on safety concerns.",
+    "source_email": "tldr_marketing_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 29,
+    "section": "QUICK LINKS",
+    "heading": "CLAUDE 101 (6 MINUTE READ)",
+    "url": "https://ruben.substack.com/p/claude-101?utm_source=tldrmarketing",
+    "blurb": "16 power user hacks for Claude.",
+    "source_email": "tldr_marketing_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 30,
+    "section": "QUICK LINKS",
+    "heading": "COMMENTING IS THE MOST UNDERRATED WAY TO GROW ON LINKEDIN (2 MINUTE READ)",
+    "url": "https://themarketinglabuk.substack.com/p/commenting-is-the-most-underrated?utm_source=tldrmarketing",
+    "blurb": "Leave 3-5 comments a day that add an example, a real question, or a counterpoint on posts from 5-10 people whose audience matters.",
+    "source_email": "tldr_marketing_2026-11-12_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  }
+]
