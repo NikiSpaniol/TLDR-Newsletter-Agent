@@ -1,0 +1,205 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": null,
+      "heading": "TOGETHER WITH [Lob]",
+      "url": "https://www.lob.com/postmark-awards-2026?utm_source=TLDR&utm_medium=newsletter&utm_campaign=2026-11-13_tldr_marketing_primary_lob&utm_content=header_what_makes_winning&utm_term=2026-11-13_tldr_marketing",
+      "blurb": "TLDR MARKETING 2026-11-13",
+      "source_email": "tldr_marketing_2026-11-13_extracted.json"
+    },
+    {
+      "ref": 2,
+      "section": null,
+      "heading": "GET YOUR WINNING STRATEGY \u2192",
+      "url": "https://www.lob.com/postmark-awards-2026?utm_source=tldr&utm_medium=sponsored-content&utm_campaign=2026-community-marketing&utm_content=2026-postmark-awards_cta_winning_strategy&utm_term=2026-11-13_tldr_marketing",
+      "blurb": "\ud83d\udcf1",
+      "source_email": "tldr_marketing_2026-11-13_extracted.json"
+    },
+    {
+      "ref": 3,
+      "section": null,
+      "heading": "TRUST BEATS REACH IN CREATOR MARKETING (2 MINUTE READ)",
+      "url": "https://www.creatoriq.com/blog/how-to-measure-creator-trust?utm_source=tldrmarketing",
+      "blurb": "Creator partnerships are more effective when brands prioritize trust and audience relevance over follower count or engagement rate. TikTok research found that creator relevance increased brand memory by 35%, compared with just 10% for fame, while combining both produced the strongest results. A separate analysis of 231 brand lift studies found no significant relationship between engagement rate and brand recall, suggesting that likes and comments do not reliably measure a creator's influence on brand perception. Instead, brand fit, audience relevance, emotional connection, and trust are stronger indicators of a creator's advertising value.",
+      "source_email": "tldr_marketing_2026-11-13_extracted.json"
+    },
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "YOUR TEAM'S MARKETING AI SPEND IS ABOUT TO BECOME YOUR PROBLEM (9 MINUTE READ)",
+      "url": "https://inatoncheva.substack.com/p/your-teams-marketing-ai-spend-is?utm_source=tldrmarketing",
+      "blurb": "As marketing teams build AI agents and automate more workflows, their AI costs are growing. Spending is spread across subscriptions, APIs, and cloud platforms, making budgets harder to track and justify. Leaders can control costs by auditing tools and unused automations and turning repetitive work into scripts or reusable skills. Technical savings come from prompt caching and batch processing.",
+      "source_email": "tldr_marketing_2026-11-13_extracted.json"
+    },
+    {
+      "ref": 5,
+      "section": null,
+      "heading": "AI SHOPPING ERRORS: WHAT TO FIX TO HELP SHOPPERS CHOOSE YOUR PRODUCTS (6 MINUTE READ)",
+      "url": "https://www.searchenginejournal.com/fix-ai-shopping-errors-writesonic-spa/595790/?utm_source=tldrmarketing",
+      "blurb": "ChatGPT and Google can misrepresent products or send shoppers to competitors when product data is incomplete or outdated. With AI traffic to US retail sites forecast to grow 130% this holiday season, brands need to audit how their products appear in AI recommendations. Check for missing products and incorrect prices or specs, align product feeds with website and retailer listings, add product identifiers and schema, and rerun buying prompts regularly to catch errors and monitor rankings.",
+      "source_email": "tldr_marketing_2026-11-13_extracted.json"
+    },
+    {
+      "ref": 6,
+      "section": null,
+      "heading": "HOW BRANDS GO VIRAL WITH $0 MARKETING BUDGET (5 MINUTE READ)",
+      "url": "https://thebrandblueprint.substack.com/p/how-brands-go-viral-with-0-marketing?utm_source=tldrmarketing",
+      "blurb": "Brands with no media budget are borrowing attention from formats and moments audiences already watch. immi runs a street-interview account where its ramen barely appears, so people discover the content first and the brand second. Rally Pickle Juice handed out shots to cramping runners near mile 23 of a marathon, an event already drawing attention. Sourmilk's founder leans on the familiar \u201cI quit my job\u201d hook, telling how she left private equity to start a yogurt brand.",
+      "source_email": "tldr_marketing_2026-11-13_extracted.json"
+    },
+    {
+      "ref": 7,
+      "section": null,
+      "heading": "THE GROWTH META: HOW TO BUILD A SALES PIPELINE (4 MINUTE READ)",
+      "url": "https://speedrun.substack.com/p/the-growth-meta-how-to-build-a-sales-pipeline?utm_source=tldrmarketing",
+      "blurb": "Founders are the first salespeople in the company, and early-stage startups are building pipelines in 3 main ways. They turn sales calls into brainstorming sessions, asking what customers want to build and where the product fits into that vision. They lead with proof instead of a pitch, like offering a free security scan of the prospect's own site in place of a demo. They also start enterprise GTM on day one, staying close to companies that don't fit their ICP yet because that can change within six months.",
+      "source_email": "tldr_marketing_2026-11-13_extracted.json"
+    },
+    {
+      "ref": 8,
+      "section": null,
+      "heading": "LINKEDIN TESTS FREQUENT VIEWER FEATURE (2 MINUTE READ)",
+      "url": "https://www.socialmediatoday.com/news/linkedin-tests-frequent-viewer-feature/874463/?utm_source=tldrmarketing",
+      "blurb": "LinkedIn is testing a new feature for Premium users that shows how often someone revisits their profile, expanding its existing \u201cWho viewed your profile\u201d tool. The added frequency data could help identify warmer leads and potential prospects based on repeat visits. LinkedIn has confirmed the test but hasn't shared details on a wider rollout.",
+      "source_email": "tldr_marketing_2026-11-13_extracted.json"
+    },
+    {
+      "ref": 9,
+      "section": null,
+      "heading": "OPTIMIZING THE PERFORMANCE OF CLIENT-SIDE EXPERIMENTATION (6 MINUTE READ)",
+      "url": "https://www.optimizely.com/field-notes/articles/optimizing-client-side-experimentation?utm_source=tldrmarketing",
+      "blurb": "You can run frequent experiments without sacrificing site speed by optimizing how tests load and execute. Keep JavaScript snippets small through page-specific bundles, longer cache times, and reusable code. Use client-side testing for visual changes and server-side testing for performance-sensitive pages to avoid adding JavaScript to the browser. Measure the impact through real user monitoring (RUM), tracking Core Web Vitals like LCP, INP, and CLS. Segment results by device, geography, and connection speed to identify performance issues that averages can hide.",
+      "source_email": "tldr_marketing_2026-11-13_extracted.json"
+    },
+    {
+      "ref": 10,
+      "section": "MISCELLANEOUS",
+      "heading": "PEDIALYTE IS A GREAT POSITIONING STORY (6 MINUTE READ)",
+      "url": "https://gobbledy.substack.com/p/pedialyte-is-a-great-positioning?utm_source=tldrmarketing",
+      "blurb": "Positioning starts with deciding what a product is, and Pedialyte has answered that question in 2 different ways. The first answer was a rehydration drink for sick babies, sold to parents. The second came from customers after people on Twitter began using it for hangovers in 2009, turning it into an adult hydration drink backed by a pharmaceutical maker. The product never changed, so the company only needed a new audience and a new message, not a rename or a hangover-cure claim that could harm its initial positioning.",
+      "source_email": "tldr_marketing_2026-11-13_extracted.json"
+    },
+    {
+      "ref": 11,
+      "section": "MISCELLANEOUS",
+      "heading": "CAN YOUTUBE CREATORS MAKE SINGLES' DAY AN AMERICAN SHOPPING HOLIDAY? (5 MINUTE READ)",
+      "url": "https://www.futurecommerce.com/posts/insiders-246-can-youtube-creators-make-singles-day-an-american-shopping-holiday?utm_source=tldrmarketing",
+      "blurb": "AliExpress is using its 18-day Singles' Day sale to build US awareness and compete with Black Friday through a new YouTube Shopping partnership. Creators can tag products in videos and livestreams while earning commissions. On November 1, US sales surged 2,828% in 3D printing and 923% in gaming compared with October daily averages. AliExpress is pairing creator-led product demonstrations with verified brand sellers and delivery guarantees to drive purchases and build customer trust.",
+      "source_email": "tldr_marketing_2026-11-13_extracted.json"
+    },
+    {
+      "ref": 12,
+      "section": "QUICK LINKS",
+      "heading": "MEASUREMENT IS CREATOR MARKETING'S BIGGEST PROBLEM, SURVEY FINDS (3 MINUTE READ)",
+      "url": "https://www.netinfluencer.com/measurement-is-creator-marketing-biggest-problem-survey-finds/?utm_source=tldrmarketing",
+      "blurb": "Attribution, common definitions of metrics across platforms, and fee transparency are all problems according to marketing leaders.",
+      "source_email": "tldr_marketing_2026-11-13_extracted.json"
+    },
+    {
+      "ref": 13,
+      "section": "QUICK LINKS",
+      "heading": "THE 100 MOST MENTIONED BRANDS IN CHATGPT (6 MINUTE READ)",
+      "url": "https://ahrefs.com/blog/most-mentioned-brands-chatgpt/?utm_source=tldrmarketing",
+      "blurb": "Walmart appears in 1.73% of US ChatGPT answers, almost twice as often as second-place Target, and retailers take 35% of all mentions among the top 100 brands.",
+      "source_email": "tldr_marketing_2026-11-13_extracted.json"
+    },
+    {
+      "ref": 14,
+      "section": "QUICK LINKS",
+      "heading": "GOOGLE ADS SHORTENS SMART BIDDING LEARNING STATUS TO 7 DAYS (2 MINUTE READ)",
+      "url": "https://searchengineland.com/google-ads-shortens-smart-bidding-learning-status-to-7-days-501415?utm_source=tldrmarketing",
+      "blurb": "Budget and target adjustments now take effect immediately, without starting a new learning period.",
+      "source_email": "tldr_marketing_2026-11-13_extracted.json"
+    },
+    {
+      "ref": 15,
+      "section": null,
+      "heading": "THE DEATH OF OWNED MARKETING (6 MINUTE READ)",
+      "url": "https://www.kieranflanagan.io/p/the-2027-marketing-playbook-the-death?utm_source=tldrmarketing",
+      "blurb": "AI agents are changing how buyers discover and evaluate brands. Brand perception increasingly forms through third-party sources like customer reviews and online communities rather than company websites. Positioning needs to stay consistent across these sources, while original research should offer unique insights that earn independent citations. Brands should also test how AI tools recommend their products. As agents take on more of the buying process, pricing and checkout need to be accessible without human navigation.",
+      "source_email": "tldr_marketing_2026-11-16_extracted.json"
+    },
+    {
+      "ref": 16,
+      "section": null,
+      "heading": "THE ONLY WAY TO GO IS DOWN (3 MINUTE READ)",
+      "url": "https://communitycatalysts.substack.com/p/the-only-way-to-go-is-down?utm_source=tldrmarketing",
+      "blurb": "Americans spend more than 13 hours a day consuming media, but only 25 hours a week receive their full attention. As media consumption grows, focused attention is shrinking. Social media and in-person entertainment are gaining a larger share of that attention. These channels have something in common. They encourage shared interests and community connection rather than passive consumption. The trend points to a growing divide between content that fills people's time and experiences that earn their attention.",
+      "source_email": "tldr_marketing_2026-11-16_extracted.json"
+    },
+    {
+      "ref": 17,
+      "section": null,
+      "heading": "SHOW ONLINE WHAT SHOPPERS CAN'T TOUCH (2 MINUTE READ)",
+      "url": "https://www.practicalecommerce.com/show-online-what-shoppers-cant-touch?utm_source=tldrmarketing",
+      "blurb": "Product images can recreate the in-store experience by showing shoppers textures and details they cannot experience online. Backdrop and Fireclay Tile use close-up photography and directional lighting to highlight surface details that flat color swatches miss. Lush Cosmetics shows bath bombs dissolving in water and scrubs spread out to demonstrate their consistency. Feature texture and product details early in the gallery, then use in-action images to show how products look and behave when used.",
+      "source_email": "tldr_marketing_2026-11-16_extracted.json"
+    },
+    {
+      "ref": 18,
+      "section": null,
+      "heading": "HOW TO TAKE YOUR BEST HOOK TO ANOTHER COUNTRY (15 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/UFGn1e",
+      "blurb": "Subtitled hooks rarely travel, since they run on local jokes and references that translation strips out. Expansion works best one country at a time, starting where the app already ranks without any content. Some hooks only need a local store or city swapped in, while an in-joke that lands in one language needs a full rewrite. Local creators then film in their own dialect, with the app kept out of the first 2 seconds of the video.",
+      "source_email": "tldr_marketing_2026-11-16_extracted.json"
+    },
+    {
+      "ref": 19,
+      "section": null,
+      "heading": "TURN 1-HOUR INTO 64 PIECES OF CONTENT, WITH HITEN SHAH (WEBINAR)",
+      "url": "https://maven.com/p/cde114/turn-1-hour-into-64-pieces-of-content-with-hiten-shah?utm_source=tldrmarketing",
+      "blurb": "Will Nelson's system connects listening, creation, and measurement to turn customer knowledge into content. In this webinar, he will walk through how to turn customer conversations and market signals into relevant ideas backed by real evidence. The webinar will take place on November 19 at 10 AM PT.",
+      "source_email": "tldr_marketing_2026-11-16_extracted.json"
+    },
+    {
+      "ref": 20,
+      "section": null,
+      "heading": "HOW TO BUILD AN AI CUSTOMER RESEARCH AGENT IN CLAUDE CODE (59 MINUTE VIDEO)",
+      "url": "https://www.news.aakashg.com/p/ai-customer-research?utm_source=tldrmarketing",
+      "blurb": "This podcast episode explains how to build an AI customer research agent in Claude Code to uncover why people abandon sign-up or cancel. The agent emails customers at key drop-off points using customer data from a CSV and custom instructions. It asks one question at a time, then categorizes replies and connects feedback to purchase behavior. In one example, Ancestry found that shipping concerns were a bigger conversion barrier than subscription fees. An LLM judge checks that replies are grounded in company documentation before sending.",
+      "source_email": "tldr_marketing_2026-11-16_extracted.json"
+    },
+    {
+      "ref": 21,
+      "section": "MISCELLANEOUS",
+      "heading": "HOW I BUILT AN AI MARKETING TEAM WITH GROK BOT WITHOUT WRITING CODE (3 MINUTE READ)",
+      "url": "https://hackernoon.com/how-i-built-an-ai-marketing-team-with-grok-bot-without-writing-code?utm_source=tldrmarketing",
+      "blurb": "A solo founder uses specialized AI bots to run marketing tasks on a schedule. Each bot has one defined role and follows a shared rules file with factual checks and clear limits. The marketing bot drafts content but requires human approval before anything is published. A weekly report adds lessons and updates instructions so future jobs improve. Batching content into a 21-day calendar reduces daily planning, while a separate bot checks actual outputs and flags stalled work.",
+      "source_email": "tldr_marketing_2026-11-16_extracted.json"
+    },
+    {
+      "ref": 22,
+      "section": "MISCELLANEOUS",
+      "heading": "THE DUTCH BROADCASTER THAT STOPPED TRACKING ITS VIEWERS AND MADE MORE MONEY (8 MINUTE READ)",
+      "url": "https://karandhir.substack.com/p/the-dutch-broadcaster-that-stopped?utm_source=tldrmarketing",
+      "blurb": "Personalization doesn't always improve ad performance, and third-party tracking may add less value than the industry claims. Dutch broadcaster NPO eliminated third-party cookies and sold ads based on content and context instead, increasing ad revenue by 61%. Research found tracking added only 4% to publisher revenue. A travel site experiment found generic brand ads outperformed retargeting ads featuring hotels shoppers had viewed. Personalized ads performed better after shoppers visited a review site and narrowed their choices.",
+      "source_email": "tldr_marketing_2026-11-16_extracted.json"
+    },
+    {
+      "ref": 23,
+      "section": "QUICK LINKS",
+      "heading": "CHATGPT'S NEW WALLET LETS AI AGENTS SHOP AND CHECK OUT FOR YOU (2 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/?utm_source=tldrmarketing",
+      "blurb": "ChatGPT Wallet lets select US Pro subscribers aged 18+ use AI agents to shop and complete purchases.",
+      "source_email": "tldr_marketing_2026-11-16_extracted.json"
+    },
+    {
+      "ref": 24,
+      "section": "QUICK LINKS",
+      "heading": "VIEWERS STILL STRUGGLING TO FIND WHAT TO WATCH (2 MINUTE READ)",
+      "url": "https://www.advanced-television.com/2026/11/13/research-viewers-still-struggle-to-find-what-to-watch/?utm_source=tldrmarketing",
+      "blurb": "Friends, trailers, and AI tools now do more to steer viewers to new shows than streaming algorithms do.",
+      "source_email": "tldr_marketing_2026-11-16_extracted.json"
+    },
+    {
+      "ref": 25,
+      "section": "QUICK LINKS",
+      "heading": "AI CHATBOTS WON'T STOP RECOMMENDING SCAM WEBSITES TO PEOPLE TRYING TO SHOP (2 MINUTE READ)",
+      "url": "https://futurism.com/artificial-intelligence/ai-chatbots-recommend-scam?utm_source=tldrmarketing",
+      "blurb": "A study of ChatGPT, Gemini, and Perplexity found that all 3 recommend scam websites when users ask where to buy products or find regional stores.",
+      "source_email": "tldr_marketing_2026-11-16_extracted.json"
+    }
+  ],
+  "dropped": []
+}

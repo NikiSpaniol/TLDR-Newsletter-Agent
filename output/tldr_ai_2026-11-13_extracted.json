@@ -1,0 +1,157 @@
+{
+  "kept": [
+    {
+      "ref": 7,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GEMINI 4 HYDROGEN (14 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/?utm_source=tldrai",
+      "blurb": "Google introduced Gemini 4 Hydrogen, a fast, efficient model optimized for coding and agentic workflows. It scored 51 on the Artificial Analysis Intelligence Index, surpassing Gemini 4 Argon, and is priced at $1.50 per million input tokens and $7.50 per million output tokens."
+    },
+    {
+      "ref": 8,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPERATE CLAUDE MANAGED AGENTS INSIDE YOUR SECURITY PERIMETER (4 MINUTE READ)",
+      "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents?utm_source=tldrai",
+      "blurb": "Self-hosted Claude Managed Agents offers private beta for developers to build and run agents directly within their company's own infrastructure. This setup allows for a complete in-house deployment of the Managed Agents' services, including sandboxes, credential handling, and session history. Organizations benefit from enhanced security and control over agent operations, with the ability to integrate with existing cloud providers and comply with zero data retention policies."
+    },
+    {
+      "ref": 9,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "REPLIT AGENT CAN NOW BUY FOR YOUR BUSINESS AND HELP YOU REACH CUSTOMERS (5 MINUTE READ)",
+      "url": "https://replit.com/blog/replit-agent-ads-commerce?utm_source=tldrai",
+      "blurb": "Replit Agent now helps businesses with supply purchases and running Google Ads. It leverages Link with Visa and Stripe for secure, controlled transactions and simplifies ad campaigns by analyzing content and suggesting strategies."
+    },
+    {
+      "ref": 10,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "TOP CHINESE FRONTIER AI MODELS CARRY THE FINGERPRINT OF EXPORT-CONTROLLED NVIDIA BLACKWELL GPUS (37 MINUTE READ)",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics?utm_source=tldrai",
+      "blurb": "A forensic analysis of publicly released AI models found evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group have gained access to Nvidia's Blackwell GPUs. Six models released by these companies since April contain numerical patterns that match Blackwell hardware. Several leading Chinese AI developers have likely begun using Blackwell to train their newest models. While the analysis provides technical evidence of access to advanced computing hardware, it doesn't establish where the chips were located, how access was obtained, or whether export controls were violated."
+    },
+    {
+      "ref": 11,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "ELIMINATING NONDETERMINISM IN LLM INFERENCE WITH INTEGER-ONLY ARITHMETIC (15 MINUTE READ)",
+      "url": "https://nathan.rs/posts/detllm/?utm_source=tldrai",
+      "blurb": "A floating-point number stores a fixed number of significant digits and a separate exponent. When two numbers with very different exponents are added, the small one has to be shifted to line up with the big one, and the digits that fall off on the end are gone. That means that (a+b)+c is not always equal to a+(b+c). This post looks at what happens when integer addition, which is exact, is used."
+    },
+    {
+      "ref": 12,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOW AGENT ANOMALY DETECTION SCORES ON BENCHMARKS WE DIDN'T WRITE (8 MINUTE READ)",
+      "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/?utm_source=tldrai",
+      "blurb": "Agent Anomaly Detection, tested against external benchmarks, flagged 87% of executed harmful instructions, highlighting strengths in identifying goal hijack and tool misuse but weaknesses with poisoned memory. It demonstrated varying false alarm rates, with the highest at 16% for tasks involving high-impact tools. Ongoing improvements focus on detecting small, potentially harmful actions, distinguishing normal use from misuse, and providing quicker full coverage for new agents."
+    },
+    {
+      "ref": 14,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "ATLAS (WEBSITE)",
+      "url": "https://worldlabs.ai/atlas?utm_source=tldrai",
+      "blurb": "Atlas is an omni model that natively operates on text, images, video, and 3D. All inputs are combined into a shared spatial context. Atlas can perform a broad range of tasks spanning world generation, reconstruction, and simulation. Examples of scenes generated with the model are available."
+    },
+    {
+      "ref": 15,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "PERPLEXITY DECIDER (26 MINUTE READ)",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider?utm_source=tldrai",
+      "blurb": "Perplexity has released updates to two models inspired by Jev, TypeSafe AI's System One model. Perplexity Decider supports binary and multi-class classification with ordered or unordered labels. It returns probabilities that applications can use to classify, route, rank, and evaluate inputs. Both new models, Decider v1.3 and Decider Flash v1.3, improve performance and robustness across a broad range of text and vision tasks. They also have a new feature that highlights selected content for named entity recognition, personal information identification, and extractive question-answering tasks."
+    },
+    {
+      "ref": 16,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "BECOME A FOUNDING MEMBER OF TLDR'S AI COMMUNITY (2 MINUTE FORM)",
+      "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrai",
+      "blurb": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join [17]."
+    },
+    {
+      "ref": 18,
+      "section": "MISCELLANEOUS",
+      "heading": "EVERYONE IS LEARNING THE WRONG LESSON FROM HUGGING FACE (9 MINUTE READ)",
+      "url": "https://blog.karthiktadepalli.com/p/hugging-face?utm_source=tldrai",
+      "blurb": "The Hugging Face incident is commonly viewed as a cybersecurity incident. People see it as an example of how AI could be used to break into critical infrastructure and cause enormous damage. However, this isn't anything new: we have known about AI's hacking capabilities for a while. The real lesson is that frontier AIs want things we don't intend, and they will pursue those wants relentlessly."
+    },
+    {
+      "ref": 19,
+      "section": "MISCELLANEOUS",
+      "heading": "NVIDIA ANNOUNCES CEO TRANSITION (3 MINUTE READ)",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition?utm_source=tldrai",
+      "blurb": "Jensen Huang has resigned as Nvidia's CEO. Finance chief Colette Kress will serve as interim CEO until a permanent successor is named. The board is considering both internal and external candidates. Nvidia's board has appointed long-time director Harvey C. Jones as its first ever chair. The company will report its third-quarter fiscal 2027 results on November 17 as previously scheduled."
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "EXPLORE PITCH",
+      "url": "https://pitch.com/lp/momentum?utm_source=tldrai&utm_medium=paid-email&utm_campaign=ms26&utm_content=tertiary",
+      "blurb": ""
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "ORIENTING TO 1 YEAR AGI TIMELINES (22 MINUTE READ)",
+      "url": "https://www.lesswrong.com/posts/biFHYdJnMSCmW9Xou/orienting-to-1-year-agi-timelines?utm_source=tldrai",
+      "blurb": "Timelines to artificial superintelligence are now very short, with some predicting that it will be achieved within the next two years."
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "USE CLAUDE MEETINGS (4 MINUTE READ)",
+      "url": "https://support.claude.com/en/articles/18325154-use-claude-meetings?utm_source=tldrai",
+      "blurb": "Claude can now be added to Google Meet as a visible participant to take notes, answer questions, and build artifacts live during the call."
+    },
+    {
+      "ref": 24,
+      "section": "QUICK LINKS",
+      "heading": "META'S MUSE CAN NOW CALL BUSINESSES (1 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/?utm_source=tldrai",
+      "blurb": "Meta expanded Muse's AI-powered calling feature to all paid subscribers, letting the assistant contact US businesses on users' behalf."
+    },
+    {
+      "ref": 25,
+      "section": "QUICK LINKS",
+      "heading": "LIQUIDCODEC: HIGH-FIDELITY AUDIO TOKENIZATION OPTIMIZED FOR SPEED (17 MINUTE READ)",
+      "url": "https://www.liquid.ai/blog/liquidcodec?utm_source=tldrai",
+      "blurb": "LiquidCodec features fast speech generation with a small memory footprint, making it easier to build applications that can sustain a conversation while running locally."
+    },
+    {
+      "ref": 26,
+      "section": "QUICK LINKS",
+      "heading": "FAST BY DEFAULT: COMPILE-TIME HEURISTICS FOR HELION KERNELS (15 MINUTE READ)",
+      "url": "https://pytorch.org/blog/fast-by-default-compile-time-heuristics-for-helion-kernels/?utm_source=tldrai",
+      "blurb": "Helion's new compile-time heuristics boost kernel performance significantly without the need for time-consuming autotuning."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "FRONTIER INTELLIGENCE. HALF THE BILL. (SPONSOR)",
+      "url": "https://fireworks.ai/nexus?utm_source=tldr&utm_medium=newsletter&utm_campaign=tldr-nov-13&utm_content=header_frontier_intelligence_half&utm_term=2026-11-13_tldr_ai",
+      "blurb": "AI coding spend is growing fast. But teams shouldn't have to choose between giving developers access to frontier intelligence and keeping token costs under control.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "ATLASSIAN REPORT: AI HELPS 87% OF DEVELOPERS SHIP FASTER - BUT DOESN'T REMOVE FRICTION (SPONSOR)",
+      "url": "https://www.atlassian.com/teams/software-development/state-of-developer-experience-2026?utm_source=tldr&utm_medium=paid-newsletter&utm_campaign=P:twc*O:gdc*F:awareness*C:wpaper*H:fy27q2*I:ai-secondary-nov13*E:cloud*&utm_sfdc-campaign_id=701QB000016lieNYAQ",
+      "blurb": "Coherent AI rollout strategies are few and far between. Drawing on a survey of 1,500+ software practitioners, Atlassian's State of Developer Experience Report in 2026 [13] explores what happens when individual AI adoption outpaces operational strategy, how DevEx continues to evolve with AI - and why developers still get bogged down (hint: meetings). See the findings [13]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "AI LEADERS MAKE SLIDES WITH PITCH (SPONSOR)",
+      "url": "https://pitch.com/lp/momentum?utm_source=tldrai&utm_medium=paid-email&utm_campaign=ms26&utm_content=tertiary",
+      "blurb": "Perplexity, Legora, and Synthesia use Pitch to deliver on-brand decks. It's how entire teams collaborate on personalized, standout slides that win.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 23,
+      "section": "QUICK LINKS",
+      "heading": "PAY ONLY ONCE WE CATCH YOUR FIRST FRAUDSTER (SPONSOR)",
+      "url": "https://verifyyou.com/case-studies/ai-data-labeling?utm_source=tldr&utm_medium=newsletter&utm_campaign=tldr_ai_quicklink_nov13&utm_content=outcome_trial",
+      "blurb": "VerifyYou stopped $150,000 in contributor fraud at an AI data labeling company in three weeks. Start your trial with zero dev effort \u2192",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

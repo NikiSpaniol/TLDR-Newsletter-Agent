@@ -1,0 +1,325 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "GEMINI 4 HYDROGEN (14 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/?utm_source=tldrai",
+      "blurb": "Google introduced Gemini 4 Hydrogen, a fast, efficient model optimized for coding and agentic workflows. It scored 51 on the Artificial Analysis Intelligence Index, surpassing Gemini 4 Argon, and is priced at $1.50 per million input tokens and $7.50 per million output tokens.",
+      "source_email": "tldr_ai_2026-11-13_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 2,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPERATE CLAUDE MANAGED AGENTS INSIDE YOUR SECURITY PERIMETER (4 MINUTE READ)",
+      "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents?utm_source=tldrai",
+      "blurb": "Self-hosted Claude Managed Agents offers private beta for developers to build and run agents directly within their company's own infrastructure. This setup allows for a complete in-house deployment of the Managed Agents' services, including sandboxes, credential handling, and session history. Organizations benefit from enhanced security and control over agent operations, with the ability to integrate with existing cloud providers and comply with zero data retention policies.",
+      "source_email": "tldr_ai_2026-11-13_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 3,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "REPLIT AGENT CAN NOW BUY FOR YOUR BUSINESS AND HELP YOU REACH CUSTOMERS (5 MINUTE READ)",
+      "url": "https://replit.com/blog/replit-agent-ads-commerce?utm_source=tldrai",
+      "blurb": "Replit Agent now helps businesses with supply purchases and running Google Ads. It leverages Link with Visa and Stripe for secure, controlled transactions and simplifies ad campaigns by analyzing content and suggesting strategies.",
+      "source_email": "tldr_ai_2026-11-13_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 4,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "TOP CHINESE FRONTIER AI MODELS CARRY THE FINGERPRINT OF EXPORT-CONTROLLED NVIDIA BLACKWELL GPUS (37 MINUTE READ)",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics?utm_source=tldrai",
+      "blurb": "A forensic analysis of publicly released AI models found evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group have gained access to Nvidia's Blackwell GPUs. Six models released by these companies since April contain numerical patterns that match Blackwell hardware. Several leading Chinese AI developers have likely begun using Blackwell to train their newest models. While the analysis provides technical evidence of access to advanced computing hardware, it doesn't establish where the chips were located, how access was obtained, or whether export controls were violated.",
+      "source_email": "tldr_ai_2026-11-13_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 5,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "ELIMINATING NONDETERMINISM IN LLM INFERENCE WITH INTEGER-ONLY ARITHMETIC (15 MINUTE READ)",
+      "url": "https://nathan.rs/posts/detllm/?utm_source=tldrai",
+      "blurb": "A floating-point number stores a fixed number of significant digits and a separate exponent. When two numbers with very different exponents are added, the small one has to be shifted to line up with the big one, and the digits that fall off on the end are gone. That means that (a+b)+c is not always equal to a+(b+c). This post looks at what happens when integer addition, which is exact, is used.",
+      "source_email": "tldr_ai_2026-11-13_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 6,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "HOW AGENT ANOMALY DETECTION SCORES ON BENCHMARKS WE DIDN'T WRITE (8 MINUTE READ)",
+      "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/?utm_source=tldrai",
+      "blurb": "Agent Anomaly Detection, tested against external benchmarks, flagged 87% of executed harmful instructions, highlighting strengths in identifying goal hijack and tool misuse but weaknesses with poisoned memory. It demonstrated varying false alarm rates, with the highest at 16% for tasks involving high-impact tools. Ongoing improvements focus on detecting small, potentially harmful actions, distinguishing normal use from misuse, and providing quicker full coverage for new agents.",
+      "source_email": "tldr_ai_2026-11-13_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 7,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "ATLAS (WEBSITE)",
+      "url": "https://worldlabs.ai/atlas?utm_source=tldrai",
+      "blurb": "Atlas is an omni model that natively operates on text, images, video, and 3D. All inputs are combined into a shared spatial context. Atlas can perform a broad range of tasks spanning world generation, reconstruction, and simulation. Examples of scenes generated with the model are available.",
+      "source_email": "tldr_ai_2026-11-13_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 8,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "PERPLEXITY DECIDER (26 MINUTE READ)",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider?utm_source=tldrai",
+      "blurb": "Perplexity has released updates to two models inspired by Jev, TypeSafe AI's System One model. Perplexity Decider supports binary and multi-class classification with ordered or unordered labels. It returns probabilities that applications can use to classify, route, rank, and evaluate inputs. Both new models, Decider v1.3 and Decider Flash v1.3, improve performance and robustness across a broad range of text and vision tasks. They also have a new feature that highlights selected content for named entity recognition, personal information identification, and extractive question-answering tasks.",
+      "source_email": "tldr_ai_2026-11-13_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 9,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "BECOME A FOUNDING MEMBER OF TLDR'S AI COMMUNITY (2 MINUTE FORM)",
+      "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrai",
+      "blurb": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join [17].",
+      "source_email": "tldr_ai_2026-11-13_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 10,
+      "section": "MISCELLANEOUS",
+      "heading": "EVERYONE IS LEARNING THE WRONG LESSON FROM HUGGING FACE (9 MINUTE READ)",
+      "url": "https://blog.karthiktadepalli.com/p/hugging-face?utm_source=tldrai",
+      "blurb": "The Hugging Face incident is commonly viewed as a cybersecurity incident. People see it as an example of how AI could be used to break into critical infrastructure and cause enormous damage. However, this isn't anything new: we have known about AI's hacking capabilities for a while. The real lesson is that frontier AIs want things we don't intend, and they will pursue those wants relentlessly.",
+      "source_email": "tldr_ai_2026-11-13_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 11,
+      "section": "MISCELLANEOUS",
+      "heading": "NVIDIA ANNOUNCES CEO TRANSITION (3 MINUTE READ)",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition?utm_source=tldrai",
+      "blurb": "Jensen Huang has resigned as Nvidia's CEO. Finance chief Colette Kress will serve as interim CEO until a permanent successor is named. The board is considering both internal and external candidates. Nvidia's board has appointed long-time director Harvey C. Jones as its first ever chair. The company will report its third-quarter fiscal 2027 results on November 17 as previously scheduled.",
+      "source_email": "tldr_ai_2026-11-13_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 12,
+      "section": "QUICK LINKS",
+      "heading": "EXPLORE PITCH",
+      "url": "https://pitch.com/lp/momentum?utm_source=tldrai&utm_medium=paid-email&utm_campaign=ms26&utm_content=tertiary",
+      "blurb": "",
+      "source_email": "tldr_ai_2026-11-13_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 13,
+      "section": "QUICK LINKS",
+      "heading": "ORIENTING TO 1 YEAR AGI TIMELINES (22 MINUTE READ)",
+      "url": "https://www.lesswrong.com/posts/biFHYdJnMSCmW9Xou/orienting-to-1-year-agi-timelines?utm_source=tldrai",
+      "blurb": "Timelines to artificial superintelligence are now very short, with some predicting that it will be achieved within the next two years.",
+      "source_email": "tldr_ai_2026-11-13_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 14,
+      "section": "QUICK LINKS",
+      "heading": "USE CLAUDE MEETINGS (4 MINUTE READ)",
+      "url": "https://support.claude.com/en/articles/18325154-use-claude-meetings?utm_source=tldrai",
+      "blurb": "Claude can now be added to Google Meet as a visible participant to take notes, answer questions, and build artifacts live during the call.",
+      "source_email": "tldr_ai_2026-11-13_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 15,
+      "section": "QUICK LINKS",
+      "heading": "META'S MUSE CAN NOW CALL BUSINESSES (1 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/?utm_source=tldrai",
+      "blurb": "Meta expanded Muse's AI-powered calling feature to all paid subscribers, letting the assistant contact US businesses on users' behalf.",
+      "source_email": "tldr_ai_2026-11-13_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 16,
+      "section": "QUICK LINKS",
+      "heading": "LIQUIDCODEC: HIGH-FIDELITY AUDIO TOKENIZATION OPTIMIZED FOR SPEED (17 MINUTE READ)",
+      "url": "https://www.liquid.ai/blog/liquidcodec?utm_source=tldrai",
+      "blurb": "LiquidCodec features fast speech generation with a small memory footprint, making it easier to build applications that can sustain a conversation while running locally.",
+      "source_email": "tldr_ai_2026-11-13_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 17,
+      "section": "QUICK LINKS",
+      "heading": "FAST BY DEFAULT: COMPILE-TIME HEURISTICS FOR HELION KERNELS (15 MINUTE READ)",
+      "url": "https://pytorch.org/blog/fast-by-default-compile-time-heuristics-for-helion-kernels/?utm_source=tldrai",
+      "blurb": "Helion's new compile-time heuristics boost kernel performance significantly without the need for time-consuming autotuning.",
+      "source_email": "tldr_ai_2026-11-13_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 18,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "CHATGPT WALLET (5 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/975aDV",
+      "blurb": "OpenAI introduced ChatGPT Wallet, allowing AI agents to make purchases without accessing users' actual card details while requiring a security check for every transaction.",
+      "source_email": "tldr_ai_2026-11-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 19,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "DEVIN APPS (3 MINUTE READ)",
+      "url": "https://devin.ai/blog/devin-apps?utm_source=tldrai",
+      "blurb": "Devin Apps are private web apps that Devin builds and hosts from a description, such as dashboards and approval queues. Apps can use a team's existing integrations and codebase, and viewers must sign in to Devin.",
+      "source_email": "tldr_ai_2026-11-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 20,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "END-TO-END 4-BIT AI TRAINING (9 MINUTE READ)",
+      "url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/?utm_source=tldrai",
+      "blurb": "Thinking Machines explored the technical challenges of training language models using 4-bit precision, including quantization errors and their effects on model accuracy. The deep dive examines BF16, MXFP8, and NVFP4 formats.",
+      "source_email": "tldr_ai_2026-11-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 21,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "QUARK: OUR WHOLE TRAINING STACK, END TO END, FOR $4,200 (7 MINUTE READ)",
+      "url": "https://empero.org/writing/quark?utm_source=tldrai",
+      "blurb": "Quark is a language model with about 165 million parameters trained for about $4,200 of compute (about 1,300 H-100-hours). It has the best benchmark average among open models of its size trained on similar token budgets. The model was created to explore every part of the training stack the team was using before spending serious money on a large model. This post looks at the model's data, architecture, pretraining at scale, context extension, reinforcement learning, evaluation, and release.",
+      "source_email": "tldr_ai_2026-11-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 22,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "ON THE BRUTALITY OF AMDAHL'S LAW (12 MINUTE READ)",
+      "url": "https://bosoncutter.substack.com/p/on-the-brutality-of-amdahls-law?utm_source=tldrai",
+      "blurb": "The world is far too slow to see the high double-digit or more economic growth and seismic transformations in the economy that AI is predicted to bring. Intelligence isn't the only technology curve to go quasi-infinite in the last century and a half. Electricity, communication, computers, transportation, and agriculture have all experienced extreme growth and transformation. Despite this, we've only seen 2% GDP per capita growth for nearly 150 years.",
+      "source_email": "tldr_ai_2026-11-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 23,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "QWEN4-MAX: YOUR NEW TEAMMATE HAS ARRIVED (16 MINUTE READ)",
+      "url": "https://qwen.ai/blog?id=qwen4-max&utm_source=tldrai",
+      "blurb": "Qwen4-Max can take on a wide range of creative and professional work in the fields of 3D modeling, game development, precision manufacturing, finance, law, healthcare, and frontier scientific discovery. It demonstrates strong 3D creation capabilities and can use Blender to carry out geometry modeling, scene assembly, material setup, lighting, and rendering. The model works fluently with leading game engines and can handle scene construction, gameplay logic, integration of external assets, material setup, HUD design, and visual effects, and deliver a playable game. Smaller models in the family are coming to open source.",
+      "source_email": "tldr_ai_2026-11-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 24,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "EMBLA 1 (5 MINUTE READ)",
+      "url": "https://sevren.ai/blog/embla-1?utm_source=tldrai",
+      "blurb": "Embla 1 is a reasoning model built for phones. It is designed to be fast and to use few tokens per answer. The model can run on a phone, privately, offline, for free. At 4 bits, Embla 1 averages 57.4 on BFCL, IFBench, AA-Omniscience, GPQA, and MATH-500 and answers in 1.77 seconds end-to-end on an iPhone 18 Pro.",
+      "source_email": "tldr_ai_2026-11-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 25,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "BIRDDREAMS: A DRIVING WORLD MODEL (4 MINUTE READ)",
+      "url": "https://research.nvidia.com/labs/sil/projects/birddreams/?utm_source=tldrai",
+      "blurb": "BirdDreams is an Nvidia driving world model that turns a single camera image into driving video and a bird's-eye view of the scene.",
+      "source_email": "tldr_ai_2026-11-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 26,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "META'S VISION ENCODERS IN MULTIMODAL MODELS (7 MINUTE READ)",
+      "url": "https://unbundling.github.io/?utm_source=tldrai",
+      "blurb": "Meta researchers explored which components of vision encoders are essential for multimodal models, finding that dedicated visual processing capacity matters more than pretraining.",
+      "source_email": "tldr_ai_2026-11-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 27,
+      "section": "MISCELLANEOUS",
+      "heading": "RELEASING PERSONAL AGENT PROTOCOL 1.0 (5 MINUTE READ)",
+      "url": "https://sierra.ai/blog/releasing-poppy?utm_source=tldrai",
+      "blurb": "The Personal Agent Protocol enables personal agents to interact with companies through business agents, websites, and APIs. v.0 of the protocol is now available. The protocol defines how personal agents connect with companies that implement it. Customers control what personal agents can and can't do, and can manage their access over time.",
+      "source_email": "tldr_ai_2026-11-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 28,
+      "section": "MISCELLANEOUS",
+      "heading": "GPT-6 ASTRA TACKLES A FUNDAMENTAL PHYSICS PROBLEM (15 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/tXEx1x",
+      "blurb": "Physicist Nathaniel Craig worked with GPT-6 Astra to develop a candidate lattice formulation of the Standard Model, addressing a longstanding challenge in defining the theory without relying on perturbative approximations. Astra helped construct the mathematical framework and develop a detailed proof supporting the proposed approach.",
+      "source_email": "tldr_ai_2026-11-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 29,
+      "section": "QUICK LINKS",
+      "heading": "PETITION CALLS FOR NVIDIA TO REINSTATE JENSEN HUANG (1 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/?utm_source=tldrai",
+      "blurb": "Elon Musk and other technology executives signed a petition calling for Nvidia to reinstate former CEO Jensen Huang following his resignation amid allegations involving a suspected Chinese spy.",
+      "source_email": "tldr_ai_2026-11-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 30,
+      "section": "QUICK LINKS",
+      "heading": "BUILDING ALWAYS-ON AGENTS (13 MINUTE READ)",
+      "url": "https://claude.com/resources/articles/building-always-on-agents?utm_source=tldrai",
+      "blurb": "Always-on agents, revived by recent advancements, now manage context and act without direct supervision, running on a core loop enhanced with event inboxes, timers, memory, permissions, and outboxes.",
+      "source_email": "tldr_ai_2026-11-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 31,
+      "section": "QUICK LINKS",
+      "heading": "BUILDING STRONG SAFETY EVALUATIONS (23 MINUTE READ)",
+      "url": "https://www.anthropic.com/research/building-strong-safety-evaluations?utm_source=tldrai",
+      "blurb": "Anthropic emphasizes the importance of robust safety evaluations for AI models, which inform deployment and training decisions.",
+      "source_email": "tldr_ai_2026-11-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    },
+    {
+      "ref": 32,
+      "section": "QUICK LINKS",
+      "heading": "WE'VE MADE SOME BIG UPDATES TO PROJECTS IN CLAUDE CODE! (3 MINUTE READ)",
+      "url": "https://threadreaderapp.com/thread/2121375309287301360.html?utm_source=tldrai",
+      "blurb": "The coordinator is now more proactive and can answer questions in the project chat while providing updates on the status of ongoing threads.",
+      "source_email": "tldr_ai_2026-11-16_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 402: Payment Required"
+    }
+  ],
+  "dropped": []
+}
