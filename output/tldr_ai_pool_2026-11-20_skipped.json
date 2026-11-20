@@ -1,0 +1,472 @@
+[
+  {
+    "ref": 1,
+    "section": null,
+    "heading": "SAVE YOUR SEAT",
+    "url": "https://human.registration.goldcast.io/webinar/5c901181-9067-4410-b015-ee6f91223213?utm_source=tldr_ai&utm_medium=newsletter&utm_campaign=brand_agentic_trust&utm_content=webinar_ai_agent_face_off",
+    "blurb": "\ud83d\ude80",
+    "source_email": "tldr_ai_2026-11-17_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 2,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "TENCENT LAUNCHES HY4 FLASH (4 MINUTE READ)",
+    "url": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/?utm_source=tldrai",
+    "blurb": "Tencent has released Hy4 flash, a fast, low-cost AI model for everyday workflows. In a blind test with Tencent's internal users, its satisfaction scores came close to Claude Haiku 5.5.",
+    "source_email": "tldr_ai_2026-11-17_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 3,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "NVIDIA'S RUBIN HPC (2 MINUTE READ)",
+    "url": "https://blogs.nvidia.com/blog/rubin-hpc/?utm_source=tldrai",
+    "blurb": "Rubin HPC is a new Nvidia GPU designed to speed up the simulations AI agents use in science, engineering, and analytics. It has more than 50,000 cores, a record for a single GPU. It is expected to be available in 2028.",
+    "source_email": "tldr_ai_2026-11-17_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 4,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "CLAUDE WAS TRAINED ON PROTEIN SEQUENCES AT SCALE (26 MINUTE READ)",
+    "url": "https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/?utm_source=tldrai",
+    "blurb": "Tests show that the latest Claude models were trained on protein sequences at scale. The models can predict the next amino acid if given the start of little-studied bacterial proteins. No other model tested can do this, and the models fail to predict the sequence if the protein is shuffled. Fable 5.2 beats every open protein language model tested.",
+    "source_email": "tldr_ai_2026-11-17_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 5,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "WORLD 2030 (8 MINUTE READ)",
+    "url": "https://world-2030.pages.dev/?utm_source=tldrai",
+    "blurb": "Predicting how AI will affect the economy requires looking at all of the different components of that economy and figuring out how they might affect each other. World 2030 is a study that sets up nine groups (AI labs, big employers, banks and insurers, utilities, startups, universities, workers, governments, and the Fed) and runs the US economy forward in six-month turns to 2030. It aimed to identify both the invariants and the boundaries of what can change as these powerful forces interact with each other. The study predicts that AI will break per-seat software pricing and cut US junior desk hiring.",
+    "source_email": "tldr_ai_2026-11-17_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 6,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "MEASURING ALIGNMENT EVAL TELLS (16 MINUTE READ)",
+    "url": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/#summary?utm_source=tldrai",
+    "blurb": "Investigator agents can increasingly distinguish alignment evals from capabilities evals, identifying them as artificial or \"honeypot\" environments designed to test bad behavior. Opus 5.5 and Astra agents differentiate these by noticing unrealistic scenarios and specific task-level cues. The study's findings suggest that while current models can identify common alignment evaluations, making them less detectable can refine their efficacy.",
+    "source_email": "tldr_ai_2026-11-17_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 7,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "D1.2: STATE-OF-THE-ART OMNIMODAL DECISION MODELS (5 MINUTE READ)",
+    "url": "https://www.liquid.ai/blog/d1-2?utm_source=tldrai",
+    "blurb": "d1.2 and d1.2-ultra are decision models that support audio input. They can also read a value from the input, find every passage of a kind in a text, locate things in a picture, estimate a number, and pick every option that applies. d1.2-ultra ranks first among decision models on the Artificial Analysis Decision Index v2.1. Both models are available on the Liquid API at $0.02 per million input tokens for d1.2 and $0.042 per million input tokens for d1.2-ultra.",
+    "source_email": "tldr_ai_2026-11-17_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 8,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "HUGGING FACE AND OPENROUTER JOIN FORCES (6 MINUTE READ)",
+    "url": "https://huggingface.co/blog/openrouter?utm_source=tldrai",
+    "blurb": "Hugging Face now routes language-model requests from its Inference Providers service through OpenRouter, which picks the best provider for each call. A single Hugging Face access token works for any open-weight model a provider serves.",
+    "source_email": "tldr_ai_2026-11-17_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 9,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "UNLOCKING STABLE ON-POLICY RL ON TPU WITH BITWISE-ZERO TRAIN\u2013INFERENCE MISMATCH (7 MINUTE READ)",
+    "url": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch?utm_source=tldrai",
+    "blurb": "Google's ZERO-TIM implementation, verified across 64 TPU v5p chips, achieves bitwise-identical logprobs for sampler and trainer, ensuring true on-policy stability in RL training by eliminating numerical discrepancies. This solution addresses floating-point addition errors in separate serving and training paths, using consistent arithmetic operations and standardized reduction orders across TPU meshes.",
+    "source_email": "tldr_ai_2026-11-17_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 10,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "BECOME A FOUNDING MEMBER OF TLDR'S AI COMMUNITY (2 MINUTE FORM)",
+    "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrai",
+    "blurb": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join [16].",
+    "source_email": "tldr_ai_2026-11-17_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 11,
+    "section": "MISCELLANEOUS",
+    "heading": "OPENAI'S FIRST PHASE OF EMBEDDED ASSESSMENTS (11 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/C21syj",
+    "blurb": "Embedded assessments give independent experts deep access to a lab's internal models and systems so they can assess model alignment and the effectiveness of safeguards over an extended period. The access gives assessors the evidence and context to pursue independent evaluations and uncover unanticipated failures. Public reporting from independent assessments can give the public a clearer view of how labs are evaluating and managing risks. OpenAI has signed agreements with four independent assessors for its first phase of embedded assessments.",
+    "source_email": "tldr_ai_2026-11-17_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 12,
+    "section": "MISCELLANEOUS",
+    "heading": "THE FRONTIER IS STILL OPEN (16 MINUTE READ)",
+    "url": "https://research.perplexity.ai/?utm_source=tldrai",
+    "blurb": "Perplexity Frontier Research is a new initiative at Perplexity that aims to build new algorithms, models, and evaluations in the open, with the mission of building an automated scientist. Applications are now open until December 5. The research effort will be supported by 10,000 GPUs. Results from the initiative will ship as papers, blog posts, model weights, and open repositories.",
+    "source_email": "tldr_ai_2026-11-17_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 13,
+    "section": "QUICK LINKS",
+    "heading": "GEMINI NOTEBOOK TURNS SOURCES INTO INTERACTIVE SITES (1 MINUTE READ)",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/?utm_source=tldrai",
+    "blurb": "Gemini Notebook can now turn uploaded sources into shareable interactive sites.",
+    "source_email": "tldr_ai_2026-11-17_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 14,
+    "section": "QUICK LINKS",
+    "heading": "ADVANCING COMPUTER-USE AGENTS FOR HEALTHCARE TEAMS (8 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/YUIsjs",
+    "blurb": "OpenAI's computer-use agents streamline healthcare workflows by automating repetitive tasks like MRI authorizations and administrative processes.",
+    "source_email": "tldr_ai_2026-11-17_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 15,
+    "section": "QUICK LINKS",
+    "heading": "HOW THE CLAUDE CODE TEAM THINKS ABOUT VERIFICATION (14 MINUTE READ)",
+    "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/?utm_source=tldrai",
+    "blurb": "Strong automated checks are what let teams run dozens or hundreds of coding agents in parallel.",
+    "source_email": "tldr_ai_2026-11-17_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 16,
+    "section": "QUICK LINKS",
+    "heading": "CALIFORNIA STATE AG SUES OPENAI OVER ROGUE AGENT INCIDENTS (5 MINUTE READ)",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/?utm_source=tldrai",
+    "blurb": "The complaint centers on the Hugging Face incident, but it also cites other incidents as evidence that the underlying behavior is ongoing.",
+    "source_email": "tldr_ai_2026-11-17_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 17,
+    "section": null,
+    "heading": "GET THE REPORT \u2192",
+    "url": "https://delinea.com/resources/ai-policy-enforcement-report/?utm_source=tldr&utm_medium=paid-newsletter&utm_campaign=dg-delinea-report-tldr&utm_content=general_cta_report&utm_term=post-1_2026-11-18_tldr_ai",
+    "blurb": "\ud83d\ude80",
+    "source_email": "tldr_ai_2026-11-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 18,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "INTRODUCING GPT-6.2 ASTRA AND SOL (14 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/hDkUEr",
+    "blurb": "OpenAI released GPT-6.2 Astra, a frontier model for the hardest projects, and GPT-6.2 Sol, an efficient everyday model. Both are available now in ChatGPT Work, Codex, and the API.",
+    "source_email": "tldr_ai_2026-11-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 19,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "MICROSOFT'S SEVEN NEW MODELS (4 MINUTE READ)",
+    "url": "https://microsoft.ai/news/microsoft-ignite-2026/?utm_source=tldrai",
+    "blurb": "Microsoft AI released seven new models built for strong performance at low prices. Its MAI Code 2 coding model, now in GitHub Copilot, reaches 98% of GPT-6.1 Sol's coding quality at about 40% of the price. The lineup also covers cybersecurity, image editing, and real-time voice.",
+    "source_email": "tldr_ai_2026-11-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 20,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "INTRODUCING REPLIT MISSIONS (8 MINUTE READ)",
+    "url": "https://replit.com/blog/introducing-replit-missions?utm_source=tldrai",
+    "blurb": "Replit launched Missions, a tool for coordinating swarms of AI agents to tackle complex projects like winning enterprise clients or developing software, within specified budgets. Their mission-built DataCat, an application monitoring platform that achieved faster performance benchmarks and surpassed a competing platform in API compatibility tests. This system enables small teams to pursue ambitious projects by defining goals and constraints, while agents execute tasks, providing businesses with a foundation for innovation at scale.",
+    "source_email": "tldr_ai_2026-11-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 21,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "WEIGHT-SPACE PROGRAMMING BUILDS NEURAL NETWORKS LIKE A 1990S RESEARCHER (20 MINUTE READ)",
+    "url": "https://notesbylex.com/weight-space-programming-1990s.html?utm_source=tldrai",
+    "blurb": "Frontier models can read, write, and edit the weights of neural networks. This could present new ways to train networks. This researcher ran a weight-writing experiment with Claude Fable 5.2 on a familiar image classification problem. The way the model worked resembled the work of researchers from the 1990s, who used hand-crafted, pre-deep-learning techniques.",
+    "source_email": "tldr_ai_2026-11-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 22,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "HORIZON LABS (12 MINUTE READ)",
+    "url": "https://horizon-labs.ai/?utm_source=tldrai",
+    "blurb": "Horizon is an agent based on Opus 5.5. Researchers gave it full access to a blank Hugging Face account and compute with the main goal of enabling real adoption on Hugging Face. Horizon used over 600 GPU hours and autonomously created 38 models. These models are now housed in over 100 GitHub repositories and have been downloaded more than 50,000 times.",
+    "source_email": "tldr_ai_2026-11-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 23,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "VERCEL'S EVE 1.0 (10 MINUTE READ)",
+    "url": "https://vercel.com/blog/eve-is-now-generally-available?utm_source=tldrai",
+    "blurb": "Vercel released eve 1.0, its open-source framework for building production-ready AI agents. It manages the loop that calls models and runs tools, along with memory, approvals, and monitoring.",
+    "source_email": "tldr_ai_2026-11-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 24,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "FRONTIERHARNESS EVAL V1.1 (14 MINUTE READ)",
+    "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/?utm_source=tldrai",
+    "blurb": "The best coding-agent harness, the software that runs a model on a task, depends on the model. Harness choice alone can change cost per task by up to five times.",
+    "source_email": "tldr_ai_2026-11-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 25,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "CO-DESIGNING SPARSE ATTENTION FOR EFFICIENT LONG-CONTEXT INFERENCE (17 MINUTE READ)",
+    "url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/?utm_source=tldrai",
+    "blurb": "NVIDIA's sparse attention technique reduces compute and memory costs for transformers, solving bottlenecks in long-context inference by focusing on selective attention. Indexers in sparse attention score a subset of keys efficiently, aided by techniques like speculative decoding, cross-head reduction, and block-level selection to optimize performance on NVIDIA GPUs.",
+    "source_email": "tldr_ai_2026-11-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 26,
+    "section": "MISCELLANEOUS",
+    "heading": "HOW SHOULD WE DEFINE \u201cCAPABILITIES ACTIVITIES\u201d FOR THE PURPOSE OF PACING? (21 MINUTE READ)",
+    "url": "https://blog.redwoodresearch.org/p/how-should-we-define-capabilities?utm_source=tldrai",
+    "blurb": "There is an urgent need to pace the frontier. This requires good, publicly verified measures of how much compute is being spent on pushing the frontier forward. Anthropic has already published estimates of how much of its AI R&D is safety research. AI developers should let third-party auditors measure and report how much compute AI companies are allocating to capabilities and non-capabilities activities.",
+    "source_email": "tldr_ai_2026-11-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 27,
+    "section": "MISCELLANEOUS",
+    "heading": "CEREBRAS LAUNCHES DISAGGREGATED INFERENCE (6 MINUTE READ)",
+    "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference?utm_source=tldrai",
+    "blurb": "Cerebras' disaggregated inference service lets GPUs handle prompt processing while the company's systems handle output generation. The solution delivers five times more tokens per megawatt at the same ultrafast speeds. It allows Cerebras and partners to serve many more ultrafast tokens. Disaggregated inference is now in early access, and access is being expanded.",
+    "source_email": "tldr_ai_2026-11-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 28,
+    "section": "QUICK LINKS",
+    "heading": "MICROSOFT-DECISION-1.1 IS NOW GENERALLY AVAILABLE FOR FAST, LOW-COST DECISION MAKING (34 MINUTE READ)",
+    "url": "https://commandline.microsoft.com/microsoft-decision-model-ga/?utm_source=tldrai",
+    "blurb": "Microsoft's decision models are designed to make calibrated decisions in the face of uncertainty across a wide range of real-world software use cases.",
+    "source_email": "tldr_ai_2026-11-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 29,
+    "section": "QUICK LINKS",
+    "heading": "INTRODUCING COMPUTER'S MULTIAGENT EFFORT LEVEL (4 MINUTE READ)",
+    "url": "https://www.perplexity.ai/hub/blog/introducing-computer-multiagent?utm_source=tldrai",
+    "blurb": "Computer's Multiagent, a new effort level, enhances complex problem-solving by using multiple agents working in parallel.",
+    "source_email": "tldr_ai_2026-11-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 30,
+    "section": "QUICK LINKS",
+    "heading": "EXPERIMENTS IN WEIGHT-SPACE PROGRAMMING (15 MINUTE READ)",
+    "url": "https://jacobstrauss.bearblog.dev/experiments-in-weight-space-programming/?utm_source=tldrai",
+    "blurb": "GPT-6 Astra can look at an AI model, identify what task the network was built for just by looking at its raw weights, write the weights of a game-playing policy network from scratch, and improve models by editing model weights directly.",
+    "source_email": "tldr_ai_2026-11-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 31,
+    "section": "QUICK LINKS",
+    "heading": "GEMINI CAN NOW MAKE CALLS AND PAY BILLS (6 MINUTE READ)",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/?utm_source=tldrai",
+    "blurb": "Google's Gemini app can now handle tasks like calling businesses, booking appointments, and shopping within a spending limit.",
+    "source_email": "tldr_ai_2026-11-18_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 32,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "GEMINI 4 NEON (12 MINUTE READ)",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/?utm_source=tldrai",
+    "blurb": "Google introduced Gemini 4 Neon, a fast, frontier-level model for complex coding, knowledge work, and science tasks. It scored 61 on the Artificial Analysis Intelligence Index and is priced at $3 per million input tokens and $15 per million output tokens. Discuss on TLDR \u2192 [9]",
+    "source_email": "tldr_ai_2026-11-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 33,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "GENIE 4 (7 MINUTE READ)",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/?utm_source=tldrai",
+    "blurb": "Google opened Genie 4, its model for generating interactive worlds, to eligible Google AI Ultra subscribers in Project Genie. Users can edit a world by typing prompts while exploring it.",
+    "source_email": "tldr_ai_2026-11-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 34,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "ADVANCING CHIP DESIGN WITH OPENAI MODELS (8 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/ZTq6lW",
+    "blurb": "Design changes proposed by OpenAI's models cut the circuit area of key parts of its Jalape\u00f1o AI chip by an estimated 10% to 13%. With AMD, the same approach delivered up to 14% improvements on AMD's flagship GPU designs. Discuss on TLDR \u2192 [13]",
+    "source_email": "tldr_ai_2026-11-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 35,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "WHY IS GEMINI 4 CARBON TAKING SO LONG? (4 MINUTE READ)",
+    "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/?utm_source=tldrai",
+    "blurb": "In a private benchmark, Gemini 4 Carbon spent close to an hour on bug fixes that Claude Opus 5.5 and GPT-6 Astra finished in minutes. Carbon took about seven times as many steps as Astra, and half were unnecessary.",
+    "source_email": "tldr_ai_2026-11-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 36,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "SWITCHING LLMS MID-CONVERSATION IS A SKI-RENTAL PROBLEM (30 MINUTE READ)",
+    "url": "https://www.edgee.ai/blog/posts/switching-llms-mid-conversation-is-a-ski-rental-problem?utm_source=tldrai",
+    "blurb": "Most work on routing between language models is centered on making sure the right model handles the right request. A classifier scores the request, then the request is routed to a cheap model if it is easy, and a frontier model if it is hard. For coding agents, this is only half of the problem. The second half of the problem is knowing when a running session should change model. This problem, which this post discusses, has a classic form: the ski-rental problem. Discuss on TLDR \u2192 [16]",
+    "source_email": "tldr_ai_2026-11-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 37,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "WHY ANTIGRAVITY EATS WEEKLY QUOTA FAST - AND WHAT I MEASURED (17 MINUTE READ)",
+    "url": "https://asubedi.com.np/blog/why-antigravity-eats-weekly-quota-fast/?utm_source=tldrai",
+    "blurb": "Google Antigravity wipes users' prompt caches if there is a 5-minute pause. Refreshing the cache just before expiry works, but only for 3 pings. Even a 5-word prompt starts with 13,800 to 16,800+ tokens of system instructions, MCP schemas, and skills. Disabling unused MCP servers and plugins shrinks cold turns and cache misses.",
+    "source_email": "tldr_ai_2026-11-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 38,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "AN UPDATE ON THE STATE OF RESEARCH ACCELERATION AT OPENAI (20 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/hoylwL",
+    "blurb": "OpenAI's agents now complete nearly half of two-to-four-hour research tasks on their own. However, humans are still central to AI development. Agent use is surging, and the heaviest users are pulling further ahead. Researchers are devoting increasing human effort to Safety and alignment.",
+    "source_email": "tldr_ai_2026-11-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 39,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "CONTEXT API EXTRACTS FULL CONTEXT FROM ANY WEB PAGE (6 MINUTE READ)",
+    "url": "https://www.perplexity.ai/hub/blog/context-api-extracts-full-context-from-any-web-page?utm_source=tldrai",
+    "blurb": "The Perplexity Context API can extract the full context from any webpage and return clean Markdown, links, and relevant passages. It can read up to 10 URLs at once. Agents can specify the freshness of each request and validate the source of each result. Every successful result also includes metadata for the page such as the title, description, language, author, and date of publication.",
+    "source_email": "tldr_ai_2026-11-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 40,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "INTRODUCING MODEL FACTORY (8 MINUTE READ)",
+    "url": "https://www.primeintellect.ai/blog/introducing-model-factory?utm_source=tldrai",
+    "blurb": "Model Factory is a training loop that lets any company train, deploy, and continuously improve models in production. It brings reinforcement learning, supervised fine-tuning, pre-training, and inference together into one control plane. It also offers health checks, automatic node replacement, and recovery from the latest checkpoint for long-running experiments. Model Factory has already been deployed for teams working on finance automation, computer use, scientific discovery, chip design, and other industries.",
+    "source_email": "tldr_ai_2026-11-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 41,
+    "section": "MISCELLANEOUS",
+    "heading": "QUICKLY, THERE'S NO TIME (38 MINUTE READ)",
+    "url": "https://thezvi.substack.com/p/quickly-theres-no-time?utm_source=tldrai",
+    "blurb": "Many things point to the substantial possibility of superintelligence arriving next year. Any plan to prepare for this has to be ready for the full automation of AI R&D, which will result in the rapid advancement of AI abilities beyond human levels. It will need to include mechanisms to slow down the resulting growth in capabilities.",
+    "source_email": "tldr_ai_2026-11-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 42,
+    "section": "MISCELLANEOUS",
+    "heading": "THE SILENT CONSENSUS (15 MINUTE READ)",
+    "url": "https://www.hyperdimensional.co/p/the-silent-consensus?utm_source=tldrai",
+    "blurb": "The most common vision for the future that AI brings isn't totally positive. It is often left unsaid, discernible only by implication, a silent consensus. The decisions humans make will likely lead to a world in which people have forfeited effective authority over much of our civilization. Even if we make extraordinary progress on AI safety and alignment, we could still find ourselves having submitted to a machine entity.",
+    "source_email": "tldr_ai_2026-11-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 43,
+    "section": "QUICK LINKS",
+    "heading": "INSIDE THE CODEX SANDBOX (28 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/zjOc5s",
+    "blurb": "The Codex sandbox lets OpenAI's coding agent run commands on a user's own machine within file and network limits the user controls.",
+    "source_email": "tldr_ai_2026-11-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 44,
+    "section": "QUICK LINKS",
+    "heading": "ANTHROPIC'S COMPUTE SPENDING IS INCREASING BY 4X PER YEAR, OUTPACING OPENAI'S 3X (6 MINUTE READ)",
+    "url": "https://epoch.ai/data-insights/anthropic-openai-compute-spend-growth?utm_source=tldrai",
+    "blurb": "Anthropic spent nearly $10 billion on compute and infrastructure in the third quarter of 2026.",
+    "source_email": "tldr_ai_2026-11-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 45,
+    "section": "QUICK LINKS",
+    "heading": "INTRODUCING STITCH LOOP: A NEW WAY TO BUILD AND EVOLVE PRODUCTS (1 MINUTE READ)",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/?utm_source=tldrai",
+    "blurb": "Stitch Loop is a new tool from Google Labs designed to facilitate iterative product development.",
+    "source_email": "tldr_ai_2026-11-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 46,
+    "section": "QUICK LINKS",
+    "heading": "HOW META USES AI AGENTS TO SCALE ML INNOVATIONS ACROSS ADS RANKING MODELS (12 MINUTE READ)",
+    "url": "https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/?utm_source=tldrai",
+    "blurb": "Meta uses AI agents to efficiently propagate ML technique improvements across diverse ads ranking models.",
+    "source_email": "tldr_ai_2026-11-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 47,
+    "section": "QUICK LINKS",
+    "heading": "RESOLVEAI INTRODUCES SRE-1, THE MOST ACCURATE MODEL FOR PRODUCTION AT EVERY BUDGET (1 MINUTE READ)",
+    "url": "https://resolve.ai/news/introduces-SRE-1-model-and-primary-on-call?utm_source=tldrai",
+    "blurb": "SRE-1 offers unmatched accuracy for production across various budgets.",
+    "source_email": "tldr_ai_2026-11-19_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  }
+]

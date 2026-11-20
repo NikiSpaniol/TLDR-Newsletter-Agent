@@ -1,0 +1,93 @@
+{
+  "kept": [
+    {
+      "ref": 8,
+      "section": null,
+      "heading": "\"GAMERS DON'T HATE ADS; THEY HATE BAD ADS\" \u2013 WHY EA AND XBOX ARE PUTTING ADVERTS IN THEIR GAMES (7 MINUTE READ)",
+      "url": "https://www.gamesindustry.biz/gamers-dont-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are-putting-adverts-in-their-games?utm_source=tldrmarketing",
+      "blurb": "In-game advertising offers publishers a growing revenue stream, but player experience determines its success. EA plans to sell ads integrated into game environments, while Xbox is testing ads before streaming sessions in exchange for free access. Mobile in-game ads generated $28B in 2025, but console and PC players are more resistant. Research shows 1 in 5 players would play more with high-quality ads, while 1 in 5 have quit due to poor ad experiences."
+    },
+    {
+      "ref": 9,
+      "section": null,
+      "heading": "AI SEARCH META ANALYSIS - Q4 2026 (11 MINUTE READ)",
+      "url": "https://www.growth-memo.com/p/ai-search-meta-analysis-q4-2026?utm_source=tldrmarketing",
+      "blurb": "AI Overviews are appearing on more commercial searches, with one study finding coverage across 88% of its sampled keywords. Their presence can reduce organic clicks by up to 40%. AI platforms are also influencing brand discovery and product shortlists, though visibility doesn't always translate into website visits or purchases. Consumers remain less comfortable letting AI agents complete purchases."
+    },
+    {
+      "ref": 10,
+      "section": null,
+      "heading": "HOW TO NOT DO PR (10 MINUTE READ)",
+      "url": "https://huijer.co/notes/how-to-not-do-pr-1?utm_source=tldrmarketing",
+      "blurb": "PR campaigns need a newsworthy headline backed by substantial data. Focus each article on one story and use clear charts to visualize findings. Add your own commentary and secure expert quotes to strengthen credibility and encourage sharing. Include methodology and contact details to build trust. For outreach, find relevant journalists through recent Google News coverage. Start with niche publications and pitch on Tuesday, then follow up on Friday."
+    },
+    {
+      "ref": 11,
+      "section": null,
+      "heading": "LINKEDIN SAYS INFLUENTIAL VOICES ARE CRITICAL FOR AI CHATBOT CITATIONS (3 MINUTE READ)",
+      "url": "https://www.socialmediatoday.com/news/linkedin-says-influential-voices-are-critical-for-ai-chatbot-citations/874712/?utm_source=tldrmarketing",
+      "blurb": "Accounts with over 10K followers and company pages make up 65% of LinkedIn citations in AI chatbot responses. Executive and VP-level articles also earn more citations per article. LinkedIn recommends building authority through consistent employee posts across 3-4 themes and partnerships with 1-2 relevant creators."
+    },
+    {
+      "ref": 16,
+      "section": null,
+      "heading": "MCP FOR MARKETERS: WHAT MODEL CONTEXT PROTOCOL MEANS FOR MEDIA AND MEASUREMENT (10 MINUTE READ)",
+      "url": "https://tinuiti.com/blog/measurement/mcp-for-marketers/?utm_source=tldrmarketing",
+      "blurb": "Google, Amazon, and TikTok now offer MCP integrations that let AI applications retrieve advertising data and manage campaigns. This overview explains how MCP works and compares what each platform's integrations allow agents to do. It examines how inconsistent attribution creates gaps in cross-channel measurement and how independent data can improve budget decisions. It also covers 6 stages of agent adoption, from answering performance questions to executing campaign changes with defined permissions and human oversight."
+    },
+    {
+      "ref": 17,
+      "section": "MISCELLANEOUS",
+      "heading": "HOW DO YOU ADVERTISE AI TO AN INCREASINGLY SKEPTICAL PUBLIC? (4 MINUTE READ)",
+      "url": "https://www.marketingbrew.com/stories/ai-marketing-skeptical-public?utm_source=tldrmarketing",
+      "blurb": "Consumer ads are moving away from the term \u201cAI\u201d as it risks alienating skeptical audiences. Instead, campaigns focus on product benefits without mentioning the technology. Messaging works best when it stays neutral and avoids framing AI as either revolutionary or something to apologize for."
+    },
+    {
+      "ref": 18,
+      "section": "MISCELLANEOUS",
+      "heading": "PERMISSION IS A USEFUL MARKETING SIGNAL (2 MINUTE READ)",
+      "url": "https://herbertlui.net/permission-is-a-useful-marketing-signal/?utm_source=tldrmarketing",
+      "blurb": "An informational newsletter offers a simple way to gauge whether content is resonating. When someone subscribes, they give permission for ongoing communication, signaling that your content has earned their interest. Tracking sign-ups helps identify where potential customers are engaging or losing interest without relying on complex attribution tools. Newsletters can also fuel social posts and resource offers that encourage more subscriptions."
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "I GOT A 2M-FOLLOWER LINKEDIN PAGE TO POST OUR MEMES (FOR FREE) (4 MINUTE READ)",
+      "url": "https://www.marketingideas.com/p/i-got-a-2m-follower-linkedin-page?utm_source=tldrmarketing",
+      "blurb": "Create branded memes about audience pain points and email them to large niche LinkedIn pages for free reposts."
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "RETAILERS ARE TURNING TO ENTERTAINMENT TO WIN SHOPPERS' ATTENTION (4 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html?utm_source=tldrmarketing",
+      "blurb": "Retailers investing in experiential stores saw average basket size rise close to 10% YoY."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "YOUR FIRST DRAFT IS FASTER OUT LOUD. WISPR FLOW TYPES WHAT YOU SAY IN EVERY APP (SPONSOR)",
+      "url": "https://ref.wisprflow.ai/tldr-nov17-marketing-primary-headline?sp=Ar2cd1ynJgeuu57HUgmMNgb7",
+      "blurb": "The brief is already in your head. Typing it out is the slow part.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 12,
+      "section": null,
+      "heading": "WHAT DID THE CLIENT ACTUALLY ASK FOR? ASK YOUR MEETING NOTES (SPONSOR)",
+      "url": "https://ref.wisprflow.ai/tldr-nov17-marketing-secondary-headline?sp=53msg8VuoCv9XYVYBKP5AP-e",
+      "blurb": "Wispr Flow Notetaker [13] captures your client and campaign calls with brand names and jargon right, then pulls out decisions and next steps. Ask anything across your meetings and get linked to the source. Free on Mac and Windows. Try Notetaker free [14]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 15,
+      "section": null,
+      "heading": "USER REQUIREMENT BOX IN CHATGPT (1 MINUTE READ)",
+      "url": "https://www.linkedin.com/posts/chris-long-marketing_heads-up-seos-chatgpt-now-builds-a-user-share-7528082782342889472-SS9t/?utm_source=tldrmarketing",
+      "blurb": "ChatGPT is adding \u201cUser Requirement\u201d boxes to commercial prompts, asking users to select criteria like budget and product features before generating recommendations. These questions reveal what buyers consider when evaluating solutions. SEOs can use them to identify common buying criteria and align product pages and help documentation with the information ChatGPT uses to recommend products.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    }
+  ]
+}
