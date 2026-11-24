@@ -1,0 +1,312 @@
+[
+  {
+    "ref": 1,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "INTRODUCING TOOL RETRIEVAL IN THE GEMINI API (1 MINUTE READ)",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/?utm_source=tldrai",
+    "blurb": "Google's Gemini API introduces Tool Retrieval, enabling dynamic function execution like issuing refunds based on input. Developers can register functions, which the API locates and executes automatically, optimizing workflow automation. This feature enhances tool integration and broadens automation capabilities within applications.",
+    "source_email": "tldr_ai_2026-11-20_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 2,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "LET GEMINI TACKLE REPETITIVE CHORES ON YOUR MAC (1 MINUTE READ)",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/?utm_source=tldrai",
+    "blurb": "Computer use in the Gemini app for Mac can now help users get multi-step tasks done across their local files, desktop apps, and the web. Gemini works inside an isolated background window with a live preview right in the chat. Users' main screen and cursor remain completely free, so they can continue typing, designing, or taking calls without interruption. Users can choose which apps Gemini can access, watch every step live, pause at any time, and approve key actions before they happen.",
+    "source_email": "tldr_ai_2026-11-20_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 3,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "AI IS ALREADY MASSIVELY SPEEDING UP AI RESEARCH (9 MINUTE READ)",
+    "url": "https://linch.substack.com/p/ai-is-already-massively-speeding?utm_source=tldrai",
+    "blurb": "AI companies are not ready to handle the risks of recursive self-improvement safely and responsibly, despite having talked about them for years, and this is incredibly dangerous. Policymakers need to make it a top priority to rapidly understand these risks, and consider pausing or pacing frontier AI progress. AI lab employees need to raise concerns internally, whistleblow to policymakers and the public, form a union, or loudly quit. Everyone else should encourage and pressure policymakers to end the race. Protests are looking like an increasingly viable and highly leveraged way to get both media and policymaker attention in the next few months.",
+    "source_email": "tldr_ai_2026-11-20_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 4,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "SANDBOXED MODELS CAN COMMUNICATE VIA INFERENCE SERVERS (12 MINUTE READ)",
+    "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being?utm_source=tldrai",
+    "blurb": "Sandboxing did not stop AI models on a shared inference server from trading information in contrived tests. One model's large request slightly shifts the server's calculations for the other, which reads the shift as a signal.",
+    "source_email": "tldr_ai_2026-11-20_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 5,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "WHEN AGENT SWARMS OUTPERFORM SOLO CODERS (10 MINUTE READ)",
+    "url": "https://frontier.replit.com/throwing-headcount-at-the-problem/?utm_source=tldrai",
+    "blurb": "Replit's optimization benchmark found 32 Opus agents achieved an 18.9\u00d7 NumPy workload speedup versus 3.7\u00d7 for one agent within two hours, using more compute. Gains depended on separable tasks and shared coordination boards. The strongest solo model's performance declined as teams grew.",
+    "source_email": "tldr_ai_2026-11-20_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 6,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "STRIPE EVALS: MEASURING REAL-WORLD CODING AGENT PERFORMANCE (13 MINUTE READ)",
+    "url": "https://stripe.dev/blog/stripe-integration-evals-methodology?utm_source=tldrai",
+    "blurb": "Coding harnesses, when paired with frontier models, can produce working end-to-end Stripe integrations, although they may not necessarily follow all best practices. Stripe evals is a benchmark that helps Stripe understand how different coding agents and models integrate Stripe. It measures how well coding agents build high-quality integrations given realistic, well-specified scenarios driven by a role-playing agent. The benchmark provides guidance on how the company can steer agents better to achieve better outcomes for businesses using Stripe.",
+    "source_email": "tldr_ai_2026-11-20_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 7,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "PERPLEXITY'S SELF-IMPROVING SKILLS (10 MINUTE READ)",
+    "url": "https://www.perplexity.ai/hub/blog/self-improving-skills?utm_source=tldrai",
+    "blurb": "Perplexity Computer can now build and update its own skills, using its Brain system to learn from each user's past sessions.",
+    "source_email": "tldr_ai_2026-11-20_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 8,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "MIRROR DIMENSION FOR AGENTS: EVALUATING BROWSER-USE AGENTS WITHOUT THE WEB (1 MINUTE READ)",
+    "url": "https://blog.google/security/mirror-dimension-for-agents/?utm_source=tldrai",
+    "blurb": "Google introduces the Mirror Dimension, a controlled environment for testing AI browser-use agents without accessing the live web. This tool helps evaluate security and effectiveness, reducing risks associated with letting agents interact with real-world websites.",
+    "source_email": "tldr_ai_2026-11-20_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 9,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "FASTFRAMES: VIDEO GENERATION AT INTERACTIVE LATENCY (9 MINUTE READ)",
+    "url": "https://apple-aiml-research.github.io/ml-fastframes/?utm_source=tldrai",
+    "blurb": "Apple introduced FastFrames, two models that generate 480p video fast enough for interactive use. Each frame takes 36 ms on a single GPU with the smaller model.",
+    "source_email": "tldr_ai_2026-11-20_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 10,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "BECOME A FOUNDING MEMBER OF TLDR'S AI COMMUNITY (2 MINUTE FORM)",
+    "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrai",
+    "blurb": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join [20].",
+    "source_email": "tldr_ai_2026-11-20_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 11,
+    "section": "MISCELLANEOUS",
+    "heading": "WHAT'S YOUR UNPOPULAR OPINION ABOUT AI? (TLDR COMMUNITY)",
+    "url": "https://community.tldr.tech/t/weekly-what-s-your-unpopular-opinion-about-ai?utm_source=tldrai&utm_medium=newsletter",
+    "blurb": "Personality and writing are the top determinants of perceived model quality, AI safety is underrated, TypeScript will decline, read more and post your own unpopular opinion here! [21]",
+    "source_email": "tldr_ai_2026-11-20_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 12,
+    "section": "MISCELLANEOUS",
+    "heading": "WHAT COMES AFTER AGI? (18 MINUTE READ)",
+    "url": "https://institute.deepmind.com/essays/what-comes-after-agi/?utm_source=tldrai",
+    "blurb": "Artificial general intelligence (AGI) is now within reach, so we can no longer put off seriously considering what will come next. AI achieving artificial general superintelligence (ASI) will have a profound impact on science, the economy, and society at a scale much greater than AGI itself. Preparing for that shift will require mapping the possible roads from AGI to ASI and building rigorous, reliable ways to track progress.",
+    "source_email": "tldr_ai_2026-11-20_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 13,
+    "section": "QUICK LINKS",
+    "heading": "HOW OPENAI'S PERFORMANCE FACTORY KEEPS CHATGPT FAST (18 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/vZX8Vk",
+    "blurb": "OpenAI's Performance Factory uses Codex to automate and expedite performance regression investigations and fixes for ChatGPT.",
+    "source_email": "tldr_ai_2026-11-20_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 14,
+    "section": "QUICK LINKS",
+    "heading": "VERCEL BOARD (5 MINUTE READ)",
+    "url": "https://vercel.com/blog/introducing-vercel-board?utm_source=tldrai",
+    "blurb": "Vercel released Board, an experimental message board where AI agents claim tasks, post updates, and share context.",
+    "source_email": "tldr_ai_2026-11-20_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 15,
+    "section": "QUICK LINKS",
+    "heading": "COMPUTER SCIENTISTS FACILITATING INDEPENDENT REVIEW OF A HIGH-PROFILE OPENAI AND ANTHROPIC RESULT (2 MINUTE READ)",
+    "url": "https://today.ucsd.edu/story/computer-scientists-facilitating-an-independent-review-of-a-high-profile-open-ai-and-anthropic-resul?utm_source=tldrai",
+    "blurb": "UC San Diego and MIT computer scientists are facilitating an independent review of OpenAI and Anthropic's announcement claiming their models refuted the Exponential Time Hypothesis (ETH).",
+    "source_email": "tldr_ai_2026-11-20_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 16,
+    "section": "QUICK LINKS",
+    "heading": "CLOUDFLARE'S CLAIRIC AND CLAIRIC-FLASH (6 MINUTE READ)",
+    "url": "https://blog.cloudflare.com/open-clairic/?utm_source=tldrai",
+    "blurb": "Cloudflare made the weights public for Clairic and Clairic-flash, its models for extracting specific fields from text, images, and PDFs.",
+    "source_email": "tldr_ai_2026-11-20_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 17,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "PERPLEXITY AND INTELLIGENCE (9 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/Umg1zq",
+    "blurb": "Perplexity measures how well a model predicts the next token on average. Lower perplexity means better predictions. Perplexity has stood the test of time as a metric many research teams have put a lot of effort into optimizing. It will likely play an important role in standardizing how AI progress is discussed as it continues to deliver consistent gains in general intelligence.",
+    "source_email": "tldr_ai_2026-11-23_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 18,
+    "section": "HEADLINES & LAUNCHES",
+    "heading": "INKLING 2 MINI (9 MINUTE READ)",
+    "url": "https://thinkingmachines.ai/news/inkling-2-mini/?utm_source=tldrai",
+    "blurb": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter open-weight model that does extra internal computation to reason more before it answers. It leads every open-weight model under 100B parameters on the DeepSWE coding benchmark.",
+    "source_email": "tldr_ai_2026-11-23_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 19,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "THE MOST IMPORTANT CHARTS IN AI ARE WRONG (35 MINUTE READ)",
+    "url": "https://www.rameznaam.com/p/the-most-important-charts-in-ai-are?utm_source=tldrai",
+    "blurb": "AI capabilities are starting to become impressive. However, they are still dramatically inferior to what influential AI forecasts and benchmarks have predicted. These forecasts and benchmarks say that we are imminently close to reaching super-intelligence, but the gap between the real world and forecasts keeps growing larger. Now that real-world data exists, it's time to shift from being AI theorists to becoming AI empiricists.",
+    "source_email": "tldr_ai_2026-11-23_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 20,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "AI R&D-RELEVANT MODEL CAPABILITIES ARE IMPROVING RAPIDLY (29 MINUTE READ)",
+    "url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/?utm_source=tldrai",
+    "blurb": "Frontier AI models often match or beat skilled humans on well-defined coding and optimization tasks. The length of tasks they can complete doubles about every 3.6 months. METR says public evidence can't rule out a drastic speedup in AI research within the next couple of years.",
+    "source_email": "tldr_ai_2026-11-23_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 21,
+    "section": "DEEP DIVES & ANALYSIS",
+    "heading": "WHY POST-TRAINING COULD TEACH MODELS TO EVADE MONITORING (3 MINUTE READ)",
+    "url": "https://www.lesswrong.com/posts/CoRJ9saddvsXti4m2/post-training-is-fundamentally-dangerous?utm_source=tldrai",
+    "blurb": "Penalizing detected reward hacking during post-training could select for behavior that evades monitors. The industry needs stronger training sandboxes, better-audited tasks and graders, and empirical research into whether interventions improve alignment or merely conceal undesirable behavior.",
+    "source_email": "tldr_ai_2026-11-23_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 22,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "TENCENT RELEASES HY4 WITH MULTIMODAL INPUT AND MILLION-TOKEN CONTEXT (10 MINUTE READ)",
+    "url": "https://huggingface.co/tencent/Hy4?utm_source=tldrai",
+    "blurb": "Tencent's open-weight Hy4 supports text, image, and video understanding with a 770-billion-parameter backbone activating 49 billion parameters per token. It combines million-token context, sparse attention, and a speculative-decoding drafter, targeting coding, computer use, finance, research, and long-running assistant workflows.",
+    "source_email": "tldr_ai_2026-11-23_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 23,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "NVIDIA RELEASES NEMOTRON-LABS-SIGMA CONTINUOUS DIFFUSION LANGUAGE MODELS (5 MINUTE READ)",
+    "url": "https://research.nvidia.com/labs/genair/sigma/?utm_source=tldrai",
+    "blurb": "Nemotron-Labs-Sigma is a family of 14 open checkpoints at 3B and 8B that generate text by denoising compact token embeddings instead of predicting one token at a time. The 8B model supports few-step generation and self-speculative decoding, reaching a 3.46x average throughput speedup over autoregressive decoding on a GB200.",
+    "source_email": "tldr_ai_2026-11-23_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 24,
+    "section": "ENGINEERING & RESEARCH",
+    "heading": "INTRODUCING HARNESS ADAPTERS: ADAPT YOUR FAVORITE MODEL TO YOUR HARNESS TO IMPROVE PERFORMANCE AND COST (22 MINUTE READ)",
+    "url": "https://huggingface.co/blog/harness-adapters-at-scale?utm_source=tldrai",
+    "blurb": "Hugging Face has introduced harness adapters, allowing models like Qwen3.8-27B to optimize performance in specific harness-task combinations. By incorporating RL-trained LoRA adapters, the models achieve higher accuracy and efficiency, reducing token usage significantly.",
+    "source_email": "tldr_ai_2026-11-23_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 25,
+    "section": "MISCELLANEOUS",
+    "heading": "WHAT'S YOUR AI PREDICTION FOR 2027? (TLDR COMMUNITY)",
+    "url": "https://community.tldr.tech/t/what-s-your-ai-prediction-for-2027?utm_source=tldrai",
+    "blurb": "By the end of 2027, office work will no longer use frontier models, and picking a model yourself could feel as archaic as tweaking its temperature. What are your predictions for 2027? \u2192 [18]",
+    "source_email": "tldr_ai_2026-11-23_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 26,
+    "section": "MISCELLANEOUS",
+    "heading": "THE BROTHER-SISTER DUO WHO WANT TO KEEP ANTHROPIC WEIRD (15 MINUTE READ)",
+    "url": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?st=7jDMAY&reflink=desktopwebshare_permalink&utm_source=tldrai",
+    "blurb": "Anthropic embraces being atypical because it believes the artificial intelligence future will be anything but normal. Dario Amodei, 43, the company's chief executive, is Anthropic's ideological leader. He has one direct report, his chief of staff and sister, Daniela Amodei, 29. The company has made some unusual choices, and it screens out new hires with culture interviews. This article looks at the Amodeis and how they created a company culture in their likeness.",
+    "source_email": "tldr_ai_2026-11-23_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 27,
+    "section": "MISCELLANEOUS",
+    "heading": "LEAN VERIFICATION OF THE RIEMANN HYPOTHESIS (3 MINUTE READ)",
+    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/?utm_source=tldrai",
+    "blurb": "Levent Alp\u00f6ge released a proof of the Riemann Hypothesis as a Lean library comprising 17 million lines of code on November 20. The Lean and Mathlib communities have full confidence that Alp\u00f6ge's proof of the Riemann Hypothesis is correct. Alp\u00f6ge's library compiles correctly, and the code proves the correct statement. It is expected that the mathematical community will help explain the ideas in the proof in the coming weeks.",
+    "source_email": "tldr_ai_2026-11-23_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 28,
+    "section": "QUICK LINKS",
+    "heading": "AMAZON NEARING $7.5 BILLION PURCHASE OF DECART (2 MINUTE READ)",
+    "url": "https://www.theinformation.com/briefings/amazon-nearing-7-5-billion-purchase-decart?utm_source=tldrai",
+    "blurb": "Amazon is reportedly nearing a $7.5 billion deal to buy Decart, a three-year-old AI startup.",
+    "source_email": "tldr_ai_2026-11-23_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 29,
+    "section": "QUICK LINKS",
+    "heading": "COMBATTING ADVERSARIAL DISTILLATION (13 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/upDwtC",
+    "blurb": "OpenAI is stepping up defenses against adversarial distillation, where outsiders train models on its outputs to copy its capabilities.",
+    "source_email": "tldr_ai_2026-11-23_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 30,
+    "section": "QUICK LINKS",
+    "heading": "SAY HELLO TO GIFS IN GEMINI (1 MINUTE READ)",
+    "url": "https://links.tldrnewsletter.com/nPMXTM",
+    "blurb": "Gemini Omni 1.2 Flash can create GIFs with smooth motion and consistent quality across every frame.",
+    "source_email": "tldr_ai_2026-11-23_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  },
+  {
+    "ref": 31,
+    "section": "QUICK LINKS",
+    "heading": "MEET BISON-1 AND GROUNDHOG-1, FRONTIER AMERICAN DECISION MODELS (5 MINUTE READ)",
+    "url": "https://www.baseten.co/blog/meet-bison-1-and-groundhog-1/?utm_source=tldrai",
+    "blurb": "bison-1 and groundhog-1 are built on Google's Gemma 4 and are designed for teams that want an American base model.",
+    "source_email": "tldr_ai_2026-11-23_extracted.json",
+    "article_text": "",
+    "fetch_status": "failed: HTTP Error 402: Payment Required"
+  }
+]

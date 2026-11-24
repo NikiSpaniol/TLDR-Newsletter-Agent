@@ -1,0 +1,108 @@
+{
+  "kept": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "TOGETHER WITH [GWI]",
+      "url": "https://www.gwi.com/webinars/synthetic-data-you-can-trust?utm_campaign=53052840-FY27_Simulated%20Data%20Campaign&utm_source=email&utm_medium=Sponsored_newsletter&utm_term=Copy&utm_content=TLDR_marketing_primary_ad",
+      "blurb": "TLDR MARKETING 2026-11-23"
+    },
+    {
+      "ref": 6,
+      "section": null,
+      "heading": "WHY GEN Z ISN'T FULLY LOCKED INTO THEIR JOB \u2018SITUATIONSHIP' (3 MINUTE READ)",
+      "url": "https://www.yahoo.com/lifestyle/articles/empty-promises-why-gen-z-170029427.html?utm_source=tldrmarketing",
+      "blurb": "Gen Z is increasingly reluctant to commit to employers as layoffs and AI-driven job disruption weaken trust in job security. More than 30% of workers could see at least half their job tasks disrupted by generative AI. Meanwhile, 85% could see at least 10% of their tasks affected. This uncertainty makes exploring other opportunities more appealing. However, staying detached can limit career growth by weakening workplace relationships and access to promotions."
+    },
+    {
+      "ref": 7,
+      "section": null,
+      "heading": "40% OF ARCADE'S SIGNUPS COME FROM AI SEARCH. HERE'S THEIR PLAYBOOK (3 MINUTE READ)",
+      "url": "https://www.marketergems.com/p/arcade-marketing-strategy-ai-search-playbook?utm_source=tldrmarketing",
+      "blurb": "Arcade is an AI video platform for marketers. It drives growth through 3 channels, with AI search generating 40% of signups. It hired a dedicated growth engineer to own AI visibility after an agency underperformed. Founder-led social contributes 20% through recorded interviews turned into a content calendar. Referrals drive another 15% through product features like invite flows and video watermarks. It also asks new users how they discovered the product and runs blind tests against competitors."
+    },
+    {
+      "ref": 10,
+      "section": null,
+      "heading": "LINKEDIN'S CONNECTIONS EXPORT IS SHRINKING IN DECEMBER. HOW MUCH OF YOUR NETWORK GOES WITH YOU? (4 MINUTE READ)",
+      "url": "https://www.thestateofbrand.com/news/linkedin-connections-export-company-job-title-december-2026?utm_source=tldrmarketing",
+      "blurb": "Starting in December, LinkedIn will remove connections' email addresses and current companies and job titles from account downloads. Members will still be able to view this information on individual profiles. This makes it harder for companies to transfer a founder's network into sales and marketing databases or keep contact records updated outside LinkedIn."
+    },
+    {
+      "ref": 11,
+      "section": null,
+      "heading": "I BUILT A COMPETITOR PRICE TRACKER FOR BLACK FRIDAY AND CYBER MONDAY (7 MINUTE READ)",
+      "url": "https://www.juliedx.com/insights/blog/competitor-price-tracker-prompt?utm_source=tldrmarketing",
+      "blurb": "This piece provides a copy-and-paste AI prompt to build a competitor price tracker. Fill in 8 fields about the company and its competitors. AI monitors public pricing pages and records price changes and promotions. It creates a shared document with price comparisons and change history. A scheduled task keeps the tracker updated daily or weekly."
+    },
+    {
+      "ref": 12,
+      "section": "MISCELLANEOUS",
+      "heading": "DELETING BLOG POSTS HURT AI VISIBILITY, BUT ORGANIC CLICKS TOLD A DIFFERENT STORY (7 MINUTE READ)",
+      "url": "https://searchengineland.com/deleting-blog-posts-hurt-ai-visibility-organic-clicks-502405?utm_source=tldrmarketing",
+      "blurb": "AI visibility scores track how often a brand appears in AI answers, not whether those answers send anyone to the site. Blog posts tend to drive that exposure while service pages drive the clicks, so pruning the blog can sink AI reports as organic clicks hold or rise. Tracker data is also unstable, since answers change on nearly every run and the tested prompts aren't real searches. The solution is to compare Search Console's AI impressions with clicks to the same pages, and to add a \u201cHow did you hear about us?\u201d field to inquiry forms."
+    },
+    {
+      "ref": 13,
+      "section": "MISCELLANEOUS",
+      "heading": "THE LINK BUILDING INDUSTRIAL COMPLEX IS DYING (3 MINUTE READ)",
+      "url": "https://marketingadvice.substack.com/p/the-link-building-industrial-complex?utm_source=tldrmarketing",
+      "blurb": "Traditional link building is losing value as brands question buying backlinks based on domain rating rather than relevance and credibility. AI search requires more than backlinks or brand mentions, since being cited doesn't guarantee a product recommendation. B2B brands may get more value from visibility on review sites like G2 and Gartner than from paid guest posts. Podcasts, influential publications, and videos answering buyer questions are stronger ways to build credibility and earn relevant links."
+    },
+    {
+      "ref": 14,
+      "section": "QUICK LINKS",
+      "heading": "GOOGLE ROLLS OUT NEW SEARCH HOMEPAGE WITH AI CHAT HISTORY AND NO SEARCH BUTTON (2 MINUTE READ)",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/?utm_source=tldrmarketing",
+      "blurb": "Google made its AI-first desktop homepage official, swapping the Search button for AI tools and adding a sidebar of recent AI Mode chats for signed-in users."
+    },
+    {
+      "ref": 15,
+      "section": "QUICK LINKS",
+      "heading": "HOW TO PROVE AN UNBELIEVABLE CLAIM (7 MINUTE READ)",
+      "url": "https://conversion-rate-experts.com/lazy-man-copywriting-friday/?utm_source=tldrmarketing",
+      "blurb": "Make bold claims more believable by providing specific examples that address buyer skepticism."
+    },
+    {
+      "ref": 16,
+      "section": "QUICK LINKS",
+      "heading": "INTUIT TO SELL MAILCHIMP TO BENDING SPOONS FOR $3.68 BILLION (2 MINUTE READ)",
+      "url": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html?utm_source=tldrmarketing",
+      "blurb": "Bending Spoons added Mailchimp to its portfolio after also acquiring AOL, Eventbrite, Airtable, and Miro this year."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "SYNTHETIC DATA YOU CAN TRUST? A FIRST LOOK AT SIMULATED SURVEYS (SPONSOR)",
+      "url": "https://www.gwi.com/webinars/synthetic-data-you-can-trust?utm_campaign=53052840-FY27_Simulated%20Data%20Campaign&utm_source=email&utm_medium=Sponsored_newsletter&utm_term=Copy&utm_content=TLDR_marketing_primary_ad",
+      "blurb": "Synthetic data is only as good as what it learns from. GWI's simulated data model learns from 17 years of real answers across 53 markets, so it starts from how people really think and act. Join Jason Mander (Chief Insight Officer) and Giulia Palmieri (Principal Product Manager, Data) on December 3, 4pm GMT / 11am EST to learn why source data matters, what powers our simulated data model, and get a first look at Simulated surveys. Save your seat [4]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 5,
+      "section": null,
+      "heading": "HOW TO BUILD MORE BUYABLE B2B BRANDS (5 MINUTE READ)",
+      "url": "https://www.linkedin.com/business/marketing/blog/research-and-insights/how-to-build-buyable-b2b-brands?utm_source=tldrmarketing",
+      "blurb": "B2B campaigns that build relatability help buying groups feel more confident defending their purchasing decisions internally. Campaigns with strong buyability signals were 1.7X more likely to qualify as \u201cStrategic Assets\u201d, the highest rung of WARC's B2B Effectiveness Ladder, reserved for campaigns that drive sustained commercial growth. Yet 52% of campaigns featured only one or none of the 3 signals: recommendations, relationships, and relatability. Customer testimonials and use cases appeared in 64% of high-buyability campaigns versus 16% of lower-buyability campaigns.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    },
+    {
+      "ref": 8,
+      "section": null,
+      "heading": "FRAMEWORK FOR BUILDING PRODUCT MESSAGING FROM SCRATCH (1 MINUTE READ)",
+      "url": "https://www.linkedin.com/posts/collinmayjack_bare-bones-positioning-messaging-framework-ugcPost-7529207280236658688-h38T/?utm_source=tldrmarketing",
+      "blurb": "Start with an AI-free brain dump based on product knowledge and stakeholder conversations, then review internal call transcripts to identify key messages, value propositions, and features. Translate the messaging into a product page wireframe to test clarity before gathering team feedback. Launch a first version and refine it based on customer responses. This post provides a positioning template to use for future messaging projects.",
+      "drop_reason": "drop-list domain (linkedin.com)"
+    },
+    {
+      "ref": 9,
+      "section": null,
+      "heading": "PLAID BUILT $382K IN PIPELINE FROM ONE TLDR PLACEMENT (SPONSOR)",
+      "url": "https://advertise.tldr.tech/book-a-campaign/?utm_source=tldrmarketing&utm_medium=newsletter&utm_campaign=secondary11232026&sp=AVZQTeQEFQPgKS66nXhzKaxr",
+      "blurb": "Close Q4 with proof. TLDR reaches 8 million tech readers across 14 newsletters. Book a Q4 campaign [9].",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

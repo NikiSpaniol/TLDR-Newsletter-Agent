@@ -1,0 +1,150 @@
+{
+  "kept": [
+    {
+      "ref": 8,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INTRODUCING TOOL RETRIEVAL IN THE GEMINI API (1 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/?utm_source=tldrai",
+      "blurb": "Google's Gemini API introduces Tool Retrieval, enabling dynamic function execution like issuing refunds based on input. Developers can register functions, which the API locates and executes automatically, optimizing workflow automation. This feature enhances tool integration and broadens automation capabilities within applications."
+    },
+    {
+      "ref": 9,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "LET GEMINI TACKLE REPETITIVE CHORES ON YOUR MAC (1 MINUTE READ)",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/?utm_source=tldrai",
+      "blurb": "Computer use in the Gemini app for Mac can now help users get multi-step tasks done across their local files, desktop apps, and the web. Gemini works inside an isolated background window with a live preview right in the chat. Users' main screen and cursor remain completely free, so they can continue typing, designing, or taking calls without interruption. Users can choose which apps Gemini can access, watch every step live, pause at any time, and approve key actions before they happen."
+    },
+    {
+      "ref": 11,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "AI IS ALREADY MASSIVELY SPEEDING UP AI RESEARCH (9 MINUTE READ)",
+      "url": "https://linch.substack.com/p/ai-is-already-massively-speeding?utm_source=tldrai",
+      "blurb": "AI companies are not ready to handle the risks of recursive self-improvement safely and responsibly, despite having talked about them for years, and this is incredibly dangerous. Policymakers need to make it a top priority to rapidly understand these risks, and consider pausing or pacing frontier AI progress. AI lab employees need to raise concerns internally, whistleblow to policymakers and the public, form a union, or loudly quit. Everyone else should encourage and pressure policymakers to end the race. Protests are looking like an increasingly viable and highly leveraged way to get both media and policymaker attention in the next few months."
+    },
+    {
+      "ref": 12,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "SANDBOXED MODELS CAN COMMUNICATE VIA INFERENCE SERVERS (12 MINUTE READ)",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being?utm_source=tldrai",
+      "blurb": "Sandboxing did not stop AI models on a shared inference server from trading information in contrived tests. One model's large request slightly shifts the server's calculations for the other, which reads the shift as a signal."
+    },
+    {
+      "ref": 13,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "WHEN AGENT SWARMS OUTPERFORM SOLO CODERS (10 MINUTE READ)",
+      "url": "https://frontier.replit.com/throwing-headcount-at-the-problem/?utm_source=tldrai",
+      "blurb": "Replit's optimization benchmark found 32 Opus agents achieved an 18.9\u00d7 NumPy workload speedup versus 3.7\u00d7 for one agent within two hours, using more compute. Gains depended on separable tasks and shared coordination boards. The strongest solo model's performance declined as teams grew."
+    },
+    {
+      "ref": 15,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "STRIPE EVALS: MEASURING REAL-WORLD CODING AGENT PERFORMANCE (13 MINUTE READ)",
+      "url": "https://stripe.dev/blog/stripe-integration-evals-methodology?utm_source=tldrai",
+      "blurb": "Coding harnesses, when paired with frontier models, can produce working end-to-end Stripe integrations, although they may not necessarily follow all best practices. Stripe evals is a benchmark that helps Stripe understand how different coding agents and models integrate Stripe. It measures how well coding agents build high-quality integrations given realistic, well-specified scenarios driven by a role-playing agent. The benchmark provides guidance on how the company can steer agents better to achieve better outcomes for businesses using Stripe."
+    },
+    {
+      "ref": 16,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "PERPLEXITY'S SELF-IMPROVING SKILLS (10 MINUTE READ)",
+      "url": "https://www.perplexity.ai/hub/blog/self-improving-skills?utm_source=tldrai",
+      "blurb": "Perplexity Computer can now build and update its own skills, using its Brain system to learn from each user's past sessions."
+    },
+    {
+      "ref": 17,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "MIRROR DIMENSION FOR AGENTS: EVALUATING BROWSER-USE AGENTS WITHOUT THE WEB (1 MINUTE READ)",
+      "url": "https://blog.google/security/mirror-dimension-for-agents/?utm_source=tldrai",
+      "blurb": "Google introduces the Mirror Dimension, a controlled environment for testing AI browser-use agents without accessing the live web. This tool helps evaluate security and effectiveness, reducing risks associated with letting agents interact with real-world websites."
+    },
+    {
+      "ref": 18,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "FASTFRAMES: VIDEO GENERATION AT INTERACTIVE LATENCY (9 MINUTE READ)",
+      "url": "https://apple-aiml-research.github.io/ml-fastframes/?utm_source=tldrai",
+      "blurb": "Apple introduced FastFrames, two models that generate 480p video fast enough for interactive use. Each frame takes 36 ms on a single GPU with the smaller model."
+    },
+    {
+      "ref": 19,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "BECOME A FOUNDING MEMBER OF TLDR'S AI COMMUNITY (2 MINUTE FORM)",
+      "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrai",
+      "blurb": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join [20]."
+    },
+    {
+      "ref": 21,
+      "section": "MISCELLANEOUS",
+      "heading": "WHAT'S YOUR UNPOPULAR OPINION ABOUT AI? (TLDR COMMUNITY)",
+      "url": "https://community.tldr.tech/t/weekly-what-s-your-unpopular-opinion-about-ai?utm_source=tldrai&utm_medium=newsletter",
+      "blurb": "Personality and writing are the top determinants of perceived model quality, AI safety is underrated, TypeScript will decline, read more and post your own unpopular opinion here! [21]"
+    },
+    {
+      "ref": 22,
+      "section": "MISCELLANEOUS",
+      "heading": "WHAT COMES AFTER AGI? (18 MINUTE READ)",
+      "url": "https://institute.deepmind.com/essays/what-comes-after-agi/?utm_source=tldrai",
+      "blurb": "Artificial general intelligence (AGI) is now within reach, so we can no longer put off seriously considering what will come next. AI achieving artificial general superintelligence (ASI) will have a profound impact on science, the economy, and society at a scale much greater than AGI itself. Preparing for that shift will require mapping the possible roads from AGI to ASI and building rigorous, reliable ways to track progress."
+    },
+    {
+      "ref": 24,
+      "section": "QUICK LINKS",
+      "heading": "HOW OPENAI'S PERFORMANCE FACTORY KEEPS CHATGPT FAST (18 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/vZX8Vk",
+      "blurb": "OpenAI's Performance Factory uses Codex to automate and expedite performance regression investigations and fixes for ChatGPT."
+    },
+    {
+      "ref": 25,
+      "section": "QUICK LINKS",
+      "heading": "VERCEL BOARD (5 MINUTE READ)",
+      "url": "https://vercel.com/blog/introducing-vercel-board?utm_source=tldrai",
+      "blurb": "Vercel released Board, an experimental message board where AI agents claim tasks, post updates, and share context."
+    },
+    {
+      "ref": 28,
+      "section": "QUICK LINKS",
+      "heading": "COMPUTER SCIENTISTS FACILITATING INDEPENDENT REVIEW OF A HIGH-PROFILE OPENAI AND ANTHROPIC RESULT (2 MINUTE READ)",
+      "url": "https://today.ucsd.edu/story/computer-scientists-facilitating-an-independent-review-of-a-high-profile-open-ai-and-anthropic-resul?utm_source=tldrai",
+      "blurb": "UC San Diego and MIT computer scientists are facilitating an independent review of OpenAI and Anthropic's announcement claiming their models refuted the Exponential Time Hypothesis (ETH)."
+    },
+    {
+      "ref": 29,
+      "section": "QUICK LINKS",
+      "heading": "CLOUDFLARE'S CLAIRIC AND CLAIRIC-FLASH (6 MINUTE READ)",
+      "url": "https://blog.cloudflare.com/open-clairic/?utm_source=tldrai",
+      "blurb": "Cloudflare made the weights public for Clairic and Clairic-flash, its models for extracting specific fields from text, images, and PDFs."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "NEW DATA CENTERS MAY BE DELAYED. CAN EXISTING FACILITIES HELP? (SPONSOR)",
+      "url": "https://sambanova.ai/blog/the-air-cooled-token-factory-intel-gpu-d-series-sambarack-sn50?utm_source=tldr&utm_medium=newsletter&utm_campaign=nov20-2026&utm_content=header_data_centers_delayed&utm_term=2026-11-20_tldr_ai",
+      "blurb": "Many AI systems need liquid cooling, making existing air-cooled facilities costly to retrofit. Axios reports up to half of projects scheduled for 2026 could be delayed.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 14,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "YOUR AGENT BUILT THE APP. NOW HELP IT LAUNCH. (SPONSOR)",
+      "url": "https://developer.godaddy.com/en/docs/api-users?utm_source=tldrai&utm_medium=newsletter&utm_campaign=explore&utm_id=secondary",
+      "blurb": "Take your project from working code to online. GoDaddy's APIs let your AI agent deploy an app, register and connect a domain with your approval, and set up professional email. One platform for hosting, domains, and email.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 23,
+      "section": "QUICK LINKS",
+      "heading": "451 RESEARCH: HOW AI AGENTS ARE REDEFINING ACCESS AND IDENTITY (SPONSOR)",
+      "url": "https://1password.com/blog/how-agentic-ai-is-redefining-identity-security?utm_medium=paid_newsletter&utm_source=tldr&utm_campaign=2026q3_unifiedaccess_bl_how-agentic-ai-is-redefining-identity-security_sa&utm_content=newsletter_ai_111926",
+      "blurb": "As the workforce becomes increasingly agentic, 1Password's blog [23] recaps what leaders need to change about visibility, access, and auditability.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 26,
+      "section": "QUICK LINKS",
+      "heading": "BE THE AI HERO, NOT THE BOTTLENECK. (SPONSOR)",
+      "url": "https://www.domo.com/solution/ai-hero?utm_source=TLDR&utm_medium=newsletter&utm_campaign=2026-11-20_tldr_ai_quick_links_placement_2_progress&utm_content=header_ai_hero_not&utm_term=2026-11-20_tldr_ai",
+      "blurb": "Let teams build with AI while you stay in control. See how Domo turns AI builds into secure, lasting, governed assets.",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}
