@@ -1,0 +1,157 @@
+{
+  "kept": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "GET THE ROBOTICS READINESS BLUEPRINT",
+      "url": "https://www.intel.com/content/www/us/en/content-details/932012/the-robotics-readiness-blueprint.html?utm_source=tldr&utm_medium=newsletter&utm_campaign=ih-q4-ai",
+      "blurb": "\ud83d\ude80"
+    },
+    {
+      "ref": 6,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "COGNITION'S SWE-2.1 (3 MINUTE READ)",
+      "url": "https://cognition.com/blog/swe-2-1?utm_source=tldrai",
+      "blurb": "Cognition released SWE-2.1, an upgraded coding and agent model trained with reinforcement learning on top of Kimi K3. It roughly doubles SWE-2's score on the Terminal-Bench 4.1 coding benchmark to 50.0 and adds stronger security skills."
+    },
+    {
+      "ref": 7,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "INTRODUCING TERNARY BONSAI 2.5 27B: POWERING AGENTIC CODING AND PRIVATE KNOWLEDGE WORK (4 MINUTE READ)",
+      "url": "https://prismml.com/news/bonsai-2-5-27b?utm_source=tldrai",
+      "blurb": "Ternary Bonsai 2.5 27B has substantially stronger agentic coding, multi-turn tool use, and multi-step task execution abilities than its predecessor. It retains the previous release's 5.9 GB footprint while significantly improving the capabilities developers need to build agents that work with private files and tools on-device. It is by far the strongest AI model of its memory footprint for agentic workloads."
+    },
+    {
+      "ref": 8,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "CLAUDE ARTIFACTS BECOME MAC AND WINDOWS APPS (3 MINUTE READ)",
+      "url": "https://claude.com/resources/articles/install-as-app?utm_source=tldrai",
+      "blurb": "Claude artifacts can now be installed as Mac and Windows apps, in beta on all plans. Each app gets its own icon and window, updates when the artifact changes, and can be shared."
+    },
+    {
+      "ref": 9,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "JENSEN HUANG REINSTATED AS NVIDIA CEO AT BEHEST OF PRESIDENT TRUMP (45 MINUTE READ)",
+      "url": "https://thezvi.substack.com/p/jensen-huang-reinstated-as-nvidia?utm_source=tldrai",
+      "blurb": "Jensen Huang's reinstatement as Nvidia's CEO is a sign of the state of US democracy, the country's free market economy and rule of law, and the integrity of its government. It will factor into every decision made and every trade on the stock market for years to come. Nvidia will likely go back to maximizing how many chips it can sell to China. The situation is still far from over as there are ongoing investigations."
+    },
+    {
+      "ref": 10,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "WHAT VP \u2260 VNP MEANS (3 MINUTE READ)",
+      "url": "https://www.friedgil.com/vpvnp?utm_source=tldrai",
+      "blurb": "The Anthropic proof that VP\u2260VNP means that there is no way to find the permanent of a matrix of 0s and 1s if we are limited to arithmetic circuits of size polynomial in the input-size. This means that for P to equal NP, there must be some trick to computing permanents using AND/OR/NOT on the bits of the input that is better than addition and multiplication. There are many problems where access to Boolean operators is helpful, but it isn't clear how they would help with the permanent. There is a $1 million prize for a solution to this problem."
+    },
+    {
+      "ref": 11,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "SWARMS DO NOT YET RAISE THE ROOF (46 MINUTE READ)",
+      "url": "https://www.paradigm3.org/research/swarms?utm_source=tldrai",
+      "blurb": "Swarm-based LLM configurations, coordinated groups of agents, deliver faster but less efficient results compared to single agents at equal token budgets. Adding more agents to a swarm introduces a performance penalty that grows with size, leading to quality degradation. Experiments reveal that previous \"swarm premiums\" result from single agents becoming stale over time. Given fresh context resets, single agents outperform swarms, suggesting that current swarm strategies primarily accelerate compute rather than significantly enhancing capabilities."
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "THE MATRIX MULTIPLICATION EXPONENT IS NINE FOURTHS (6 HOUR READ)",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf?utm_source=tldrai",
+      "blurb": "The exponent of square matrix multiplication is 9/4 over every field. A smaller exponent would compress tensor networks enough to violate a lower bound for testing whether the entries in each of several independent lists are distinct."
+    },
+    {
+      "ref": 14,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "GPT-6 MODELS DEMONSTRATE INTRINSIC PROTEIN-DESIGN CAPABILITIES (13 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/rjc5oK",
+      "blurb": "OpenAI said its GPT-6 models can design new proteins using reasoning and code alone, without calling specialized biology models. Lab tests with a research partner confirmed that some designs worked, though the work still relied on specialist tools to screen candidates."
+    },
+    {
+      "ref": 15,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "ANNOUNCING VLLM-GR: EFFICIENT INFERENCE FOR GENERATIVE RECOMMENDATION (14 MINUTE READ)",
+      "url": "https://vllm.ai/blog/2026-11-24-vllm-gr-announcement?utm_source=tldrai",
+      "blurb": "vLLM-GR is an open-source framework enhancing vLLM to improve inference for generative recommendation models with efficient beam searches. It enables rapid candidate generation on NVIDIA GPUs and Ascend NPUs by reusing user history and optimizing cache use."
+    },
+    {
+      "ref": 16,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "BECOME A FOUNDING MEMBER OF TLDR\u2019S AI COMMUNITY (2 MINUTE FORM)",
+      "url": "https://danni763618.typeform.com/to/H1tYViME",
+      "blurb": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join [16]."
+    },
+    {
+      "ref": 17,
+      "section": "MISCELLANEOUS",
+      "heading": "AMAZON SAYS HACKERS' AI AGENTS FOUND AND EXPLOITED 0-DAY WITH LITTLE HUMAN INPUT (5 MINUTE READ)",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/?utm_source=tldrai",
+      "blurb": "Amazon said AI agents running on Cairn, an open source penetration-testing framework, found and exploited a zero-day in a medical imaging AI app on a university server with no human oversight beyond a goal prompt. Palo Alto Networks separately tracked a Cairn campaign that ran 25 autonomous operations against at least 19 organizations in the semiconductor, defense, and civil society sectors, breaching at least 10. Amazon's warning: agentic offensive operations are already happening, and defenders should prepare for their speed and persistence."
+    },
+    {
+      "ref": 18,
+      "section": "MISCELLANEOUS",
+      "heading": "ML COMPILER ENG, YOUR JOB IS NP-HARD (4 MINUTE READ)",
+      "url": "https://ianbarber.blog/2026/11/24/ml-compiler-eng-your-job-is-np-hard/?utm_source=tldrai",
+      "blurb": "Layout search is computationally hard. However, in reality, there are generally just a few places to put a conversion in a specific kernel. The tricky part is picking an option, as this requires relying on a potentially inaccurate model of how expensive those ops are given the subsequent software stack and the hardware itself."
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "GOOGLE ADDS TASK CHECKLISTS TO ANTIGRAVITY (2 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/google-adds-task-checklists-to-antigravity-and-carbon-for-pro/?utm_source=tldrai",
+      "blurb": "Google's Antigravity coding app now shows live checklists for long tasks and lets users pick separate planner and executor models."
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "OPENAI PREPARES DEDICATED EMAIL INBOXES FOR CHATGPT DOTS (2 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/openai-prepares-dedicated-email-inboxes-for-chatgpt-dots/?utm_source=tldrai",
+      "blurb": "OpenAI is developing dedicated email addresses for Dots in ChatGPT, allowing them to send and receive emails independently."
+    },
+    {
+      "ref": 25,
+      "section": "QUICK LINKS",
+      "heading": "META BRINGS ITS MUSE AI ASSISTANT DIRECTLY INTO INSTAGRAM DMS (3 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/?utm_source=tldrai",
+      "blurb": "Meta now integrates its Muse AI assistant directly into Instagram DMs, allowing users to chat with Muse for context on posts, places, or products."
+    },
+    {
+      "ref": 26,
+      "section": "QUICK LINKS",
+      "heading": "PUSHING THE US OPEN-WEIGHT FRONTIER (21 MINUTE READ)",
+      "url": "https://www.harvey.ai/blog/applying-the-harvey-tenet-training-recipe-to-us-open-weight-models?utm_source=tldrai",
+      "blurb": "Post-training leads to substantial gains in both agentic legal reasoning and task completion."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "MOST ORGS AREN'T ON TRACK FOR A SUCCESSFUL HUMAN-ROBOT WORKFORCE; HERE'S HOW TO FIX THAT (SPONSOR)",
+      "url": "https://www.intel.com/content/www/us/en/content-details/932012/the-robotics-readiness-blueprint.html?utm_source=tldr&utm_medium=newsletter&utm_campaign=ih-q4-ai",
+      "blurb": "When decisions are siloed or delayed, projects get stuck in redesign, rework, and unexpected costs.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 12,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "72% OF CX EXECUTIVES DON'T MONITOR AI ACCURACY (SPONSOR)",
+      "url": "https://go.parloa.com/cx-observability-2026?utm_campaign=2026-q4-paid-awareness-cxobservabilityreport&utm_source=tldr&utm_medium=newsletter-secondary-11-25",
+      "blurb": "Parloa and Metric Sherpa's 2026 Observability survey [12] of 700+ CX operators and executives found that 78.5% of teams don't track hallucinations and 41.2% of operators have never shared a CX insight outside of their team. Score your team with the CX Observability Index and learn why overconfidence in AI leads to underperformance.\u00a0Read the report. [12]",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "VERDA INFERENCE: KIMI K3.1 PRO AND DEEPSEEK V4.1 FLASH, 75% OFF YOUR NEXT TOP-UP (SPONSOR)",
+      "url": "https://verda.com/inference?utm_source=tldr&utm_medium=email&utm_campaign=tldr_inference_q4_2026&utm_content=quicklinks_20261125_headline",
+      "blurb": "Run both through one OpenAI-compatible API, with up to 10x faster time to first token on long-context work. Get every model at full quality and speed. Use code TLDR-75.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 23,
+      "section": "QUICK LINKS",
+      "heading": "BE THE AI HERO, NOT THE BOTTLENECK. (SPONSOR)",
+      "url": "https://www.domo.com/solution/ai-hero?utm_source=tldr&utm_medium=paid-email&utm_campaign=2026-11-20_tldr_ai_quick_links_placement_2_progress&utm_content=header_ai_hero_not&utm_term=2026-11-25_ai_headline",
+      "blurb": "Let teams build with AI while you stay in control. See how Domo turns AI builds into secure, lasting, governed assets.",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

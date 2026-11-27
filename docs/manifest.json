@@ -406,5 +406,17 @@
     "newsletter": "Marketing",
     "edition_label": "Tuesday the 24th of November",
     "run_date": "2026-11-24"
+  },
+  {
+    "filename": "tldr_ai_pool_2026-11-27_digest.html",
+    "newsletter": "AI",
+    "edition_label": "Friday the 27th of November",
+    "run_date": "2026-11-27"
+  },
+  {
+    "filename": "tldr_marketing_pool_2026-11-27_digest.html",
+    "newsletter": "Marketing",
+    "edition_label": "Friday the 27th of November",
+    "run_date": "2026-11-27"
   }
 ]

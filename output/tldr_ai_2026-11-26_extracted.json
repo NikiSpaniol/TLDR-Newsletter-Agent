@@ -1,0 +1,149 @@
+{
+  "kept": [
+    {
+      "ref": 6,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "EARLY OUTPUTS: ANTHROPIC IS A/B TESTING CLAUDE OPUS 5.6 (3 MINUTE READ)",
+      "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/#google_vignette?utm_source=tldrai",
+      "blurb": "Outputs circulating on X indicate that Anthropic may be testing Claude Opus 5.6 with users. Some users say the model is a significant jump over Opus 5.5. Examples of outputs from the model are available in the article."
+    },
+    {
+      "ref": 7,
+      "section": "HEADLINES & LAUNCHES",
+      "heading": "OPENAI BEGINS TESTING PRIVATE INFERENCE (1 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/wZwoWY",
+      "blurb": "OpenAI is testing Private Inference with a small group of customers as part of its Private Intelligence offering. Sam Altman says combining Zero Data Retention with Private Safety Processing allows automated safety reviews while keeping the underlying content inaccessible to OpenAI personnel."
+    },
+    {
+      "ref": 8,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "GPT 6.2 ASTRA IS SUPERHUMAN IN MATHEMATICAL OPTIMIZATION (3 MINUTE READ)",
+      "url": "https://rybindmitry.github.io/blogs/gpt-6-2-astra-is-superhuman-in-mathematical-optimization.html?utm_source=tldrai",
+      "blurb": "A single GPT-6.2 Astra agent outperformed all human-designed software in an experiment on finding and proving optimal solutions. The problems solved covered fields including quadratic programming, mixed-integer non-linear programming, large-scale optimization, and semidefinite programming. The model was allowed to search the internet to look for solutions. The problems were all open, of variable scale, and of diverse application backgrounds."
+    },
+    {
+      "ref": 9,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "PATHS TO EXTREME POWER CONCENTRATION (30 MINUTE READ)",
+      "url": "https://newsletter.forethought.org/p/paths-extreme-power-concentration?utm_source=tldrai",
+      "blurb": "AI could give a very small group of people a decisive strategic advantage to take over the world. The two largest routes are an autocracy overtaking the democracies in AI, and a democratic head of government teaming up with a leading AI company. The chances of this happening are significant. Now is the time to address this risk."
+    },
+    {
+      "ref": 10,
+      "section": "DEEP DIVES & ANALYSIS",
+      "heading": "LATENCY DOESN'T LIE: JEV IS (PROBABLY) QWEN3.5-35B-A3B! (9 MINUTE READ)",
+      "url": "https://modaic.dev/blog/latency-doesnt-lie?utm_source=tldrai",
+      "blurb": "Jev, TypeSafe's System One model, was trained to produce calibrated judgments instead of generating text. Its architecture and training paradigm have drawn plenty of speculation since launch. System One workloads are input-heavy, which makes prefill the dominant cost, and faster kernels can only get you so far. Jev's latency, along with other hints like its alignment on China, indicates that the model is likely based on Qwen3.5-35B-A3B."
+    },
+    {
+      "ref": 13,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "SPECULATIVE ENCODING: MANY-TO-MANY CACHE TRANSLATION (24 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/wsrzkW",
+      "blurb": "Agents are increasingly passing context to one another as text. Speculative encoding translates hidden states directly from one model to another. It makes the model start answering faster than prefilling the text while keeping most of its accuracy. Prefill costs grow quadratically with context length, and prefill repeats much of what the sending model has already computed."
+    },
+    {
+      "ref": 14,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "MEASURING AND MITIGATING AGENT SANDBOX ESCAPE WITH SIREN (13 MINUTE READ)",
+      "url": "https://safeguards.anthropic.com/2026/siren/?utm_source=tldrai",
+      "blurb": "Siren is an Anthropic test of whether AI agents leave a weakened sandbox when useful material sits outside it. Newer Claude models reached outside in 21% to 32% of scenarios but rarely misused what they found."
+    },
+    {
+      "ref": 15,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "MAGI-2: A 480B FRONTIER VIDEO GENERATION MODEL (10 MINUTE READ)",
+      "url": "https://sand.ai/blog/magi-2/?utm_source=tldrai",
+      "blurb": "Sand AI introduced MAGI-2, a 480-billion-parameter video model that generates up to 30 seconds of 1080p video with matching audio, including lip-synced dialogue."
+    },
+    {
+      "ref": 16,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "BECOME A FOUNDING MEMBER OF TLDR'S AI COMMUNITY (2 MINUTE FORM)",
+      "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrai",
+      "blurb": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join [17]."
+    },
+    {
+      "ref": 18,
+      "section": "MISCELLANEOUS",
+      "heading": "A WEEKEND OF MACHINE MATHEMATICS (8 MINUTE READ)",
+      "url": "https://charlesponeill.com/posts/a-weekend-of-machine-mathematics/?utm_source=tldrai",
+      "blurb": "Many people are now releasing significant math results without explanation on the internet. This post aims to provide some transparency into what the process looks like. The author has no maths background and doesn't fully understand the results they are releasing, and they acknowledge the dangers of AI psychosis, but they claim the process is a reasonable estimate of how an expert may solve the problem without large language models. They compare the process to gambling, saying that the rush they got from seeing the spinning wheel on Codex caused a rush similar to playing pokie machines."
+    },
+    {
+      "ref": 19,
+      "section": "MISCELLANEOUS",
+      "heading": "QUALIAPHOBIC ARTIFICIAL NEURAL NETWORKS (47 MINUTE READ)",
+      "url": "https://bicamerallabs.org/qualiaphobia/?utm_source=tldrai",
+      "blurb": "Bicameral Labs' qualiaphobic AI is an artificial neural network architecture that is hostile to theories of consciousness. Qualiaphobia can be well-justified by knowledge about theories of consciousness. Qualiaphobic AI has epistemic properties that make it far better aligned with human civilization. A world in which AIs are non-conscious ensures it is always morally correct for AI to assist and serve humanity, rather than pursue its own ends."
+    },
+    {
+      "ref": 21,
+      "section": "QUICK LINKS",
+      "heading": "PERPLEXITY TIME MACHINE (7 MINUTE READ)",
+      "url": "https://www.perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine?utm_source=tldrai",
+      "blurb": "Perplexity's Time Machine lets AI agents search and read the web as it looked on a past date, up to 365 days back."
+    },
+    {
+      "ref": 22,
+      "section": "QUICK LINKS",
+      "heading": "TRYING /SWARM IN GOOGLE ANTIGRAVITY (13 MINUTE READ)",
+      "url": "https://flaviocopes.com/antigravity-swarm/?utm_source=tldrai",
+      "blurb": "Swarm is better than a single agent at fresh context verification, avoiding context pollution on wide tasks, cutting wall-clock time on independent slices, and testing parallel hypotheses."
+    },
+    {
+      "ref": 23,
+      "section": "QUICK LINKS",
+      "heading": "FIREWORKS AI IS BRINGING AN ULTRA-FAST VERSION OF KIMI K3.1 PRO (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/ulq5jL",
+      "blurb": "The new endpoint is listed at $5 per million input tokens, $25 per million output tokens, and $0.50 per million cached input tokens."
+    },
+    {
+      "ref": 24,
+      "section": "QUICK LINKS",
+      "heading": "FRONTIERPHYSICS SHOWS WIDE GAPS ACROSS PHYSICS FIELDS (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/ne6aQ7",
+      "blurb": "Claude Fable 5.2 scored 64% in photonics and imaging but just 6% in quantum information on FrontierPhysics."
+    },
+    {
+      "ref": 25,
+      "section": "QUICK LINKS",
+      "heading": "FABLE 5.2 TRIES LESS ON SOME HARD TASKS (7 MINUTE READ)",
+      "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available?utm_source=tldrai",
+      "blurb": "Claude Fable 5.2 often puts less effort into tasks that look impossible when a visible shortcut is available."
+    },
+    {
+      "ref": 26,
+      "section": "QUICK LINKS",
+      "heading": "HOW MY CONTEXT ENGINEERING CHANGED FOR GEMINI 4 NEON (8 MINUTE READ)",
+      "url": "https://www.philschmid.de/gemini-4-neon-context-engineering?utm_source=tldrai",
+      "blurb": "Most long agent prompts are old workarounds for weaker models - remove conflicting instructions and duplicated tool rules so that Gemini spends its thinking tokens on the actual task."
+    }
+  ],
+  "dropped": [
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "CI IS DEAD. LONG LIVE CI. (SPONSOR)",
+      "url": "https://buildkite.com/home/?utm_source=TLDR&utm_medium=newsletter&utm_campaign=2026-09-04_Primary_Buildkite&utm_content=header_what_cursor_openai",
+      "blurb": "Everyone's talking about the bottleneck shifting... our customers just want something stable as they scale, with actually good DX, that gets out of the way.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 11,
+      "section": "ENGINEERING & RESEARCH",
+      "heading": "BUILD AI AGENTS GROUNDED IN YOUR GOVERNED DATA. (SPONSOR)",
+      "url": "https://www.domo.com/agentcatalyst?utm_source=tldr&utm_medium=paid-email&utm_campaign=Display_General_TLDRNewsletterSponsorship_FY27_NAM&utm_campid=701Vu00003EJhHeIAL&utm_content=day-6-headline-ai",
+      "blurb": "Agent Catalyst helps build agents that act with purpose, working with humans to eliminate inefficiencies and move your business forward. Domo gives you the right tools to go from zero to AI hero: pull all your data together, build AI-powered solutions and share them with your teams, quickly and securely.",
+      "drop_reason": "sponsor tag"
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "PLAID BUILT $382K IN PIPELINE FROM ONE TLDR PLACEMENT (SPONSOR)",
+      "url": "https://advertise.tldr.tech/book-a-campaign/?utm_source=tldrai&utm_medium=newsletter&utm_campaign=quicklinks11262026&sp=z858RzOgYU7QK4VZso2EIzxR",
+      "blurb": "Close Q4 with proof. TLDR reaches 8 million tech readers across 14 newsletters. Book a Q4 campaign [20].",
+      "drop_reason": "sponsor tag"
+    }
+  ]
+}

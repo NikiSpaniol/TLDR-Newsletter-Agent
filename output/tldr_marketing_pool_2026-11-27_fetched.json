@@ -1,0 +1,305 @@
+{
+  "kept": [
+    {
+      "ref": 1,
+      "section": null,
+      "heading": "PARTICIPATION IN BLACK FRIDAY-CYBER MONDAY SHOPPING EXPECTED TO HIT 10-YEAR HIGH (5 MINUTE READ)",
+      "url": "https://www.prnewswire.com/news-releases/deloitte-participation-in-black-friday-cyber-monday-shopping-expected-to-hit-10-year-high-302947335.html?utm_source=tldrmarketing",
+      "blurb": "Deloitte reports that 87% of consumers plan to shop during BFCM this year, with average spending flat at $624. Gen Z leads with 94% planning to participate and $752 in expected spending, up 23% year over year. Social media and GenAI use are linked to higher spending, with shoppers using both expecting to spend 61% more than those using neither. Meanwhile, 72% are delaying some purchases in anticipation of better deals.",
+      "source_email": "tldr_marketing_2026-11-24_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 2,
+      "section": null,
+      "heading": "AI CITATIONS TO SOCIAL MEDIA & UGC GREW 52% ON GOOGLE'S AI PLATFORMS, FELL 44% ON CHATGPT (8 MINUTE READ)",
+      "url": "https://www.semrush.com/blog/ai-citations-social-media-ugc/?utm_source=tldrmarketing",
+      "blurb": "Citations to 18 UGC domains grew 52% across Google's AI platforms from January to August, but fell 44% on ChatGPT. YouTube led AI Overviews with 45% of tracked citations, while Reddit dominated ChatGPT at 52%. 17 of 18 sites gained citations on AI Overviews, while 12 lost citations on ChatGPT. TikTok saw the strongest growth across both. Despite low AI referral traffic of just 0.14%, UGC can shape brand visibility in AI answers. Citation patterns vary by category, making it important to identify which sources AI platforms reference most in your market.",
+      "source_email": "tldr_marketing_2026-11-24_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 3,
+      "section": null,
+      "heading": "HOW TO MAKE HIGH-QUALITY AI ADS (10 MINUTE READ)",
+      "url": "https://buildwithai.to/p/how-to-make-ai-ads-to-get-5m-impressions?utm_source=tldrmarketing",
+      "blurb": "AI ads start with a product selling point and a customer pain point. Build a short story around one feature that solves a real problem, then test the hardest shot before generating the rest. AI reels often use a recognizable situation, an unusual opening frame, and a single product-focused payoff, usually within 15-30 seconds. Control the output by specifying shot sizes and color grading in consistent language. Generate short clips, make pacing and text adjustments in the edit, and change one prompt variable at a time.",
+      "source_email": "tldr_marketing_2026-11-24_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 4,
+      "section": null,
+      "heading": "THE B2B DEMAND GEN CHECKLIST (5 MINUTE READ)",
+      "url": "https://www.samkuehnle.com/p/the-b2b-demand-gen-checklist-pt-3?utm_source=tldrmarketing",
+      "blurb": "B2B companies can capture more existing buyer demand by improving how they handle high-intent leads. Route every demo and contact request to the right sales rep with instant booking or a response within 30 minutes. Track speed-to-lead as a KPI. Install ad pixels for retargeting and conversion tracking. Identify high-intent search and AI queries such as competitor comparisons and pricing. Target these through SEO, AEO, and paid search while organic rankings build.",
+      "source_email": "tldr_marketing_2026-11-24_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 5,
+      "section": null,
+      "heading": "START USING AI IN COMMUNICATIONS SAFELY (WEBINAR)",
+      "url": "https://maven.com/p/54fd6b/start-using-ai-in-communications-safely?utm_source=tldrmarketing",
+      "blurb": "Get a practical intro to AI for communicators. Learn what it's good for, where it fails, and how to use it without sacrificing judgment. This free webinar will take place on November 26 at 9 AM PT.",
+      "source_email": "tldr_marketing_2026-11-24_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 6,
+      "section": null,
+      "heading": "TEST YOUR ECOMMERCE SITE FOR AI ACCESS (2 MINUTE READ)",
+      "url": "https://www.practicalecommerce.com/test-your-ecommerce-site-for-ai-access?utm_source=tldrmarketing",
+      "blurb": "Ecommerce sites can test whether AI crawlers can access and read their content using 3 checks. A free tool from a former Google employee tests whether AI bots are blocked by robots.txt or server settings. Asking ChatGPT to find a sentence hidden in collapsible content can reveal whether it retrieves JavaScript-rendered text. Chrome Reading Mode offers another check by stripping away navigation and pop-ups to show whether key content such as product titles, descriptions, pricing, and reviews can be extracted cleanly.",
+      "source_email": "tldr_marketing_2026-11-24_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 7,
+      "section": "MISCELLANEOUS",
+      "heading": "NEW HUBSPOT DATA REVEALS HOW MENTIONS AND CITATIONS RELATE ON THE AI ENGINE LEVEL (9 MINUTE READ)",
+      "url": "https://www.growth-memo.com/p/denominaitor?utm_source=tldrmarketing",
+      "blurb": "Model releases now swing AI visibility the way algorithm updates once swung SEO. After an update to ChatGPT on August 6, cited URLs per prompt rose 51% and domain-specific searches rose 45x. Gemini's 3.7 Flash release cut citations per prompt 27% the same week it launched. Perplexity went the other way, doubling cited URLs per answer to about 18 while referral traffic fell 14%. Sources shifted too, with ChatGPT citing competitor sites more and forums and videos far less.",
+      "source_email": "tldr_marketing_2026-11-24_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 8,
+      "section": "MISCELLANEOUS",
+      "heading": "CAN WE DESIGN EMOTIONAL LOYALTY? (5 MINUTE READ)",
+      "url": "https://www.cxnetwork.com/customer-loyalty/articles/beyond-retention-can-we-design-emotional-loyalty?utm_source=tldrmarketing",
+      "blurb": "An emotional loyalty map treats loyalty as a series of moments, each with a specific emotion to design for. For every moment, from opening the app to a service failure, it compares what the member feels now with what they should feel and picks an action to close that gap. A new member opening the app may feel confused, so showing clear progress toward the next reward leaves them informed and motivated. After a service failure, the goal is reassurance, which comes from a fast fix and a reply that recognizes their membership.",
+      "source_email": "tldr_marketing_2026-11-24_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 9,
+      "section": "QUICK LINKS",
+      "heading": "CREATIVITY IS DYING. AND WE'RE REPLACING IT WITH CREATORS (2 MINUTE READ)",
+      "url": "https://wersm.com/creativity-is-dying-and-were-replacing-it-with-creators/?utm_source=tldrmarketing",
+      "blurb": "Brands now hire a creator to do their usual content with a product instead of coming up with an original idea for them.",
+      "source_email": "tldr_marketing_2026-11-24_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 10,
+      "section": "QUICK LINKS",
+      "heading": "DOGFOODMAXXING (3 MINUTE READ)",
+      "url": "https://www.marketingideas.com/p/dogfoodmaxxing?utm_source=tldrmarketing",
+      "blurb": "Dogfoodmaxxing means building content around how a company uses its own product.",
+      "source_email": "tldr_marketing_2026-11-24_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 11,
+      "section": null,
+      "heading": "ACCENTURE LIFE TRENDS 2027 (47 MINUTE READ)",
+      "url": "https://www.accenture.com/content/dam/accenture/final/accenture-com/document-fy27/q1/LifeTrends-FY27-Report.pdf?utm_source=tldrmarketing",
+      "blurb": "Consumers are embracing innovation while seeking more human connection and control. AI-generated content is driving interest in human-made media and private communities. Concerns about technology's impact on local communities are increasing demand for transparency and accountability. Biotech breakthroughs are raising healthcare expectations while AI and digital platforms help people build independent income streams. Meanwhile, wellness culture is fueling fatigue as constant self-improvement becomes exhausting.",
+      "source_email": "tldr_marketing_2026-11-25_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 12,
+      "section": null,
+      "heading": "WHY MANY PEOPLE WHO CAN PAY UPFRONT ARE CHOOSING TO PAY OVER TIME (2 MINUTE READ)",
+      "url": "https://links.tldrnewsletter.com/9Sssk3",
+      "blurb": "Consumers increasingly use buy now, pay later products to manage cash flow and preserve savings, even when they can afford to pay upfront. In the survey, 58% of deferred-payment users had used these products to keep money in savings or investments, while 47% of financed transactions could have been paid upfront. Fixed payment schedules also appeal to consumers, as 57% prefer predictable payments over flexible, open-ended credit. These patterns show how credit products can serve different financial needs, from avoiding credit card interest to covering expenses while waiting for a paycheck.",
+      "source_email": "tldr_marketing_2026-11-25_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 13,
+      "section": null,
+      "heading": "WIKIPEDIA EXPLAINERS LOST A MEDIAN 40% OF VIEWS SINCE 2022, BIOGRAPHIES LOST 9% (4 MINUTE READ)",
+      "url": "https://growtika.com/blog/wikipedia-traffic-study?utm_source=tldrmarketing",
+      "blurb": "Explainer pages that an AI answer can cover in two lines lost the most traffic, while pages about people held up. For instance, photosynthesis fell from 79,000 monthly views to 45,000, and Napoleon only slipped from 365,000 to 346,000. Nearly all of the topic decline came in the two years after Google launched AI Overviews, and the pre-2022 trend of about 5% drop a year explains only half of it.",
+      "source_email": "tldr_marketing_2026-11-25_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 14,
+      "section": null,
+      "heading": "GOOGLE'S \u2018TOP 10' LINE FOR CMOS POINTS AT GENERIC TIPS POSTS (3 MINUTE READ)",
+      "url": "https://www.searchenginejournal.com/google-told-cmos-to-stop-top-10-listicles/598310/?_bhlid=69388f73d490a56550c8fc8572ae2fa34ceae003&utm_source=tldrmarketing",
+      "blurb": "Google is urging brands to replace generic \u2018tips' posts with content built on first-hand expertise. Its example contrasts a generic \u201cTop 10 Things to Consider\u201d article with a detailed analysis of why a specific customer's running shoes failed. The guidance also encourages brands to optimize for conversational searches rather than just keywords and measure performance through leads and sales instead of proxy metrics. Google Search's own AI guide makes the same distinction between common knowledge and original experience.",
+      "source_email": "tldr_marketing_2026-11-25_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 15,
+      "section": null,
+      "heading": "\u201cMADE WITH AI\u201d ADS HURT YOUR BRAND (2 MINUTE READ)",
+      "url": "https://app.sciencesays.com/p/made-with-ai-ads-hurt-your-brand?utm_source=tldrmarketing",
+      "blurb": "AI disclosure labels can hurt ad performance and brand perception, especially when brands explain why they used AI. Across three experiments, 82% to 92% of people who noticed an AI label assumed the company used AI primarily to benefit itself, such as cutting costs. Explanations about improving quality or benefiting consumers did little to change that perception and made people rate ads less favorably. Avoid using AI for emotional brand messaging, where consumers are 24.6% less likely to recommend the brand, and use it instead to refine creative ideas or support post-production. If disclosure is required, keep the label simple rather than explaining your reasons for using AI.",
+      "source_email": "tldr_marketing_2026-11-25_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 16,
+      "section": null,
+      "heading": "SNIPD (WEBSITE)",
+      "url": "https://www.snipd.app/?utm_source=tldrmarketing",
+      "blurb": "Snipd helps users capture and revisit insights while listening. Tapping your headphones saves a podcast segment with its audio, transcript, and AI-generated summary. Users can also chat with episodes to find specific information and get answers. Highlights can be exported to tools like Notion, Readwise, and Obsidian for future reference.",
+      "source_email": "tldr_marketing_2026-11-25_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 17,
+      "section": "MISCELLANEOUS",
+      "heading": "CONSUMERS, OBLIVIOUS OF BEING TARGETED, FIND ONLINE ADS HELPFUL (4 MINUTE READ)",
+      "url": "https://phys.org/news/2026-11-consumers-oblivious-online-ads.html?utm_source=tldrmarketing",
+      "blurb": "Telling people why they're seeing an ad made them feel more watched, even when the ad wasn't retargeted at all. Retargeting itself mostly landed as helpful, raising click intention as ads for a product viewed earlier followed people across sites. The more sites those ads appeared on, though, the stronger the sense of surveillance and the worse people felt about ads. Offering controls over ad topics alongside the explanation could offset that effect.",
+      "source_email": "tldr_marketing_2026-11-25_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 18,
+      "section": "MISCELLANEOUS",
+      "heading": "CRAFT FIRST, AI SECOND (4 MINUTE READ)",
+      "url": "https://learn.thedesignsystem.guide/p/craft-first-ai-second?utm_source=tldrmarketing",
+      "blurb": "AI should support design craft rather than replace it. Start by sketching ideas and refining features before turning to AI for building and iteration. Too many tools and constant reviewing can create cognitive overload. A focused workflow with 2-3 tools is more manageable. Better results also come from precise prompts instead of vague instructions. Build a library of inspiring screenshots and interactions. Save feedback and design decisions to help AI better match your taste and reduce back-and-forth.",
+      "source_email": "tldr_marketing_2026-11-25_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 19,
+      "section": "QUICK LINKS",
+      "heading": "WHY CONFUSING ADS STILL WORK (2 MINUTE READ)",
+      "url": "https://www.systm.co/post/why-confusing-ads-still-work?utm_source=tldrmarketing",
+      "blurb": "Viewers who see their own problem in an ad want to learn more even when they can't say what the product does, so copy should describe the customer's situation rather than the company.",
+      "source_email": "tldr_marketing_2026-11-25_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 20,
+      "section": "QUICK LINKS",
+      "heading": "AIRLINES ARE TURNING THEIR PASSENGER DATA INTO MEDIA NETWORKS (2 MINUTE READ)",
+      "url": "https://wersm.com/airlines-turning-passenger-data-into-media-networks/?utm_source=tldrmarketing",
+      "blurb": "Knowing where and when passengers travel makes airline audiences valuable to brands, but the same precision risks making passengers feel followed.",
+      "source_email": "tldr_marketing_2026-11-25_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 21,
+      "section": null,
+      "heading": "CONSUMER TRUST AROUND BLACK FRIDAY DEALS IS DOWN (4 MINUTE READ)",
+      "url": "https://www.marketingbrew.com/stories/black-friday-deals-consumer-trust-brand-strategy?utm_source=tldrmarketing",
+      "blurb": "Black Friday has stretched into a month of discounts, which removed the urgency that once made a 30% off banner work. Nearly three-quarters of shoppers now call the event more hype than genuine savings, even at brands whose deals match last year's. More sale days spread the same demand thinner, but brands say opting out is not an option. The ones adapting rotate individual products through deals to rebuild momentum or move the promo budget into a brand campaign instead.",
+      "source_email": "tldr_marketing_2026-11-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 22,
+      "section": null,
+      "heading": "AI IS MOVING WAY TOO FAST (9 MINUTE READ)",
+      "url": "https://www.natesilver.net/p/ai-is-moving-way-too-fast?utm_source=tldrmarketing",
+      "blurb": "AI capabilities are advancing faster than society can adapt. While human expertise still plays a critical role in directing AI today, that advantage may not last as models develop stronger reasoning and research abilities. The bigger concern is that AI labs are racing toward superintelligence without clear plans to control it or align it with human interests. Political systems may struggle to keep pace with the technology's rapid evolution.",
+      "source_email": "tldr_marketing_2026-11-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 23,
+      "section": null,
+      "heading": "WIN REPORT: THE THREE WORDS WE ADDED TO A PRODUCT PAGE THAT INCREASED CONVERSIONS BY 12% (2 MINUTE READ)",
+      "url": "https://conversion-rate-experts.com/diamondback-covers-three-words-win-report/?utm_source=tldrmarketing",
+      "blurb": "Adding context to customer review counts can make social proof more persuasive and increase product conversions. DiamondBack Covers tested replacing an unlabeled review count with the phrase \u201c2,863 Real-World Reviews\u201d next to its 4.9-star rating. The change increased conversions by 12%. Research showed that 16% of skeptical buyers cited positive reviews and research as a reason they ultimately purchased. Clearly identifying reviews as real customer experiences can help reduce purchase hesitation.",
+      "source_email": "tldr_marketing_2026-11-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 24,
+      "section": null,
+      "heading": "BEHIND GOOD CONTENT: AEO EXPERT KEVIN WHITE (34 MINUTE PODCAST)",
+      "url": "https://www.thatsgoodcontent.com/podcasts/40---kevin-white?utm_source=tldrmarketing",
+      "blurb": "This podcast features Kevin White sharing how brands can improve their visibility in AI search. He explains the 3 stages of AEO - being cited, mentioned, and recommended - then breaks down Scrunch's strategy for increasing its AI mention rate from 15% to 40% in 2 months. The playbook focuses on updating existing content, earning placements on trusted third-party sites, and publishing targeted FAQs. He also explains why AEO requires ongoing updates, as citations typically decay within 6-8 weeks.",
+      "source_email": "tldr_marketing_2026-11-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 25,
+      "section": null,
+      "heading": "WHAT MARKETERS SHOULD BUILD NEXT WITH AI (25 MINUTE READ)",
+      "url": "https://newsletter.mkt1.co/p/ai-build-ideas-for-marketers?utm_source=tldrmarketing",
+      "blurb": "This guide teaches how to become AI builders by creating custom skills and agents instead of relying on basic AI prompts. It shares 30 ideas for automating internal workflows and creating interactive tools for audiences. Examples include building brand voice checkers, customer benchmark tools, and reusable AI skills. It also explains how MCPs connect these builds to tools like Claude and ChatGPT, with a walkthrough using Lovable.",
+      "source_email": "tldr_marketing_2026-11-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 26,
+      "section": null,
+      "heading": "AI SHOPPING AGENTS BOUGHT A FAKE DEAL 37% OF THE TIME \u2013 CLAUDE OPUS NEVER DID (4 MINUTE READ)",
+      "url": "https://www.searchenginejournal.com/ai-shopping-agents-bought-a-fake-deal-37-of-the-time-claude-opus-never-did/598682/?utm_source=tldrmarketing",
+      "blurb": "AI shopping agents often prioritize ratings and low prices over signs of fraudulent listings, creating an opportunity for misleading products to win recommendations. In a test of 9 AI models across 6,156 shopping trips, 8 models bought an obviously fake deal 37% of the time, even when they recognized suspicious pricing. Listing order also mattered: agents bought the fake 65% of the time when it appeared first, compared with 34% elsewhere. When asked to find the best value, agents chose the fake 53% of the time, suggesting that AI shopping recommendations can be vulnerable to misleading reviews, pricing, and product positioning.",
+      "source_email": "tldr_marketing_2026-11-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 27,
+      "section": null,
+      "heading": "HOLIDAYS HAPPEN ON TIKTOK (7 MINUTE READ)",
+      "url": "https://newsroom.tiktok.com/holidays-happen-on-tiktok-your-guide-to-the-2026-season?utm_source=tldrmarketing",
+      "blurb": "TikTok's holiday guide on seasonal trends, creator recommendations, and shopping content. This year's emerging trends include Whimsy Christmas d\u00e9cor, DIY gifts, nostalgic decorations, and cozy holiday experiences. Posts about stocking stuffers are up almost 200%, while beauty advent calendar posts have grown nearly 640%, highlighting demand for smaller, giftable products. Holiday searches are also surging, including a more than 40x increase in searches for Christmas decorations and a 31x increase for Christmas lists. Brands can tap into these trends through creator partnerships, shoppable content, and timely products that reflect what consumers are already searching for and discussing.",
+      "source_email": "tldr_marketing_2026-11-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 28,
+      "section": "MISCELLANEOUS",
+      "heading": "HOW MANY PRODUCTS DOES AN ECOMMERCE CATEGORY PAGE NEED? (7 MINUTE READ)",
+      "url": "https://searchengineland.com/how-many-products-ecommerce-category-page-needs-502741?utm_source=tldrmarketing",
+      "blurb": "Across 25,000+ Shopify category pages, most of the gain in Google visibility came from the first 16 products, with much smaller gains after that. The cutoff moved with search demand, since niche categories stopped improving at 9-16 products while mid-volume ones kept climbing until 33-64. Homepage links mattered more as categories grew, since linked ones ranked 15-30 points higher at every size and kept climbing after unlinked ones stalled at 9-16 products. Empty categories are better merged or redirected, since nearly half still appeared in search with nothing on the page.",
+      "source_email": "tldr_marketing_2026-11-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 29,
+      "section": "MISCELLANEOUS",
+      "heading": "HOW BLACK FRIDAY CHANGES AI SHOPPING ANSWERS (21 MINUTE READ)",
+      "url": "https://ipullrank.com/black-friday-ai-search-shopping?utm_source=tldrmarketing",
+      "blurb": "Black Friday changes which pages AI shopping answers cite, not which brands they name. Publisher best-of lists grew to 65-94% of Black Friday citations in toys and superstores, with most of the gain in the final 10 days. Brand websites gained none of that share, and most of it went to pages published that season rather than older ones refreshed with the new year. On ChatGPT's product tiles, about 4 in 10 products got cheaper that week, but the most-reviewed product came first more often than the cheapest.",
+      "source_email": "tldr_marketing_2026-11-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "ref": 30,
+      "section": "QUICK LINKS",
+      "heading": "WALMART TEAMS UP WITH META TO BRING BLACK FRIDAY DEALS TO AI AGENT MUSE (2 MINUTE READ)",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/?utm_source=tldrmarketing",
+      "blurb": "Walmart is letting outside AI agents shop for its customers, the opposite of Amazon's move to block third-party agents from making purchases.",
+      "source_email": "tldr_marketing_2026-11-26_extracted.json",
+      "article_text": "",
+      "fetch_status": "failed: HTTP Error 500: Internal Server Error"
+    }
+  ],
+  "dropped": []
+}
